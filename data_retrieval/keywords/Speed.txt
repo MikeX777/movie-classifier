@@ -1,0 +1,1 @@
+bomb,airport,bus,bus ride,highway,bomb planting,terrorist attack

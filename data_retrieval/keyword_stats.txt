@@ -1,0 +1,4857 @@
+based on novel or book: 136
+ california: 93
+duringcreditsstinger: 69
+new york city: 68
+murder: 68
+los angeles: 51
+based on true story: 48
+dystopia: 48
+neo-noir: 46
+revenge: 41
+aftercreditsstinger: 41
+woman director: 40
+friendship: 37
+sequel: 37
+based on comic: 36
+parent child relationship: 35
+biography: 32
+drugs: 30
+superhero: 30
+psychopath: 28
+coming of age: 27
+loss of loved one: 27
+detective: 27
+police: 27
+sibling relationship: 27
+serial killer: 27
+high school: 26
+prison: 26
+love: 26
+martial arts: 26
+ usa: 25
+creature: 25
+remake: 25
+dark comedy: 25
+: 25
+sports: 24
+california: 23
+small town: 22
+musical: 22
+gangster: 22
+1960s: 22
+action hero: 22
+investigation: 21
+alien: 21
+ england: 20
+jealousy: 20
+1970s: 20
+husband wife relationship: 20
+1980s: 20
+money: 20
+kidnapping: 19
+corruption: 19
+journalist: 19
+conspiracy: 19
+spacecraft: 19
+fbi: 19
+robbery: 19
+survival: 18
+dying and death: 18
+london: 18
+politics: 18
+slasher: 18
+1950s: 18
+daughter: 17
+space: 17
+good versus evil: 17
+flashback: 16
+time travel: 16
+space travel: 16
+dream: 16
+terrorism: 16
+family: 16
+black and white: 16
+teenager: 16
+rescue: 15
+19th century: 15
+paranoia: 15
+death: 15
+space opera: 15
+surrealism: 15
+hospital: 15
+obsession: 15
+airplane: 15
+space marine: 15
+android: 15
+drug addiction: 15
+wedding: 15
+soldier: 15
+ france: 15
+suicide: 15
+hallucination: 15
+heist: 15
+chicago: 14
+ illinois: 14
+writer: 14
+satire: 14
+marijuana: 14
+secret identity: 14
+hitman: 14
+road trip: 14
+undercover: 14
+future: 14
+desert: 14
+hotel: 14
+supernatural: 14
+urban setting: 14
+ new york city: 14
+new jersey: 13
+post-apocalyptic future: 13
+infidelity: 13
+cia: 13
+hostage: 13
+paris: 13
+experiment: 13
+anti hero: 13
+magic: 13
+amnesia: 13
+gore: 13
+movie business: 13
+escape: 12
+artificial intelligence (a.i.): 12
+drug dealer: 12
+military: 12
+washington dc: 12
+rape: 12
+war veteran: 12
+gunfight: 12
+hollywood: 12
+relationship: 12
+island: 12
+gay theme: 12
+shootout: 12
+spy: 12
+1940s: 12
+organized crime: 12
+super power: 12
+seduction: 12
+demon: 12
+based on play or musical: 11
+racism: 11
+betrayal: 11
+torture: 11
+assassination: 11
+usa president: 11
+alien invasion: 11
+female protagonist: 11
+prostitute: 11
+assassin: 11
+neighbor: 11
+love of one's life: 11
+manipulation: 11
+teacher: 11
+sadism: 11
+isolation: 11
+buddy: 11
+chase: 11
+whodunit: 11
+anthropomorphism: 11
+alcoholic: 11
+race against time: 10
+zombie: 10
+brutality: 10
+san francisco: 10
+fight: 10
+street gang: 10
+dancing: 10
+ghost: 10
+scientist: 10
+saving the world: 10
+new love: 10
+monster: 10
+supernatural power: 10
+1930s: 10
+school: 10
+voyeurism: 10
+nightmare: 10
+army: 10
+epic: 10
+secret agent: 10
+lawyer: 10
+pregnancy: 10
+cyberpunk: 10
+single mother: 10
+vigilante: 10
+thief: 10
+texas: 10
+lgbt: 10
+eroticism: 9
+friends: 9
+steampunk: 9
+pilot: 9
+dysfunctional family: 9
+nurse: 9
+transformation: 9
+car crash: 9
+christmas: 9
+explosion: 9
+prophecy: 9
+witch: 9
+dog: 9
+mother son relationship: 9
+las vegas: 9
+period drama: 9
+family relationships: 9
+falling in love: 9
+psychological thriller: 9
+mental illness: 9
+bank robbery: 9
+motel: 9
+con man: 9
+religion: 9
+blackmail: 9
+mafia: 9
+snow: 9
+police brutality: 9
+villain: 9
+ pennsylvania: 8
+psychiatrist: 8
+moon: 8
+astronaut: 8
+taxi: 8
+pornography: 8
+missing person: 8
+government: 8
+marriage crisis: 8
+alcohol: 8
+romance: 8
+live action and animation: 8
+redemption: 8
+southern usa: 8
+adultery: 8
+con artist: 8
+rural area: 8
+hacker: 8
+drug abuse: 8
+florida: 8
+self sacrifice: 8
+castle: 8
+halloween: 8
+cowardliness: 8
+cocaine: 8
+vietnam veteran: 8
+stop motion: 8
+journalism: 8
+supernatural horror: 8
+best friend: 8
+manhattan: 8
+england: 8
+world war ii: 8
+robot: 8
+deception: 7
+teen movie: 7
+slavery: 7
+based on memoir or autobiography: 7
+native american: 7
+airport: 7
+nightclub: 7
+insanity: 7
+post-traumatic stress disorder (ptsd): 7
+boxer: 7
+rise and fall: 7
+reporter: 7
+age difference: 7
+love affair: 7
+extramarital affair: 7
+underdog: 7
+police corruption: 7
+princess: 7
+suicide attempt: 7
+winter: 7
+mission: 7
+corpse: 7
+bank: 7
+police chase: 7
+showdown: 7
+exotic island: 7
+coma: 7
+gun: 7
+duel: 7
+painting: 7
+magic realism: 7
+identity: 7
+father daughter relationship: 7
+vampire: 7
+private detective: 7
+fugitive: 7
+divorce: 7
+helicopter: 7
+memory: 7
+child abuse: 7
+virtual reality: 7
+based on young adult novel: 7
+mythology: 7
+sword and sorcery: 7
+psychologist: 7
+gulf war: 7
+diary: 7
+historical fiction: 7
+evil: 7
+bomb: 7
+gang: 7
+father son relationship: 7
+mutant: 7
+schizophrenia: 6
+philadelphia: 6
+1990s: 6
+prisoner: 6
+criminal: 6
+fake identity: 6
+bullying: 6
+trailer park: 6
+detroit: 6
+ michigan: 6
+alien life-form: 6
+uncle: 6
+hero: 6
+based on short story: 6
+politician: 6
+rock 'n' roll: 6
+museum: 6
+disappearance: 6
+virgin: 6
+loneliness: 6
+drug smuggling: 6
+ambition: 6
+car race: 6
+child: 6
+mayor: 6
+sniper: 6
+iraq: 6
+1920s: 6
+police officer: 6
+romantic comedy: 6
+vietnam war: 6
+nasa: 6
+marriage: 6
+waitress: 6
+author: 6
+battle: 6
+marvel cinematic universe (mcu): 6
+capitalism: 6
+boxing: 6
+diner: 6
+film noir: 6
+gambling: 6
+18th century: 6
+sexual obsession: 6
+chaos: 6
+france: 6
+cartoon: 6
+curse: 6
+casino: 6
+interracial relationship: 6
+holiday: 6
+ italy: 6
+hawaii: 6
+trauma: 6
+american football: 6
+killer: 6
+nazi: 6
+ambush: 6
+sheriff: 6
+espionage: 6
+motorcycle: 6
+alcoholism: 6
+love triangle: 6
+baseball: 6
+screwball comedy: 6
+orphan: 6
+sexuality: 6
+singer: 6
+rescue mission: 6
+warrior: 6
+police operation: 6
+car accident: 6
+self-discovery: 6
+beach: 6
+sister sister relationship: 6
+breaking the fourth wall: 6
+cyborg: 6
+prince: 6
+woods: 6
+series of murders: 6
+queen: 6
+ship: 6
+sword fight: 6
+suspicion: 6
+rebel: 6
+valentine's day: 5
+mountain: 5
+adventurer: 5
+twins: 5
+monkey: 5
+man vs machine: 5
+technology: 5
+space station: 5
+end of the world: 5
+disaster: 5
+apocalypse: 5
+sadness: 5
+irish-american: 5
+buddy cop: 5
+interview: 5
+hope: 5
+ocean: 5
+court: 5
+trial: 5
+taxi driver: 5
+parody: 5
+spoof: 5
+xenomorph: 5
+space colony: 5
+mercenary: 5
+newspaper: 5
+plan: 5
+swimming pool: 5
+paranormal phenomena: 5
+gothic: 5
+teenage sexuality: 5
+first time: 5
+voyeur: 5
+drug trafficking: 5
+radio: 5
+jail: 5
+u.s. soldier: 5
+therapist: 5
+work: 5
+new year's eve: 5
+lovesickness: 5
+office: 5
+anti war: 5
+skeleton: 5
+theft: 5
+immigrant: 5
+mexican standoff: 5
+seattle: 5
+ washington: 5
+rivalry: 5
+single parent: 5
+cancer: 5
+mother daughter relationship: 5
+clone: 5
+alien planet: 5
+suspicion of murder: 5
+navy: 5
+legal thriller: 5
+surveillance: 5
+illegal immigration: 5
+doctor: 5
+fire: 5
+femme fatale: 5
+erotic thriller: 5
+artist: 5
+crime fighter: 5
+tragic hero: 5
+criminal mastermind: 5
+super villain: 5
+amusement park: 5
+africa: 5
+fairy tale: 5
+faith: 5
+ohio: 5
+competition: 5
+roommate: 5
+insurance fraud: 5
+arizona: 5
+highway: 5
+smoking: 5
+on the run: 5
+bible: 5
+cannibal: 5
+prosecution: 5
+sacrifice: 5
+television producer: 5
+cell phone: 5
+italian american: 5
+car bomb: 5
+heroin: 5
+home invasion: 5
+lion: 5
+historical figure: 5
+grief: 5
+us army: 5
+wizard: 5
+confession: 5
+hoodlum: 5
+vigilante justice: 5
+addiction: 5
+male homosexuality: 5
+unsociability: 5
+freedom: 5
+courtroom: 5
+dragon: 5
+widow: 5
+emperor: 5
+premonition: 5
+animal horror: 5
+usa�mexico border: 5
+mistaken identity: 5
+falsely accused: 5
+baltimore: 5
+secret love: 5
+resistance: 5
+prison escape: 5
+archaeologist: 5
+dual identity: 5
+dinosaur: 5
+china: 5
+slaughter: 5
+stalking: 5
+mask: 5
+surgeon: 5
+child kidnapping: 5
+training: 5
+scotland: 5
+sword: 5
+fictional war: 5
+fraud: 5
+royalty: 5
+1910s: 5
+movie star: 5
+swashbuckler: 5
+teleportation: 5
+forest: 5
+outer space: 5
+opposites attract: 4
+court case: 4
+courtroom drama: 4
+underground: 4
+2030s: 4
+disaster movie: 4
+distrust: 4
+american dream: 4
+bratva (russian mafia): 4
+stockbroker: 4
+gas station: 4
+church: 4
+sister: 4
+summer: 4
+ghetto: 4
+single: 4
+senator: 4
+vietnam: 4
+cop: 4
+secret service: 4
+u.s. navy: 4
+black humor: 4
+afterlife: 4
+guitar: 4
+palace: 4
+praise: 4
+burglar: 4
+overdose: 4
+professor: 4
+based on video game: 4
+occult: 4
+midlife crisis: 4
+society: 4
+farewell: 4
+love at first sight: 4
+mobster: 4
+graduation: 4
+teen comedy: 4
+gold: 4
+computer: 4
+general: 4
+video game: 4
+alaska: 4
+asteroid: 4
+swordplay: 4
+poison: 4
+cemetery: 4
+double cross: 4
+caribbean sea: 4
+restaurant: 4
+lone wolf: 4
+lgbt interest: 4
+oklahoma: 4
+funeral: 4
+success: 4
+kiss: 4
+nature: 4
+superhero team: 4
+sexism: 4
+tunnel: 4
+drug use: 4
+ japan: 4
+loyalty: 4
+stag night: 4
+flying car: 4
+inventor: 4
+stripper: 4
+bisexuality: 4
+dangerous: 4
+celebrity: 4
+celebration: 4
+millionaire: 4
+district attorney: 4
+possession: 4
+legal drama: 4
+india: 4
+italy: 4
+lsd: 4
+muslim: 4
+businessman: 4
+japan: 4
+musician: 4
+urban gothic: 4
+bounty hunter: 4
+tech noir: 4
+2040s: 4
+adoption: 4
+fame: 4
+depression: 4
+bank robber: 4
+language barrier: 4
+ex-con: 4
+lie: 4
+homicide: 4
+college: 4
+vacation: 4
+stranded: 4
+illegal prostitution: 4
+online dating: 4
+bully: 4
+memory loss: 4
+teenage girl: 4
+cruelty: 4
+poker: 4
+greed: 4
+relationship problems: 4
+horse: 4
+insomnia: 4
+phone call: 4
+maine: 4
+suitcase: 4
+one man army: 4
+disguise: 4
+father: 4
+black magic: 4
+stone age: 4
+senate: 4
+tragedy: 4
+battlefield: 4
+intelligence: 4
+babysitter: 4
+sadist: 4
+travel: 4
+aids: 4
+villainess: 4
+shotgun: 4
+brooklyn: 4
+wilderness: 4
+existentialism: 4
+simulated reality : 4
+egypt: 4
+traitor: 4
+attempt to escape: 4
+trapped in space: 4
+bodyguard: 4
+independence: 4
+mentally disabled: 4
+mother: 4
+based on fairy tale: 4
+dna: 4
+new identity: 4
+hostility: 4
+hell: 4
+animal attack: 4
+rome: 4
+medication: 4
+great depression: 4
+connecticut: 4
+treasure hunt: 4
+lovers: 4
+balloon: 4
+junkie: 4
+bravery: 4
+war crimes: 4
+arrest: 4
+teenage boy: 4
+utopia: 4
+cold war: 4
+kuwait: 4
+wall street: 4
+shower: 4
+village: 4
+future war: 4
+starship: 4
+trapped: 3
+mental institution: 3
+fear: 3
+police detective: 3
+super computer: 3
+space mission: 3
+2000s: 3
+earthquake: 3
+flood: 3
+2010s: 3
+girlfriend: 3
+submachine gun: 3
+laboratory: 3
+epidemic: 3
+virus: 3
+partner: 3
+date: 3
+fate: 3
+individual: 3
+adolescence: 3
+hip-hop: 3
+rapper: 3
+drug lord: 3
+the white house: 3
+sea: 3
+flying saucer: 3
+secret mission: 3
+scuba diving: 3
+deepsea: 3
+secret passage: 3
+ghostbusters: 3
+medicine: 3
+anarchic comedy: 3
+rags to riches: 3
+first love: 3
+live action remake: 3
+transporter: 3
+countdown: 3
+parasite: 3
+cosmos: 3
+extraterrestrial technology: 3
+spaceman: 3
+cryogenics: 3
+imprisonment: 3
+impregnation: 3
+corrupt politician: 3
+san diego: 3
+concert: 3
+on the road: 3
+reconciliation: 3
+darkness: 3
+paranormal investigation: 3
+sex comedy: 3
+virginity: 3
+cheating: 3
+cheerleader: 3
+dysfunctional marriage: 3
+suburbia: 3
+realtor: 3
+black people: 3
+radio station: 3
+vandalism: 3
+fascism: 3
+brother: 3
+interracial friendship: 3
+crime spree: 3
+innocence: 3
+loss of virginity: 3
+high school student: 3
+laxative: 3
+u.s. navy seal: 3
+werewolf: 3
+dream sequence: 3
+music teacher: 3
+illness: 3
+sorcerer: 3
+ russia: 3
+16th century: 3
+male friendship: 3
+assignment: 3
+clerk: 3
+cover-up: 3
+supermarket: 3
+necronomicon: 3
+psychotronic: 3
+cat: 3
+painter: 3
+pets: 3
+culture clash: 3
+mind and soul: 3
+miracle: 3
+fireworks: 3
+parenting: 3
+survival horror: 3
+human vs alien: 3
+minnesota: 3
+bribery: 3
+nanny: 3
+multiple storylines: 3
+bachelor: 3
+motherhood: 3
+arson: 3
+warehouse: 3
+firefighter: 3
+destiny: 3
+hidden identity: 3
+miami: 3
+ florida: 3
+strip club: 3
+foot chase: 3
+swamp: 3
+cult: 3
+classroom: 3
+debt: 3
+lover: 3
+sociopath: 3
+dead: 3
+vault: 3
+prehistoric creature: 3
+storm: 3
+exorcism: 3
+demonic possession: 3
+class differences: 3
+operation: 3
+racist: 3
+ india: 3
+fish: 3
+fishing: 3
+nihilism: 3
+film in film: 3
+college student: 3
+insurance agent: 3
+undercover cop: 3
+tennessee: 3
+captive: 3
+drunkenness: 3
+heartbreak: 3
+madness: 3
+mutation: 3
+genetics: 3
+bunker: 3
+private school: 3
+war on drugs: 3
+jazz: 3
+shopping mall: 3
+bridge: 3
+criterion: 3
+alter ego: 3
+disco: 3
+combat: 3
+based on short film: 3
+money laundering: 3
+lesbian relationship: 3
+lesbian: 3
+berlin: 3
+ germany: 3
+one against many: 3
+stalker: 3
+family's daily life: 3
+great britain: 3
+night life: 3
+workaholic: 3
+river: 3
+fistfight: 3
+train: 3
+prayer: 3
+god: 3
+stadium: 3
+coffin: 3
+mind control: 3
+magazine: 3
+kansas: 3
+one-night stand: 3
+drinking: 3
+drowning: 3
+co-workers relationship: 3
+comic book: 3
+pill: 3
+abuse: 3
+fantasy world: 3
+incest: 3
+media tycoon: 3
+day in a life: 3
+puberty: 3
+mexico: 3
+repayment: 3
+regret: 3
+mole: 3
+angel: 3
+psychology: 3
+stuffed animal: 3
+parallel world: 3
+scar: 3
+medal: 3
+diamond: 3
+sadistic: 3
+simulation: 3
+prequel: 3
+spin off: 3
+cavemen: 3
+crow: 3
+back from the dead: 3
+tattoo: 3
+electric chair: 3
+upper class: 3
+bet: 3
+transvestism: 3
+homophobia: 3
+football (soccer): 3
+art: 3
+fighting: 3
+bite: 3
+security guard: 3
+zombie apocalypse: 3
+insane asylum: 3
+pennsylvania: 3
+boston: 3
+ massachusetts: 3
+audition: 3
+evil spirit: 3
+hostage negotiator: 3
+one night: 3
+dirty cop: 3
+drug deal: 3
+brutal violence: 3
+the perfect murder: 3
+radio transmission: 3
+solar eclipse: 3
+car mechanic: 3
+cigar smoking: 3
+fired from the job: 3
+scooter: 3
+teen drama: 3
+fortune teller: 3
+palace intrigue: 3
+cairo: 3
+prisoner of war: 3
+liberation of prisoners: 3
+wrestling: 3
+nonlinear timeline: 3
+delusion: 3
+spaceship: 3
+vision: 3
+business: 3
+biological weapon: 3
+stoner: 3
+support group: 3
+star crossed lovers: 3
+hitchhiker: 3
+cult film: 3
+shark: 3
+drifter: 3
+shyness: 3
+undercover agent: 3
+lake: 3
+birthday: 3
+apartheid: 3
+butcher: 3
+book store: 3
+treasure: 3
+president: 3
+symbolism: 3
+older woman younger man relationship: 3
+death row: 3
+time warp: 3
+rain: 3
+pinhead: 3
+puzzle box: 3
+father figure: 3
+immortality: 3
+ex-girlfriend: 3
+psycho: 3
+death of father: 3
+united nations: 3
+hologram: 3
+patriotism: 3
+riddle: 3
+guilt: 3
+inheritance: 3
+camping: 3
+vermont: 3
+prostitution: 3
+wedding ceremony: 3
+sailing: 3
+panic: 3
+career: 3
+photographer: 3
+eye patch: 3
+show business: 3
+giant insect: 3
+strong woman: 3
+sense of guilt: 3
+homeland: 3
+insurgence: 3
+domestic violence: 3
+aspiring actor: 3
+griffith observatory: 3
+father murder: 3
+mine: 3
+shipwreck: 3
+threat: 3
+killer robot: 3
+blizzard: 3
+prison cell: 3
+jazz singer or musician: 3
+planet mars: 3
+poacher: 3
+ex-cop: 3
+based on theme park ride: 3
+arkansas: 3
+loss of sense of reality: 3
+platonic love: 3
+english countryside: 3
+coach: 3
+female villain: 3
+violence: 3
+stepfather: 3
+liberation: 3
+pirate: 3
+spaceship crash: 3
+gay interest: 3
+emergency surgery: 3
+baby: 3
+housewife: 3
+sex addiction: 3
+death of wife: 3
+orgasm: 3
+telepathy: 3
+snowstorm: 3
+space battle: 3
+wealthy: 3
+stripping: 3
+hedonism: 3
+decadence: 3
+corrupt: 3
+sharemarket fraud: 3
+financial market: 3
+black monday: 3
+utah: 2
+alone: 2
+canyon: 2
+climbing: 2
+hikers: 2
+tree house: 2
+lethal virus: 2
+usa history: 2
+abolitionist: 2
+abuse of power: 2
+african american history: 2
+nypd: 2
+high school sports: 2
+evolution: 2
+monolith: 2
+natural disaster: 2
+destruction: 2
+melancholy: 2
+widower: 2
+post 9/11: 2
+rage: 2
+knife: 2
+convict: 2
+perversion: 2
+porn actor: 2
+sadomasochism: 2
+rap music: 2
+ethnic stereotype: 2
+submarine: 2
+ufo: 2
+underwater: 2
+scuba: 2
+trapped underwater�: 2
+alligator: 2
+dead wish: 2
+fencing: 2
+eccentric: 2
+loan shark: 2
+space war: 2
+new hampshire: 2
+abusive father: 2
+ghostbuster: 2
+nostalgia: 2
+ancient evil: 2
+filmmaking: 2
+nun: 2
+hypnosis: 2
+montreal: 2
+ canada: 2
+cataclysm: 2
+stewardess: 2
+food poisoning: 2
+alcohol abuse: 2
+bomb planting: 2
+hostage-taking: 2
+hand to hand combat: 2
+negotiation: 2
+hustler: 2
+based on myths: 2
+ legends or folklore: 2
+space suit: 2
+cowardice: 2
+colony: 2
+smuggling (contraband): 2
+cloning: 2
+genetic engineering: 2
+predator: 2
+pyramid: 2
+playwright: 2
+insecurity: 2
+broadway: 2
+governor: 2
+wiretap: 2
+hotel room: 2
+music journalist: 2
+heavy metal: 2
+paranormal: 2
+flying: 2
+empowerment: 2
+aviation: 2
+coming out: 2
+estate agent: 2
+exercise: 2
+quitting a job: 2
+neighborhood: 2
+drug dealing: 2
+law enforcement: 2
+radio presenter: 2
+neo-nazism: 2
+swastika: 2
+xenophobia: 2
+nazism: 2
+scam: 2
+crime family: 2
+cross country: 2
+iraq war: 2
+9/11: 2
+zoo: 2
+yorkshire: 2
+british pub: 2
+married couple: 2
+piano lessons: 2
+high society: 2
+ecstasy: 2
+poet: 2
+minidisc: 2
+business start-up: 2
+computer expert: 2
+worker: 2
+individuality: 2
+flat: 2
+guerrilla warfare: 2
+tribe: 2
+jungle: 2
+riverboat: 2
+hypothermia: 2
+manager: 2
+mental breakdown: 2
+fur trapping: 2
+struggle for survival: 2
+u.s. air force: 2
+undead: 2
+knight: 2
+middle ages: 2
+doppelg�nger: 2
+critic: 2
+butler: 2
+strange person: 2
+film production: 2
+hidden camera: 2
+sniper rifle: 2
+silencer: 2
+obsessive compulsive disorder: 2
+unlikely friendship: 2
+southern: 2
+missile: 2
+group therapy: 2
+retro: 2
+laser gun: 2
+car journey: 2
+unhappiness: 2
+fear of dying: 2
+futuristic: 2
+shield: 2
+military base: 2
+right and justice: 2
+truck: 2
+bank loan: 2
+outsider: 2
+thai boxing: 2
+deaf: 2
+child in peril: 2
+sign languages: 2
+morality: 2
+jewish american: 2
+school bus: 2
+ethics: 2
+morocco: 2
+deaf-mute: 2
+tokyo: 2
+non linear: 2
+donkey: 2
+artificial insemination: 2
+danger of life: 2
+lightning: 2
+mad scientist: 2
+fish out of water: 2
+teenage love: 2
+skateboarding: 2
+murder investigation: 2
+buddy movie: 2
+murder witness: 2
+bayou: 2
+informant: 2
+post world war ii: 2
+one armed man: 2
+japanese american: 2
+middle school: 2
+workplace comedy: 2
+british army: 2
+ireland: 2
+british soldier: 2
+striptease: 2
+manipulative woman: 2
+novel writing: 2
+killed during sex: 2
+american giallo: 2
+social injustice: 2
+masked superhero: 2
+political corruption: 2
+vengeance: 2
+scarecrow: 2
+destroy: 2
+civil war: 2
+children in wartime: 2
+refugee camp: 2
+explosive: 2
+hurricane: 2
+sperm: 2
+adult animation: 2
+autism: 2
+impotence: 2
+botanist: 2
+reboot: 2
+victorian england: 2
+asia: 2
+elderly: 2
+diving: 2
+oxygen: 2
+honolulu: 2
+ hawaii: 2
+circus: 2
+leech: 2
+mermaid: 2
+white russian: 2
+bowling: 2
+carpet: 2
+heart attack: 2
+cowboy: 2
+unemployed: 2
+bowling ball: 2
+pakistan: 2
+matchmaking: 2
+group of friends: 2
+life insurance: 2
+times square: 2
+city life: 2
+seclusion: 2
+socialite: 2
+ku klux klan: 2
+black panther party: 2
+murder hunt: 2
+yakuza: 2
+osaka: 2
+blues: 2
+dancer: 2
+ballet dancer: 2
+ballet: 2
+self destructiveness: 2
+katana: 2
+atomic bomb: 2
+shelter: 2
+social satire: 2
+burglary: 2
+boss: 2
+employee: 2
+shallow grave: 2
+hired killer: 2
+country music: 2
+parole: 2
+psychological abuse: 2
+salesman: 2
+heatwave: 2
+prohibition era: 2
+texas ranger: 2
+custody battle: 2
+maid: 2
+crime boss: 2
+ex-husband ex-wife relationship: 2
+dark past: 2
+moscow: 2
+bourne: 2
+jason bourne: 2
+madrid: 2
+ spain: 2
+europe: 2
+interpol: 2
+research: 2
+button: 2
+growing up: 2
+bureaucracy: 2
+bombing: 2
+call: 2
+ambulance: 2
+captain: 2
+estafa: 2
+orphan siblings: 2
+christianity: 2
+moses: 2
+news reporter: 2
+responsibility: 2
+praying: 2
+one location: 2
+plastic surgery: 2
+self-fulfilling prophecy: 2
+literature: 2
+stage: 2
+telekinesis: 2
+unrequited love: 2
+prom: 2
+crucifix: 2
+abusive mother: 2
+social worker: 2
+pier: 2
+airplane crash: 2
+evil corporation: 2
+masked vigilante: 2
+bong: 2
+insurance salesman: 2
+mumblecore: 2
+mind game: 2
+subconscious: 2
+chance: 2
+wish: 2
+american spy: 2
+menage a trois: 2
+based on children's book: 2
+orphanage: 2
+cider: 2
+new orleans: 2
+ louisiana: 2
+spider: 2
+capitalist: 2
+failure: 2
+calcutta: 2
+greek mythology: 2
+sea monster: 2
+kraken: 2
+loser: 2
+monologue: 2
+junk food: 2
+mountain climbing: 2
+juvenile delinquent: 2
+sex crime: 2
+georgia: 2
+briefcase: 2
+murderer: 2
+gun violence: 2
+gladiator: 2
+warlord: 2
+mysticism: 2
+grifter: 2
+con: 2
+archangel gabriel: 2
+holy water: 2
+secret door: 2
+parallel universe: 2
+dead soldier: 2
+tank: 2
+behind enemy lines: 2
+army life: 2
+fetish: 2
+deceived husband: 2
+pain: 2
+law school: 2
+divorcee: 2
+prehistory: 2
+ancient world: 2
+teenage crush: 2
+tea: 2
+hiv: 2
+northern england: 2
+countryside: 2
+wolf: 2
+surgery: 2
+sleep: 2
+criminal underworld: 2
+bus ride: 2
+surprise: 2
+hallucinogen: 2
+female corpse: 2
+irish mob: 2
+mossad: 2
+syringe: 2
+teenage daughter: 2
+adoptive father: 2
+single father: 2
+supervillain: 2
+devil's son: 2
+satan: 2
+lust: 2
+seven deadly sins: 2
+jazz club: 2
+job interview: 2
+bullied: 2
+christmas party: 2
+s.w.a.t.: 2
+unhappy marriage: 2
+based on magazine: 2
+ newspaper or article: 2
+fbi agent: 2
+hippie: 2
+addicted: 2
+joint: 2
+the perfect crime: 2
+restaurant critic: 2
+punk rock: 2
+pizza: 2
+sorcerer's apprentice: 2
+human sacrifice: 2
+cross dressing: 2
+gypsy: 2
+evil mother: 2
+envy: 2
+dictator: 2
+siege: 2
+slapstick comedy: 2
+pre-code: 2
+fictitious country: 2
+prank: 2
+treason: 2
+knife fight: 2
+giant worm: 2
+messiah: 2
+giant creature: 2
+human trafficking: 2
+statutory rape: 2
+empathy: 2
+transvestite: 2
+suburb: 2
+barbershop: 2
+aunt nephew relationship: 2
+bias: 2
+feud: 2
+crush: 2
+trust: 2
+catholicism: 2
+sea battle: 2
+mariachi: 2
+concealed weapon: 2
+expedition: 2
+sandstorm: 2
+skyscraper: 2
+older man younger woman relationship: 2
+millennium: 2
+reluctant hero: 2
+deja vu: 2
+brainwashing: 2
+black hole: 2
+alternate dimension: 2
+rescue team: 2
+blood splatter: 2
+book of the dead: 2
+pop star: 2
+near future: 2
+power outage: 2
+aspiring singer: 2
+brother brother relationship: 2
+boat chase: 2
+farm life: 2
+amsterdam: 2
+ netherlands: 2
+box office bomb: 2
+skipping school: 2
+truancy: 2
+arms dealer: 2
+priest: 2
+family business : 2
+rage and hate: 2
+airplane accident: 2
+near-death experience: 2
+ australia: 2
+missing child: 2
+divorce lawyer: 2
+f word: 2
+substance abuse: 2
+alabama: 2
+perfect crime: 2
+sacramento: 2
+mad doctor: 2
+woman in peril: 2
+human monster: 2
+frankenstein: 2
+surreal: 2
+criminal investigation: 2
+camp: 2
+franchise: 2
+boat: 2
+hostage situation: 2
+loss of faith: 2
+harassment: 2
+pearl harbor: 2
+troll: 2
+evil prince: 2
+magic land: 2
+new york state: 2
+oakland: 2
+u.s. marshal: 2
+framed for murder: 2
+key: 2
+birthday party: 2
+investment banker: 2
+wrongful imprisonment: 2
+release from prison: 2
+british empire: 2
+protest: 2
+strike: 2
+idealism: 2
+idealist: 2
+fighting the system: 2
+gang war: 2
+pickpocket: 2
+pig: 2
+south carolina: 2
+stereotype: 2
+producer: 2
+spiritism: 2
+library: 2
+slime: 2
+nerd: 2
+haunting: 2
+giant monster: 2
+horror spoof: 2
+receptionist: 2
+colonialism: 2
+female friendship: 2
+social outcast: 2
+hacking: 2
+based on movie: 2
+drill instructor: 2
+us military: 2
+proving oneself: 2
+attack: 2
+ancient rome: 2
+shop: 2
+dead horse: 2
+golden gate bridge: 2
+kaiju: 2
+addict: 2
+false accusations: 2
+drunk: 2
+rape accusation: 2
+wartime: 2
+rock star: 2
+ex-detainee: 2
+farm: 2
+loss: 2
+long island: 2
+ new york: 2
+voiceover: 2
+jail guard: 2
+michigan: 2
+reunion: 2
+professional assassin: 2
+cartel: 2
+house: 2
+misfit: 2
+killing spree: 2
+mass murder: 2
+daydream: 2
+thanksgiving: 2
+architecture: 2
+singing: 2
+antarctica: 2
+evacuation: 2
+cannabis: 2
+pot smoking: 2
+east asian lead: 2
+buddy comedy: 2
+crop circle: 2
+dating: 2
+break-up: 2
+honor: 2
+loner: 2
+stepmother: 2
+labyrinth: 2
+cenobite: 2
+snuff: 2
+mississippi river: 2
+music record: 2
+new mexico: 2
+van: 2
+family holiday: 2
+movie set: 2
+galaxy: 2
+killing: 2
+invisible person: 2
+invisibility: 2
+stakeout: 2
+montana: 2
+confidence: 2
+horseback riding: 2
+ranch: 2
+country life: 2
+medical malpractice: 2
+dead body: 2
+genocide: 2
+satanic ritual: 2
+death of husband: 2
+swinger: 2
+sexual awakening: 2
+philosophy: 2
+allegory: 2
+dream world: 2
+world domination: 2
+area 51: 2
+himalaya mountain range: 2
+archeology: 2
+crocodile: 2
+child driving car: 2
+medium: 2
+farmer: 2
+space adventure: 2
+time paradox: 2
+journey: 2
+poverty: 2
+intern: 2
+false memory: 2
+plague: 2
+fianc�: 2
+santa barbara: 2
+mature romance: 2
+clown: 2
+abandoned house: 2
+death of brother: 2
+foster parents: 2
+fisherman: 2
+wrongful arrest: 2
+subway: 2
+call girl: 2
+man woman relationship: 2
+police chief: 2
+candlelight vigil: 2
+john f. kennedy: 2
+character study: 2
+social realism: 2
+becoming an adult: 2
+teenage pregnancy: 2
+paleontology: 2
+tyrannosaurus rex: 2
+theme park: 2
+argument: 2
+kung fu: 2
+fascist: 2
+british monarchy: 2
+giant ape: 2
+pimp: 2
+paternity: 2
+sensei: 2
+maze: 2
+baby-snatching: 2
+puppet: 2
+bear attack: 2
+apocalyptic vision: 2
+economics: 2
+arms deal: 2
+foreign legion: 2
+good cop bad cop: 2
+dance: 2
+casting: 2
+pianist: 2
+murder confession: 2
+based on toy: 2
+rebellion: 2
+slang: 2
+truth: 2
+ex-wife: 2
+building a house: 2
+innocent: 2
+activist: 2
+hyena: 2
+meerkat: 2
+cargo ship: 2
+lifeboat: 2
+storm at sea: 2
+told in flashback: 2
+motel room: 2
+superhuman: 2
+king: 2
+piano: 2
+self-destruction: 2
+neo-western: 2
+rogue agent: 2
+elves: 2
+dwarf: 2
+orcs: 2
+volcano: 2
+quest: 2
+violent husband: 2
+bedroom: 2
+videotape: 2
+basketball: 2
+drug cartel: 2
+illegal drugs: 2
+san fernando valley: 2
+islam: 2
+war hero: 2
+musketeer: 2
+scotland yard: 2
+bus: 2
+british spy: 2
+american: 2
+hairdresser: 2
+downsizing: 2
+sexual abuse: 2
+crying: 2
+norse mythology: 2
+machinegun: 2
+deportation: 2
+racial slur: 2
+male bonding: 2
+screenwriter: 2
+forbidden love: 2
+wine drinking: 2
+gorilla: 2
+gambling debt: 2
+nest: 2
+sewer: 2
+colorado: 2
+based on tv series: 2
+agent: 2
+uncle nephew relationship: 2
+new england: 2
+witness: 2
+apprentice: 2
+pastor: 2
+secret society: 2
+school teacher: 2
+harlem: 2
+rehearsal dinner: 2
+cinema on cinema: 2
+yellow press: 2
+brawl: 2
+opposites: 2
+gang member: 2
+mexican american: 2
+cholo: 2
+santa claus: 2
+disfigurement: 2
+nightmare becomes reality: 2
+resurrection: 2
+ninja: 2
+jewelry: 2
+trap: 2
+bookshop: 2
+wheelchair: 2
+mexican cartel: 2
+punishment: 2
+grieving: 2
+kingdom: 2
+lgbt teen: 2
+quarantine: 2
+freshman: 2
+pittsburgh: 2
+pet cemetery: 2
+horror: 2
+east india company: 2
+revolution: 2
+ape: 2
+human subjugation: 2
+parachute: 2
+central and south america: 2
+twist: 2
+class society: 2
+tricks: 2
+class: 2
+sports car: 2
+beverly hills: 2
+narration: 2
+story within the story: 2
+drug rehabilitation: 2
+bow and arrow: 2
+shame: 2
+authority: 2
+young adult: 2
+special forces: 2
+wild west: 2
+starvation: 2
+world champion: 2
+sexual identity: 2
+cafe: 2
+theater play: 2
+theatre group: 2
+haunted house: 2
+self-referential: 2
+cavalry: 2
+photograph: 2
+military officer: 2
+perfection: 2
+grave: 2
+edinburgh: 2
+ scotland: 2
+brother sister relationship: 2
+presidential election: 2
+uxoricide: 2
+ghost child: 2
+ogre: 2
+cartoon donkey: 2
+assault: 2
+golf: 2
+political thriller: 2
+school play: 2
+intellectual disability: 2
+enterprise-e: 2
+hatred: 2
+strangulation: 2
+wealth: 2
+double life: 2
+ocean liner: 2
+saloon: 2
+firearm: 2
+misanthrophy: 2
+terminator: 2
+three kings: 2
+treasure map: 2
+gold theft: 2
+persian gulf: 2
+mine field: 2
+tragic love: 2
+manipulation of the media: 2
+rookie cop: 2
+computer simulation: 2
+light cycle: 2
+world war i: 2
+raid: 2
+central park: 2
+cartoon rabbit: 2
+shrew: 1
+shakespeare in modern dress: 1
+teenage romance: 1
+overprotective father: 1
+jurors: 1
+chechnya: 1
+jury: 1
+despair: 1
+boulder: 1
+climber: 1
+isolated: 1
+accidental killing: 1
+stockholm syndrome: 1
+paradox: 1
+subterranean: 1
+recurring dream: 1
+cassandra syndrome: 1
+plantation: 1
+violin player: 1
+physical abuse: 1
+black slave: 1
+slave owner: 1
+sold into slavery: 1
+landowner: 1
+indigenous: 1
+discovery of america: 1
+the new world: 1
+christopher columbus: 1
+15th century: 1
+conquistador: 1
+age of discovery: 1
+news report: 1
+adult as a child: 1
+do over: 1
+age change: 1
+jupiter: 1
+moon base: 1
+civilization: 1
+maya civilization: 1
+volcanic eruption: 1
+ark: 1
+solar: 1
+prison sentence: 1
+reflection: 1
+waking from coma: 1
+animal research: 1
+pizza delivery: 1
+pizza boy: 1
+tough cop: 1
+fake fight: 1
+dysfunctional relationship: 1
+bad smell: 1
+spanking: 1
+billionaire: 1
+rich: 1
+bdsm: 1
+architect: 1
+gallery: 1
+year: 1
+heartache: 1
+sex shop: 1
+child pornography: 1
+private investigator: 1
+subculture: 1
+snuff film: 1
+rhyme battle: 1
+battle rap: 1
+coward: 1
+end of world: 1
+rag doll: 1
+u.s. secret service agent: 1
+diving suit: 1
+nuclear missile: 1
+warning: 1
+extraterrestrial life form: 1
+message: 1
+thalassophobia: 1
+writer's block: 1
+orchid: 1
+mansion: 1
+macabre: 1
+accountant: 1
+creepy: 1
+disembodied hand: 1
+long lost sibling: 1
+menace: 1
+talent: 1
+intellectually gifted: 1
+genius: 1
+dead grandfather: 1
+otherworldly beings: 1
+paranormal events: 1
+father absence: 1
+adult filmmaking: 1
+quebec: 1
+chain smoking: 1
+mother superior: 1
+convent (nunnery): 1
+novice: 1
+stigmata: 1
+dead baby: 1
+paternity mystery: 1
+passenger: 1
+saxophone: 1
+fear of flying: 1
+air controller: 1
+landing: 1
+autopilot: 1
+inflatable life raft: 1
+coffee: 1
+ultimatum: 1
+air force one: 1
+airplane hijacking: 1
+aerial combat: 1
+mid air collision: 1
+heroism: 1
+fighter airplane: 1
+political prisoner: 1
+sultan: 1
+flying carpet: 1
+genie: 1
+arabian nights: 1
+aladdin: 1
+beheading: 1
+biology: 1
+vacuum: 1
+warrior woman: 1
+settler: 1
+desolate: 1
+female hero: 1
+desolate planet: 1
+strong female protagonist: 1
+strong female lead: 1
+female lead: 1
+rottweiler: 1
+planet: 1
+shaved head: 1
+crash landing: 1
+penal colony: 1
+furnace: 1
+suspended animation: 1
+delinquency: 1
+flamethrower: 1
+gene manipulation: 1
+man in wheelchair: 1
+breeding: 1
+regeneration: 1
+alien queen: 1
+explosive decompression: 1
+broadway star: 1
+stage struck: 1
+blind date: 1
+crossword puzzle: 1
+mine shaft: 1
+dedication: 1
+political assassination: 1
+hick: 1
+watergate scandal: 1
+shadowing: 1
+newspaper man: 1
+watergate: 1
+groupie: 1
+promiscuity: 1
+domineering mother: 1
+semi autobiographical: 1
+innocence lost: 1
+bus trip: 1
+aspiring writer: 1
+artifact: 1
+maneuver: 1
+aviator: 1
+amelia earhart: 1
+rose: 1
+sexual fantasy: 1
+retired army man: 1
+closeted homosexual: 1
+singing in a car: 1
+camcorder: 1
+dishonesty: 1
+criminal heroes: 1
+skinhead: 1
+hair: 1
+century: 1
+pie: 1
+exchange student: 1
+prom night: 1
+wildlife conservation: 1
+u.s. marine: 1
+pack: 1
+guns: 1
+intensive care: 1
+full moon: 1
+london underground: 1
+moor (terrain): 1
+london zoo: 1
+practical special effects: 1
+aging: 1
+retired: 1
+pigeon: 1
+stroke: 1
+octogenarian: 1
+mafia boss: 1
+czar / tsar / tzar: 1
+russian revolution (1917): 1
+train explosion: 1
+foreign language adaptation: 1
+villain song: 1
+anastasia romanowa: 1
+horse race: 1
+st. petersburg: 1
+imperial russia: 1
+wedding anniversary: 1
+anonymity: 1
+false history: 1
+secrecy: 1
+garage: 1
+microchip: 1
+friendship bracelet: 1
+childhood friends: 1
+betrayal by friend: 1
+ant: 1
+spaghetti: 1
+tennis racket: 1
+vietcong: 1
+cambodia: 1
+green beret: 1
+descent into madness: 1
+houston: 1
+apollo program: 1
+lunar mission: 1
+spacecraft accident: 1
+april fool's day: 1
+canuxploitation: 1
+elimination derby: 1
+college friends: 1
+troubled teen: 1
+school counselor: 1
+nazi war criminal: 1
+hedge fund: 1
+environmentalist: 1
+american wilderness: 1
+heroic mission: 1
+space centre: 1
+daring rescues: 1
+catapult: 1
+chain saw: 1
+time frame: 1
+pit: 1
+windmill: 1
+incantation: 1
+13th century: 1
+cellar: 1
+comic drunk: 1
+behind the scenes: 1
+desire: 1
+wealthy man: 1
+strange behavior: 1
+socially awkward: 1
+mission of murder: 1
+sex change: 1
+mad surgeon: 1
+rude: 1
+obnoxious: 1
+hospitalization: 1
+gay artist: 1
+daily routine: 1
+romance novelist: 1
+child with illness: 1
+midwest: 1
+bleak comedy: 1
+mental disorders: 1
+pills: 1
+penthouse apartment: 1
+judo: 1
+trapdoor: 1
+clowning: 1
+telescope: 1
+swinging: 1
+james bond spoof: 1
+swinging 60s: 1
+supermodel: 1
+unexpected happiness: 1
+marine: 1
+power relations: 1
+comatose: 1
+guantanamo bay: 1
+marine corps: 1
+military court: 1
+code red: 1
+command: 1
+court martial: 1
+platoon leader: 1
+military law: 1
+business ethics: 1
+oil: 1
+coat: 1
+truck hijacking: 1
+thailand: 1
+muay thai: 1
+kick boxing: 1
+ladyboy: 1
+chiang mai: 1
+exam: 1
+totalitarian: 1
+corporation: 1
+substance: 1
+condition: 1
+rabbi: 1
+bar mitzvah: 1
+bribe: 1
+jewish family: 1
+physics professor: 1
+transistor radio: 1
+dreams: 1
+nightmares: 1
+flirty neighbor: 1
+bullet wound: 1
+tijuana: 1
+incident: 1
+sperm bank: 1
+firefighting: 1
+pyromaniac: 1
+clock tower: 1
+plutonium: 1
+journey in the past: 1
+invention: 1
+love and romance: 1
+teenage life: 1
+changing the past or future: 1
+alternate history: 1
+thunderstorm: 1
+high school dance: 1
+hoverboard: 1
+witness protection: 1
+internal affairs: 1
+hangar: 1
+loose cannon: 1
+male camaraderie: 1
+narcotics detective: 1
+buddy detective duo: 1
+stolen drugs: 1
+police partners: 1
+contract killer: 1
+baton rouge: 1
+southwestern u.s.: 1
+burned alive: 1
+mass suicide: 1
+cult leader: 1
+incompetence: 1
+gold digger: 1
+pistol duel: 1
+seven years war: 1
+nobility: 1
+prussia: 1
+homeless person: 1
+graffiti: 1
+street art: 1
+vernissage: 1
+exhibit: 1
+price of fame: 1
+mayoral election: 1
+joker: 1
+anti villain: 1
+arts and culture: 1
+repair: 1
+clumsy fellow: 1
+guard: 1
+arts expert: 1
+host family: 1
+damage: 1
+poster: 1
+artwork: 1
+teenage rebellion: 1
+child soldier: 1
+west africa: 1
+flooding: 1
+global warming: 1
+crab: 1
+auroch: 1
+tough love: 1
+defrost: 1
+levee: 1
+lost mother: 1
+melting ice caps: 1
+shrimp: 1
+salt water: 1
+crawfish: 1
+shrimping: 1
+submerged: 1
+grits: 1
+african american child: 1
+wild man: 1
+beast: 1
+sun: 1
+death of mother: 1
+exorcist: 1
+slave: 1
+biracial: 1
+social issues: 1
+costume drama: 1
+illegitimacy: 1
+poltergeist: 1
+cincinnati: 1
+former slave: 1
+jaipur: 1
+personal growth: 1
+outsourcing: 1
+sicily: 1
+dolphin: 1
+apnoe-diving: 1
+jehovah's witness: 1
+story teller: 1
+apoplectic stroke: 1
+fair: 1
+gentle giant: 1
+ashes: 1
+bowling team: 1
+weeds: 1
+sarcasm: 1
+comedian: 1
+one-man show: 1
+stand-up comedy: 1
+cultural difference: 1
+intercultural relationship: 1
+uber: 1
+traditional family: 1
+comedy club: 1
+grad school: 1
+tourette syndrome: 1
+insurance: 1
+frozen body: 1
+pet shop: 1
+playground: 1
+seagull: 1
+fireplace: 1
+bird attack: 1
+practical joke: 1
+schoolteacher: 1
+lovebird: 1
+shopkeeper: 1
+unsolved mystery: 1
+schoolhouse: 1
+mail order bride: 1
+bank clerk: 1
+revisionist history: 1
+white supremacy: 1
+observer: 1
+military service: 1
+nymphomaniac: 1
+moonshine: 1
+reality vs fantasy: 1
+swan lake: 1
+ballerina: 1
+stage performance: 1
+self-harm: 1
+theater: 1
+pointe shoes: 1
+vampire hunter (slayer): 1
+tragic villain: 1
+lasersight: 1
+reaper: 1
+sword duel: 1
+blade runner: 1
+blast from the past: 1
+education: 1
+memphis: 1
+ tennessee: 1
+christian: 1
+high school football: 1
+music instrument: 1
+ear: 1
+policeman: 1
+no air conditioning: 1
+bad luck: 1
+broker: 1
+yellow-journalism: 1
+missouri: 1
+crook couple: 1
+grave digger: 1
+crime wave: 1
+bank heist: 1
+police shootout: 1
+public enemy: 1
+gun crime: 1
+runaway couple: 1
+fugitive lovers: 1
+porn industry: 1
+big dick: 1
+blind: 1
+carnage: 1
+psychiatric hospital: 1
+nervous breakdown: 1
+escapade: 1
+laundry room: 1
+plumber: 1
+exploding house: 1
+rail car: 1
+revelation: 1
+langley virginia: 1
+security leak: 1
+decision: 1
+stranger: 1
+box: 1
+urban life: 1
+domestic abuse: 1
+divorced parents: 1
+abusive husband: 1
+police state: 1
+job promotion: 1
+repairman: 1
+ransom: 1
+donut: 1
+barn: 1
+redneck: 1
+extortion: 1
+truck driver: 1
+leave: 1
+ambulance man: 1
+euthanasia: 1
+neurotic: 1
+tv news anchor: 1
+major: 1
+park ranger: 1
+nuclear device: 1
+stealth aircraft: 1
+abandoned mine: 1
+humvee: 1
+heiress: 1
+caper comedy: 1
+female journalist: 1
+religious conflict: 1
+almighty: 1
+poem: 1
+trainer: 1
+pitcher: 1
+flirt: 1
+home run: 1
+minor leagues: 1
+buried alive: 1
+captivity: 1
+confined: 1
+lack of oxygen: 1
+burlesque: 1
+burlesque dancer: 1
+autobiography: 1
+gym: 1
+disc: 1
+ex priest: 1
+fitness: 1
+memoirs: 1
+personal trainer: 1
+chaos theory: 1
+blackout: 1
+therapy: 1
+literature research: 1
+new yorker: 1
+truman capote: 1
+humiliation: 1
+taunting: 1
+firestorm: 1
+religious horror: 1
+school bullying: 1
+cityscape: 1
+drawn: 1
+falling elevator: 1
+deadly: 1
+volleyball: 1
+deserted island: 1
+tropical island: 1
+blindfold: 1
+iowa: 1
+naive: 1
+friends in love: 1
+telephone: 1
+change: 1
+man change: 1
+body-swap: 1
+interpreter: 1
+stamp: 1
+alias: 1
+alps mountains: 1
+notre dame cathedral: 1
+comic-strip artist: 1
+outcast: 1
+found footage: 1
+cupboard: 1
+beaver: 1
+high fantasy: 1
+isekai: 1
+faun: 1
+cigarette: 1
+drug overdose: 1
+war injury: 1
+apple cider: 1
+anesthetic: 1
+incinerator: 1
+picking apples: 1
+abortion: 1
+abortionist: 1
+wolfman: 1
+antidote: 1
+banker: 1
+art collector: 1
+sleigh: 1
+snowglobes: 1
+rosebud: 1
+last word: 1
+leprosy: 1
+hades: 1
+zeus: 1
+medusa: 1
+mythological beast: 1
+perseus: 1
+gods: 1
+ancient greece: 1
+salesclerk: 1
+rocky mountains: 1
+hijacking: 1
+futuristic society: 1
+make a match: 1
+spoiled child: 1
+conflict: 1
+makeover: 1
+popular girl: 1
+baseball player: 1
+baseball hall of fame: 1
+lake tahoe: 1
+life after death: 1
+day of the dead: 1
+prosecutor: 1
+car explosion: 1
+bomb attack: 1
+female assassin: 1
+witness to murder: 1
+color blindness: 1
+despot: 1
+barbarian: 1
+serpent: 1
+microfilm: 1
+intrigue: 1
+big con: 1
+con game: 1
+lucifer: 1
+police protection: 1
+eye: 1
+new home: 1
+horror for children: 1
+talking cat: 1
+neil gaiman: 1
+market: 1
+tears: 1
+stabbing: 1
+truce: 1
+flag: 1
+financial transactions: 1
+adrenaline: 1
+pharmacy: 1
+defibrillation: 1
+hospital gown: 1
+emergency room: 1
+sweatshop: 1
+epinephrine: 1
+wound: 1
+fetishism: 1
+masochism: 1
+erotic movie: 1
+erotic: 1
+soulmates: 1
+womanizer: 1
+schizophrenic: 1
+pressure: 1
+evil doll: 1
+the conjuring universe: 1
+american mafia: 1
+cynic: 1
+love letter: 1
+psychotherapy: 1
+northern ireland: 1
+political unrest: 1
+reverse aging: 1
+separation: 1
+frightened boy: 1
+custodia: 1
+rodeo: 1
+dallas texas: 1
+treatment: 1
+trans woman: 1
+brighton: 1
+ uk: 1
+cup: 1
+derby county: 1
+management: 1
+football (soccer) team: 1
+sports controversy: 1
+desertion: 1
+mutiny: 1
+dakota: 1
+buffalo: 1
+sioux: 1
+pawnee tribe: 1
+lakota: 1
+bison: 1
+early america: 1
+denmark: 1
+copenhagen: 1
+ denmark: 1
+transsexual: 1
+alien race: 1
+retrofuturism: 1
+time bomb: 1
+mobile: 1
+cat burglar: 1
+boredom: 1
+destruction of planet: 1
+habor: 1
+department store: 1
+lorry: 1
+basement garage: 1
+infection: 1
+dog actor: 1
+gun store: 1
+disembodied head: 1
+living dead: 1
+mankind forced underground: 1
+florida everglades: 1
+gathering: 1
+studies: 1
+drug trip: 1
+arrogance: 1
+children's entertainer: 1
+lye: 1
+lost of friend: 1
+infiltrate: 1
+saigon: 1
+russian roulette: 1
+deer hunting: 1
+steel worker: 1
+revolver: 1
+viet cong: 1
+romantic triangle: 1
+prisoner of war camp: 1
+slavic american: 1
+state police: 1
+police training: 1
+father-in-law: 1
+beach house: 1
+boating accident: 1
+estate: 1
+dying mother: 1
+trustee: 1
+trust fund: 1
+wild girl: 1
+wild child: 1
+bakery: 1
+female agent: 1
+first date: 1
+despicable: 1
+masked supervillain: 1
+minions: 1
+pact with the devil: 1
+crooked lawyer: 1
+temptation: 1
+law firm: 1
+fashion journal: 1
+assistant: 1
+job entrant: 1
+editor-in-chief: 1
+fashion: 1
+fashion magazine: 1
+fashion industry: 1
+german: 1
+house arrest: 1
+girl next door: 1
+wisconsin: 1
+church service: 1
+bank cashier: 1
+car procession: 1
+attica: 1
+card playing: 1
+stealing money: 1
+marriage counselor: 1
+poetry: 1
+organ: 1
+insurance policy: 1
+duplicity: 1
+murder plot: 1
+scheming wife: 1
+street war: 1
+heat: 1
+pizzeria: 1
+amulet: 1
+lottery: 1
+brood: 1
+landslide: 1
+6th century: 1
+psychic: 1
+loan officer: 1
+obituary: 1
+engagement ring: 1
+stuntman: 1
+beaten to death: 1
+jacket: 1
+scorpion: 1
+toothpick: 1
+getaway driver: 1
+crime lord: 1
+stunt driver: 1
+hammer: 1
+neighbors: 1
+mother role: 1
+beauty contest: 1
+girl from the province: 1
+mockumentary: 1
+pretty woman: 1
+ambassador: 1
+lemonade: 1
+dowager: 1
+geofiction: 1
+stupidity: 1
+clumsiness: 1
+stepparent stepchild relationship: 1
+aspen colorado: 1
+parakeet: 1
+defecation: 1
+endangered species: 1
+foolish: 1
+sand: 1
+spice: 1
+baron: 1
+water shortage: 1
+empire: 1
+sand dune: 1
+chauffeur: 1
+midwife: 1
+disposing of a dead body: 1
+bathhouse: 1
+intelligent: 1
+small town girl: 1
+rumor: 1
+pretend relationship: 1
+gay friend: 1
+tv ratings: 1
+transsexuality: 1
+oddball: 1
+morphine: 1
+theremin: 1
+handgun: 1
+trick or treating: 1
+pick up: 1
+wetting pants: 1
+hockey mask: 1
+perfume: 1
+straight razor: 1
+forklift: 1
+contamination: 1
+scandal: 1
+election: 1
+overachiever: 1
+queen elizabeth i: 1
+religious war: 1
+tudor: 1
+armada: 1
+satellite: 1
+national security agency (nsa): 1
+exploding building: 1
+privacy: 1
+secret hideout: 1
+burn: 1
+landmine: 1
+cave: 1
+cave painting: 1
+map: 1
+mine clearer: 1
+hearing: 1
+desert scientist: 1
+art thief: 1
+art theft: 1
+kuala lumpur malaysia: 1
+totalitarian regime: 1
+phasing: 1
+book burning: 1
+outlaw: 1
+government agent: 1
+water pollution: 1
+environmental law: 1
+corporate negligence: 1
+homesickness: 1
+riding a bicycle: 1
+flowerpot: 1
+finger: 1
+crew: 1
+hellgate: 1
+burning man: 1
+distress signal: 1
+cowgirl: 1
+hitchhiking: 1
+sisterhood: 1
+body horror: 1
+apartment: 1
+deer: 1
+tape recorder: 1
+chainsaw: 1
+spirit: 1
+over the top: 1
+evil dead: 1
+eyeball: 1
+tarmac: 1
+meat cleaver: 1
+holy grail: 1
+fog: 1
+king arthur: 1
+tournament: 1
+mist: 1
+excalibur: 1
+lancelot: 1
+virtual fight: 1
+manufacturing: 1
+industrial accident: 1
+sexless marriage: 1
+misfortune: 1
+norway: 1
+surveillance camera: 1
+consciousness: 1
+lockdown: 1
+philosophical: 1
+turing test: 1
+cybernetics: 1
+gynoid: 1
+female cyborg: 1
+human android relationship: 1
+liquor: 1
+playing piano: 1
+nightclub singer: 1
+nightclub entertainer: 1
+nightclub act: 1
+nightclub performer: 1
+instrumental jazz: 1
+self reflection: 1
+musical duo: 1
+struggling musician: 1
+brothers: 1
+piano player: 1
+face transplant: 1
+vendetta: 1
+criminal gang: 1
+golden gun: 1
+archvillain: 1
+bullet ballet: 1
+archenemy: 1
+siblings: 1
+maximum security prison: 1
+nuclear scientist: 1
+fox: 1
+tree: 1
+peasant: 1
+tale: 1
+drug humor: 1
+irreverence: 1
+oxygen tank: 1
+gonzo journalist: 1
+cadillac convertible: 1
+police convention: 1
+fantasy sequence: 1
+car theft: 1
+stowaway: 1
+cab driver: 1
+opera singer: 1
+futuristic city: 1
+cruise liner: 1
+elemental: 1
+hieroglyphics: 1
+alien robot: 1
+family conflict: 1
+hometown: 1
+boxing trainer: 1
+crack addict: 1
+lowell massachusetts: 1
+blue collar worker: 1
+church bells: 1
+documentary filmmaking: 1
+jumping rope: 1
+shadow boxing: 1
+professional athlete: 1
+black sheep: 1
+devoted girlfriend: 1
+local hero: 1
+split personality: 1
+dissociative identity disorder: 1
+omen: 1
+cheating death: 1
+sydney: 1
+harbor: 1
+pelican: 1
+fish tank: 1
+great barrier reef: 1
+sea turtle: 1
+short term memory loss: 1
+clownfish: 1
+father son reunion: 1
+protective father: 1
+washington state: 1
+oil field: 1
+rebelliousness: 1
+fighter: 1
+flash gordon: 1
+evil dictator: 1
+floating city: 1
+giant forest: 1
+rio de janeiro: 1
+assumed identity: 1
+heroin addict: 1
+cabana: 1
+country club: 1
+insurance scam: 1
+santa monica: 1
+social engineering: 1
+flight: 1
+hangover: 1
+denial: 1
+baseball stadium: 1
+perjury: 1
+national transportation safety board: 1
+flying upside down: 1
+narcissist: 1
+relapse: 1
+bad mother-in-law: 1
+optimism: 1
+bus stop: 1
+anti war protest: 1
+college american football: 1
+anthology: 1
+ex-boyfriend ex-girlfriend relationship: 1
+dance teacher: 1
+millennials: 1
+late coming of age: 1
+dance show: 1
+joy: 1
+roommates: 1
+male female relationship: 1
+reanimation: 1
+body part: 1
+angry mob: 1
+villager: 1
+animal death: 1
+animal lover: 1
+machine: 1
+circus freak: 1
+freaks: 1
+bad dream: 1
+marseille: 1
+attempted murder: 1
+drug mule: 1
+hijacking of train: 1
+time: 1
+phenomenon: 1
+amateur radio: 1
+aurora borealis: 1
+altering history: 1
+cabin: 1
+summer camp: 1
+sewerage: 1
+preacher: 1
+recreational vehicle: 1
+mexican american border: 1
+female stripping: 1
+boa constrictor: 1
+foot fetish: 1
+killer on the run: 1
+barefoot: 1
+military life: 1
+army base: 1
+army bugler: 1
+mistake in person: 1
+snowman: 1
+reindeer: 1
+frozen: 1
+border crossing: 1
+undocumented immigrant: 1
+native american reservation: 1
+canadian border: 1
+death sentence: 1
+doomed man: 1
+manhunt: 1
+game: 1
+surprising: 1
+trapped in an elevator: 1
+birthday present: 1
+puzzlement: 1
+gun battle: 1
+wrongful conviction: 1
+online gaming: 1
+death game: 1
+not too distant future: 1
+red sox: 1
+haircut: 1
+world series: 1
+broadway theatre: 1
+demonstration: 1
+hunger strike: 1
+hindu: 1
+political negotiations: 1
+conference: 1
+nonviolent resistance: 1
+independence movement: 1
+gang of thieves: 1
+american history: 1
+paraplegic: 1
+heart disease: 1
+blood sample: 1
+biotechnology: 1
+eugenics: 1
+bag of money: 1
+hermit: 1
+funeral director: 1
+songwriter: 1
+soul music: 1
+externally controlled action: 1
+parents-in-law: 1
+neurosurgeon: 1
+brain surgery: 1
+race-conscious: 1
+money transfer: 1
+pottery: 1
+heaven: 1
+environmental protection agency: 1
+hybrid: 1
+gatekeeper: 1
+world trade center: 1
+product placement: 1
+reincarnation: 1
+crude humor: 1
+old flame: 1
+chrysler building: 1
+river of slime: 1
+revolving door: 1
+occult research: 1
+kenya: 1
+lion attack: 1
+swahili: 1
+cruise: 1
+ghost ship: 1
+tugboat: 1
+salvage: 1
+deserted ship: 1
+high school graduation: 1
+high school friends: 1
+cynical: 1
+art class: 1
+record collector: 1
+plaster: 1
+personal ad: 1
+blues music: 1
+nunchaku: 1
+prank telephone call: 1
+scandinavia: 1
+stockholm: 1
+ sweden: 1
+antisocial personality disorder: 1
+bible quote: 1
+dead cat: 1
+locked room mystery: 1
+middle east: 1
+libya: 1
+naval officer: 1
+sexual harassment: 1
+feminist: 1
+against the odds: 1
+u.s. senator: 1
+military training: 1
+reconnaissance: 1
+sexual discrimination: 1
+political: 1
+women in the military: 1
+woman in a man's world: 1
+military tradition: 1
+one of the guys: 1
+physical training: 1
+military exercises: 1
+seal team: 1
+laser: 1
+warhead: 1
+cobra: 1
+arena: 1
+roman empire: 1
+slave auction: 1
+chariot: 1
+philosopher: 1
+barbarian horde: 1
+2nd century: 1
+successor: 1
+commodus: 1
+maximus: 1
+contest: 1
+real estate: 1
+patriarch: 1
+revenge motive: 1
+sicilian mafia: 1
+religious hypocrisy: 1
+rise to power: 1
+gang violence: 1
+mafia war: 1
+critically acclaimed: 1
+cuba: 1
+gardener: 1
+horror filmmaking: 1
+film director: 1
+tsunami: 1
+global threat: 1
+godzilla: 1
+monsterverse: 1
+pedophile: 1
+car thief: 1
+mustang: 1
+grand theft auto: 1
+car robbery: 1
+eleanor: 1
+patient: 1
+beheaded: 1
+graduate: 1
+mother seduces daughter's fiancee: 1
+eastern europe: 1
+bellboy: 1
+mentor prot�g� relationship: 1
+european: 1
+hotel lobby: 1
+renaissance painting: 1
+prison guard: 1
+healing: 1
+horse track: 1
+union: 1
+high school reunion: 1
+old girlfriend: 1
+gun fight: 1
+coming home: 1
+groundhog: 1
+weather forecast: 1
+telecaster: 1
+alarm clock: 1
+time loop: 1
+groundhog day: 1
+old woman: 1
+catatonia: 1
+computer virus: 1
+internet: 1
+maniac: 1
+psychotic: 1
+escaped killer: 1
+escape agent: 1
+niece: 1
+psychiatric ward: 1
+halloween night: 1
+blackjack: 1
+lost weekend: 1
+chapel: 1
+hit with tire iron: 1
+writing: 1
+opera: 1
+hypochondriac: 1
+langham: 1
+sisters: 1
+penguin: 1
+tap dancing: 1
+armored car: 1
+crook: 1
+fast food: 1
+munchies: 1
+rich parents: 1
+car siren: 1
+blood spurting: 1
+dating woes: 1
+single woman: 1
+cat and mouse: 1
+one last job: 1
+bank job: 1
+crime epic: 1
+clique: 1
+christchurch: 1
+rotoscoping: 1
+midnight movie: 1
+sexual imagery: 1
+skin: 1
+mattress: 1
+ring of fire: 1
+self mutilation: 1
+mental hospital: 1
+narration from grave: 1
+supernatural creature: 1
+super strength: 1
+reanimated corpse: 1
+other dimension: 1
+psychic powers: 1
+pyrokinesis: 1
+ritual: 1
+attic: 1
+puzzle box creator: 1
+revive dead: 1
+psychiatry: 1
+guilty conscience: 1
+exploitation: 1
+racial segregation: 1
+moral courage: 1
+ressentiment: 1
+southern belle: 1
+racial issues: 1
+newspaper columnist: 1
+vomit: 1
+garbageman : 1
+transhumanism: 1
+singularity: 1
+briefs: 1
+young girl: 1
+dark fantasy: 1
+disc jockey: 1
+pop: 1
+record label: 1
+fear of commitment: 1
+record: 1
+record album: 1
+music scene: 1
+breaking up with boyfriend: 1
+music culture: 1
+record store: 1
+top five: 1
+dating history: 1
+ghost town: 1
+torture porn: 1
+lost in the desert: 1
+nuclear testing: 1
+wager: 1
+newspaper editor: 1
+fianc� fianc�e relationship: 1
+press room: 1
+rolltop desk: 1
+reprieve: 1
+bride-to-be: 1
+ex spouses: 1
+imminent execution: 1
+convicted murderer: 1
+dialogue driven: 1
+comedy of remarriage: 1
+hyperspace: 1
+meaning of life: 1
+destruction of earth: 1
+intergalactic travel: 1
+islington england: 1
+bad boss: 1
+attachment to nature: 1
+riding accident: 1
+career woman: 1
+horse whisperer: 1
+crisis: 1
+animal: 1
+rwanda: 1
+refugee: 1
+militia: 1
+rwandan genocide: 1
+atrocity: 1
+african: 1
+peter pan syndrome: 1
+forty something: 1
+snow skiing: 1
+ski resort: 1
+butterfly effect: 1
+80s throwback: 1
+change the past: 1
+urban legend: 1
+starlet: 1
+british man: 1
+cult of celebrity: 1
+awards show: 1
+celebrity worship: 1
+workplace romance: 1
+celebrity interview: 1
+in crowd: 1
+viking: 1
+vatican: 1
+leonardo da vinci: 1
+master thief: 1
+industry: 1
+board: 1
+stocks: 1
+hula hoop: 1
+hiking: 1
+tension: 1
+bomb squad: 1
+body armor: 1
+army sergeant: 1
+unsuccessful: 1
+grandparent grandchild relationship: 1
+robot as menace: 1
+grandmother: 1
+robotics: 1
+humanoid robot: 1
+talking robot: 1
+self-driving car: 1
+homicide investigation: 1
+robot companion: 1
+old robot: 1
+new robot: 1
+polyamory: 1
+party: 1
+dirty tricks: 1
+presidential campaign: 1
+endorsement: 1
+campaign speech: 1
+presidential debate: 1
+magic mirror: 1
+wretch: 1
+lawsuit: 1
+superhero family: 1
+invasion: 1
+extraterrestrial: 1
+nepal: 1
+whip: 1
+medallion: 1
+leather jacket: 1
+hat: 1
+mediterranean: 1
+ark of the covenant: 1
+ten commandments: 1
+excavation: 1
+religious history: 1
+wind: 1
+elephant: 1
+heart: 1
+conveyor belt: 1
+mine car: 1
+rope bridge: 1
+splits: 1
+nazi germany: 1
+action adventure: 1
+tobacco: 1
+insider: 1
+conspiracy theory: 1
+whistleblower: 1
+tobacco industry: 1
+house warming: 1
+insidious: 1
+midnight sun: 1
+planted evidence: 1
+crime writer: 1
+wormhole: 1
+famine: 1
+quantum mechanics: 1
+time-manipulation: 1
+2060s: 1
+cornfield: 1
+time manipulation: 1
+tycoon: 1
+beanstalk: 1
+red riding hood: 1
+working class: 1
+wrong side of the tracks: 1
+lies: 1
+south africa: 1
+nelson mandela: 1
+nation: 1
+rugby: 1
+political incompetence: 1
+warmongering: 1
+political satire: 1
+prime minister: 1
+margaret thatcher: 1
+argentina: 1
+british overseas territory: 1
+war propaganda: 1
+british politics: 1
+british prime minister: 1
+female politician: 1
+falklands war: 1
+political leader: 1
+female prime minister: 1
+right wing: 1
+falklands: 1
+transplantation: 1
+human cloning: 1
+organ harvest: 1
+ex husband: 1
+divorced couple: 1
+buttocks: 1
+marihuana: 1
+cheating husband: 1
+well: 1
+demonic: 1
+town history: 1
+pro bono: 1
+social services: 1
+coffee shop manager: 1
+pizza hut: 1
+children's book: 1
+locked door: 1
+child custody: 1
+neurodiversity: 1
+judge: 1
+white collar criminal: 1
+gay relationship: 1
+bahamas: 1
+resort: 1
+hook: 1
+iraq war veteran: 1
+truck stop: 1
+murder of a police officer: 1
+chemist: 1
+postal worker: 1
+figment of imagination: 1
+oneiric: 1
+chiropractor: 1
+free will: 1
+guardian: 1
+ward: 1
+shark attack: 1
+boat accident: 1
+current: 1
+great white shark: 1
+killer whale: 1
+high-tension current: 1
+water skiing: 1
+tourism: 1
+self mocking: 1
+monkey actor: 1
+gigantic hand: 1
+sexual murder: 1
+slumber party: 1
+rock band: 1
+succubus: 1
+virgin sacrifice: 1
+frenemies: 1
+bloodthirsty: 1
+blindness and impaired vision: 1
+victim: 1
+sports agent: 1
+exodus: 1
+cross: 1
+post war: 1
+french countryside: 1
+abandonment: 1
+john f. kennedy assassination: 1
+assassination of president: 1
+jacqueline kennedy: 1
+hunted: 1
+anarchy: 1
+clown makeup: 1
+subway train: 1
+tv host: 1
+origin story: 1
+falling into madness: 1
+pregnant minor: 1
+precocity: 1
+partnership: 1
+triceratops: 1
+brontosaurus: 1
+electric fence: 1
+velociraptor: 1
+costa rica: 1
+kafka: 1
+hitchhike: 1
+shoplifting: 1
+underage sex: 1
+sexually transmitted disease: 1
+sleeping around: 1
+dinner: 1
+control freak: 1
+vegetable garden: 1
+bride: 1
+female yakuza: 1
+animated scene: 1
+samurai sword: 1
+retribution: 1
+postcard: 1
+manifesto: 1
+record player: 1
+beat generation: 1
+columbia university: 1
+college freshman: 1
+honor slaying: 1
+novel: 1
+monarchy: 1
+stutter: 1
+royal family: 1
+speech: 1
+british royal family: 1
+winston churchill: 1
+speech therapy: 1
+corgi: 1
+human animal relationship: 1
+empire state building: 1
+giant gorilla: 1
+entertainer: 1
+studio: 1
+perversity: 1
+audio tape: 1
+bed: 1
+condom: 1
+beard: 1
+unprotected sex: 1
+buddhism: 1
+buddhist monk: 1
+tibet: 1
+dalai lama: 1
+lhasa: 1
+buddha: 1
+tiger: 1
+panda: 1
+master: 1
+crane: 1
+wuxia: 1
+monkey warrior: 1
+viper: 1
+red panda: 1
+puppetry: 1
+goblin: 1
+goblins: 1
+bizarre creatures: 1
+goblin king: 1
+deputy: 1
+paleontologist: 1
+decapitation: 1
+severed head: 1
+remote: 1
+tooth: 1
+campfire: 1
+severed toe: 1
+torso cut in half: 1
+giant crocodile: 1
+crocodile attack: 1
+cage: 1
+loss of job: 1
+yard sale: 1
+back to school: 1
+cynicism: 1
+frame up: 1
+exotic dancer: 1
+american in the uk: 1
+castaway: 1
+pacific island: 1
+historical: 1
+warfare: 1
+french and indian war: 1
+samurai: 1
+mountain village: 1
+campaign: 1
+leader: 1
+war strategy: 1
+gettysburg: 1
+japanese army: 1
+war trauma: 1
+deal: 1
+justice: 1
+rape and revenge: 1
+vigilantism: 1
+traffic jam: 1
+coffee shop: 1
+planetarium: 1
+sunset: 1
+one woman show: 1
+pool party: 1
+blonde: 1
+superficiality: 1
+beauty salon: 1
+chihuahua: 1
+girl power: 1
+toy dog: 1
+blonde stereotype: 1
+devil: 1
+treasure chest: 1
+part live action: 1
+lego: 1
+evil tyrant: 1
+brothel: 1
+french revolution: 1
+barricade: 1
+forced prostitution: 1
+police inspector: 1
+girl disguised as boy: 1
+historical drama: 1
+out of wedlock child: 1
+historical romance: 1
+death of a child: 1
+abusive family: 1
+corrupt businessman: 1
+gambling house: 1
+punch in face: 1
+distillery: 1
+pupil: 1
+french polar: 1
+hooch: 1
+second chance: 1
+unemployment: 1
+death penalty: 1
+zebra: 1
+young boy: 1
+zookeeper: 1
+orangutan: 1
+injured animal: 1
+wreckage: 1
+loss of family: 1
+teenage protagonist: 1
+family loss: 1
+flying fish: 1
+record producer: 1
+narcotics: 1
+iq: 1
+knowledge: 1
+nootropics: 1
+mind booster: 1
+warthog: 1
+shaman: 1
+hamlet: 1
+mandrill: 1
+wildebeest: 1
+bulldog: 1
+vomiting: 1
+crying man: 1
+machismo: 1
+cocktail: 1
+rifle: 1
+hatchet: 1
+antique: 1
+cardsharp: 1
+anger: 1
+carjacking: 1
+strip show: 1
+high stakes: 1
+domed city: 1
+totalitarianism: 1
+population control: 1
+troubled past: 1
+aging superhero: 1
+life on the margin: 1
+beautiful� woman: 1
+timebomb: 1
+ex-cia agent: 1
+christmas parade: 1
+ring: 1
+liberia: 1
+black ops: 1
+sexual frustration: 1
+headache: 1
+identity crisis: 1
+affection: 1
+border patrol: 1
+immigration law: 1
+machete: 1
+patrol: 1
+hard to kill: 1
+brutal death: 1
+dea agent: 1
+pablo escobar: 1
+child prodigy: 1
+frog: 1
+anti-communism: 1
+blacklist: 1
+sabotage: 1
+sombrero: 1
+baseball field: 1
+hard hat: 1
+professional sports: 1
+comic strip: 1
+hot dog: 1
+short sighted: 1
+voodoo ritual: 1
+the big game: 1
+koran: 1
+civil rights: 1
+martin luther king: 1
+nation of islam: 1
+mekka: 1
+pilgrimage: 1
+cabriolet: 1
+canoe: 1
+u.s. congress: 1
+implant: 1
+bastille: 1
+tyrant: 1
+baroque: 1
+17th century: 1
+louis xiv: 1
+mexico city: 1
+ mexico: 1
+grenade launcher: 1
+bloodshed: 1
+swim meet: 1
+corrupt cop: 1
+political intrigue�: 1
+physician: 1
+frenchman: 1
+assassination attempt: 1
+cymbals: 1
+assassination plot: 1
+barber: 1
+brokerage: 1
+financial crisis: 1
+stock market: 1
+stock market crash: 1
+investment: 1
+drugged: 1
+boundary violations: 1
+running away: 1
+sexual predator: 1
+engineering: 1
+deep space: 1
+potatoes: 1
+overbearing mother: 1
+dance hall: 1
+old maid: 1
+famous score: 1
+kite flying: 1
+chimney sweep: 1
+suffragettes: 1
+mockery: 1
+jail cell: 1
+wisecrack humor: 1
+the mask: 1
+royal navy: 1
+napoleonic wars: 1
+naturalist: 1
+frigate: 1
+self surgery: 1
+weevil: 1
+high seas: 1
+naval warfare: 1
+galapagos islands: 1
+galapagos: 1
+naval battle: 1
+english navy: 1
+gnosticism: 1
+epilepsy: 1
+protection money: 1
+little italy: 1
+beautiful woman: 1
+life and death: 1
+broken engagement: 1
+religion and supernatural: 1
+death personified: 1
+death incarnate: 1
+angel of death: 1
+encontro marcado: 1
+one-sided love: 1
+alien baby: 1
+stronger villain: 1
+invincible: 1
+insulin: 1
+confusion: 1
+polaroid: 1
+reverse chronology: 1
+giant cockroach: 1
+cannon: 1
+stay permit: 1
+fictional government agency: 1
+new age: 1
+paranoid fantasy: 1
+hippie lifestyle: 1
+liberation of hostage: 1
+persuasion: 1
+jewel thief: 1
+male prostitute: 1
+hashish: 1
+masturbation: 1
+istanbul: 1
+ turkey: 1
+midnight: 1
+versailles: 1
+sculpture: 1
+past: 1
+art history: 1
+back in time: 1
+uganda: 1
+primatologist: 1
+king kong: 1
+ethnic diversity: 1
+mmpr: 1
+insect: 1
+cockroach: 1
+disease: 1
+lolita: 1
+stepdaughter: 1
+escort service: 1
+prescription drug abuse: 1
+alcoholic mother: 1
+young girl seduces old man: 1
+night watchman: 1
+morgue: 1
+estranged wife: 1
+newspaper clipping: 1
+obsessed fan: 1
+bedridden: 1
+female psychopath: 1
+intelligence agency: 1
+secret government agency: 1
+northern norway: 1
+spain: 1
+ex-lover: 1
+research laboratory: 1
+dismemberment: 1
+alien contact: 1
+suspense: 1
+job transfer: 1
+oakland athletics: 1
+talent manager: 1
+statistics: 1
+mlb: 1
+organ donation: 1
+horniness agent: 1
+cartoonist: 1
+live action: 1
+overweight child: 1
+monte carlo: 1
+look-alike: 1
+young woman: 1
+texan: 1
+american abroad: 1
+true crime: 1
+oil industry: 1
+death of sister: 1
+catholic guilt: 1
+osage indian: 1
+gullibility: 1
+poisoning: 1
+diabetes: 1
+revisionist western: 1
+meta: 1
+male protagonist: 1
+western: 1
+pen pals: 1
+search party: 1
+devastation: 1
+handkerchief: 1
+child smoking: 1
+small town sheriff: 1
+the color red: 1
+boy scouts: 1
+sand dancing: 1
+meet cute: 1
+boy scouts leader: 1
+pipe smoking: 1
+home ownership: 1
+advertising executive: 1
+female detective: 1
+composer: 1
+mentor: 1
+portland: 1
+ oregon: 1
+marching band: 1
+teacher student relationship: 1
+high school teacher: 1
+disabled: 1
+teaching: 1
+snake: 1
+houseboat: 1
+cricket: 1
+based on song: 1
+ poem or rhyme: 1
+luck: 1
+great wall of china: 1
+gender disguise: 1
+female warrior: 1
+hand drawn animation: 1
+action comedy: 1
+woman disguised as man: 1
+suppressed past: 1
+mummy: 1
+nile: 1
+tomb: 1
+ancient egypt: 1
+pharoah: 1
+violin: 1
+violinist: 1
+mute: 1
+disk: 1
+sphinx: 1
+tools: 1
+casanova: 1
+shovel: 1
+superhero spoof: 1
+evil genius: 1
+wedding reception: 1
+relationship sabotage: 1
+writing class: 1
+makeup artist: 1
+camper: 1
+cosmetologist: 1
+tuba: 1
+film shoot: 1
+idaho: 1
+chat: 1
+school dance: 1
+pop culture: 1
+controversy: 1
+young couple: 1
+child hero: 1
+reading: 1
+giant: 1
+gnome: 1
+child protagonist: 1
+magical necklace: 1
+juvenile crime: 1
+child empowerment: 1
+boy singer: 1
+name change: 1
+slingshot: 1
+juvenile detention center: 1
+newsboy: 1
+twin sister: 1
+music video: 1
+geek: 1
+university: 1
+rebellious youth: 1
+misadventure: 1
+punk band: 1
+world cup: 1
+boy gang: 1
+passport: 1
+county jail: 1
+fingerprint: 1
+appeal: 1
+escape artist: 1
+christmas tree: 1
+pumpkin: 1
+saving christmas: 1
+child murder: 1
+boiler room: 1
+booby trap: 1
+medical test: 1
+theology: 1
+noise: 1
+ninja fighter: 1
+stick fighting: 1
+bloody fight: 1
+chop socky: 1
+ninjutsu: 1
+kusarigama: 1
+communist: 1
+fur: 1
+gendarmerie: 1
+terrier: 1
+paparazzi: 1
+press conference: 1
+bath tub: 1
+cohabitant: 1
+dinner party: 1
+famous actor: 1
+modern-day western: 1
+tracking device: 1
+cold blooded killer: 1
+coin toss: 1
+human nature: 1
+captive bolt gun: 1
+western noir: 1
+horror western: 1
+faithful adaptation: 1
+bartender: 1
+used car dealer: 1
+nurse uniform: 1
+tv production: 1
+heart specialist: 1
+drone: 1
+2070s: 1
+mall: 1
+caper: 1
+atlantic city: 1
+salt lake city: 1
+ utah: 1
+card dealer: 1
+explosives expert: 1
+faberg� egg: 1
+golden egg: 1
+goon: 1
+survivalist: 1
+vaccine: 1
+last man on earth: 1
+pandemic: 1
+mutants: 1
+the omega man: 1
+vaccine researcher: 1
+oregon: 1
+lunatic asylum: 1
+shock treatment: 1
+bangkok: 1
+ thailand: 1
+suicidal: 1
+neon light: 1
+drug trafficker: 1
+emasculation: 1
+middle class: 1
+ghoul: 1
+graveyard: 1
+cementery: 1
+erotic horror: 1
+mistress: 1
+royal court: 1
+anne boleyn: 1
+henry viii: 1
+aristocrats: 1
+locked in trunk of car: 1
+elmore leonard: 1
+diamond theft: 1
+car trunk: 1
+bodybuilder: 1
+body guard: 1
+male nanny: 1
+safe: 1
+diabetic: 1
+moving in: 1
+trapped in a house: 1
+bearer bonds: 1
+robbery crew: 1
+suspense thriller: 1
+jock: 1
+communicating with the dead: 1
+witch trial: 1
+child witch: 1
+strange: 1
+giac quan: 1
+female homosexuality: 1
+dyje: 1
+black lgbt: 1
+automation: 1
+hibernation: 1
+lying: 1
+gravity: 1
+malfunction: 1
+patriot: 1
+american revolution: 1
+revolutionary war: 1
+dyslexia: 1
+pacific war: 1
+pin-up: 1
+new zealand: 1
+influenza: 1
+escaped convict: 1
+criminologist: 1
+school friend: 1
+mental health: 1
+boys' love (bl): 1
+forced to kill: 1
+pet monster: 1
+period piece: 1
+scary: 1
+veterinarian: 1
+publicist: 1
+affair: 1
+phone booth: 1
+holocaust (shoah): 1
+hunger: 1
+jew persecution: 1
+warsaw ghetto: 1
+polish resistance: 1
+poland: 1
+roach: 1
+painting toenails: 1
+radio call in show: 1
+seed: 1
+stoner movie: 1
+blacksmith: 1
+jamaica: 1
+pirate ship: 1
+british navy: 1
+tortuga: 1
+bondage: 1
+compass: 1
+comet: 1
+eclipse: 1
+flask: 1
+chimp: 1
+infantry: 1
+gang rape: 1
+violent death: 1
+platoon: 1
+casualty of war: 1
+marijuana joint: 1
+marijuana pipe: 1
+wounded soldier: 1
+conscripts: 1
+military draft: 1
+violent man: 1
+american soldiers: 1
+tour of duty: 1
+army vs civilians: 1
+war crime: 1
+surfer: 1
+wave: 1
+surfboard: 1
+extreme sports: 1
+parachuting: 1
+moral conflict: 1
+surfing: 1
+anime: 1
+original video animation (ova): 1
+alternate reality: 1
+tyranny: 1
+mail carrier: 1
+tyrannical boss: 1
+chicken: 1
+illiteracy: 1
+unwillingly pregnant: 1
+invisible: 1
+commando: 1
+illusion: 1
+hanging: 1
+nikola tesla: 1
+tesla coil: 1
+bittersweet: 1
+david bowie: 1
+mind-blowing: 1
+depressing: 1
+expensive restaurant: 1
+fire escape: 1
+bubble bath: 1
+screwball: 1
+impersonation: 1
+giant man: 1
+grandfather grandson relationship: 1
+battle of wits: 1
+loch ness monster: 1
+german spy: 1
+midgets: 1
+creation: 1
+stasis: 1
+archeological dig: 1
+god complex: 1
+cave drawing: 1
+prometheus: 1
+genetic mutation: 1
+origins of life: 1
+2090s: 1
+red herring: 1
+stolen money: 1
+taxidermy: 1
+secretary: 1
+oedipus complex: 1
+double identity: 1
+proto-slasher: 1
+birds: 1
+whodunnit: 1
+woman on the run: 1
+corruptibility: 1
+confused identities: 1
+human vulnerabilities: 1
+scam artist: 1
+telephone sex: 1
+pudding: 1
+sweepstakes: 1
+harmonium: 1
+absurdist: 1
+social anxiety: 1
+emotional abuse: 1
+provo utah: 1
+scam call center: 1
+overbearing sister: 1
+light: 1
+spontaneous combustion: 1
+fatal attraction: 1
+vampiress (female vampire): 1
+interracial marriage: 1
+maid of honor: 1
+broken nose: 1
+over-the-hill fighter: 1
+trouble: 1
+house guest: 1
+photography: 1
+exploding body: 1
+russian army: 1
+electrical torture: 1
+denunciation: 1
+germany: 1
+women's prison: 1
+female prisoner: 1
+reading aloud: 1
+law student: 1
+reading to someone: 1
+secret lover: 1
+literacy: 1
+west germany: 1
+convalescence: 1
+missing wife: 1
+homebound: 1
+psychotic obsessions: 1
+suspicious behavior: 1
+flower bed: 1
+visiting nurse: 1
+the boy who cried wolf: 1
+howdunnit: 1
+restricted setting: 1
+underground world: 1
+teen rebel: 1
+role reversal: 1
+amazon rainforest: 1
+pile of dead bodies: 1
+anthropologist: 1
+indian tribe: 1
+mouse: 1
+eagle: 1
+australia: 1
+waterfall: 1
+australian outback: 1
+plan gone wrong: 1
+heist gone wrong: 1
+botched robbery: 1
+foreshadowing: 1
+rendezvous: 1
+iconic: 1
+set in one room: 1
+uneasy alliance: 1
+rag tag group: 1
+grizzly bear: 1
+frontier: 1
+liar: 1
+bear: 1
+scalping: 1
+indian attack: 1
+wolves: 1
+child killing: 1
+free spirit: 1
+getaway: 1
+feeling trapped: 1
+bleak: 1
+boogeyman: 1
+jack frost: 1
+anti-semitism: 1
+aspiring director: 1
+movie making: 1
+bomb shelter: 1
+cannibalism: 1
+crusade: 1
+archer: 1
+folk hero: 1
+nottingham: 1
+sherwood forest: 1
+friar: 1
+12th century: 1
+the crusades: 1
+living in the woods: 1
+helping the poor: 1
+giant robot: 1
+gentrification: 1
+corrupt system: 1
+megacorporation: 1
+gang leader: 1
+publicity: 1
+victory: 1
+transylvania: 1
+group sex: 1
+homoeroticism: 1
+impostor: 1
+ex kgb: 1
+cellular phone trace: 1
+ira: 1
+grandparents: 1
+children's perspectives: 1
+skylight: 1
+campus: 1
+boyfriend: 1
+design: 1
+resentment: 1
+family reunion: 1
+sonora: 1
+frontier hospitality: 1
+just married: 1
+self identity: 1
+hair salon: 1
+cold feet: 1
+formula one (f1): 1
+theater director: 1
+precocious child: 1
+drug scene: 1
+methamphetamine: 1
+fourth of july: 1
+fence: 1
+story telling: 1
+mastiff: 1
+kids� sports team: 1
+disneyland: 1
+queensland: 1
+war ship: 1
+normandy: 1
+troops: 1
+waffen ss: 1
+omaha beach: 1
+d-day: 1
+war memorial: 1
+deserted town: 1
+military operation: 1
+school project: 1
+haunted mansion: 1
+horror parody: 1
+house party: 1
+phone: 1
+tabloid: 1
+halloween costume: 1
+former-reporter: 1
+annual phone call: 1
+evisceration: 1
+pride and vanity: 1
+immoderateness: 1
+pension: 1
+depravity: 1
+misanthropy: 1
+prejudice: 1
+massacre: 1
+reverend: 1
+comanche: 1
+technicolor: 1
+civil war veteran: 1
+abduction: 1
+iceland: 1
+dreamer: 1
+daydreaming: 1
+flint michigan: 1
+nba: 1
+merger: 1
+trade: 1
+garbage can: 1
+canon: 1
+ramp: 1
+championship: 1
+dead parent: 1
+servant: 1
+pneumonia: 1
+rainstorm: 1
+decorum: 1
+horse carriage: 1
+young love: 1
+dowry: 1
+penniless: 1
+social elite: 1
+bloodletting: 1
+free spirited: 1
+sussex: 1
+1800s: 1
+sisters love: 1
+social classes: 1
+marry for money: 1
+secret engagement: 1
+devonshire: 1
+protection: 1
+motherly love: 1
+hit-and-run: 1
+infamy: 1
+perfectionist: 1
+obscene telephone call: 1
+protective mother: 1
+sexual arousal: 1
+judaism: 1
+catholic church: 1
+male virgin: 1
+sponge bath: 1
+catholic priest: 1
+jealous husband: 1
+iron lung: 1
+sex surrogate: 1
+polio: 1
+polio victim: 1
+sexual pleasure: 1
+handicap sex: 1
+spanner: 1
+longing: 1
+nosferatu: 1
+internet porn: 1
+self-loathing: 1
+delinquent: 1
+parole board: 1
+ex-boyfriend: 1
+airport security: 1
+unlikely lovers: 1
+twenty something: 1
+family disapproval: 1
+party planner: 1
+pittsburgh penguins: 1
+pentagram: 1
+clue: 1
+curious: 1
+observation: 1
+sherlock: 1
+victorian era: 1
+sherlock holmes: 1
+sherlock films: 1
+mystery: 1
+hotelier: 1
+psychic power: 1
+caretaker: 1
+postmodern: 1
+electronic music score: 1
+mutilation: 1
+bloody body of child: 1
+extrasensory perception: 1
+filicide: 1
+snowed in: 1
+burial ground: 1
+haunted hotel: 1
+psychological disintegration: 1
+afi: 1
+pediatrician: 1
+repetition: 1
+psychotronic film: 1
+writers-block: 1
+cabin fever: 1
+psychological horror: 1
+deal with the devil: 1
+nuclear family: 1
+avant garde: 1
+yosemite national park: 1
+twin sisters: 1
+identical twins: 1
+newfoundland and labrador: 1
+sexual attraction: 1
+organ transplant: 1
+infestation: 1
+sex fiend: 1
+lordship: 1
+robin hood: 1
+enchantment: 1
+conciliation: 1
+heir to the throne: 1
+boarding school: 1
+capture: 1
+border: 1
+night vision: 1
+death of daughter: 1
+el paso: 1
+moral dilemma: 1
+secret tunnel: 1
+wine: 1
+winery: 1
+martial law: 1
+alien attack: 1
+alien encounter: 1
+aliens: 1
+moth: 1
+virginia: 1
+letter: 1
+institutionalization: 1
+bipolar: 1
+puerto rico: 1
+chinese woman: 1
+literature professor: 1
+interracial romance: 1
+interracial sex: 1
+remote control: 1
+puppy: 1
+basement: 1
+surprise party: 1
+business card: 1
+ice cream: 1
+stairway: 1
+software: 1
+art dealer: 1
+observation deck: 1
+headless horseman: 1
+repair shop: 1
+death threat: 1
+religious art: 1
+meteor: 1
+meat: 1
+slug: 1
+bodily dismemberment: 1
+slum: 1
+mumbai (bombay): 1
+game show: 1
+quiz: 1
+taj mahal: 1
+losing a job: 1
+bare knuckle boxing: 1
+antwerp: 1
+underground fighting: 1
+diamond heist: 1
+pikey: 1
+mathematician: 1
+wife: 1
+unusual phenomena: 1
+space western: 1
+ladykiller: 1
+hamptons: 1
+axe murder: 1
+rubber duck: 1
+milieu: 1
+hysteria: 1
+language course: 1
+dubai: 1
+terrorist attack: 1
+ocean floor: 1
+alternate version: 1
+spider bite: 1
+cliffhanger: 1
+teen superhero: 1
+chelsea: 1
+alternate universe: 1
+female superhero: 1
+interdimensional travel: 1
+defying fate: 1
+cherry pie: 1
+buenos aires: 1
+ argentina: 1
+bugs: 1
+borg: 1
+speed of light: 1
+first contact: 1
+traumatized man: 1
+exploding planet: 1
+mountain cabin: 1
+solar system: 1
+spanning generations: 1
+legendary hero: 1
+emotional instability: 1
+generazioni: 1
+romulus: 1
+romulans: 1
+reunited friends: 1
+matter of life and death: 1
+cult figure: 1
+expectant mother: 1
+chancel: 1
+artic: 1
+taskmaster: 1
+taxes: 1
+film makers: 1
+saloon singer: 1
+fashion photographer: 1
+rebellious daughter: 1
+freeze frame: 1
+custody: 1
+photo shoot: 1
+freedom of speech: 1
+recording contract: 1
+terminal illness: 1
+milwaukee wisconsin: 1
+police raid: 1
+police harassment: 1
+record company: 1
+music tour: 1
+intimidation by police: 1
+los angeles riots: 1
+compton: 1
+carousel : 1
+lighter: 1
+husband wife estrangement: 1
+chance meeting: 1
+cocktail party: 1
+fianc�e: 1
+perfect murder: 1
+penn station: 1
+storm drain: 1
+tennis match: 1
+tennis pro: 1
+trains: 1
+homosexual subtext: 1
+gay killer: 1
+murder swap: 1
+revolt: 1
+card game: 1
+charity: 1
+storytelling: 1
+yogi: 1
+quarterback: 1
+squad: 1
+diva: 1
+aging actor: 1
+has been: 1
+silent film star: 1
+grandiose  behavior: 1
+kept man: 1
+movie studio: 1
+cleaning lady: 1
+crime scene: 1
+cleaning service: 1
+cleaning: 1
+fake id: 1
+train crash: 1
+firecracker: 1
+super 8mm footage: 1
+asylum: 1
+razor: 1
+beggar: 1
+cane: 1
+person on fire: 1
+infatuation: 1
+shaving: 1
+oven: 1
+beadle: 1
+seaman: 1
+mother figure: 1
+folktale: 1
+corrupt judge: 1
+canada: 1
+suffering: 1
+paralysis: 1
+british columbia: 1
+gossip columnist: 1
+drink: 1
+name calling: 1
+wire: 1
+misdirection: 1
+shattered home: 1
+bizarre past: 1
+sanity: 1
+construction worker: 1
+storm shelter: 1
+strangeness: 1
+special capabilities: 1
+special unit: 1
+colleague: 1
+venice: 1
+atlantic ocean: 1
+yacht: 1
+inferiority: 1
+beguilement: 1
+rejection: 1
+inferiority complex: 1
+identity theft: 1
+stagecoach: 1
+shot: 1
+stagecoach driver: 1
+newpaper: 1
+alienation: 1
+child prostitution: 1
+new hollywood: 1
+drives: 1
+savior: 1
+physicist: 1
+fictional biography: 1
+motor neuron disease: 1
+als: 1
+cambridge university: 1
+dream girl: 1
+taboo: 1
+frisbee: 1
+troubadour: 1
+social commentary: 1
+sunglasses: 1
+glasses: 1
+subliminal message: 1
+research station: 1
+shape shifting alien: 1
+alien infection: 1
+sled dogs: 1
+alien monster: 1
+alien parasites: 1
+isolated place: 1
+cuban missile crisis: 1
+diplomacy: 1
+oppression: 1
+parents: 1
+financial problem: 1
+norse god: 1
+loki: 1
+parenthood: 1
+fatherhood: 1
+abandoned baby: 1
+1620s: 1
+three musketeers: 1
+fanatic: 1
+west virginia: 1
+time machine: 1
+budapest: 1
+ hungary: 1
+spying: 1
+mi6: 1
+british intelligence: 1
+caddy: 1
+woman between two men: 1
+golf pro: 1
+torn between two men: 1
+sports reporter: 1
+salesmen: 1
+aluminum: 1
+iceberg: 1
+titanic: 1
+rich woman poor man: 1
+historical event: 1
+sinking ship: 1
+steerage: 1
+rich snob: 1
+sunken ship: 1
+turtle: 1
+sibling rivalry: 1
+brother against brother: 1
+martial arts master: 1
+ancient curse: 1
+teenage mutant ninja turtles: 1
+anthropomorphic animal: 1
+retirement: 1
+wyatt earp: 1
+doc holliday: 1
+gambler: 1
+tuberculosis: 1
+gunfighter: 1
+tombstone arizona: 1
+ok corral: 1
+secret intelligence service: 1
+special car: 1
+hamburg: 1
+fighter pilot: 1
+training camp: 1
+air force: 1
+battle assignment: 1
+pilot school: 1
+robot cop: 1
+implanted memory: 1
+virtual world: 1
+2080s: 1
+elementary school: 1
+computer animation: 1
+walkie talkie: 1
+toy car: 1
+boy next door: 1
+new toy: 1
+toy comes to life: 1
+resourcefulness: 1
+uninvited guest: 1
+l.a. rebellion: 1
+marriage dispute: 1
+narcotics cop: 1
+barrio: 1
+cold turkey: 1
+modern society: 1
+stealing: 1
+schoolgirl: 1
+recovering addict: 1
+drug culture: 1
+sex with a minor: 1
+nevada: 1
+tractor: 1
+old town: 1
+tentacle: 1
+graboids: 1
+seismologist: 1
+binoculars: 1
+man eating monster: 1
+town: 1
+cursed town: 1
+arcade game: 1
+computer program: 1
+computer game: 1
+80s style: 1
+autocracy: 1
+florida keys: 1
+terrorist plot: 1
+top secret: 1
+mushroom cloud: 1
+jackhammer: 1
+special agent: 1
+key west: 1
+video surveillance: 1
+tv show in film: 1
+make believe: 1
+interspecies romance: 1
+vampire human love: 1
+low intelligence: 1
+jet engine: 1
+twins separated at birth: 1
+artist colony: 1
+same habits: 1
+morning show: 1
+sex toy: 1
+misogyny: 1
+train accident: 1
+invulnerability: 1
+stolen identity: 1
+exploring: 1
+senior: 1
+omaha: 1
+videoconferencing: 1
+job termination: 1
+business trip: 1
+airport lounge: 1
+airline: 1
+motivational speaker: 1
+public speaking: 1
+laid off: 1
+traveler: 1
+fired from a job: 1
+airport ending: 1
+travel packing: 1
+travel gift: 1
+air travel: 1
+frequent flyer: 1
+relatives: 1
+mystery villain: 1
+car garage: 1
+colonel: 1
+german officer: 1
+operation valkyrie: 1
+defense attorney: 1
+pinball machine: 1
+vertigo: 1
+necklace: 1
+rescue from drowning: 1
+fear of heights: 1
+color film noir: 1
+accident: 1
+blindness: 1
+courtship: 1
+mentally handicapped man: 1
+aura: 1
+village council: 1
+bosque: 1
+plot twist: 1
+visitor: 1
+chancellor: 1
+vengeful spirit: 1
+vengeful: 1
+staging: 1
+albania: 1
+sex scandal: 1
+media adviser: 1
+election campaign: 1
+north carolina: 1
+avalanche: 1
+execution: 1
+plowing: 1
+artillery: 1
+bicycle: 1
+conversation: 1
+water park: 1
+awkwardness: 1
+pursuit: 1
+protective custody: 1
+idiot: 1
+neurosis: 1
+ouija board: 1
+new neighbor: 1
+s�ance: 1
+secret: 1
+toolbox: 1
+teenage prostitute: 1
+sex trafficking: 1
+female cop: 1
+inside man: 1
+corrup��o: 1
+onu: 1
+stich: 1
+song and dance: 1
+floor show: 1
+ski lodge: 1
+failing business: 1
+sister act: 1
+war buddies: 1
+retired general: 1
+propaganda: 1
+puritan: 1
+tailor: 1
+suppression: 1
+small village: 1
+village people: 1
+east elbia: 1
+sailing trip: 1
+discipline: 1
+squall: 1
+sail: 1
+seasickness: 1
+love sickness: 1
+sailboat: 1
+everglades: 1
+heart-throb: 1
+accusation: 1
+pool: 1
+threesome: 1
+steam locomotive: 1
+drag: 1
+cold: 1
+crash: 1
+trapped in car: 1
+wrestling coach: 1
+bath: 1
+cottage: 1
+tornado: 1
+twister: 1
+imaginary land: 1
+sepia color: 1
+hourglass: 1
+red shoes: 1
+tin man: 1
+feminism: 1
+heroine: 1
+female empowerment: 1
+dc extended universe (dceu): 1
+pedophilia: 1
+emotions: 1
+steroids: 1
+barbed wire: 1
+pro wrestling: 1
+pro wrestlers: 1
+prague: 1
+ czech republic: 1
+nsa agent: 1
+adrenaline junkie: 1
+thrill seeker: 1
+temple: 1
+circumcision: 1
+prehistoric man: 1
+bungee-jump: 1
+anonymous letter: 1
+class conflict: 1
+online relationship: 1
+internet romance: 1
+parfumerie: 1
+catskills: 1
+bank employee: 1
+sexappeal: 1
+gender bender: 1
+car dealer: 1
+man hunt: 1
+text message: 1
+tied up: 1
+terrorist group: 1
+torturing: 1
+al qaeda: 1
+prison camp: 1
+water torture: 1
+suicide bombing: 1
+ex special forces: 1
+helicopter crash: 1
+islamabad: 1
+hippopotamus: 1
+sheep: 1
+polar bear: 1
+urban: 1
+racial prejudice: 1
+injustice: 1
+discrimination: 1
+cartoon bear: 1
+cartoon animal: 1
+cartoon fox: 1
+cartoon elephant: 1
