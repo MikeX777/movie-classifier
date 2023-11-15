@@ -1,0 +1,30 @@
+Drama: 473
+Comedy: 305
+Thriller: 280
+Action: 222
+Crime: 201
+Adventure: 168
+Romance: 164
+Sci-Fi: 133
+Mystery: 117
+Horror: 99
+Fantasy: 96
+Family: 68
+Biography: 64
+Animation: 52
+Short: 46
+History: 34
+Music: 33
+Musical: 28
+War: 27
+Documentary: 25
+Sport: 21
+Talk-Show: 18
+Western: 11
+Reality-TV: 9
+Film-Noir: 7
+Game-Show: 2
+News: 1
+
+Max Size: 11, Movie: Descendants,_The.txt
+Number of Movies with No Genres: 0

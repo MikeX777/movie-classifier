@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 import os.path
 
 ia = Cinemagoer()
+print(ia.get_movie_infoset())
 script_base_address = "https://imsdb.com"
 script_index_base = "https://imsdb.com/alphabetical/"
 scirpt_index_routes = [ "0", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]

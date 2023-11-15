@@ -1,0 +1,2 @@
+model_checkpoint_path: "mk1_crossentropy"
+all_model_checkpoint_paths: "mk1_crossentropy"
