@@ -1,0 +1,5366 @@
+1
+00:00:52,470 --> 00:00:54,140
+Hey, where's Ryota?
+
+2
+00:00:54,940 --> 00:00:57,560
+Mr Suzuki wanted to see him.
+
+3
+00:00:58,190 --> 00:00:59,690
+Is he getting detention again?
+
+4
+00:00:59,770 --> 00:01:01,020
+Again?
+
+5
+00:01:33,930 --> 00:01:35,770
+- You're late!
+- You're late!
+
+6
+00:01:35,850 --> 00:01:36,940
+Sorry, sorry!
+
+7
+00:01:43,320 --> 00:01:44,570
+All right.
+
+8
+00:01:46,110 --> 00:01:47,450
+What shall we start with?
+
+9
+00:01:48,320 --> 00:01:49,660
+What else?
+
+10
+00:01:50,780 --> 00:01:52,030
+Yeah.
+
+11
+00:01:52,700 --> 00:01:53,950
+Obviously.
+
+12
+00:01:54,330 --> 00:01:55,830
+You're right!
+
+13
+00:01:56,710 --> 00:01:58,170
+Here we go!
+
+14
+00:01:59,170 --> 00:02:01,960
+<i>Don't worry! Be happy!</i>
+
+15
+00:02:03,550 --> 00:02:07,670
+<i>It's my life!</i>
+
+16
+00:02:07,760 --> 00:02:12,800
+<i>Little Love Song</i>
+
+17
+00:02:15,350 --> 00:02:18,230
+<i>Another beautiful Sunday morning</i>
+
+18
+00:02:18,310 --> 00:02:21,020
+<i>Start of a day both short and long</i>
+
+19
+00:02:21,100 --> 00:02:23,650
+<i>I've got nothing on my schedule</i>
+
+20
+00:02:23,730 --> 00:02:26,780
+<i>Think I'll take a walk about town</i>
+
+21
+00:02:27,780 --> 00:02:29,820
+<i>Keep the door closed when playing.</i>
+
+22
+00:02:29,910 --> 00:02:31,780
+<i>Keep the volume down.</i>
+
+23
+00:02:44,130 --> 00:02:46,420
+- Is that them?
+- I think so!
+
+24
+00:02:48,510 --> 00:02:51,220
+<i>You and me, just the two of us</i>
+
+25
+00:02:51,300 --> 00:02:54,140
+<i>Until a starry sky rises overhead</i>
+
+26
+00:02:56,890 --> 00:02:59,480
+<i>Until a starry sky rises overhead</i>
+
+27
+00:02:59,560 --> 00:03:06,650
+<i>Happiness is spending time</i>
+
+28
+00:03:06,860 --> 00:03:09,070
+<i>With you</i>
+
+29
+00:03:09,150 --> 00:03:10,450
+<i>Don't worry</i>
+
+30
+00:03:11,910 --> 00:03:13,160
+<i>Be happy</i>
+
+31
+00:03:14,530 --> 00:03:16,120
+<i>Happy Sunday</i>
+
+32
+00:03:17,410 --> 00:03:18,870
+<i>It's my life</i>
+
+33
+00:03:20,210 --> 00:03:21,460
+<i>Don't worry</i>
+
+34
+00:03:22,960 --> 00:03:24,380
+<i>Be happy</i>
+
+35
+00:03:25,540 --> 00:03:27,000
+<i>Happy Sunday</i>
+
+36
+00:03:28,420 --> 00:03:29,670
+<i>It's my life</i>
+
+37
+00:03:40,810 --> 00:03:43,440
+<i>What's the matter?</i>
+
+38
+00:03:43,520 --> 00:03:46,150
+<i>Why are you looking so blue?</i>
+
+39
+00:03:46,230 --> 00:03:48,820
+<i>There's nothing to worry about</i>
+
+40
+00:03:53,740 --> 00:03:54,910
+<i>Let's go!</i>
+
+41
+00:04:10,210 --> 00:04:15,550
+<i>Because tomorrow...</i>
+
+42
+00:04:15,640 --> 00:04:16,890
+<i>is Sunday!</i>
+
+43
+00:04:18,180 --> 00:04:19,390
+<i>Don't worry</i>
+
+44
+00:04:20,850 --> 00:04:21,980
+<i>Be happy</i>
+
+45
+00:04:23,440 --> 00:04:24,980
+<i>Happy Sunday</i>
+
+46
+00:04:26,400 --> 00:04:27,650
+<i>It's my life</i>
+
+47
+00:04:29,150 --> 00:04:30,320
+<i>Don't worry</i>
+
+48
+00:04:31,860 --> 00:04:32,940
+<i>Be happy</i>
+
+49
+00:04:34,530 --> 00:04:35,990
+<i>Happy Sunday</i>
+
+50
+00:04:37,370 --> 00:04:38,620
+<i>It's my life</i>
+
+51
+00:04:38,700 --> 00:04:39,870
+One more time!
+
+52
+00:04:41,580 --> 00:04:42,620
+<i>Don't worry</i>
+
+53
+00:04:43,330 --> 00:04:45,170
+You there! Stop that!
+
+54
+00:04:46,920 --> 00:04:48,420
+<i>Happy Sunday</i>
+
+55
+00:04:49,880 --> 00:04:50,960
+<i>It's my life</i>
+
+56
+00:04:52,590 --> 00:04:53,970
+<i>Don't worry</i>
+
+57
+00:04:55,260 --> 00:04:56,680
+<i>Be happy</i>
+
+58
+00:04:57,930 --> 00:04:59,430
+<i>Happy Sunday</i>
+
+59
+00:05:00,850 --> 00:05:02,310
+<i>It's my life</i>
+
+60
+00:05:14,650 --> 00:05:15,780
+Thank you!
+
+61
+00:05:15,860 --> 00:05:17,110
+You rock!
+
+62
+00:05:22,950 --> 00:05:25,660
+How many times is this now?
+
+63
+00:05:26,580 --> 00:05:28,790
+Well, Ms Moromiri?
+
+64
+00:05:29,130 --> 00:05:30,840
+I am so sorry!
+
+65
+00:05:32,000 --> 00:05:33,050
+You, too.
+
+66
+00:05:34,670 --> 00:05:36,300
+We're sorry.
+
+67
+00:05:36,590 --> 00:05:38,470
+Enough is enough.
+
+68
+00:05:38,640 --> 00:05:41,350
+Ikehara, Maeshiro, Shinzato!
+
+69
+00:05:43,270 --> 00:05:44,350
+Fukumura!
+
+70
+00:05:45,180 --> 00:05:46,980
+You disappoint me.
+
+71
+00:05:48,060 --> 00:05:50,060
+Keep this up and you'll be banned
+
+72
+00:05:50,650 --> 00:05:52,860
+from the school festival.
+
+73
+00:05:52,940 --> 00:05:56,820
+Not just your band.
+All the other bands too.
+
+74
+00:05:57,610 --> 00:05:58,820
+We're sorry.
+
+75
+00:05:59,490 --> 00:06:01,030
+You need to shape up
+
+76
+00:06:01,580 --> 00:06:03,450
+and keep your friends in line!
+
+77
+00:06:06,750 --> 00:06:08,290
+What a prig.
+
+78
+00:06:08,710 --> 00:06:10,710
+- Shush.
+- What did you say?
+
+79
+00:06:11,420 --> 00:06:14,960
+What's his problem? Everybody liked it.
+
+80
+00:06:15,050 --> 00:06:17,470
+We can't get banned from the festival.
+
+81
+00:06:18,050 --> 00:06:19,970
+Shinzato! That was so cool!
+
+82
+00:06:20,050 --> 00:06:21,930
+- Really? Thanks.
+- You see?
+
+83
+00:06:22,890 --> 00:06:24,390
+Wait...
+
+84
+00:06:25,390 --> 00:06:27,680
+- Give me her number.
+- No way.
+
+85
+00:06:28,640 --> 00:06:30,520
+Oh... Shinji's sister.
+
+86
+00:06:33,650 --> 00:06:35,110
+Mai.
+
+87
+00:06:37,610 --> 00:06:38,780
+Don't tell Dad.
+
+88
+00:06:42,160 --> 00:06:43,780
+Are you stupid?
+
+89
+00:06:43,870 --> 00:06:44,950
+Be proud of what we did!
+
+90
+00:06:45,040 --> 00:06:47,040
+Everyone had a good time!
+
+91
+00:06:47,200 --> 00:06:48,910
+- Idiot.
+- Dummy.
+
+92
+00:06:50,460 --> 00:06:52,290
+Let's continue jamming!
+
+93
+00:06:53,460 --> 00:06:57,300
+You're banned from using the club room.
+
+94
+00:07:01,970 --> 00:07:03,300
+Move, Kotaro!
+
+95
+00:07:03,390 --> 00:07:05,260
+Yes, I win!
+
+96
+00:07:06,430 --> 00:07:07,850
+All right.
+
+97
+00:07:08,680 --> 00:07:10,140
+Mr Nema!
+
+98
+00:07:10,480 --> 00:07:12,400
+- Hey, Mr Nema!
+- Mr Nema!
+
+99
+00:07:12,480 --> 00:07:14,480
+- Mr Nema!
+- You there, Mr Nema?
+
+100
+00:07:14,560 --> 00:07:16,570
+- Let us use the studio!
+- Guys! Quiet!
+
+101
+00:07:18,070 --> 00:07:19,530
+He's here.
+
+102
+00:07:21,490 --> 00:07:22,700
+I told you about him.
+
+103
+00:07:23,700 --> 00:07:25,120
+The guy from a Tokyo record label
+
+104
+00:07:25,200 --> 00:07:26,620
+who's interested in your band.
+
+105
+00:07:26,990 --> 00:07:28,660
+Wait... wait!
+
+106
+00:07:29,450 --> 00:07:30,580
+Sorry, sir.
+
+107
+00:07:30,660 --> 00:07:31,920
+These are the boys I told you about.
+
+108
+00:07:36,710 --> 00:07:38,050
+Shibuya?
+
+109
+00:07:39,300 --> 00:07:41,720
+Have you ever been to Shibuya?
+
+110
+00:07:42,760 --> 00:07:46,300
+So, I'd like to ask you boys
+
+111
+00:07:47,930 --> 00:07:52,600
+if you're interested
+in going professional.
+
+112
+00:07:55,690 --> 00:07:57,070
+Going professional?
+
+113
+00:08:08,700 --> 00:08:10,080
+Wait up!
+
+114
+00:08:14,000 --> 00:08:15,670
+Hey! Which way is Tokyo?
+
+115
+00:08:15,750 --> 00:08:17,210
+Let me see...
+
+116
+00:08:21,340 --> 00:08:23,720
+- That way!
+- That way?
+
+117
+00:08:23,800 --> 00:08:25,550
+Are we really going to Tokyo?
+
+118
+00:08:25,640 --> 00:08:27,350
+After we graduate.
+
+119
+00:08:27,430 --> 00:08:29,390
+We can make it!
+
+120
+00:08:29,470 --> 00:08:30,930
+Our music rocks!
+
+121
+00:08:31,020 --> 00:08:32,350
+We can do it!
+
+122
+00:08:32,430 --> 00:08:35,310
+But Tokyo is where
+all the best bands are.
+
+123
+00:08:35,400 --> 00:08:37,270
+Bring them on!
+
+124
+00:08:37,360 --> 00:08:42,610
+Hey, Tokyo! We're going to kick butt!
+
+125
+00:08:42,690 --> 00:08:44,070
+Just you wait!
+
+126
+00:08:46,030 --> 00:08:47,240
+We did it, Tokyo!
+
+127
+00:08:47,320 --> 00:08:48,780
+We're coming!
+
+128
+00:08:48,870 --> 00:08:52,120
+Tokyo! T-Tokyo Tower.
+
+129
+00:08:52,200 --> 00:08:54,000
+You're an idiot.
+
+130
+00:08:55,120 --> 00:08:56,670
+Come on! Do it with me!
+
+131
+00:08:56,750 --> 00:08:58,460
+Tokyo Tower!
+
+132
+00:08:58,540 --> 00:09:01,760
+- Tokyo Tower!
+- You, too! Tokyo Tower!
+
+133
+00:09:01,840 --> 00:09:02,960
+Tokyo Tower.
+
+134
+00:09:04,420 --> 00:09:08,970
+Tokyo, why do we have to go to you?
+
+135
+00:09:09,050 --> 00:09:10,640
+You come to us!
+
+136
+00:09:10,720 --> 00:09:12,390
+Come to Okinawa!
+
+137
+00:09:12,470 --> 00:09:15,480
+Nishi-Nippori, right? Gotanda, right?
+
+138
+00:09:15,560 --> 00:09:17,980
+- Where's that?
+- Or Otsuka!
+
+139
+00:09:18,060 --> 00:09:20,230
+- You're such a hick.
+- See you!
+
+140
+00:09:20,320 --> 00:09:22,110
+Let's get sushi at Ginza!
+
+141
+00:09:22,190 --> 00:09:24,570
+- Whatever!
+- In your dreams!
+
+142
+00:09:25,780 --> 00:09:28,660
+Tokyo, huh?
+
+143
+00:09:29,030 --> 00:09:30,910
+This is serious stuff.
+
+144
+00:09:36,710 --> 00:09:38,290
+Are you going to tell
+
+145
+00:09:38,370 --> 00:09:40,000
+your American girlfriend, Lisa?
+
+146
+00:09:40,290 --> 00:09:41,920
+- About Tokyo.
+- What?
+
+147
+00:09:42,000 --> 00:09:44,170
+It's a good chance to ask her out.
+
+148
+00:09:44,260 --> 00:09:45,510
+"I want you."
+
+149
+00:09:45,590 --> 00:09:47,090
+Cut it out, idiot.
+
+150
+00:09:47,180 --> 00:09:48,640
+No, I'm serious.
+
+151
+00:09:49,840 --> 00:09:51,220
+Well...
+
+152
+00:09:51,970 --> 00:09:53,640
+I'll ask her out when we take Tokyo.
+
+153
+00:09:54,810 --> 00:09:58,230
+Wow, I didn't expect that from you.
+
+154
+00:09:58,650 --> 00:09:59,900
+You surprised me.
+
+155
+00:10:01,860 --> 00:10:04,280
+You've got to start with a kiss, right?
+
+156
+00:10:04,360 --> 00:10:05,530
+Right in her face.
+
+157
+00:10:05,610 --> 00:10:06,860
+Oh, shut up.
+
+158
+00:10:06,950 --> 00:10:09,450
+And she'll whimper, "Oh, Shinji..."
+
+159
+00:10:14,740 --> 00:10:17,040
+Somebody call an ambulance!
+
+160
+00:10:17,120 --> 00:10:18,160
+Hurry!
+
+161
+00:10:26,510 --> 00:10:27,760
+Daiki!
+
+162
+00:10:28,840 --> 00:10:30,090
+Daiki!
+
+163
+00:10:30,590 --> 00:10:31,850
+Daiki!
+
+164
+00:10:42,520 --> 00:10:44,360
+Are you Mrs Maeshiro?
+
+165
+00:10:44,440 --> 00:10:46,110
+- Yes.
+- This way.
+
+166
+00:11:11,220 --> 00:11:12,680
+Ryota.
+
+167
+00:11:13,720 --> 00:11:16,060
+Ryota! You're OK!
+
+168
+00:11:20,060 --> 00:11:21,900
+Thank goodness.
+
+169
+00:11:23,860 --> 00:11:25,520
+I'm so relieved.
+
+170
+00:11:28,070 --> 00:11:29,190
+Who are you?
+
+171
+00:11:35,830 --> 00:11:37,490
+Who the hell are you?
+
+172
+00:11:41,540 --> 00:11:44,420
+What are you talking about?
+
+173
+00:11:44,670 --> 00:11:47,250
+It's me, Shinji.
+
+174
+00:11:48,800 --> 00:11:50,420
+Amnesia?
+
+175
+00:11:51,380 --> 00:11:55,220
+Yes. The trauma of the incident
+
+176
+00:11:55,300 --> 00:11:59,890
+has caused some impairment to his memory.
+
+177
+00:12:02,350 --> 00:12:04,190
+I don't know you.
+
+178
+00:12:10,320 --> 00:12:12,070
+Get your hands off me!
+
+179
+00:12:12,450 --> 00:12:14,070
+Where are you taking me?
+
+180
+00:12:14,950 --> 00:12:16,200
+Hey...
+
+181
+00:12:17,030 --> 00:12:18,870
+You're just pulling my leg, right?
+
+182
+00:12:19,740 --> 00:12:21,250
+You are, aren't you?
+
+183
+00:12:21,910 --> 00:12:25,040
+Huh? What are you babbling about?
+
+184
+00:12:25,500 --> 00:12:26,540
+What's with you?
+
+185
+00:12:26,630 --> 00:12:28,420
+You really don't remember?
+
+186
+00:12:29,380 --> 00:12:30,630
+Me?
+
+187
+00:12:31,380 --> 00:12:32,420
+Our band?
+
+188
+00:12:34,430 --> 00:12:35,890
+Our band?
+
+189
+00:13:16,930 --> 00:13:18,470
+Get in here.
+
+190
+00:13:41,950 --> 00:13:43,330
+Do you remember?
+
+191
+00:13:45,710 --> 00:13:47,000
+Remember what?
+
+192
+00:13:48,120 --> 00:13:50,340
+You don't recognise this place?
+
+193
+00:13:52,460 --> 00:13:53,920
+Should I?
+
+194
+00:13:54,550 --> 00:13:55,590
+What is this about?
+
+195
+00:14:04,470 --> 00:14:05,520
+Look.
+
+196
+00:14:12,150 --> 00:14:13,610
+Here!
+
+197
+00:14:14,940 --> 00:14:18,240
+- Yo.
+- Yo.
+
+198
+00:14:18,320 --> 00:14:19,360
+Hey.
+
+199
+00:14:19,450 --> 00:14:20,660
+- Later.
+- Bye.
+
+200
+00:14:20,740 --> 00:14:22,160
+- Later.
+- See you.
+
+201
+00:14:22,870 --> 00:14:23,990
+You're early.
+
+202
+00:14:24,080 --> 00:14:26,660
+- Ryota came up with the lyrics.
+- Lyrics?
+
+203
+00:14:26,750 --> 00:14:29,000
+For the song I wrote yesterday.
+
+204
+00:14:31,040 --> 00:14:34,170
+Shinji, let's change the chorus.
+
+205
+00:14:34,710 --> 00:14:36,550
+To "I'd die to see you."
+
+206
+00:14:36,630 --> 00:14:38,590
+- "I'd die to see you?"
+- Yeah.
+
+207
+00:14:38,670 --> 00:14:40,010
+Try it.
+
+208
+00:14:46,430 --> 00:14:54,770
+<i>I'd die to see you</i>
+
+209
+00:14:55,480 --> 00:14:58,400
+<i>Die to see you</i>
+
+210
+00:15:00,110 --> 00:15:01,160
+Better?
+
+211
+00:15:01,740 --> 00:15:03,030
+- I like it.
+- Let's do it.
+
+212
+00:15:03,120 --> 00:15:04,410
+Yeah.
+
+213
+00:15:31,310 --> 00:15:32,770
+I don't believe you.
+
+214
+00:15:44,490 --> 00:15:47,200
+OK. Look over there.
+
+215
+00:15:50,250 --> 00:15:51,790
+Do you see it?
+
+216
+00:15:54,250 --> 00:15:55,710
+See what?
+
+217
+00:15:57,460 --> 00:15:59,710
+Our view from the stage.
+
+218
+00:16:14,560 --> 00:16:16,310
+Let's rock this place.
+
+219
+00:16:16,480 --> 00:16:17,690
+<i>Ura High Courtyard Live</i>
+
+220
+00:16:17,770 --> 00:16:20,690
+Oh yeah, we changed that part.
+
+221
+00:16:21,530 --> 00:16:22,610
+You're nervous.
+
+222
+00:16:22,700 --> 00:16:23,860
+- Hey, Ryota.
+- Hey.
+
+223
+00:16:23,950 --> 00:16:26,030
+- What are you playing?
+- An original.
+
+224
+00:16:26,120 --> 00:16:27,280
+Seriously? An original?
+
+225
+00:16:27,370 --> 00:16:29,370
+It'll blow you away. Just wait and see.
+
+226
+00:16:29,450 --> 00:16:31,000
+- Good luck!
+- You'd better get pumped!
+
+227
+00:16:31,080 --> 00:16:32,120
+- Good luck!
+- Yeah, man!
+
+228
+00:16:32,210 --> 00:16:33,500
+Ryota.
+
+229
+00:16:41,590 --> 00:16:43,720
+One, two, three!
+
+230
+00:16:47,430 --> 00:16:48,850
+Come on...
+
+231
+00:17:11,240 --> 00:17:16,040
+<i>When you were so kind to me</i>
+
+232
+00:17:16,620 --> 00:17:21,420
+<i>I learnt how small I really am</i>
+
+233
+00:17:22,050 --> 00:17:26,800
+<i>Ashamed for ever doubting you</i>
+
+234
+00:17:27,390 --> 00:17:32,390
+<i>You've made a believer out of me</i>
+
+235
+00:17:32,810 --> 00:17:37,560
+<i>The days flow by so quickly</i>
+
+236
+00:17:38,190 --> 00:17:42,940
+<i>I drift in an ever-changing world</i>
+
+237
+00:17:43,480 --> 00:17:48,200
+<i>But one thing that won't budge</i>
+
+238
+00:17:48,950 --> 00:17:53,700
+<i>Is my love for you</i>
+
+239
+00:17:53,790 --> 00:17:58,870
+<i>So don't you cry, my dearest</i>
+
+240
+00:17:58,960 --> 00:18:04,510
+<i>There's joy in the anguish of love</i>
+
+241
+00:18:04,590 --> 00:18:09,800
+<i>Before you know it, you will see</i>
+
+242
+00:18:09,890 --> 00:18:15,060
+<i>Just how much you mean to me</i>
+
+243
+00:18:15,640 --> 00:18:20,350
+<i>More today than yesterday we'll be</i>
+
+244
+00:18:21,060 --> 00:18:27,320
+<i>Before you know it, in my arms</i>
+
+245
+00:18:29,450 --> 00:18:36,750
+<i>I'd die to see you</i>
+
+246
+00:18:36,830 --> 00:18:39,170
+<i>Die to see you</i>
+
+247
+00:18:40,250 --> 00:18:47,590
+<i>I'd die to see you</i>
+
+248
+00:18:47,670 --> 00:18:50,640
+<i>Die to see you</i>
+
+249
+00:18:51,050 --> 00:18:58,270
+<i>I'd die to see you</i>
+
+250
+00:18:58,350 --> 00:18:59,940
+<i>Die to see you</i>
+
+251
+00:19:02,440 --> 00:19:08,110
+We won everyone's hearts
+with that first gig.
+
+252
+00:19:10,530 --> 00:19:12,410
+I knew from that one show
+
+253
+00:19:13,120 --> 00:19:15,200
+that we found our place.
+
+254
+00:19:16,660 --> 00:19:18,410
+How could you possibly forget
+
+255
+00:19:19,460 --> 00:19:21,620
+something so important?
+
+256
+00:19:44,860 --> 00:19:47,650
+Yeah! That's awesome!
+
+257
+00:19:47,730 --> 00:19:50,650
+You guys rock. You really do.
+
+258
+00:19:51,360 --> 00:19:56,910
+And I don't say that to just anyone.
+
+259
+00:19:56,990 --> 00:19:58,450
+Ever!
+
+260
+00:19:58,740 --> 00:20:00,580
+Mr Nema said that
+
+261
+00:20:01,290 --> 00:20:04,170
+and introduced us
+to a Tokyo record label.
+
+262
+00:20:04,710 --> 00:20:06,880
+You say that, but I don't remember...
+
+263
+00:20:06,960 --> 00:20:08,750
+Come on!
+
+264
+00:20:09,000 --> 00:20:11,380
+You can't possibly have
+forgotten it all!
+
+265
+00:20:14,090 --> 00:20:17,890
+All the time we spent making it happen.
+
+266
+00:20:31,610 --> 00:20:32,650
+Fine.
+
+267
+00:20:36,870 --> 00:20:40,330
+So I guess we're friends, then?
+
+268
+00:20:41,580 --> 00:20:44,670
+- Sorry, I forgot.
+- Not just friends!
+
+269
+00:20:47,420 --> 00:20:50,590
+You and I aren't just friends!
+
+270
+00:20:51,880 --> 00:20:53,880
+We're a band.
+
+271
+00:21:43,770 --> 00:21:45,230
+Hi.
+
+272
+00:21:47,850 --> 00:21:50,690
+You're Shinji's sister, right?
+
+273
+00:21:58,740 --> 00:22:00,700
+And Shinji?
+
+274
+00:22:01,950 --> 00:22:03,990
+What's he doing now?
+
+275
+00:22:42,660 --> 00:22:44,120
+Wait a second.
+
+276
+00:22:48,040 --> 00:22:50,040
+- Here you go.
+- Thanks.
+
+277
+00:22:52,330 --> 00:22:54,210
+- On the rocks?
+- That's fine.
+
+278
+00:22:54,300 --> 00:22:55,630
+OK. Enjoy.
+
+279
+00:22:55,710 --> 00:22:57,170
+Is Ryota in?
+
+280
+00:22:57,920 --> 00:23:00,300
+Ryota! Shinji's here!
+
+281
+00:23:01,680 --> 00:23:03,140
+Sorry. No response.
+
+282
+00:23:03,220 --> 00:23:04,640
+- That's Okay.
+- Oh, sorry!
+
+283
+00:23:06,060 --> 00:23:07,310
+Ryota.
+
+284
+00:23:07,770 --> 00:23:09,020
+Ryota.
+
+285
+00:23:10,060 --> 00:23:12,230
+- Let's go.
+- Where to?
+
+286
+00:23:12,310 --> 00:23:13,860
+- You'll see.
+- What?
+
+287
+00:23:18,110 --> 00:23:21,320
+I thought we were going to your place.
+
+288
+00:23:41,680 --> 00:23:43,010
+Lisa.
+
+289
+00:23:44,600 --> 00:23:45,640
+Hi, Ryota.
+
+290
+00:23:48,060 --> 00:23:51,100
+I ran into her on the way over.
+
+291
+00:23:51,190 --> 00:23:53,520
+We meet here a lot.
+
+292
+00:23:53,600 --> 00:23:55,400
+At this fence?
+
+293
+00:23:55,480 --> 00:23:58,570
+She hasn't been on
+this side of the fence.
+
+294
+00:23:59,610 --> 00:24:01,740
+What do you do here?
+
+295
+00:24:02,860 --> 00:24:03,910
+What?
+
+296
+00:24:03,990 --> 00:24:05,820
+What did he say?
+
+297
+00:24:07,740 --> 00:24:10,290
+What do you do here?
+
+298
+00:24:11,040 --> 00:24:12,250
+Us?
+
+299
+00:24:12,500 --> 00:24:13,580
+Yes.
+
+300
+00:24:13,670 --> 00:24:19,590
+Shinji lets me listen to his songs.
+
+301
+00:24:19,840 --> 00:24:20,880
+Songs?
+
+302
+00:24:20,970 --> 00:24:22,420
+Yeah, like this.
+
+303
+00:24:26,760 --> 00:24:27,810
+Through the ear buds.
+
+304
+00:24:31,100 --> 00:24:33,100
+Across international borders!
+
+305
+00:24:33,480 --> 00:24:34,900
+- What?
+- I mean...
+
+306
+00:24:34,980 --> 00:24:36,020
+This is Okinawa
+
+307
+00:24:36,110 --> 00:24:37,520
+that's an American military base.
+
+308
+00:24:37,900 --> 00:24:41,110
+You're crossing national lines!
+
+309
+00:24:41,190 --> 00:24:42,860
+Not physically.
+
+310
+00:24:43,490 --> 00:24:45,030
+I know, but...
+
+311
+00:24:47,200 --> 00:24:48,740
+You make an interesting couple.
+
+312
+00:24:51,750 --> 00:24:52,910
+Shinji.
+
+313
+00:24:53,580 --> 00:24:57,170
+This song... did you write this too?
+
+314
+00:24:57,630 --> 00:24:58,880
+Yes.
+
+315
+00:25:39,380 --> 00:25:43,510
+I think you should
+tell Lisa you like her.
+
+316
+00:25:43,710 --> 00:25:45,130
+Say "I want you!"
+
+317
+00:25:48,550 --> 00:25:50,050
+I know.
+
+318
+00:25:50,140 --> 00:25:51,760
+Invite her to our next gig.
+
+319
+00:25:53,640 --> 00:25:54,850
+The school festival!
+
+320
+00:25:54,930 --> 00:25:57,770
+That would be the perfect chance, right?
+
+321
+00:26:03,940 --> 00:26:05,240
+Hey...
+
+322
+00:26:06,570 --> 00:26:07,740
+What do you say?
+
+323
+00:26:10,320 --> 00:26:11,780
+Listen.
+
+324
+00:26:22,250 --> 00:26:24,050
+It's not funny.
+
+325
+00:26:26,090 --> 00:26:27,420
+You idiot.
+
+326
+00:26:30,510 --> 00:26:31,550
+I'm sorry.
+
+327
+00:26:32,430 --> 00:26:34,560
+Why have you forgotten?
+
+328
+00:26:37,310 --> 00:26:38,810
+I said, I'm sorry.
+
+329
+00:26:41,060 --> 00:26:42,520
+Hell.
+
+330
+00:26:43,320 --> 00:26:45,280
+I wish you'd remember.
+
+331
+00:26:47,780 --> 00:26:50,530
+I really wish you'd remember.
+
+332
+00:26:55,120 --> 00:26:56,450
+My bad.
+
+333
+00:27:16,270 --> 00:27:17,930
+My god.
+
+334
+00:27:22,560 --> 00:27:24,400
+What's up? What's wrong?
+
+335
+00:27:39,200 --> 00:27:40,790
+Shinji...
+
+336
+00:27:41,620 --> 00:27:43,080
+I'm glad.
+
+337
+00:27:45,210 --> 00:27:46,880
+I'm really glad.
+
+338
+00:27:56,180 --> 00:27:58,520
+Call an ambulance! Hurry!
+
+339
+00:28:19,200 --> 00:28:20,500
+Shinji...
+
+340
+00:28:26,340 --> 00:28:27,590
+Shinji...
+
+341
+00:28:28,210 --> 00:28:29,670
+Shinji!
+
+342
+00:28:33,510 --> 00:28:36,510
+Hey... come on, Shinji!
+
+343
+00:29:06,830 --> 00:29:08,090
+Are you OK?
+
+344
+00:29:08,170 --> 00:29:12,050
+In highly stressful situations
+
+345
+00:29:12,130 --> 00:29:16,220
+the mind can suppress certain memories
+
+346
+00:29:16,300 --> 00:29:19,220
+as a form of self-defence.
+
+347
+00:29:21,720 --> 00:29:23,560
+To prevent further trauma
+
+348
+00:29:23,640 --> 00:29:26,140
+from recalling the stressful event.
+
+349
+00:30:00,720 --> 00:30:02,100
+It can't be.
+
+350
+00:30:04,850 --> 00:30:06,310
+I'm glad.
+
+351
+00:30:08,900 --> 00:30:12,650
+I'm so glad you're safe.
+
+352
+00:30:16,400 --> 00:30:18,200
+Don't say that, Shinji.
+
+353
+00:30:20,280 --> 00:30:22,660
+You can't forget us, OK?
+
+354
+00:30:25,580 --> 00:30:30,130
+You made our band complete.
+
+355
+00:30:32,880 --> 00:30:35,050
+You put lyrics
+
+356
+00:30:35,460 --> 00:30:38,300
+to my songs and gave them life.
+
+357
+00:30:40,260 --> 00:30:42,850
+You can't forget any of that.
+
+358
+00:30:42,930 --> 00:30:44,390
+Hold on a second.
+
+359
+00:30:45,930 --> 00:30:47,810
+Tell me this isn't happening.
+
+360
+00:30:49,770 --> 00:30:51,860
+You know what, Ryota?
+
+361
+00:30:52,690 --> 00:30:54,360
+Being in a band with you
+
+362
+00:30:54,690 --> 00:30:55,820
+was the best thing in my life.
+
+363
+00:30:55,900 --> 00:30:57,190
+Stop it!
+
+364
+00:30:57,740 --> 00:31:00,700
+I'll never forgive you if you do this!
+
+365
+00:31:02,030 --> 00:31:03,280
+I'm so glad.
+
+366
+00:31:05,580 --> 00:31:09,210
+I'm glad you finally remember.
+
+367
+00:31:09,290 --> 00:31:13,420
+Shinji, stop saying that! Don't go!
+
+368
+00:31:13,920 --> 00:31:17,920
+- Wait!
+- See you around, Ryota.
+
+369
+00:31:18,260 --> 00:31:19,930
+Shinji, no!
+
+370
+00:31:20,010 --> 00:31:21,050
+Shinji!
+
+371
+00:31:21,840 --> 00:31:23,300
+Shinji!
+
+372
+00:31:23,680 --> 00:31:24,930
+Shinji!
+
+373
+00:32:21,860 --> 00:32:25,280
+<i>Okinawa police are still
+looking for clues</i>
+
+374
+00:32:25,370 --> 00:32:27,530
+<i>in the fatal hit-and-run</i>
+
+375
+00:32:27,620 --> 00:32:30,830
+<i>of a high school student on the 3rd...</i>
+
+376
+00:32:30,910 --> 00:32:33,670
+<i>They're following up on a witness report</i>
+
+377
+00:32:33,750 --> 00:32:37,710
+<i>that it was a
+US military base vehicle...</i>
+
+378
+00:32:37,790 --> 00:32:41,880
+<i>The central government
+is investigating the case</i>
+
+379
+00:32:41,970 --> 00:32:45,180
+<i>through its foreign ministry.</i>
+
+380
+00:32:45,260 --> 00:32:47,100
+<i>The perpetrator has still
+not been found.</i>
+
+381
+00:32:47,180 --> 00:32:51,100
+<i>Meanwhile, citizen groups have begun</i>
+
+382
+00:32:51,180 --> 00:32:53,270
+<i>protests around the military base...</i>
+
+383
+00:33:29,550 --> 00:33:33,680
+Ryota suffered only minor injuries.
+
+384
+00:33:33,770 --> 00:33:36,440
+I think he has been discharged.
+
+385
+00:33:40,150 --> 00:33:41,610
+I see.
+
+386
+00:33:45,780 --> 00:33:47,700
+I still can't believe it.
+
+387
+00:33:51,410 --> 00:33:55,620
+Daiki has joined another band
+
+388
+00:33:55,910 --> 00:33:57,870
+so he can play in the school festival.
+
+389
+00:33:58,670 --> 00:34:01,380
+Bassists are in great demand.
+
+390
+00:34:09,970 --> 00:34:11,350
+And you?
+
+391
+00:34:12,100 --> 00:34:13,470
+What will you do?
+
+392
+00:34:14,390 --> 00:34:15,850
+I was in the band...
+
+393
+00:34:20,060 --> 00:34:22,860
+because I love those guys.
+
+394
+00:34:50,340 --> 00:34:51,600
+Ryota!
+
+395
+00:34:52,350 --> 00:34:53,600
+Ryota!
+
+396
+00:34:57,560 --> 00:34:58,850
+Ryota!
+
+397
+00:34:59,730 --> 00:35:00,980
+Ryota!
+
+398
+00:35:04,320 --> 00:35:05,610
+Ryota!
+
+399
+00:35:13,120 --> 00:35:15,410
+Answer me when I call you.
+
+400
+00:35:15,490 --> 00:35:17,870
+Are your ears stuffed with wax?
+
+401
+00:35:18,250 --> 00:35:20,620
+It's Kotaro again.
+
+402
+00:35:21,630 --> 00:35:23,500
+He has been calling all morning.
+
+403
+00:35:23,590 --> 00:35:25,420
+Oh, he hung up.
+
+404
+00:35:40,940 --> 00:35:42,400
+Here.
+
+405
+00:36:03,830 --> 00:36:06,380
+Have you picked up your soul?
+
+406
+00:36:06,670 --> 00:36:08,000
+Your grandma thinks it got left
+
+407
+00:36:08,090 --> 00:36:11,130
+at the scene of the incident.
+
+408
+00:36:11,300 --> 00:36:13,130
+You need to go retrieve it.
+
+409
+00:36:21,850 --> 00:36:24,310
+This is important!
+
+410
+00:36:25,900 --> 00:36:27,730
+Yeah, all right.
+
+411
+00:36:42,710 --> 00:36:44,580
+Your soul, huh...
+
+412
+00:36:50,550 --> 00:36:53,680
+<i>Stop kowtowing to the US military!</i>
+
+413
+00:36:53,760 --> 00:36:56,220
+<i>Shinji will not rest in peace!</i>
+
+414
+00:37:09,400 --> 00:37:10,690
+Ryota!
+
+415
+00:37:12,070 --> 00:37:13,610
+How about this?
+
+416
+00:37:54,940 --> 00:37:57,490
+Maybe she came to do the same thing.
+
+417
+00:37:57,910 --> 00:37:59,370
+Retrieve Shinji's soul.
+
+418
+00:38:35,110 --> 00:38:36,150
+I'm home.
+
+419
+00:38:38,200 --> 00:38:39,660
+You're back.
+
+420
+00:38:44,290 --> 00:38:47,120
+Any word from the police?
+
+421
+00:38:50,000 --> 00:38:52,790
+They're dithering.
+
+422
+00:38:53,710 --> 00:38:56,260
+How hard can it be to
+track down the driver?
+
+423
+00:38:59,180 --> 00:39:00,890
+They're dragging their heels.
+
+424
+00:39:02,640 --> 00:39:06,640
+The driver must be
+someone from the base.
+
+425
+00:39:06,720 --> 00:39:08,140
+You don't know that!
+
+426
+00:39:08,230 --> 00:39:10,350
+But if it's true, what will you do?
+
+427
+00:39:11,150 --> 00:39:13,770
+Can you continue working there?
+
+428
+00:39:15,020 --> 00:39:18,610
+We'll cross that bridge
+when we get there.
+
+429
+00:39:18,700 --> 00:39:21,110
+You need to prepare yourself.
+
+430
+00:39:21,570 --> 00:39:24,240
+I mean, if it's true
+
+431
+00:39:24,330 --> 00:39:25,950
+you can't return to the base, can you?
+
+432
+00:39:26,790 --> 00:39:29,040
+Can you change jobs so
+you don't have to go?
+
+433
+00:39:29,120 --> 00:39:30,580
+I said...
+
+434
+00:39:31,750 --> 00:39:33,840
+we don't know anything yet.
+
+435
+00:39:33,920 --> 00:39:36,460
+There's no point thinking about it.
+
+436
+00:39:50,980 --> 00:39:52,940
+According to eyewitness testimony
+
+437
+00:39:53,020 --> 00:39:55,570
+the getaway vehicle had a Y number plate
+
+438
+00:39:55,650 --> 00:39:58,480
+of a vehicle from the US military base.
+
+439
+00:39:58,570 --> 00:40:00,740
+In response,
+local residents have gathered
+
+440
+00:40:00,820 --> 00:40:03,450
+in protest outside the Kerana Air Base
+
+441
+00:40:03,530 --> 00:40:05,280
+near the site of the accident.
+
+442
+00:40:05,370 --> 00:40:07,160
+The fugitive remains at large
+
+443
+00:40:07,240 --> 00:40:09,540
+but as a
+military connection is suspected
+
+444
+00:40:09,620 --> 00:40:11,870
+we urge all military personnel to...
+
+445
+00:40:12,250 --> 00:40:14,540
+I hope it wasn't one of us.
+
+446
+00:40:15,920 --> 00:40:17,380
+This hit-and-run case.
+
+447
+00:40:18,590 --> 00:40:19,670
+If this were really true
+
+448
+00:40:19,760 --> 00:40:21,880
+we'd all leave them a bad impression.
+
+449
+00:40:21,970 --> 00:40:23,720
+Just because of one rotten apple.
+
+450
+00:40:24,300 --> 00:40:26,550
+We could even be restricted to the base.
+
+451
+00:40:26,640 --> 00:40:27,720
+Right?
+
+452
+00:40:28,060 --> 00:40:30,270
+The MPs are investigating.
+
+453
+00:40:30,600 --> 00:40:32,640
+- Right?
+- Yeah.
+
+454
+00:40:33,140 --> 00:40:35,440
+Well, I guess it's not as easy
+
+455
+00:40:35,520 --> 00:40:37,070
+as it could be back home.
+
+456
+00:40:39,320 --> 00:40:42,950
+Hope we can go back soon...
+
+457
+00:40:44,530 --> 00:40:46,700
+Lisa, dinner's ready!
+
+458
+00:42:09,240 --> 00:42:11,490
+<i>Untitled</i>
+
+459
+00:42:51,950 --> 00:42:53,200
+Hey.
+
+460
+00:42:57,000 --> 00:42:58,580
+Do you have a minute?
+
+461
+00:43:08,260 --> 00:43:09,720
+What is this about?
+
+462
+00:43:12,640 --> 00:43:16,470
+I found this song
+on my brother's laptop.
+
+463
+00:43:31,780 --> 00:43:33,030
+What is this?
+
+464
+00:43:33,990 --> 00:43:37,450
+I think it was his new song.
+
+465
+00:43:38,000 --> 00:43:40,040
+I've never heard it before.
+
+466
+00:43:42,210 --> 00:43:45,880
+You know all of your brother's songs?
+
+467
+00:44:00,810 --> 00:44:03,770
+So... what about it?
+
+468
+00:44:07,690 --> 00:44:10,900
+I want you to play this song.
+
+469
+00:44:12,450 --> 00:44:14,370
+Play it? Why?
+
+470
+00:44:14,910 --> 00:44:18,580
+It'd be a shame if this song
+goes unheard.
+
+471
+00:44:22,040 --> 00:44:25,080
+Who's going to play it?
+
+472
+00:44:25,170 --> 00:44:26,880
+Let's do it, Ryota.
+
+473
+00:44:28,550 --> 00:44:29,920
+We'll play it.
+
+474
+00:44:30,010 --> 00:44:32,180
+We? What are you talking about?
+
+475
+00:44:32,260 --> 00:44:34,140
+We don't have a guitarist or a bassist.
+
+476
+00:44:34,220 --> 00:44:36,300
+We'll find a guitarist.
+
+477
+00:44:36,390 --> 00:44:38,060
+Like who?
+
+478
+00:44:38,140 --> 00:44:40,390
+Everyone's busy with the festival.
+
+479
+00:44:40,470 --> 00:44:42,770
+There's no one left.
+
+480
+00:45:05,040 --> 00:45:06,710
+You play the guitar?
+
+481
+00:45:25,940 --> 00:45:27,360
+Daiki!
+
+482
+00:45:29,440 --> 00:45:30,690
+Daiki.
+
+483
+00:45:31,440 --> 00:45:32,690
+Shinji...
+
+484
+00:45:32,780 --> 00:45:35,280
+Shinji had written a new song.
+
+485
+00:45:36,530 --> 00:45:38,740
+Let's do it together. One more time.
+
+486
+00:45:38,820 --> 00:45:40,790
+- What do you mean?
+- Never mind. Just come!
+
+487
+00:45:40,870 --> 00:45:42,910
+Wait! I can't!
+
+488
+00:45:44,870 --> 00:45:46,580
+What are you saying?
+
+489
+00:45:47,210 --> 00:45:49,630
+I've already joined Kengo's band.
+
+490
+00:45:57,640 --> 00:45:59,260
+Sorry, but still...
+
+491
+00:45:59,350 --> 00:46:00,930
+No buts.
+
+492
+00:46:03,390 --> 00:46:05,480
+The festival is coming up soon.
+
+493
+00:46:06,310 --> 00:46:08,190
+I joined late...
+
+494
+00:46:08,350 --> 00:46:10,520
+so I have to rehearse
+like crazy to catch up.
+
+495
+00:46:19,030 --> 00:46:20,740
+I can't join you.
+
+496
+00:46:39,010 --> 00:46:41,350
+Oh, where did Ryota go?
+
+497
+00:46:53,860 --> 00:46:56,070
+Ryota... Ryota!
+
+498
+00:46:56,650 --> 00:47:00,280
+Sing! I want you to sing!
+
+499
+00:47:00,990 --> 00:47:02,330
+Ryota!
+
+500
+00:47:10,580 --> 00:47:12,670
+- Ryota...
+- I can't!
+
+501
+00:47:15,340 --> 00:47:19,220
+I sing with my heart.
+
+502
+00:47:20,090 --> 00:47:22,300
+I sang <i>Don't Worry, Be Happy</i>
+
+503
+00:47:22,390 --> 00:47:24,720
+to cheer everyone up.
+
+504
+00:47:25,560 --> 00:47:28,640
+I can't sing it if I don't feel it!
+
+505
+00:47:32,060 --> 00:47:34,270
+I bare my soul when I sing.
+
+506
+00:47:34,480 --> 00:47:36,780
+Everyone will know if I fake it!
+
+507
+00:47:39,780 --> 00:47:41,240
+I can't...
+
+508
+00:47:42,530 --> 00:47:44,450
+I can't even imagine singing right now!
+
+509
+00:47:51,080 --> 00:47:52,540
+I envy you.
+
+510
+00:47:54,290 --> 00:47:56,090
+You just have to wave
+your drumsticks around.
+
+511
+00:48:01,720 --> 00:48:03,800
+How dare you!
+
+512
+00:48:06,510 --> 00:48:07,770
+You!
+
+513
+00:48:11,730 --> 00:48:12,980
+Idiot!
+
+514
+00:48:14,810 --> 00:48:17,730
+You have no idea
+
+515
+00:48:17,940 --> 00:48:19,740
+what I'm going through!
+
+516
+00:48:19,820 --> 00:48:21,490
+Right back at you!
+
+517
+00:48:23,320 --> 00:48:24,870
+We have to do this!
+
+518
+00:48:24,950 --> 00:48:27,490
+Who else will, if not us?
+
+519
+00:48:27,620 --> 00:48:30,370
+How can you act like
+everything's normal?
+
+520
+00:48:30,450 --> 00:48:32,120
+I do it for Shinji!
+
+521
+00:48:32,210 --> 00:48:33,580
+Shinji's dead!
+
+522
+00:48:33,670 --> 00:48:37,090
+If you don't sing for him, nobody will!
+
+523
+00:48:40,510 --> 00:48:42,510
+Ouch.
+
+524
+00:49:32,680 --> 00:49:34,270
+What are you looking at?
+
+525
+00:49:38,360 --> 00:49:43,650
+I was thinking, all it takes is a swing.
+
+526
+00:49:44,280 --> 00:49:46,610
+An awesome thing it is, that swing.
+
+527
+00:49:50,660 --> 00:49:51,910
+Shinji.
+
+528
+00:49:52,750 --> 00:49:53,790
+I heard your song.
+
+529
+00:49:54,210 --> 00:49:55,960
+What do you think?
+
+530
+00:49:56,170 --> 00:49:57,670
+You're awesome too.
+
+531
+00:49:57,790 --> 00:49:59,290
+It's a really good tune.
+
+532
+00:50:00,250 --> 00:50:01,380
+Yeah?
+
+533
+00:50:01,460 --> 00:50:03,760
+Did you play it for her?
+
+534
+00:50:03,840 --> 00:50:05,300
+For who?
+
+535
+00:50:05,670 --> 00:50:07,840
+- Lisa.
+- Of course not.
+
+536
+00:50:08,430 --> 00:50:10,260
+Not before you've put lyrics to it.
+
+537
+00:50:18,230 --> 00:50:19,690
+In that case...
+
+538
+00:50:20,520 --> 00:50:22,190
+I'll make it a love song.
+
+539
+00:50:24,690 --> 00:50:26,110
+A love song?
+
+540
+00:50:27,070 --> 00:50:28,530
+Why not?
+
+541
+00:50:28,950 --> 00:50:30,410
+You?
+
+542
+00:50:30,820 --> 00:50:32,790
+Shut up.
+
+543
+00:50:33,200 --> 00:50:36,210
+I'll write a killer love song.
+
+544
+00:50:36,460 --> 00:50:38,000
+Just you wait.
+
+545
+00:50:39,120 --> 00:50:40,540
+A love song so good
+
+546
+00:50:40,630 --> 00:50:43,130
+you can use it to ask Lisa out
+
+547
+00:50:43,210 --> 00:50:44,420
+and get a kiss from her.
+
+548
+00:50:44,510 --> 00:50:45,970
+Stop it.
+
+549
+00:51:13,370 --> 00:51:14,620
+- Nice.
+- Great, huh?
+
+550
+00:51:14,700 --> 00:51:15,950
+Yeah.
+
+551
+00:51:26,670 --> 00:51:32,220
+<i>Here, I'm right beside you</i>
+
+552
+00:51:33,180 --> 00:51:41,230
+<i>Like a loved one ought to be</i>
+
+553
+00:51:42,900 --> 00:51:47,740
+<i>With a little love song</i>
+
+554
+00:51:48,780 --> 00:51:57,120
+<i>Delivered to your ears only</i>
+
+555
+00:52:14,640 --> 00:52:16,100
+Ryota?
+
+556
+00:52:16,640 --> 00:52:17,680
+Ryota.
+
+557
+00:52:17,770 --> 00:52:19,770
+Ryota, is that you?
+
+558
+00:52:20,140 --> 00:52:22,440
+Oh, I didn't expect to see you here.
+
+559
+00:52:23,770 --> 00:52:25,020
+Hi.
+
+560
+00:52:28,820 --> 00:52:30,070
+How are you?
+
+561
+00:52:31,450 --> 00:52:32,490
+Good.
+
+562
+00:52:33,490 --> 00:52:34,740
+How are you?
+
+563
+00:52:35,660 --> 00:52:37,530
+Well...
+
+564
+00:52:41,410 --> 00:52:45,920
+Actually, I was hoping
+to tell you something.
+
+565
+00:52:47,750 --> 00:52:49,000
+Tell me.
+
+566
+00:52:51,630 --> 00:52:54,590
+I'm leaving Okinawa.
+
+567
+00:52:55,470 --> 00:52:56,970
+Soon.
+
+568
+00:52:58,970 --> 00:53:00,310
+Leaving?
+
+569
+00:53:00,520 --> 00:53:01,810
+Yeah.
+
+570
+00:53:02,480 --> 00:53:03,520
+In...
+
+571
+00:53:03,730 --> 00:53:06,480
+one month, I think?
+
+572
+00:53:07,820 --> 00:53:10,980
+My father is transferring.
+
+573
+00:53:12,530 --> 00:53:14,280
+Transfer?
+
+574
+00:53:14,860 --> 00:53:17,030
+Transferring.
+
+575
+00:53:20,160 --> 00:53:24,790
+We're going back to the States.
+
+576
+00:53:24,870 --> 00:53:28,130
+Back to America.
+
+577
+00:53:29,630 --> 00:53:30,670
+I see.
+
+578
+00:53:37,510 --> 00:53:41,970
+Shinji had asked me
+
+579
+00:53:42,060 --> 00:53:45,980
+to come see your band play.
+
+580
+00:53:46,770 --> 00:53:47,900
+Shinji did?
+
+581
+00:53:48,730 --> 00:53:53,280
+I'd have been able to see you sing too
+
+582
+00:53:53,360 --> 00:53:54,950
+if I had gone.
+
+583
+00:53:57,990 --> 00:53:59,370
+It's too bad.
+
+584
+00:54:14,170 --> 00:54:15,300
+OK then.
+
+585
+00:54:15,470 --> 00:54:16,510
+Come!
+
+586
+00:54:17,970 --> 00:54:19,390
+Come to <i>gakusai!</i>
+
+587
+00:54:21,560 --> 00:54:22,810
+The school festival.
+
+588
+00:54:23,560 --> 00:54:24,600
+What?
+
+589
+00:54:24,770 --> 00:54:25,850
+I'm singing.
+
+590
+00:54:26,690 --> 00:54:29,310
+I'm singing Shinji's song.
+
+591
+00:54:31,860 --> 00:54:33,440
+His song's great.
+
+592
+00:54:34,030 --> 00:54:36,650
+So, I'm singing.
+
+593
+00:54:38,450 --> 00:54:41,620
+You're sure it's one month, right?
+
+594
+00:54:41,870 --> 00:54:44,120
+- Yeah.
+- Please come!
+
+595
+00:54:44,500 --> 00:54:45,540
+Really?
+
+596
+00:54:46,790 --> 00:54:49,420
+OK... I'll be there!
+
+597
+00:54:58,050 --> 00:54:59,550
+I'm sorry.
+
+598
+00:54:59,760 --> 00:55:00,970
+Please be our guitarist.
+
+599
+00:55:04,680 --> 00:55:07,640
+I'll have to play bass.
+
+600
+00:55:07,730 --> 00:55:08,850
+I'm 17.
+
+601
+00:55:08,940 --> 00:55:10,100
+Really?
+
+602
+00:55:10,190 --> 00:55:11,440
+Mum.
+
+603
+00:55:12,270 --> 00:55:13,730
+Let me borrow this.
+
+604
+00:55:14,110 --> 00:55:15,360
+Hey, wait.
+
+605
+00:55:16,820 --> 00:55:18,490
+I think she's adorable.
+
+606
+00:55:19,490 --> 00:55:20,660
+I approve.
+
+607
+00:55:20,740 --> 00:55:22,990
+What? She's Shinji's sister.
+
+608
+00:55:27,290 --> 00:55:29,160
+- I'm taking this.
+- Oh, sure.
+
+609
+00:55:35,050 --> 00:55:36,300
+Kotaro.
+
+610
+00:56:06,410 --> 00:56:07,660
+Let's go.
+
+611
+00:56:17,000 --> 00:56:18,380
+Ouch.
+
+612
+00:56:22,630 --> 00:56:23,930
+Hey!
+
+613
+00:56:28,600 --> 00:56:30,810
+<i>Hit-and-Run Investigation Hits A Snag</i>
+
+614
+00:56:31,850 --> 00:56:35,770
+<i>Citizens Protest at US Base</i>
+
+615
+00:56:38,860 --> 00:56:40,190
+Mr Nema!
+
+616
+00:56:40,280 --> 00:56:41,530
+Hey.
+
+617
+00:56:54,830 --> 00:56:56,080
+A girl?
+
+618
+00:57:03,840 --> 00:57:05,680
+Then do this...
+
+619
+00:57:07,010 --> 00:57:08,060
+Thank you.
+
+620
+00:57:12,230 --> 00:57:14,140
+A three-piece band, huh? Cool.
+
+621
+00:57:15,020 --> 00:57:16,400
+- Really?
+- Really.
+
+622
+00:57:17,730 --> 00:57:21,070
+I didn't know his little sister plays.
+
+623
+00:57:43,670 --> 00:57:46,840
+Mai, hit the pedal.
+
+624
+00:57:48,970 --> 00:57:50,100
+Too loud.
+
+625
+00:57:50,180 --> 00:57:52,100
+First time on an amplifier?
+
+626
+00:57:52,930 --> 00:57:54,350
+You can strum now.
+
+627
+00:58:02,150 --> 00:58:03,400
+That should work.
+
+628
+00:58:20,590 --> 00:58:21,880
+Hold on.
+
+629
+00:58:22,710 --> 00:58:24,840
+You know all of Shinji's songs?
+
+630
+00:58:26,930 --> 00:58:28,220
+Show us.
+
+631
+00:59:07,380 --> 00:59:08,550
+Good... good!
+
+632
+00:59:08,630 --> 00:59:09,970
+Real good.
+
+633
+00:59:11,970 --> 00:59:13,510
+I need to buck up.
+
+634
+00:59:16,480 --> 00:59:17,560
+Tell me, Ryota.
+
+635
+00:59:18,020 --> 00:59:20,400
+How did the three of you get together?
+
+636
+00:59:20,810 --> 00:59:22,400
+My brother's song...
+
+637
+00:59:22,480 --> 00:59:24,150
+For the school festival.
+
+638
+00:59:26,440 --> 00:59:29,400
+Yeah, we're performing. The three of us.
+
+639
+00:59:29,490 --> 00:59:32,280
+- No way!
+- Does the teacher know?
+
+640
+00:59:37,830 --> 00:59:39,460
+You're telling me this now?
+
+641
+00:59:39,870 --> 00:59:43,090
+Listen. We've already drafted the setlist.
+
+642
+00:59:43,670 --> 00:59:45,420
+Every band has been assigned a slot
+
+643
+00:59:45,500 --> 00:59:48,260
+and are rehearsing their songs.
+
+644
+00:59:48,840 --> 00:59:50,180
+Isn't that right, Ms Moromiri?
+
+645
+00:59:50,260 --> 00:59:52,930
+Well, yes, but...
+
+646
+00:59:55,310 --> 00:59:56,560
+So...
+
+647
+00:59:59,640 --> 01:00:01,690
+we can play if the
+other bands are okay with it?
+
+648
+01:00:02,940 --> 01:00:04,560
+Is that what you're saying?
+
+649
+01:00:06,530 --> 01:00:09,400
+Please! Just this once!
+
+650
+01:00:17,410 --> 01:00:18,870
+I guess it's OK.
+
+651
+01:00:20,000 --> 01:00:21,040
+Really?
+
+652
+01:00:21,120 --> 01:00:22,500
+Hey, are you guys going to do
+
+653
+01:00:22,580 --> 01:00:24,000
+something crazy again?
+
+654
+01:00:24,080 --> 01:00:25,710
+We won't. I promise!
+
+655
+01:00:26,170 --> 01:00:28,000
+Do you mean it?
+
+656
+01:00:28,630 --> 01:00:30,630
+- Yeah...
+- Thank you!
+
+657
+01:00:30,720 --> 01:00:33,180
+- Thank you!
+- Okay..
+
+658
+01:00:34,090 --> 01:00:36,890
+OK, guys. Let's shorten our set
+
+659
+01:00:36,970 --> 01:00:38,810
+so they can perform.
+
+660
+01:00:39,310 --> 01:00:41,020
+Thanks, guys!
+
+661
+01:00:41,100 --> 01:00:42,690
+Thank you all.
+
+662
+01:01:10,300 --> 01:01:11,880
+- Hi.
+- Hi.
+
+663
+01:01:16,340 --> 01:01:18,390
+You know...
+
+664
+01:01:18,640 --> 01:01:20,720
+I thought you were Shinji.
+
+665
+01:01:20,810 --> 01:01:23,480
+There's a guitar on your back.
+
+666
+01:01:27,310 --> 01:01:30,360
+I started playing the guitar
+
+667
+01:01:31,030 --> 01:01:33,900
+and I joined a band.
+
+668
+01:01:34,780 --> 01:01:36,320
+A band?
+
+669
+01:01:36,490 --> 01:01:38,280
+Ryota's band?
+
+670
+01:01:39,580 --> 01:01:40,660
+Really?
+
+671
+01:01:41,120 --> 01:01:44,160
+Great! That's... awesome!
+
+672
+01:01:44,540 --> 01:01:46,210
+So, it's you!
+
+673
+01:01:46,290 --> 01:01:48,210
+You're playing with Ryota
+
+674
+01:01:48,290 --> 01:01:49,500
+at the school festival.
+
+675
+01:01:49,590 --> 01:01:51,500
+Yeah, the school festival.
+
+676
+01:01:52,170 --> 01:01:55,380
+School festival... it will be
+
+677
+01:01:55,470 --> 01:01:56,590
+great!
+
+678
+01:01:56,680 --> 01:01:59,350
+So, please come.
+
+679
+01:02:01,060 --> 01:02:02,270
+OK!
+
+680
+01:02:16,910 --> 01:02:18,200
+Hey, Mai.
+
+681
+01:02:18,780 --> 01:02:22,120
+This song? Ryota said that
+
+682
+01:02:22,200 --> 01:02:24,700
+you guys will be playing this song.
+
+683
+01:02:24,790 --> 01:02:27,540
+- Yeah.
+- You're playing this song, right?
+
+684
+01:02:29,460 --> 01:02:31,500
+This song is my favourite...
+
+685
+01:02:31,590 --> 01:02:33,710
+of Shinji's songs.
+
+686
+01:02:33,800 --> 01:02:34,880
+It's my favourite.
+
+687
+01:02:35,720 --> 01:02:37,970
+Maybe Ryota knew.
+
+688
+01:02:41,720 --> 01:02:44,810
+By the way, what's the song about?
+
+689
+01:02:45,310 --> 01:02:46,810
+About?
+
+690
+01:02:47,190 --> 01:02:49,150
+About...
+
+691
+01:02:52,230 --> 01:02:54,030
+- Love?
+- Love?
+
+692
+01:02:54,360 --> 01:02:56,240
+Like?
+
+693
+01:02:56,530 --> 01:02:58,700
+What's <i>koi </i>in English?
+
+694
+01:03:00,780 --> 01:03:03,740
+- Small love.
+- Small love?
+
+695
+01:03:03,830 --> 01:03:06,330
+Small, small love.
+
+696
+01:03:09,870 --> 01:03:11,290
+Lisa!
+
+697
+01:03:14,000 --> 01:03:16,550
+Oh, I have to go.
+
+698
+01:03:16,630 --> 01:03:17,970
+- I should...
+- Okay..
+
+699
+01:03:18,050 --> 01:03:19,720
+- See you!
+- See you.
+
+700
+01:03:23,180 --> 01:03:25,060
+- Who is that?
+- Nothing.
+
+701
+01:03:25,140 --> 01:03:26,430
+What were you talking about?
+
+702
+01:03:26,520 --> 01:03:28,350
+- Nothing!
+- Lisa, wait!
+
+703
+01:03:28,440 --> 01:03:30,400
+You're aware we've
+been restricted to the base.
+
+704
+01:03:30,600 --> 01:03:32,810
+The protests at the gate... it's serious.
+
+705
+01:03:33,020 --> 01:03:35,230
+Listen! There are people out there
+
+706
+01:03:35,320 --> 01:03:37,030
+that don't think well of us.
+
+707
+01:03:37,110 --> 01:03:38,860
+You need to be careful!
+
+708
+01:03:40,200 --> 01:03:41,450
+Lisa!
+
+709
+01:03:49,540 --> 01:03:52,330
+Go back! No base!
+
+710
+01:03:52,500 --> 01:03:53,960
+<i>No Osprey! Protect our children!</i>
+
+711
+01:03:54,040 --> 01:03:55,380
+<i>Protect our future!</i>
+
+712
+01:04:00,470 --> 01:04:03,300
+<i>An angry crowd has gathered</i>
+
+713
+01:04:03,430 --> 01:04:05,640
+<i>protesting loudly in front of the police</i>
+
+714
+01:04:05,720 --> 01:04:07,390
+<i>guarding the base.</i>
+
+715
+01:04:08,390 --> 01:04:10,560
+<i>The incident occurred</i>
+
+716
+01:04:10,640 --> 01:04:14,150
+<i>near the Kerana Base on the 14th.</i>
+
+717
+01:04:14,690 --> 01:04:16,900
+<i>Protesters clashed with the police</i>
+
+718
+01:04:16,980 --> 01:04:20,070
+<i>who were there to disperse them.</i>
+
+719
+01:04:20,450 --> 01:04:22,740
+<i>A protestor was knocked down...</i>
+
+720
+01:04:22,820 --> 01:04:24,570
+Oh, you're home.
+
+721
+01:04:26,160 --> 01:04:27,200
+What's going on?
+
+722
+01:04:27,290 --> 01:04:29,830
+<i>The Okinawa Defence Bureau</i>
+
+723
+01:04:29,910 --> 01:04:31,460
+<i>held a press conference.</i>
+
+724
+01:04:31,540 --> 01:04:33,460
+What's with all the protests?
+
+725
+01:04:36,170 --> 01:04:37,880
+Wait, was the hit-and-run driver
+
+726
+01:04:37,960 --> 01:04:39,710
+someone from the military base?
+
+727
+01:04:41,090 --> 01:04:42,970
+We don't know yet.
+
+728
+01:04:45,510 --> 01:04:46,970
+What will they gain
+
+729
+01:04:47,930 --> 01:04:50,520
+by turning their anger at the base?
+
+730
+01:04:52,480 --> 01:04:54,650
+Their anger is misdirected.
+
+731
+01:04:56,980 --> 01:05:00,030
+What should they do then?
+
+732
+01:05:07,330 --> 01:05:08,620
+Mai.
+
+733
+01:05:09,790 --> 01:05:11,580
+Are you studying hard?
+
+734
+01:05:14,170 --> 01:05:16,040
+Keep your grades up
+
+735
+01:05:17,040 --> 01:05:18,840
+and get into a good university
+
+736
+01:05:18,920 --> 01:05:20,710
+on the mainland.
+
+737
+01:05:22,470 --> 01:05:25,010
+When you've experienced life outside
+
+738
+01:05:25,800 --> 01:05:27,930
+you'll understand the issues
+
+739
+01:05:28,010 --> 01:05:31,470
+that plague this tiny island.
+
+740
+01:05:32,810 --> 01:05:36,770
+You'll see that nothing has changed.
+
+741
+01:05:45,700 --> 01:05:49,780
+That's why you've got to study hard.
+
+742
+01:06:09,100 --> 01:06:11,720
+<i>Another beautiful Sunday morning</i>
+
+743
+01:06:11,810 --> 01:06:14,520
+<i>Start of a day both short and long</i>
+
+744
+01:06:14,600 --> 01:06:17,270
+<i>I've got nothing on my schedule</i>
+
+745
+01:06:17,350 --> 01:06:20,230
+<i>Think I'll take a walk about town</i>
+
+746
+01:06:26,780 --> 01:06:28,450
+OK, stop!
+
+747
+01:06:29,320 --> 01:06:31,240
+Mai, your playing sounds listless.
+
+748
+01:06:31,330 --> 01:06:33,160
+Is something wrong?
+
+749
+01:06:34,330 --> 01:06:36,250
+I can hear it in your music.
+
+750
+01:06:36,330 --> 01:06:39,000
+You can tell us if
+anything's bothering you.
+
+751
+01:06:40,790 --> 01:06:44,460
+Yeah, that's what we are here for.
+
+752
+01:06:45,920 --> 01:06:47,510
+You're talking sense for once, Ryota.
+
+753
+01:06:47,590 --> 01:06:48,760
+Right?
+
+754
+01:06:49,590 --> 01:06:51,220
+Don't get carried away.
+
+755
+01:06:56,810 --> 01:06:58,940
+- Again!
+- All right!
+
+756
+01:07:00,810 --> 01:07:02,360
+One, two, three, four!
+
+757
+01:07:03,820 --> 01:07:04,900
+Yeah.
+
+758
+01:07:04,980 --> 01:07:06,280
+I'm so excited.
+
+759
+01:07:06,360 --> 01:07:07,990
+You have it good.
+
+760
+01:07:12,990 --> 01:07:14,830
+Stop... stop!
+
+761
+01:07:14,910 --> 01:07:16,700
+Bass is going too fast, Ryota.
+
+762
+01:07:16,790 --> 01:07:18,460
+I'm moving the song along.
+
+763
+01:07:18,540 --> 01:07:20,250
+No, follow my drums.
+
+764
+01:07:20,330 --> 01:07:22,130
+But you have no sense of rhythm.
+
+765
+01:08:58,470 --> 01:09:00,220
+How's practice?
+
+766
+01:09:00,600 --> 01:09:01,980
+So hard!
+
+767
+01:09:03,560 --> 01:09:05,270
+And we need lyrics.
+
+768
+01:09:05,400 --> 01:09:06,560
+What?
+
+769
+01:09:12,320 --> 01:09:14,030
+Mai.
+
+770
+01:09:15,320 --> 01:09:17,870
+I think I know why Roosevelt
+
+771
+01:09:17,950 --> 01:09:21,080
+chose this island.
+
+772
+01:09:21,700 --> 01:09:24,500
+I bet everybody here
+
+773
+01:09:24,580 --> 01:09:27,380
+used to all be really nice.
+
+774
+01:09:30,050 --> 01:09:32,670
+Have you been to other base
+
+775
+01:09:32,760 --> 01:09:33,800
+in another country?
+
+776
+01:09:34,380 --> 01:09:35,430
+Yeah.
+
+777
+01:09:35,510 --> 01:09:39,890
+Because we usually move
+like every two years.
+
+778
+01:09:40,720 --> 01:09:43,640
+But we already bought
+a house in Florida.
+
+779
+01:09:43,730 --> 01:09:44,850
+Florida?
+
+780
+01:09:44,940 --> 01:09:48,730
+Yeah. We're going to live there
+
+781
+01:09:48,820 --> 01:09:51,110
+once my father retires.
+
+782
+01:09:51,860 --> 01:09:53,740
+Many families buy a house
+
+783
+01:09:53,820 --> 01:09:57,030
+a place they like
+while they move around.
+
+784
+01:09:59,450 --> 01:10:00,490
+I should go.
+
+785
+01:10:00,580 --> 01:10:02,080
+My parents will be home soon.
+
+786
+01:10:02,160 --> 01:10:03,540
+OK.
+
+787
+01:10:13,340 --> 01:10:14,470
+Mai...
+
+788
+01:10:18,010 --> 01:10:21,850
+My father works on Ospreys.
+
+789
+01:10:24,180 --> 01:10:27,350
+Are you against Ospreys?
+
+790
+01:10:33,400 --> 01:10:34,900
+I don't know.
+
+791
+01:10:39,240 --> 01:10:40,530
+Sorry...
+
+792
+01:10:41,080 --> 01:10:43,410
+No. Don't worry.
+
+793
+01:10:47,250 --> 01:10:48,960
+Can you really come?
+
+794
+01:10:49,130 --> 01:10:50,460
+To the school festival.
+
+795
+01:10:51,090 --> 01:10:53,760
+Yes. I'm coming.
+
+796
+01:10:55,090 --> 01:10:56,970
+- See you there.
+- See you.
+
+797
+01:11:18,610 --> 01:11:19,990
+So, did you hear about the rumours?
+
+798
+01:11:20,070 --> 01:11:21,120
+The one about the Y-plate
+
+799
+01:11:21,200 --> 01:11:23,120
+running over the Japanese kid?
+
+800
+01:11:23,200 --> 01:11:25,410
+What the hell is the
+Japanese police doing?
+
+801
+01:11:25,500 --> 01:11:26,750
+I don't know, man, but they need to
+
+802
+01:11:26,830 --> 01:11:27,870
+get the restrictions lifted
+
+803
+01:11:27,960 --> 01:11:29,420
+because I can't stand it.
+
+804
+01:11:29,500 --> 01:11:31,380
+Yeah, I wanna go surfing, man.
+
+805
+01:11:31,460 --> 01:11:33,460
+Tell me about it. I can't stand it.
+
+806
+01:11:34,380 --> 01:11:35,420
+Sweet little thing.
+
+807
+01:11:35,510 --> 01:11:38,050
+What are you doing over here?
+
+808
+01:11:42,800 --> 01:11:44,510
+Hey, kid.
+
+809
+01:11:45,260 --> 01:11:46,560
+You all right?
+
+810
+01:11:48,850 --> 01:11:50,560
+Looking for someone?
+
+811
+01:11:55,690 --> 01:11:57,240
+One, two...
+
+812
+01:11:57,320 --> 01:11:58,820
+Hey, one, two.
+
+813
+01:11:58,900 --> 01:12:00,530
+Mr Nema, turn it up a little more, please.
+
+814
+01:12:00,610 --> 01:12:01,780
+OK.
+
+815
+01:12:01,860 --> 01:12:04,160
+Hey, one, two...
+
+816
+01:12:04,240 --> 01:12:06,580
+Hey, one, two...
+
+817
+01:12:06,660 --> 01:12:08,250
+Hey, check, one, two.
+
+818
+01:12:08,330 --> 01:12:10,710
+Hey... one, two.
+
+819
+01:12:10,790 --> 01:12:12,120
+Check, one, two.
+
+820
+01:12:12,210 --> 01:12:13,420
+All right, good to go.
+
+821
+01:12:13,500 --> 01:12:15,290
+OK. Thank you.
+
+822
+01:12:19,380 --> 01:12:20,470
+Mr Nema.
+
+823
+01:12:20,550 --> 01:12:22,090
+- A live gig tonight?
+- Yeah.
+
+824
+01:12:24,010 --> 01:12:28,060
+The band members are
+outside taking a break.
+
+825
+01:12:28,220 --> 01:12:31,520
+You guys can take the stage.
+
+826
+01:12:31,940 --> 01:12:33,270
+Really?
+
+827
+01:12:35,060 --> 01:12:36,690
+Let's go.
+
+828
+01:12:52,210 --> 01:12:53,580
+OK, guys.
+
+829
+01:12:53,670 --> 01:12:55,790
+Let's see how you sound.
+
+830
+01:12:56,090 --> 01:12:57,500
+May we?
+
+831
+01:12:58,880 --> 01:13:00,550
+- Let's play.
+- Yeah.
+
+832
+01:13:05,050 --> 01:13:06,180
+Hey, welcome back.
+
+833
+01:13:06,260 --> 01:13:08,930
+- Thanks.
+- We're back.
+
+834
+01:13:09,020 --> 01:13:10,350
+Sorry, give them five.
+
+835
+01:13:19,940 --> 01:13:21,030
+What?
+
+836
+01:13:21,780 --> 01:13:24,660
+You like being on stage, don't you?
+
+837
+01:13:33,620 --> 01:13:38,540
+<i>I'd die to see you</i>
+
+838
+01:13:38,630 --> 01:13:41,460
+<i>Die to see you</i>
+
+839
+01:13:53,350 --> 01:13:55,350
+Play a song.
+
+840
+01:13:56,100 --> 01:13:57,770
+I'll record it for you.
+
+841
+01:13:59,320 --> 01:14:00,360
+Which song?
+
+842
+01:14:00,440 --> 01:14:02,360
+- That one?
+- That one?
+
+843
+01:14:02,440 --> 01:14:03,820
+What's "that one"?
+
+844
+01:14:03,900 --> 01:14:05,660
+<i>Don't Worry,</i> of course.
+
+845
+01:14:06,070 --> 01:14:07,320
+OK.
+
+846
+01:14:09,660 --> 01:14:11,120
+One, two, three, four!
+
+847
+01:14:11,330 --> 01:14:12,620
+<i>Don't worry</i>
+
+848
+01:14:12,700 --> 01:14:14,120
+<i>Be happy</i>
+
+849
+01:14:15,410 --> 01:14:18,130
+<i>It's my life</i>
+
+850
+01:14:21,920 --> 01:14:23,510
+They're good.
+
+851
+01:14:27,340 --> 01:14:30,010
+<i>Another beautiful Sunday morning</i>
+
+852
+01:14:30,100 --> 01:14:32,850
+<i>Start of a day both short and long</i>
+
+853
+01:14:32,930 --> 01:14:35,480
+<i>I've got nothing on my schedule</i>
+
+854
+01:14:35,560 --> 01:14:38,310
+<i>Think I'll take a walk about town</i>
+
+855
+01:14:43,820 --> 01:14:46,490
+<i>Under a crystal clear blue sky</i>
+
+856
+01:14:46,570 --> 01:14:49,450
+<i>Even the sun seems in the way</i>
+
+857
+01:14:49,530 --> 01:14:52,120
+<i>The two of us, a happy lunch time</i>
+
+858
+01:14:52,200 --> 01:14:54,870
+<i>Love and stomachs set to full</i>
+
+859
+01:14:58,330 --> 01:15:00,790
+Well? What do you think?
+
+860
+01:15:00,880 --> 01:15:02,460
+They're really good.
+
+861
+01:15:02,550 --> 01:15:04,170
+- Yeah?
+- Awesome.
+
+862
+01:15:04,260 --> 01:15:05,970
+That makes me happy.
+
+863
+01:15:06,050 --> 01:15:07,630
+I like these kids.
+
+864
+01:15:08,090 --> 01:15:10,340
+- Hey...
+- Welcome back.
+
+865
+01:15:10,430 --> 01:15:11,850
+- Listen to this.
+- What is it?
+
+866
+01:15:11,930 --> 01:15:13,100
+These kids rock.
+
+867
+01:15:13,180 --> 01:15:14,640
+Let me see.
+
+868
+01:15:14,720 --> 01:15:17,140
+They're playing at a school festival.
+
+869
+01:15:17,230 --> 01:15:18,810
+Come see them.
+
+870
+01:15:18,890 --> 01:15:20,980
+- Give me one.
+- Of course.
+
+871
+01:15:21,060 --> 01:15:22,360
+Oh, Mr Nema.
+
+872
+01:15:22,440 --> 01:15:23,480
+I went to this high school.
+
+873
+01:15:23,570 --> 01:15:24,610
+- You're alumni?
+- Yeah.
+
+874
+01:15:24,690 --> 01:15:26,070
+Go support them.
+
+875
+01:15:26,150 --> 01:15:28,780
+I'll put this up at my store.
+
+876
+01:15:28,860 --> 01:15:31,410
+- Really? Hold on.
+- Give me some.
+
+877
+01:15:32,030 --> 01:15:34,240
+I was hoping you'd say that. Thanks.
+
+878
+01:15:34,330 --> 01:15:35,370
+I'll pass them out too.
+
+879
+01:15:35,450 --> 01:15:37,250
+Support your juniors.
+
+880
+01:16:08,780 --> 01:16:10,070
+Mum?
+
+881
+01:16:11,200 --> 01:16:13,320
+You're not coming to
+the school festival, right?
+
+882
+01:16:13,740 --> 01:16:16,410
+Why? Why are you asking?
+
+883
+01:16:16,490 --> 01:16:19,250
+No reason. It'll be boring.
+
+884
+01:16:22,960 --> 01:16:24,880
+We don't want to show up
+
+885
+01:16:24,960 --> 01:16:26,960
+and cast a gloom over the event.
+
+886
+01:16:34,300 --> 01:16:36,810
+OK. See you later.
+
+887
+01:16:37,140 --> 01:16:38,640
+Have a good day in school.
+
+888
+01:16:40,520 --> 01:16:41,980
+Oh, Mai?
+
+889
+01:16:44,190 --> 01:16:45,650
+Your father...
+
+890
+01:16:46,320 --> 01:16:49,990
+will probably quit his job at the base.
+
+891
+01:16:53,610 --> 01:16:56,990
+We don't know if the driver is American
+
+892
+01:16:57,910 --> 01:17:01,000
+but your dad can't
+take off work anymore.
+
+893
+01:17:04,920 --> 01:17:06,790
+But don't worry.
+
+894
+01:17:06,920 --> 01:17:09,130
+He has the qualifications.
+
+895
+01:17:09,590 --> 01:17:12,260
+I'm sure he'll find work quickly.
+
+896
+01:17:19,220 --> 01:17:20,560
+OK.
+
+897
+01:17:23,520 --> 01:17:25,810
+- Got to go.
+- See you.
+
+898
+01:17:28,650 --> 01:17:33,650
+<i>18th Ura High School Festival</i>
+
+899
+01:17:33,740 --> 01:17:35,110
+Welcome!
+
+900
+01:17:40,120 --> 01:17:41,540
+Shaved ice, please!
+
+901
+01:17:42,830 --> 01:17:43,870
+That was fun!
+
+902
+01:17:43,960 --> 01:17:46,460
+We're not done and don't hit me!
+
+903
+01:17:46,540 --> 01:17:48,630
+I thought we were.
+
+904
+01:17:50,090 --> 01:17:51,170
+Snap!
+
+905
+01:17:51,260 --> 01:17:53,800
+Enough with the selfies!
+
+906
+01:17:53,920 --> 01:17:57,550
+After riding the roller coaster...
+
+907
+01:18:23,790 --> 01:18:25,250
+Where are you going?
+
+908
+01:18:27,250 --> 01:18:29,960
+- The theme centre.
+- Okay.
+
+909
+01:18:39,510 --> 01:18:41,600
+- Dad?
+- Yeah?
+
+910
+01:18:44,890 --> 01:18:47,850
+Have you gone off the base recently?
+
+911
+01:18:50,480 --> 01:18:51,650
+Off base?
+
+912
+01:18:54,650 --> 01:18:56,150
+You do know we've been restricted
+
+913
+01:18:56,240 --> 01:18:57,570
+to the base, right?
+
+914
+01:18:58,490 --> 01:19:00,280
+Sure, but it's been lifted.
+
+915
+01:19:01,950 --> 01:19:03,160
+Well, I...
+
+916
+01:19:03,490 --> 01:19:05,620
+still don't think it's a
+good idea just yet.
+
+917
+01:19:06,830 --> 01:19:08,870
+Sometimes, even a small incident
+
+918
+01:19:08,960 --> 01:19:10,790
+could lead to something much bigger.
+
+919
+01:19:16,420 --> 01:19:18,880
+- Dad...
+- Yeah?
+
+920
+01:19:18,970 --> 01:19:22,890
+Do you think that it's better that we...
+
+921
+01:19:23,180 --> 01:19:24,600
+you know, try to get along
+
+922
+01:19:24,680 --> 01:19:25,930
+with the local people?
+
+923
+01:19:26,640 --> 01:19:28,560
+Honey, of course.
+
+924
+01:19:31,440 --> 01:19:32,940
+But in reality
+
+925
+01:19:33,650 --> 01:19:36,360
+some things aren't so simple.
+
+926
+01:19:39,490 --> 01:19:42,030
+So, we just do
+
+927
+01:19:43,200 --> 01:19:46,620
+what we're assigned to do here.
+
+928
+01:19:51,500 --> 01:19:53,090
+I'll just...
+
+929
+01:20:00,930 --> 01:20:04,350
+Is it true we can't perform?
+
+930
+01:20:04,430 --> 01:20:06,140
+It's not fair.
+
+931
+01:20:07,220 --> 01:20:09,100
+Why can't we perform?
+
+932
+01:20:09,350 --> 01:20:10,770
+Look at this.
+
+933
+01:20:16,110 --> 01:20:18,530
+It's all over the Internet.
+
+934
+01:20:18,990 --> 01:20:20,030
+That's us.
+
+935
+01:20:20,110 --> 01:20:23,530
+The school got flooded with calls
+
+936
+01:20:23,620 --> 01:20:26,120
+from people asking if we're playing.
+
+937
+01:20:26,200 --> 01:20:28,580
+So the teachers got wind of it.
+
+938
+01:20:28,910 --> 01:20:30,460
+Explain yourselves!
+
+939
+01:20:30,580 --> 01:20:32,830
+Outside activities are forbidden!
+
+940
+01:20:32,920 --> 01:20:34,460
+- We were just...
+- You're mistaken.
+
+941
+01:20:34,540 --> 01:20:36,210
+Mistaken?
+
+942
+01:20:36,590 --> 01:20:38,050
+How do you explain this then?
+
+943
+01:20:38,800 --> 01:20:41,550
+"Breaking band's debut concert"!
+
+944
+01:20:42,470 --> 01:20:44,760
+You're using the
+school festival to debut?
+
+945
+01:20:45,470 --> 01:20:47,640
+What? Who made this?
+
+946
+01:20:48,220 --> 01:20:49,480
+I don't know.
+
+947
+01:20:49,560 --> 01:20:52,100
+But we've got nothing to do with this.
+
+948
+01:20:52,190 --> 01:20:55,230
+The teachers are
+too mad to listen to us.
+
+949
+01:20:55,310 --> 01:20:57,610
+There you are, guys!
+
+950
+01:20:57,780 --> 01:20:59,690
+This is going to be your big break.
+
+951
+01:20:59,780 --> 01:21:03,360
+The band you met at
+the studio the other day
+
+952
+01:21:03,450 --> 01:21:05,740
+posted a clip of you jamming online
+
+953
+01:21:05,820 --> 01:21:08,040
+and now it has gone viral.
+
+954
+01:21:08,120 --> 01:21:11,080
+The people I've shown it to
+
+955
+01:21:11,160 --> 01:21:13,210
+are all blown away by you guys.
+
+956
+01:21:13,290 --> 01:21:15,250
+So I told them about your festival gig
+
+957
+01:21:15,330 --> 01:21:17,250
+and word got around.
+
+958
+01:21:17,840 --> 01:21:20,380
+Today's going to be a big day for you.
+
+959
+01:21:20,460 --> 01:21:22,340
+Huge!
+
+960
+01:21:22,420 --> 01:21:25,550
+I kept running out of leaflets...
+
+961
+01:21:25,640 --> 01:21:26,850
+Yeah, that's the one.
+
+962
+01:21:27,430 --> 01:21:31,350
+I'm the one who made this leaflet.
+
+963
+01:21:34,810 --> 01:21:36,270
+What's wrong?
+
+964
+01:21:43,610 --> 01:21:45,410
+So, you just need a ride, right?
+
+965
+01:21:46,070 --> 01:21:47,200
+- Yeah.
+- Okay.
+
+966
+01:22:18,650 --> 01:22:20,770
+Power's on, Shinzato!
+
+967
+01:22:20,860 --> 01:22:23,280
+OK, plug in this cord.
+
+968
+01:22:23,360 --> 01:22:24,650
+OK!
+
+969
+01:22:24,950 --> 01:22:27,070
+- I'm counting on you.
+- Okay!
+
+970
+01:22:39,330 --> 01:22:40,790
+Is this OK for you?
+
+971
+01:22:40,880 --> 01:22:42,420
+Yeah. Thank you.
+
+972
+01:22:42,500 --> 01:22:44,090
+We're ready here.
+
+973
+01:22:44,170 --> 01:22:46,590
+- Thanks.
+- Good luck.
+
+974
+01:22:52,470 --> 01:22:56,520
+This is all I can do for you.
+
+975
+01:22:57,600 --> 01:22:59,190
+You're on your own now.
+
+976
+01:23:00,110 --> 01:23:01,650
+Are you sure about this?
+
+977
+01:23:04,190 --> 01:23:05,570
+Of course!
+
+978
+01:23:09,950 --> 01:23:11,490
+I saw the video.
+
+979
+01:23:14,450 --> 01:23:16,040
+To be honest...
+
+980
+01:23:16,960 --> 01:23:20,880
+it really made me regret leaving the band.
+
+981
+01:23:22,290 --> 01:23:23,460
+But...
+
+982
+01:23:24,840 --> 01:23:26,630
+the three of you make an awesome band!
+
+983
+01:23:29,720 --> 01:23:32,100
+Go kick some butt, yeah?
+
+984
+01:23:45,730 --> 01:23:47,280
+ID, please.
+
+985
+01:23:51,620 --> 01:23:52,990
+You see that?
+
+986
+01:23:56,540 --> 01:23:58,040
+I know it's pay day
+
+987
+01:23:58,120 --> 01:23:59,830
+just try not to have
+too much fun out there.
+
+988
+01:24:00,540 --> 01:24:02,040
+I'm just a driver for my niece today.
+
+989
+01:24:02,830 --> 01:24:04,550
+Miss, ID?
+
+990
+01:24:21,480 --> 01:24:22,770
+Just don't drink, all right?
+
+991
+01:24:23,860 --> 01:24:24,900
+Half the guys in Camp Hansen
+
+992
+01:24:24,980 --> 01:24:26,610
+are in there for drinking.
+
+993
+01:24:26,690 --> 01:24:28,110
+I hear you. And the other half
+
+994
+01:24:28,190 --> 01:24:30,570
+is there for women, right?
+
+995
+01:24:30,650 --> 01:24:31,700
+All right.
+
+996
+01:24:45,340 --> 01:24:47,460
+Peace to Okinawa!
+
+997
+01:24:47,550 --> 01:24:49,010
+Go home!
+
+998
+01:24:51,510 --> 01:24:56,890
+Go home... go home!
+
+999
+01:25:23,420 --> 01:25:25,750
+OK. You guys ready?
+
+1000
+01:25:28,920 --> 01:25:31,010
+I wonder if Lisa's here?
+
+1001
+01:25:31,170 --> 01:25:33,180
+I hope so!
+
+1002
+01:25:49,650 --> 01:25:51,610
+<i>Mic test, mic test.</i>
+
+1003
+01:25:57,820 --> 01:26:00,740
+<i>We have a song. Hope you like it.</i>
+
+1004
+01:26:03,040 --> 01:26:08,130
+<i>In a corner of vast space</i>
+
+1005
+01:26:08,210 --> 01:26:13,340
+<i>On a world resplendent blue</i>
+
+1006
+01:26:13,420 --> 01:26:18,510
+<i>Faint feelings of love</i>
+
+1007
+01:26:18,600 --> 01:26:20,470
+<i>Come delivered...</i>
+
+1008
+01:26:20,560 --> 01:26:23,680
+- Isn't that live?
+- <i>To you</i>
+
+1009
+01:26:25,310 --> 01:26:30,480
+<i>Now that I have met you</i>
+
+1010
+01:26:30,570 --> 01:26:31,820
+Has the concert started?
+
+1011
+01:26:31,900 --> 01:26:35,400
+<i>The time just rushes by</i>
+
+1012
+01:26:35,490 --> 01:26:40,700
+<i>The rhythm of two hearts</i>
+
+1013
+01:26:40,780 --> 01:26:45,750
+<i>Beating happy, beating sad</i>
+
+1014
+01:26:46,000 --> 01:26:51,130
+<i>Reverberating far as it can go</i>
+
+1015
+01:26:51,210 --> 01:26:53,630
+<i>A gentle song</i>
+
+1016
+01:26:53,710 --> 01:26:59,850
+<i>To change the world</i>
+
+1017
+01:27:00,260 --> 01:27:04,470
+<i>Here, I'm right beside you</i>
+
+1018
+01:27:04,560 --> 01:27:10,560
+<i>Like a loved one ought to be</i>
+
+1019
+01:27:10,730 --> 01:27:17,610
+<i>With just a little love song</i>
+
+1020
+01:27:17,700 --> 01:27:21,280
+<i>Delivered to your ears only</i>
+
+1021
+01:27:21,370 --> 01:27:25,910
+<i>Here</i>
+
+1022
+01:27:26,460 --> 01:27:31,130
+<i>Here</i>
+
+1023
+01:27:31,710 --> 01:27:37,010
+<i>Here</i>
+
+1024
+01:27:37,090 --> 01:27:39,340
+<i>Feel that, my little love song</i>
+
+1025
+01:27:39,430 --> 01:27:41,970
+<i>You came to realise</i>
+
+1026
+01:27:42,050 --> 01:27:44,510
+<i>I'm walking by your side</i>
+
+1027
+01:27:44,640 --> 01:27:47,230
+<i>On streets plunged into night</i>
+
+1028
+01:27:47,310 --> 01:27:49,730
+<i>We're lit by pure moonlight</i>
+
+1029
+01:27:49,810 --> 01:27:52,480
+<i>Hand in hand, we depart</i>
+
+1030
+01:27:52,560 --> 01:27:55,110
+<i>We can't be pulled apart</i>
+
+1031
+01:27:55,190 --> 01:27:57,690
+<i>A love so strong</i>
+
+1032
+01:27:57,780 --> 01:28:00,280
+<i>It vows to last forever</i>
+
+1033
+01:28:00,360 --> 01:28:02,870
+<i>And if we reach the edge</i>
+
+1034
+01:28:02,950 --> 01:28:05,450
+<i>Of eternity we'll pledge</i>
+
+1035
+01:28:05,540 --> 01:28:08,080
+<i>The words of love</i>
+
+1036
+01:28:08,160 --> 01:28:10,620
+<i>That keep us tied together</i>
+
+1037
+01:28:10,710 --> 01:28:15,800
+<i>But if words are not enough</i>
+
+1038
+01:28:15,880 --> 01:28:21,090
+<i>Tears and joy will be the stuff</i>
+
+1039
+01:28:21,180 --> 01:28:23,680
+<i>And we'll just embrace each other</i>
+
+1040
+01:28:23,760 --> 01:28:29,940
+<i>We'll just embrace each other</i>
+
+1041
+01:28:30,270 --> 01:28:34,560
+<i>Here, I'm right beside you</i>
+
+1042
+01:28:34,650 --> 01:28:40,650
+<i>Like a loved one ought to be</i>
+
+1043
+01:28:40,740 --> 01:28:44,950
+<i>With just a little love song</i>
+
+1044
+01:28:45,030 --> 01:28:47,490
+<i>Delivered to your ears only</i>
+
+1045
+01:28:47,580 --> 01:28:51,080
+<i>Feel that, my little love song</i>
+
+1046
+01:28:51,210 --> 01:28:55,960
+<i>Here</i>
+
+1047
+01:28:56,420 --> 01:29:01,170
+<i>Here</i>
+
+1048
+01:29:01,590 --> 01:29:07,140
+<i>Here</i>
+
+1049
+01:29:07,220 --> 01:29:10,680
+<i>Feel that, my little love song</i>
+
+1050
+01:29:14,690 --> 01:29:18,360
+<i>If it's all a dream, don't wake me</i>
+
+1051
+01:29:19,780 --> 01:29:23,860
+<i>If it's all a dream, don't wake me!</i>
+
+1052
+01:29:25,120 --> 01:29:28,240
+<i>Our time together will</i>
+
+1053
+01:29:28,330 --> 01:29:35,460
+<i>Become an shining star</i>
+
+1054
+01:29:35,540 --> 01:29:39,710
+<i>Here, I'm right beside you</i>
+
+1055
+01:29:39,800 --> 01:29:45,930
+<i>Like a loved one ought to be</i>
+
+1056
+01:29:46,010 --> 01:29:50,140
+<i>With just a little love song</i>
+
+1057
+01:29:50,220 --> 01:29:52,640
+<i>Delivered to your ears only</i>
+
+1058
+01:29:52,730 --> 01:29:56,270
+<i>Feel that, my little love song</i>
+
+1059
+01:29:56,350 --> 01:30:00,530
+<i>Here, I'm right beside you</i>
+
+1060
+01:30:00,610 --> 01:30:06,740
+<i>Like a loved one ought to be</i>
+
+1061
+01:30:06,820 --> 01:30:10,700
+<i>With just a little love song</i>
+
+1062
+01:30:11,040 --> 01:30:13,620
+<i>Delivered to your ears only</i>
+
+1063
+01:30:13,710 --> 01:30:17,250
+<i>Feel that, my little love song</i>
+
+1064
+01:30:17,330 --> 01:30:21,960
+<i>Here</i>
+
+1065
+01:30:22,550 --> 01:30:27,180
+<i>Here</i>
+
+1066
+01:30:27,760 --> 01:30:33,270
+<i>Here</i>
+
+1067
+01:30:33,350 --> 01:30:37,230
+<i>Feel that, my little love song</i>
+
+1068
+01:30:52,620 --> 01:30:54,080
+One more!
+
+1069
+01:30:55,620 --> 01:30:57,080
+One, two, three, four!
+
+1070
+01:30:57,250 --> 01:30:58,540
+<i>Don't worry</i>
+
+1071
+01:30:58,630 --> 01:31:00,290
+<i>Be happy</i>
+
+1072
+01:31:01,340 --> 01:31:04,260
+<i>It's my life</i>
+
+1073
+01:31:13,430 --> 01:31:16,310
+<i>Another beautiful Sunday morning...</i>
+
+1074
+01:31:27,280 --> 01:31:29,700
+It got cut off. Why?
+
+1075
+01:31:30,450 --> 01:31:31,950
+Must be a malfunction.
+
+1076
+01:31:38,500 --> 01:31:40,170
+Where were you trying to go?
+
+1077
+01:31:41,250 --> 01:31:43,250
+I spoke with the sergeant too.
+
+1078
+01:31:44,590 --> 01:31:45,670
+I could tell he was really
+
+1079
+01:31:45,760 --> 01:31:46,970
+just trying to help you out.
+
+1080
+01:31:48,800 --> 01:31:50,800
+Why did you want to go off the base?
+
+1081
+01:31:53,430 --> 01:31:55,850
+Is it something you
+can't even share with us?
+
+1082
+01:31:55,930 --> 01:31:57,930
+You know about the protest outside.
+
+1083
+01:31:58,270 --> 01:31:59,810
+Did I tell you? The other day
+
+1084
+01:31:59,890 --> 01:32:00,940
+I caught her speaking with someone
+
+1085
+01:32:01,020 --> 01:32:02,610
+through the fence!
+
+1086
+01:32:08,150 --> 01:32:10,990
+Your car, being surrounded
+
+1087
+01:32:11,070 --> 01:32:13,120
+and blocked by protestors...
+
+1088
+01:32:15,160 --> 01:32:18,080
+You were about to be pulled into a mess!
+
+1089
+01:32:19,210 --> 01:32:20,620
+I am already!
+
+1090
+01:32:21,250 --> 01:32:22,290
+Lisa!
+
+1091
+01:32:22,710 --> 01:32:25,210
+You're suspended for two weeks.
+
+1092
+01:32:25,300 --> 01:32:26,760
+Suspended?
+
+1093
+01:32:29,050 --> 01:32:30,430
+I was hoping he'd at least
+
+1094
+01:32:30,510 --> 01:32:32,010
+get through high school.
+
+1095
+01:32:32,090 --> 01:32:34,010
+It's not expulsion, ma'am.
+
+1096
+01:32:34,100 --> 01:32:36,890
+It's just a suspension.
+
+1097
+01:32:38,350 --> 01:32:41,560
+We tell our son to follow his heart
+
+1098
+01:32:41,640 --> 01:32:44,360
+so we don't mind, but...
+
+1099
+01:32:45,520 --> 01:32:46,980
+Stand up.
+
+1100
+01:32:47,900 --> 01:32:51,570
+We apologise for his
+influence on your child.
+
+1101
+01:32:51,910 --> 01:32:53,200
+Come on!
+
+1102
+01:32:54,370 --> 01:32:55,410
+Apologise.
+
+1103
+01:32:55,490 --> 01:32:56,700
+It's all right.
+
+1104
+01:32:56,790 --> 01:32:59,540
+My son probably put them up to it.
+
+1105
+01:32:59,620 --> 01:33:01,000
+We're sorry.
+
+1106
+01:33:01,080 --> 01:33:02,460
+Our apologies.
+
+1107
+01:33:02,540 --> 01:33:04,000
+I'm sorry.
+
+1108
+01:33:04,500 --> 01:33:06,920
+It'll be a learning experience.
+
+1109
+01:33:07,380 --> 01:33:09,880
+Stop grinning, kids.
+
+1110
+01:33:10,130 --> 01:33:12,340
+Are you really sorry about this?
+
+1111
+01:33:23,020 --> 01:33:24,480
+What are you chuckling about?
+
+1112
+01:33:24,560 --> 01:33:27,070
+What am I going to do with you?
+
+1113
+01:33:46,750 --> 01:33:48,500
+Dear! Stop!
+
+1114
+01:33:48,590 --> 01:33:50,050
+What are you doing?
+
+1115
+01:33:50,460 --> 01:33:53,260
+Dear! Stop that!
+
+1116
+01:33:53,340 --> 01:33:54,930
+Don't...
+
+1117
+01:33:56,220 --> 01:33:57,680
+Wait!
+
+1118
+01:34:00,560 --> 01:34:01,850
+No!
+
+1119
+01:34:01,930 --> 01:34:03,180
+Dear!
+
+1120
+01:34:11,570 --> 01:34:13,820
+Playing music at a time like this...
+
+1121
+01:34:18,700 --> 01:34:20,910
+What's the matter with you?
+
+1122
+01:34:31,300 --> 01:34:33,760
+Why did you do that, dear?
+
+1123
+01:34:49,020 --> 01:34:50,520
+How dare you!
+
+1124
+01:34:57,950 --> 01:35:01,620
+Have you even listened
+to a song Shinji wrote?
+
+1125
+01:35:03,080 --> 01:35:05,790
+Have you ever seen him perform?
+
+1126
+01:35:08,000 --> 01:35:10,340
+He was really good, you know.
+
+1127
+01:35:11,090 --> 01:35:13,250
+He was amazing.
+
+1128
+01:35:15,340 --> 01:35:17,430
+What he did was way more important
+
+1129
+01:35:17,510 --> 01:35:19,890
+than just getting good grades.
+
+1130
+01:35:20,350 --> 01:35:23,220
+His music moved a lot of people.
+
+1131
+01:35:24,310 --> 01:35:27,020
+But you have no idea, do you?
+
+1132
+01:35:29,520 --> 01:35:33,020
+Music can teach you a lot about life.
+
+1133
+01:35:34,650 --> 01:35:37,280
+I learnt that from Shinji.
+
+1134
+01:35:40,370 --> 01:35:42,160
+Not from you, Dad.
+
+1135
+01:35:42,990 --> 01:35:44,080
+Shinji was the one who taught me
+
+1136
+01:35:44,160 --> 01:35:46,040
+everything that really mattered!
+
+1137
+01:36:47,430 --> 01:36:49,520
+What do I do now?
+
+1138
+01:37:30,390 --> 01:37:32,190
+Business is really bad.
+
+1139
+01:37:32,270 --> 01:37:33,310
+Now that the Americans aren't coming
+
+1140
+01:37:33,390 --> 01:37:35,190
+will we have to shut down?
+
+1141
+01:37:35,310 --> 01:37:36,810
+Silly boy.
+
+1142
+01:37:37,070 --> 01:37:39,440
+We've been through this before.
+
+1143
+01:37:40,530 --> 01:37:42,950
+So many times...
+
+1144
+01:37:43,320 --> 01:37:45,320
+I lost count.
+
+1145
+01:37:50,790 --> 01:37:56,290
+<i>Here, I'm right beside you</i>
+
+1146
+01:37:57,000 --> 01:38:04,180
+<i>Like a loved one ought to be</i>
+
+1147
+01:38:07,430 --> 01:38:09,810
+It's your song, right?
+
+1148
+01:38:11,680 --> 01:38:13,140
+It's a good song.
+
+1149
+01:38:41,710 --> 01:38:43,170
+Hey.
+
+1150
+01:38:46,180 --> 01:38:48,340
+Oh, Mr Matsumura!
+
+1151
+01:38:48,930 --> 01:38:50,890
+Your son's taking over?
+
+1152
+01:38:51,510 --> 01:38:53,430
+He's still in school.
+
+1153
+01:38:53,520 --> 01:38:55,890
+- Just helping out today.
+- I see.
+
+1154
+01:38:56,440 --> 01:38:57,650
+You're a good boy.
+
+1155
+01:38:57,730 --> 01:38:58,980
+Good luck.
+
+1156
+01:39:04,280 --> 01:39:06,280
+You don't have to, you know.
+
+1157
+01:39:07,360 --> 01:39:10,530
+Become a fisherman like me, I mean.
+
+1158
+01:39:11,030 --> 01:39:13,660
+You can be what you want.
+
+1159
+01:41:03,560 --> 01:41:05,360
+It's a farewell doll.
+
+1160
+01:41:05,820 --> 01:41:07,570
+Farewell doll?
+
+1161
+01:41:09,030 --> 01:41:11,200
+It's sold on the base.
+
+1162
+01:41:11,280 --> 01:41:14,200
+Soldiers get transferred a lot, right?
+
+1163
+01:41:14,280 --> 01:41:15,780
+So when they leave
+
+1164
+01:41:15,870 --> 01:41:18,410
+they write messages
+on these for each other.
+
+1165
+01:41:30,970 --> 01:41:35,640
+<i>Dear Mai, Ryota, Kotaro</i>
+
+1166
+01:41:36,640 --> 01:41:40,430
+I'm leaving Okinawa
+sooner than expected.
+
+1167
+01:41:41,430 --> 01:41:43,350
+It's a really short time
+
+1168
+01:41:43,440 --> 01:41:45,770
+but I'm really glad I could
+come to Okinawa
+
+1169
+01:41:45,860 --> 01:41:47,480
+to meet you guys.
+
+1170
+01:41:48,400 --> 01:41:49,860
+Even though I'm really sad that
+
+1171
+01:41:49,940 --> 01:41:52,240
+I couldn't see you guys play.
+
+1172
+01:41:53,150 --> 01:41:55,780
+I remember Shinji had taught me
+
+1173
+01:41:55,870 --> 01:41:58,490
+an Okinawan expression.
+
+1174
+01:42:00,580 --> 01:42:03,410
+Do you know "ichariba-chode"?
+
+1175
+01:42:05,330 --> 01:42:07,290
+<i>Icha...</i>
+
+1176
+01:42:07,380 --> 01:42:09,210
+- <i>Ichariba...</i>
+- <i>Ichariba...</i>
+
+1177
+01:42:09,300 --> 01:42:11,090
+- <i>Chode.</i>
+- <i>Chode?</i>
+
+1178
+01:42:11,170 --> 01:42:12,210
+Yes.
+
+1179
+01:42:12,300 --> 01:42:13,880
+What does it mean?
+
+1180
+01:42:16,890 --> 01:42:18,640
+Once we meet...
+
+1181
+01:42:18,720 --> 01:42:21,720
+we're family.
+
+1182
+01:42:22,390 --> 01:42:24,770
+I love this expression!
+
+1183
+01:42:28,110 --> 01:42:31,230
+Life is a journey.
+
+1184
+01:42:31,980 --> 01:42:34,650
+I was only on this island
+by chance this time
+
+1185
+01:42:34,740 --> 01:42:37,240
+but I'll come again
+
+1186
+01:42:37,950 --> 01:42:41,080
+next time to see you guys.
+
+1187
+01:42:41,740 --> 01:42:44,000
+With a passport.
+
+1188
+01:42:45,330 --> 01:42:46,830
+See you again.
+
+1189
+01:42:48,830 --> 01:42:53,130
+Until then... bye.
+
+1190
+01:43:28,750 --> 01:43:31,590
+<i>Mai: I wrote a song.</i>
+
+1191
+01:44:18,510 --> 01:44:19,550
+Mai.
+
+1192
+01:44:41,610 --> 01:44:45,080
+Can guitars be repaired?
+
+1193
+01:44:51,420 --> 01:44:52,460
+Don't bother.
+
+1194
+01:44:59,260 --> 01:45:02,930
+No. I want to fix it.
+
+1195
+01:45:06,060 --> 01:45:07,520
+I want to fix your guitar
+
+1196
+01:45:41,300 --> 01:45:42,550
+New song?
+
+1197
+01:45:43,630 --> 01:45:45,680
+We want to record it.
+
+1198
+01:45:45,760 --> 01:45:47,560
+And give it to Lisa.
+
+1199
+01:45:47,640 --> 01:45:49,970
+Along with the rest of our songs.
+
+1200
+01:45:51,680 --> 01:45:53,140
+I see.
+
+1201
+01:45:53,850 --> 01:45:55,440
+Is the new song all finished?
+
+1202
+01:45:55,810 --> 01:45:57,060
+Yes.
+
+1203
+01:45:58,900 --> 01:46:01,400
+OK, I got it. Let's do it.
+
+1204
+01:46:16,420 --> 01:46:19,170
+Listen, do you want to play a gig?
+
+1205
+01:46:19,750 --> 01:46:21,590
+I'll get you the space.
+
+1206
+01:46:22,050 --> 01:46:24,470
+My amends for the other day.
+
+1207
+01:46:24,550 --> 01:46:26,590
+I'll pay for everything.
+
+1208
+01:46:29,760 --> 01:46:31,560
+But you're suspended, right?
+
+1209
+01:46:32,140 --> 01:46:33,350
+Forget it.
+
+1210
+01:46:33,430 --> 01:46:36,350
+What am I saying? You're suspended.
+
+1211
+01:46:36,440 --> 01:46:38,980
+I'll only get you into more trouble.
+
+1212
+01:46:41,730 --> 01:46:43,070
+No.
+
+1213
+01:46:47,030 --> 01:46:48,570
+I'd love to.
+
+1214
+01:46:49,410 --> 01:46:50,990
+Me, too.
+
+1215
+01:46:52,290 --> 01:46:53,790
+Me, too.
+
+1216
+01:46:54,160 --> 01:46:56,620
+A band has to play live.
+
+1217
+01:46:56,870 --> 01:46:59,380
+That's true. You're right.
+
+1218
+01:46:59,460 --> 01:47:00,590
+Let's do it!
+
+1219
+01:47:01,170 --> 01:47:03,170
+Include this song too.
+
+1220
+01:47:11,720 --> 01:47:13,060
+What are you doing?
+
+1221
+01:47:13,140 --> 01:47:15,230
+Sorry, ma'am. We'll be done soon.
+
+1222
+01:47:15,310 --> 01:47:16,730
+Sorry.
+
+1223
+01:47:59,230 --> 01:48:00,560
+Hey!
+
+1224
+01:48:00,730 --> 01:48:02,190
+Ready to go!
+
+1225
+01:48:40,690 --> 01:48:42,440
+Maybe she's gone.
+
+1226
+01:49:03,960 --> 01:49:08,340
+Mai... Mai!
+
+1227
+01:49:09,130 --> 01:49:10,670
+Mai!
+
+1228
+01:49:11,930 --> 01:49:14,760
+Ryota! Kotaro!
+
+1229
+01:49:15,550 --> 01:49:16,600
+Lisa.
+
+1230
+01:49:16,810 --> 01:49:18,680
+My brother left a song.
+
+1231
+01:49:18,770 --> 01:49:19,810
+What?
+
+1232
+01:49:20,390 --> 01:49:23,400
+We named it <i>Sayonara Doll.</i>
+
+1233
+01:49:27,400 --> 01:49:30,030
+We'll play one song for you.
+
+1234
+01:49:30,190 --> 01:49:31,820
+Please listen.
+
+1235
+01:49:31,950 --> 01:49:33,320
+OK.
+
+1236
+01:49:59,770 --> 01:50:05,730
+<i>I had a dream</i>
+
+1237
+01:50:07,650 --> 01:50:13,490
+<i>A long, long dream</i>
+
+1238
+01:50:15,990 --> 01:50:21,540
+<i>Long ago on this very island</i>
+
+1239
+01:50:22,790 --> 01:50:29,920
+<i>I met you and fell in love</i>
+
+1240
+01:50:54,740 --> 01:50:58,490
+<i>Like Romeo and Juliet</i>
+
+1241
+01:50:59,070 --> 01:51:02,790
+<i>We were caught in a forbidden romance</i>
+
+1242
+01:51:03,950 --> 01:51:07,790
+<i>As the world battled around us</i>
+
+1243
+01:51:08,500 --> 01:51:12,500
+<i>We nurtured love in a dance</i>
+
+1244
+01:51:13,550 --> 01:51:15,720
+<i>Reality's unfair, borders</i>
+
+1245
+01:51:15,800 --> 01:51:17,890
+<i>And language raise walls</i>
+
+1246
+01:51:17,970 --> 01:51:22,260
+<i>Over which love leaps in a bound</i>
+
+1247
+01:52:01,470 --> 01:52:05,720
+<i>Those who profit from conflict</i>
+
+1248
+01:52:06,100 --> 01:52:10,400
+<i>Leave only pain and malice</i>
+
+1249
+01:52:10,850 --> 01:52:12,730
+<i>Spears raised aloft</i>
+
+1250
+01:52:12,810 --> 01:52:15,070
+<i>The weak as their shield</i>
+
+1251
+01:52:15,530 --> 01:52:20,110
+<i>Feeding like flies on the peace</i>
+
+1252
+01:52:22,530 --> 01:52:26,790
+<i>But never forget our island</i>
+
+1253
+01:52:26,870 --> 01:52:29,330
+<i>And this sea</i>
+
+1254
+01:52:29,410 --> 01:52:33,880
+<i>Over ages and lifetimes and then</i>
+
+1255
+01:52:34,170 --> 01:52:38,380
+<i>Never forget the song we sang</i>
+
+1256
+01:52:38,470 --> 01:52:41,180
+<i>And the promise</i>
+
+1257
+01:52:41,260 --> 01:52:45,560
+<i>That we'll meet again one day</i>
+
+1258
+01:52:45,890 --> 01:52:49,980
+<i>That we'll meet again one day</i>
+
+1259
+01:52:50,560 --> 01:52:58,820
+<i>Over ages and lifetimes and then</i>
+
+1260
+01:53:51,290 --> 01:53:56,750
+<i>I had a dream</i>
+
+1261
+01:53:59,000 --> 01:54:05,260
+<i>A long, long dream</i>
+
+1262
+01:55:41,770 --> 01:55:44,650
+I had a buddy
+
+1263
+01:55:44,730 --> 01:55:46,700
+who loved music.
+
+1264
+01:55:47,610 --> 01:55:49,240
+If he were here
+
+1265
+01:55:49,320 --> 01:55:51,580
+he'd tell us to kick it up a notch!
+
+1266
+01:55:52,830 --> 01:55:54,240
+So here we go!
+
+1267
+01:55:55,410 --> 01:55:56,460
+Everybody...
+
+1268
+01:55:57,460 --> 01:55:59,330
+sing!
+
+1269
+01:56:02,960 --> 01:56:07,760
+<i>When you were so kind to me</i>
+
+1270
+01:56:08,220 --> 01:56:13,140
+<i>I learnt how small I really am</i>
+
+1271
+01:56:13,640 --> 01:56:18,480
+<i>Ashamed for ever doubting you</i>
+
+1272
+01:56:18,940 --> 01:56:23,940
+<i>You've made a believer out of me</i>
+
+1273
+01:56:24,400 --> 01:56:29,320
+<i>The days flow by so quickly</i>
+
+1274
+01:56:29,740 --> 01:56:34,910
+<i>I drift in an ever-changing world</i>
+
+1275
+01:56:35,200 --> 01:56:40,120
+<i>But one thing that won't budge</i>
+
+1276
+01:56:40,540 --> 01:56:45,250
+<i>Is my love for you</i>
+
+1277
+01:56:45,340 --> 01:56:50,340
+<i>So don't you cry, my dearest</i>
+
+1278
+01:56:50,800 --> 01:56:56,060
+<i>There's joy in the anguish of love</i>
+
+1279
+01:56:56,140 --> 01:57:01,480
+<i>Before you know it, you will see</i>
+
+1280
+01:57:01,560 --> 01:57:06,730
+<i>Just how much you mean to me</i>
+
+1281
+01:57:07,230 --> 01:57:12,160
+<i>More today than yesterday we'll be</i>
+
+1282
+01:57:12,660 --> 01:57:20,580
+<i>Before you know it, in my arms</i>
+
+1283
+01:57:21,080 --> 01:57:28,380
+<i>I'd die to see you</i>
+
+1284
+01:57:28,460 --> 01:57:31,510
+<i>Die to see you</i>
+
+1285
+01:57:31,800 --> 01:57:39,140
+<i>I'd die to see you</i>
+
+1286
+01:57:39,220 --> 01:57:41,180
+<i>Die to see you</i>
+
+1287
+01:57:41,270 --> 01:57:43,850
+<i>On a sleepless night</i>
+
+1288
+01:57:43,940 --> 01:57:46,400
+<i>I await you in my dreams</i>
+
+1289
+01:57:46,690 --> 01:57:48,860
+<i>I'm thinking so hard</i>
+
+1290
+01:57:48,940 --> 01:57:51,490
+<i>I just can't fall asleep</i>
+
+1291
+01:57:52,070 --> 01:57:54,660
+<i>But when I see you there</i>
+
+1292
+01:57:54,740 --> 01:57:57,370
+<i>You ask, "Where shall we go?"</i>
+
+1293
+01:57:57,450 --> 01:57:59,740
+<i>But as long as you're with me</i>
+
+1294
+01:57:59,830 --> 01:58:01,580
+<i>I don't really care</i>
+
+1295
+01:58:01,660 --> 01:58:08,800
+<i>I'd die to see you</i>
+
+1296
+01:58:08,880 --> 01:58:12,010
+<i>Die to see you</i>
+
+1297
+01:58:12,300 --> 01:58:19,560
+<i>I'd die to see you</i>
+
+1298
+01:58:19,640 --> 01:58:22,890
+<i>Die to see you</i>
+
+1299
+01:58:23,020 --> 01:58:30,320
+<i>I'd die to see you</i>
+
+1300
+01:58:30,400 --> 01:58:32,400
+<i>Die to see you</i>
+
+1301
+01:58:32,490 --> 01:58:35,110
+<i>The time will pass us by</i>
+
+1302
+01:58:35,200 --> 01:58:37,820
+<i>The seasons will depart</i>
+
+1303
+01:58:37,910 --> 01:58:40,240
+<i>In a world as this</i>
+
+1304
+01:58:40,330 --> 01:58:42,790
+<i>We strive to understand</i>
+
+1305
+01:58:43,290 --> 01:58:45,830
+<i>In a world as this</i>
+
+1306
+01:58:45,960 --> 01:58:48,500
+<i>Who we're meant to trust</i>
+
+1307
+01:58:48,590 --> 01:58:51,130
+<i>Who we're meant to walk with</i>
+
+1308
+01:58:51,210 --> 01:58:53,010
+<i>So will you take my hand?</i>
+
+1309
+01:58:56,550 --> 01:58:58,890
+<i>So will you take my hand?</i>
+
+1310
+01:59:01,890 --> 01:59:04,850
+<i>So will you take my hand?</i>
+
+1311
+01:59:21,030 --> 01:59:25,710
+<i>Little Love Song</i>

@@ -1,0 +1,4430 @@
+1
+00:00:16,558 --> 00:00:18,727
+I'm Scott Tinker and
+I study energy.
+
+2
+00:00:21,229 --> 00:00:25,400
+I was in remote Colombia to visit a family
+living without modern energy of any kind.
+
+3
+00:00:52,427 --> 00:00:54,929
+This is the farm of an
+Arhuaco tribal elder.
+
+4
+00:00:55,430 --> 00:00:56,264
+I'm Scott.
+
+5
+00:00:56,598 --> 00:00:57,932
+He lives here with his wife...
+
+6
+00:00:58,433 --> 00:01:01,269
+Their daughters and their
+husbands, and lots of grandkids.
+
+7
+00:01:03,605 --> 00:01:04,272
+Hi.
+
+8
+00:01:05,273 --> 00:01:06,441
+[foreign language]
+Alright.
+
+9
+00:01:07,942 --> 00:01:10,445
+Using farming methods
+passed down over centuries,
+
+10
+00:01:10,612 --> 00:01:12,947
+the Arhuacos can grow everything they need.
+
+11
+00:01:13,615 --> 00:01:15,450
+[foreign language]
+
+12
+00:01:28,129 --> 00:01:29,297
+Beans, bananas...
+
+13
+00:01:31,299 --> 00:01:36,554
+And coffee. [Chuckle]
+So this feeds everybody.
+
+14
+00:01:37,806 --> 00:01:39,766
+What is this?
+
+15
+00:01:42,811 --> 00:01:44,229
+For grinding?
+
+16
+00:01:47,816 --> 00:01:48,858
+Alright, here we go.
+
+17
+00:01:49,818 --> 00:01:54,823
+Everything here is produced with manual
+labor. This press is their only machine.
+
+18
+00:01:55,156 --> 00:01:56,491
+Put your back in it.
+
+19
+00:02:11,339 --> 00:02:13,466
+What did we make, sugar cane?
+
+20
+00:02:15,844 --> 00:02:17,279
+It's good?
+
+21
+00:02:17,303 --> 00:02:19,514
+[foreign language]
+
+22
+00:02:19,681 --> 00:02:21,432
+I'll try it.
+
+23
+00:02:25,353 --> 00:02:30,692
+That's good. I wouldn't drink it
+every night, but it's pretty good.
+
+24
+00:02:31,526 --> 00:02:32,527
+Gracias.
+
+25
+00:02:33,194 --> 00:02:34,839
+[foreign language]
+
+26
+00:02:34,863 --> 00:02:37,365
+I think he's done this
+before, look at that.
+
+27
+00:02:39,868 --> 00:02:41,202
+[foreign language]
+
+28
+00:02:44,539 --> 00:02:47,876
+Oh wow, that's beautiful.
+
+29
+00:02:56,050 --> 00:02:56,885
+Eat it?
+
+30
+00:03:01,222 --> 00:03:05,226
+That's good. That's very good.
+
+31
+00:03:06,060 --> 00:03:09,397
+This seems like a pretty
+good life but it's a hard life.
+
+32
+00:03:09,731 --> 00:03:13,067
+Only half of the Arhuaco children
+will make it to adulthood.
+
+33
+00:03:20,575 --> 00:03:24,555
+Inside this hut, it was around
+120 degrees and filled with smoke,
+
+34
+00:03:24,579 --> 00:03:28,392
+from their only energy source, fire.
+
+35
+00:03:28,416 --> 00:03:32,754
+Very little windows. What is
+this hanging above the fire?
+
+36
+00:03:34,255 --> 00:03:34,923
+Banana.
+
+37
+00:03:35,089 --> 00:03:36,925
+Bananas, smoked bananas.
+
+38
+00:03:38,927 --> 00:03:41,572
+Mais. Secar mais.
+
+39
+00:03:41,596 --> 00:03:49,604
+Oh, they dry corn. That makes sense.
+Muchas gracias. Muchas gracias.
+
+40
+00:03:51,439 --> 00:03:54,585
+The Arhuacos still get all of
+their energy from burning wood,
+
+41
+00:03:54,609 --> 00:03:57,946
+and you might think
+they're a fairly isolated case.
+
+42
+00:04:02,617 --> 00:04:08,265
+But in fact, there are one billion people
+in rural Latin America, Africa, and Asia
+
+43
+00:04:08,289 --> 00:04:10,100
+who live like the Arhuacos do
+
+44
+00:04:10,124 --> 00:04:13,962
+with no electricity or
+modern energy of any kind.
+
+45
+00:04:16,130 --> 00:04:19,443
+There are another one billion
+people, most of them urban,
+
+46
+00:04:19,467 --> 00:04:23,805
+with limited energy that's
+often unaffordable or dangerous.
+
+47
+00:04:24,639 --> 00:04:27,785
+Nearly all of these people
+and a few hundred million more
+
+48
+00:04:27,809 --> 00:04:32,957
+still burn wood, straw, dung or
+and other biomass for cooking or heating
+
+49
+00:04:32,981 --> 00:04:35,316
+and suffer from breathing its smoke.
+
+50
+00:04:35,817 --> 00:04:40,989
+These two plus billion people worldwide
+live in what the UN calls energy poverty.
+
+51
+00:04:42,991 --> 00:04:48,162
+That's nearly a third of the planet without
+access to safe, affordable, reliable energy.
+
+52
+00:04:49,998 --> 00:04:51,165
+In our last film, Switch,
+
+53
+00:04:51,833 --> 00:04:55,169
+we looked at the continuing energy
+transition in the developed world.
+
+54
+00:04:55,837 --> 00:04:58,339
+We'll now focus on a
+more profound transition
+
+55
+00:04:59,007 --> 00:05:01,652
+for the people moving out of energy poverty
+
+56
+00:05:01,676 --> 00:05:04,679
+and beginning to receive the many
+benefits that energy brings.
+
+57
+00:05:07,015 --> 00:05:12,186
+We'll go to Ethiopia,
+and Kenya, and Vietnam
+
+58
+00:05:12,687 --> 00:05:16,500
+to see how large new
+grid-connected electricity projects
+
+59
+00:05:16,524 --> 00:05:18,526
+will power mostly urban citizens.
+
+60
+00:05:19,527 --> 00:05:21,863
+We'll go to Colombia and to Kenya again,
+
+61
+00:05:22,196 --> 00:05:27,368
+to meet rural people getting their first
+electricity from off-grid solar solutions.
+
+62
+00:05:30,204 --> 00:05:33,517
+And we'll go to Nepal to meet people
+transitioning from burning wood
+
+63
+00:05:33,541 --> 00:05:36,044
+to healthier modern cooking fuels.
+
+64
+00:05:37,045 --> 00:05:41,049
+Their stories are a microcosm of what's
+happening across the developing world,
+
+65
+00:05:41,382 --> 00:05:44,052
+as people and communities Switch On.
+
+66
+00:05:49,724 --> 00:05:54,395
+On the other side of the mountain from the
+Arhuaco farm is the village of Sabana Crespo.
+
+67
+00:05:54,771 --> 00:05:55,873
+It's a trading center
+
+68
+00:05:55,897 --> 00:06:00,234
+where families come down from the hills once
+a week to exchange goods and see friends.
+
+69
+00:06:00,568 --> 00:06:05,073
+A couple of years ago, this rural
+community got its first electricity ever.
+
+70
+00:06:05,740 --> 00:06:09,219
+Because here, the non-profit
+Solar Electric Light Fund,
+
+71
+00:06:09,243 --> 00:06:12,246
+or SELF, installed a solar microgrid.
+
+72
+00:06:12,580 --> 00:06:14,916
+I met their CEO Bob Freling.
+
+73
+00:06:15,249 --> 00:06:16,894
+Scott Tinker: How did you
+get involved in this village?
+
+74
+00:06:16,918 --> 00:06:20,731
+Bob Freling: Well, it all happened
+when a leader of the Arhuaco people
+
+75
+00:06:20,755 --> 00:06:25,069
+came to Washington DC and requested our
+support to come in and bring solar power
+
+76
+00:06:25,093 --> 00:06:27,738
+to his and several other villages here
+
+77
+00:06:27,762 --> 00:06:29,931
+in the Sierra Nevada
+mountains of northern Colombia.
+
+78
+00:06:30,264 --> 00:06:37,081
+That is a remarkably rapid transformation
+for indigenous people to make though, right?
+
+79
+00:06:37,105 --> 00:06:42,586
+BF: It's true. And we're very mindful of
+the fact that not everybody in the world
+
+80
+00:06:42,610 --> 00:06:46,924
+wants this. We would never
+go and impose our solutions
+
+81
+00:06:46,948 --> 00:06:49,283
+on a community that has not invited us.
+
+82
+00:06:49,617 --> 00:06:54,789
+For example, they have asked us not to
+bring power to their homes and we haven't.
+
+83
+00:06:55,123 --> 00:06:59,103
+ST: So, this array, this micro-grid is powering
+more of the community center type things?
+
+84
+00:06:59,127 --> 00:07:02,296
+BF: Correct, this is all for
+community-based needs.
+
+85
+00:07:04,632 --> 00:07:07,301
+This system helps power
+the coffee operations.
+
+86
+00:07:08,302 --> 00:07:10,972
+It's the only crop they
+trade with outsiders.
+
+87
+00:07:14,684 --> 00:07:17,621
+It also powers lights
+in the community store,
+
+88
+00:07:17,645 --> 00:07:19,981
+on the streets at night
+and in the health center.
+
+89
+00:07:22,150 --> 00:07:25,796
+SELF's engineer, Steve McCarney,
+showed me a smaller array
+
+90
+00:07:25,820 --> 00:07:28,990
+that powers a refrigerator
+and freezer for vaccines.
+
+91
+00:07:29,157 --> 00:07:31,260
+Steve McCarney: This is a great
+project that was funded
+
+92
+00:07:31,284 --> 00:07:33,262
+by the Bill and Melinda Gates Foundation
+
+93
+00:07:33,286 --> 00:07:37,808
+to basically prove that solar ice making
+could be done and used for immunization
+
+94
+00:07:37,832 --> 00:07:43,355
+and the actual first solar direct drive
+battery-free icemakers are right behind us.
+
+95
+00:07:43,379 --> 00:07:46,316
+Okay, fellas, here is the vaccine room.
+
+96
+00:07:46,340 --> 00:07:52,013
+And in here is the freezer, these are... The
+serial number on this is probably 001 or 002.
+
+97
+00:07:52,346 --> 00:07:55,516
+This is frozen solid, solar energy.
+
+98
+00:07:56,017 --> 00:07:57,828
+Those are used for outreach.
+
+99
+00:07:57,852 --> 00:08:00,330
+They pack 'em with these ice
+packs, take the vaccines out,
+
+100
+00:08:00,354 --> 00:08:05,169
+walk out sometimes up to three-day trips
+from here so they can immunize outreach
+
+101
+00:08:05,193 --> 00:08:07,361
+locations far up in the mountains.
+
+102
+00:08:07,695 --> 00:08:09,506
+So it does extend beyond the village.
+
+103
+00:08:09,530 --> 00:08:10,341
+ST: Right.
+
+104
+00:08:10,365 --> 00:08:14,511
+BF: The catchment area for this
+village is approximately 17,000 people.
+
+105
+00:08:14,535 --> 00:08:15,679
+ST: 17,000?
+
+106
+00:08:15,703 --> 00:08:17,181
+BF: 17,000 people...
+
+107
+00:08:17,205 --> 00:08:22,352
+ST: So your 12.5-kilowatt micro-array,
+and some smaller ones around,
+
+108
+00:08:22,376 --> 00:08:26,881
+is actually servicing a
+community of 17,000.
+
+109
+00:08:27,215 --> 00:08:30,360
+BF: You've seen what a little bit
+of energy can do, right? ST: Yeah.
+
+110
+00:08:30,384 --> 00:08:35,365
+BF: We think about a few watts or a few thousand
+watts in the United States, it's nothing, right?
+
+111
+00:08:35,389 --> 00:08:36,891
+ST: Yeah.
+
+112
+00:08:36,933 --> 00:08:40,871
+BF: But a few thousand watts of energy
+make all the difference in the world.
+
+113
+00:08:40,895 --> 00:08:41,395
+ST: Yeah.
+
+114
+00:08:41,896 --> 00:08:45,542
+Bob and Steve have spent their
+careers bringing off-grid electricity
+
+115
+00:08:45,566 --> 00:08:47,711
+to rural communities like this one.
+
+116
+00:08:47,735 --> 00:08:53,574
+To understand what it really takes to power the
+people, I wanted to help them do more of it.
+
+117
+00:08:57,578 --> 00:09:02,250
+[music]
+
+118
+00:09:03,751 --> 00:09:06,087
+Halfway around the world
+there's a different challenge.
+
+119
+00:09:07,129 --> 00:09:10,901
+Nepal sits between the northern
+border of India and the Himalayas
+
+120
+00:09:10,925 --> 00:09:13,427
+and is one of the poorest
+countries in the world.
+
+121
+00:09:14,095 --> 00:09:19,100
+Outside of its capital, most people are
+farmers living a very traditional lifestyle.
+
+122
+00:09:19,934 --> 00:09:21,602
+[music]
+
+123
+00:09:23,104 --> 00:09:26,917
+I went there with environmental
+health scientist, Dr. Amod Pokhrel,
+
+124
+00:09:26,941 --> 00:09:29,110
+who's been studying their cooking methods.
+
+125
+00:09:32,321 --> 00:09:36,617
+In the countryside, everything
+is done by hand or foot.
+
+126
+00:09:56,470 --> 00:10:00,141
+Along the main road this small
+furniture factory sells scrap wood.
+
+127
+00:10:00,474 --> 00:10:04,812
+Sanu Kanchi, a mother of five from a
+nearby village, is here to buy some.
+
+128
+00:10:05,646 --> 00:10:07,648
+So why don't they get this
+wood from the forest?
+
+129
+00:10:07,982 --> 00:10:10,294
+So the government opens community forest
+
+130
+00:10:10,318 --> 00:10:13,154
+for people to collect wood
+only one time a year.
+
+131
+00:10:14,322 --> 00:10:16,991
+Yeah, because there is a big
+problem of deforestation.
+
+132
+00:10:17,491 --> 00:10:20,161
+And then after that, they have
+to purchase it from the market,
+
+133
+00:10:20,202 --> 00:10:21,996
+which is expensive like we'll see...
+
+134
+00:10:22,163 --> 00:10:23,515
+Scott: Yeah, so this is the market.
+
+135
+00:10:23,539 --> 00:10:24,498
+Amod Pokhrel: Yeah, this is the market.
+
+136
+00:10:26,000 --> 00:10:27,835
+ST: I'm curious to see
+how much this weighs.
+
+137
+00:10:29,003 --> 00:10:35,509
+21.3 kilos, so almost 45, 50 pounds.
+
+138
+00:10:36,010 --> 00:10:38,989
+How long will that last for cooking?
+
+139
+00:10:39,013 --> 00:10:40,991
+[foreign language]
+
+140
+00:10:41,015 --> 00:10:42,492
+AP: She said it goes for two weeks.
+
+141
+00:10:42,516 --> 00:10:46,354
+ST: About two weeks. So we need
+25 of those every year,
+
+142
+00:10:47,188 --> 00:10:51,359
+and we just spent 200, so 5000.
+
+143
+00:10:52,193 --> 00:10:56,864
+So that's a lot of money. How much
+money do you have each year to spend?
+
+144
+00:10:57,198 --> 00:10:59,033
+What money do you make?
+
+145
+00:10:59,533 --> 00:11:01,369
+[foreign language]
+
+146
+00:11:05,206 --> 00:11:07,041
+AP: So she doesn't know the exact...
+
+147
+00:11:07,375 --> 00:11:11,188
+But according to her she spends
+a lot of money on purchasing...
+
+148
+00:11:11,212 --> 00:11:14,024
+ST: Probably maybe half of her income
+or more. AP: Yeah, half of her income.
+
+149
+00:11:14,048 --> 00:11:15,859
+ST: Just on fuel.
+AP: Just on fuel.
+
+150
+00:11:15,883 --> 00:11:18,028
+ST: For the fire.
+AP: For the fire, to cook.
+
+151
+00:11:18,052 --> 00:11:19,887
+ST: That's a tremendous amount.
+
+152
+00:11:20,721 --> 00:11:22,390
+[music]
+
+153
+00:11:42,410 --> 00:11:46,556
+Sanu Kanchi is one of the more than
+two billion people around the world
+
+154
+00:11:46,580 --> 00:11:50,084
+who still cooks with wood,
+dung, straw, or other biomass.
+
+155
+00:11:59,135 --> 00:12:00,636
+[foreign language]
+
+156
+00:12:07,101 --> 00:12:09,413
+So we got corn, dried corn.
+
+157
+00:12:09,437 --> 00:12:10,438
+[foreign language]
+
+158
+00:12:11,939 --> 00:12:14,442
+Over here, mais.
+
+159
+00:12:22,825 --> 00:12:29,266
+ST: So people have been cooking over wood
+and solid fuels for many hundreds of years.
+
+160
+00:12:29,290 --> 00:12:33,603
+AP: Yeah, thousands of years. And it's good
+because this allowed people to boil water
+
+161
+00:12:33,627 --> 00:12:38,942
+and give warm food, which is
+also helpful in terms of health.
+
+162
+00:12:38,966 --> 00:12:42,112
+But the smoke is the main issue here.
+
+163
+00:12:42,136 --> 00:12:49,477
+And so you can see there's no vent, ventilation,
+any window opening for the smoke to go out.
+
+164
+00:12:50,478 --> 00:12:55,316
+Amod and his team monitor air quality in
+more than 3000 households in this area.
+
+165
+00:12:56,650 --> 00:13:00,654
+The outside air pollution levels are about
+50 parts per million of particulates.
+
+166
+00:13:01,322 --> 00:13:04,301
+ST: So two or three times a
+day we're going to 900.
+
+167
+00:13:04,325 --> 00:13:05,659
+AP: Yeah, yeah.
+
+168
+00:13:08,162 --> 00:13:13,000
+ST: 15 to 20 times the standard. Every day.
+
+169
+00:13:16,837 --> 00:13:22,176
+Well, you can hear the kids, you can hear
+their lungs, you can hear when they cough.
+
+170
+00:13:24,011 --> 00:13:28,849
+ST: And you've been cooking in your
+home all your life, like this?
+
+171
+00:13:29,016 --> 00:13:31,519
+[foreign language]
+
+172
+00:13:32,853 --> 00:13:38,859
+AP: Yeah. She has always used biomass stoves,
+she has not used any other modern fuel...
+
+173
+00:13:39,527 --> 00:13:46,009
+ST: I mean you can see the smoke, completely
+darkened rafters and the loft above us.
+
+174
+00:13:46,033 --> 00:13:46,844
+AP: Yeah.
+
+175
+00:13:46,868 --> 00:13:50,347
+ST: That's really remarkable with
+kids and things, the exposure...
+
+176
+00:13:50,371 --> 00:13:51,681
+AP: Yes.
+
+177
+00:13:51,705 --> 00:13:53,541
+ST: Through their lives.
+AP: Yeah, yeah.
+
+178
+00:13:55,876 --> 00:13:58,855
+Amod and I went to the nearby
+Siddhi Memorial Hospital
+
+179
+00:13:58,879 --> 00:14:02,383
+to see how breathing smoke was
+affecting the local population.
+
+180
+00:14:06,053 --> 00:14:07,555
+She's beautiful.
+
+181
+00:14:10,224 --> 00:14:11,725
+[foreign language]
+
+182
+00:14:31,579 --> 00:14:33,747
+Okay. I'll just explain.
+
+183
+00:14:53,267 --> 00:14:54,768
+[foreign language]
+
+184
+00:15:17,458 --> 00:15:20,437
+How many do you see like this
+every day? Who have the respiratory?
+
+185
+00:15:20,461 --> 00:15:22,463
+How many little kids?
+
+186
+00:15:46,820 --> 00:15:48,656
+The electricity is not working.
+
+187
+00:15:56,538 --> 00:16:00,000
+AP: This is a very common problem in Nepal.
+
+188
+00:16:00,501 --> 00:16:03,313
+In our study here, which was
+conducted here in the same hospital,
+
+189
+00:16:03,337 --> 00:16:08,342
+we also found a very strong association
+between pneumonia and use of biomass fuel.
+
+190
+00:16:11,512 --> 00:16:14,014
+Thank you, I hope she gets better.
+
+191
+00:16:16,517 --> 00:16:17,685
+[foreign language]
+
+192
+00:16:18,519 --> 00:16:22,332
+Sadly, children die
+frequently here of pneumonia.
+
+193
+00:16:22,356 --> 00:16:27,361
+World Health Organization studies show
+that diseases from indoor smoke inhalation
+
+194
+00:16:27,528 --> 00:16:30,531
+kill over 3 million people a year globally.
+
+195
+00:16:30,864 --> 00:16:33,867
+More than AIDS and malaria combined.
+
+196
+00:16:34,868 --> 00:16:38,872
+Clearly one of the most important
+challenges facing the world today
+
+197
+00:16:39,373 --> 00:16:44,712
+is how the one-third of its people who
+still burn wood can move to something else.
+
+198
+00:16:51,552 --> 00:16:54,388
+Back in Colombia, we went
+with SELF to Gunchukwa,
+
+199
+00:16:54,722 --> 00:16:57,725
+another Arhuaco village that
+had requested electricity.
+
+200
+00:16:58,726 --> 00:17:00,894
+But first, we had to go
+through a cleansing ritual.
+
+201
+00:17:01,395 --> 00:17:03,230
+[music]
+
+202
+00:17:03,731 --> 00:17:07,568
+Osiris McCarney, SELF's operation
+manager, showed us how it's done.
+
+203
+00:17:17,911 --> 00:17:20,414
+My son Derek helped organized this trip.
+
+204
+00:17:20,914 --> 00:17:24,728
+We had to bathe in Arhuaco's sacred waters
+before we could meet the village
+
+205
+00:17:24,752 --> 00:17:28,255
+and address their spiritual
+leaders, called Mamos.
+
+206
+00:17:44,271 --> 00:17:46,940
+Thank you for welcoming us to your village.
+
+207
+00:17:47,775 --> 00:17:52,780
+And we appreciate very much the nice
+ceremony that we went through this morning.
+
+208
+00:17:53,781 --> 00:17:58,452
+It's very meaningful to us and we want
+to extend our respect back to you.
+
+209
+00:17:59,787 --> 00:18:01,288
+[foreign language]
+
+210
+00:18:13,300 --> 00:18:18,806
+We are in a partnership
+with SELF and Switch.
+
+211
+00:18:19,807 --> 00:18:24,645
+So our interest is to understand your needs
+
+212
+00:18:25,646 --> 00:18:28,482
+and if you have a need for electricity
+
+213
+00:18:30,150 --> 00:18:34,154
+in a way that we could help you,
+we would like to learn that.
+
+214
+00:18:35,489 --> 00:18:38,325
+But only to the extent that you want it.
+
+215
+00:18:39,326 --> 00:18:40,828
+And we would work with you
+
+216
+00:18:42,996 --> 00:18:51,505
+to bring electricity to your village and
+work with you to teach you how to maintain.
+
+217
+00:18:52,506 --> 00:18:54,150
+Now, we had a mission.
+
+218
+00:18:54,174 --> 00:18:58,345
+The Arhuacos of Gunchukwa asked for lights
+and fans in their community buildings,
+
+219
+00:18:58,679 --> 00:19:02,349
+a street light in the square,
+and a refrigerator for their store.
+
+220
+00:19:04,518 --> 00:19:09,690
+To power all that, like Sabana Crespo,
+they would need an off-grid solar system
+
+221
+00:19:10,023 --> 00:19:11,525
+and we would build it.
+
+222
+00:19:13,527 --> 00:19:15,195
+[music]
+
+223
+00:19:15,696 --> 00:19:20,367
+But before we could do that, I was off
+to Africa to look at on-grid solutions.
+
+224
+00:19:22,369 --> 00:19:25,038
+This is what you might expect
+Ethiopia to look like.
+
+225
+00:19:37,217 --> 00:19:38,427
+But this is where it's headed.
+
+226
+00:19:40,888 --> 00:19:46,393
+Ethiopia's capital, Addis Ababa, is
+rapidly modernizing and rapidly growing
+
+227
+00:19:46,894 --> 00:19:48,896
+and desperately needs more electricity.
+
+228
+00:19:49,396 --> 00:19:53,233
+To get it, they're building a huge new
+hydropower project called the GERD,
+
+229
+00:19:53,567 --> 00:19:56,403
+The Grand Ethiopian Renaissance Dam.
+
+230
+00:19:57,404 --> 00:19:59,239
+There are challenges to building any dam.
+
+231
+00:19:59,573 --> 00:20:04,411
+I talked to Rudo Sanyanga from a watchdog
+group about perhaps the most important.
+
+232
+00:20:21,428 --> 00:20:27,601
+But a major dam like that produces
+a tremendous amount of steady electricity.
+
+233
+00:20:27,935 --> 00:20:30,914
+But you're saying it
+disproportionally benefits
+
+234
+00:20:30,938 --> 00:20:33,416
+those who are in cities that can benefit it
+
+235
+00:20:33,440 --> 00:20:35,275
+compared to those who are displaced.
+
+236
+00:21:18,652 --> 00:21:19,987
+Interesting.
+
+237
+00:21:21,154 --> 00:21:25,826
+I met with Dr. Seleshi Bekele, Ethiopia's
+Minister of Water and Electricity,
+
+238
+00:21:26,159 --> 00:21:30,205
+about how they'll power the city without
+leaving their rural citizens behind.
+
+239
+00:21:44,886 --> 00:21:47,848
+Yes. Again, how do you get the electricity
+
+240
+00:21:48,515 --> 00:21:51,018
+in the country, into the hands of the poor?
+
+241
+00:21:52,019 --> 00:21:54,855
+There's villages that have
+nothing, no electricity at all.
+
+242
+00:21:55,022 --> 00:21:57,399
+Are you building power lines now?
+Or the big networks being built?
+
+243
+00:22:08,869 --> 00:22:11,705
+To learn more, I was off to visit the GERD.
+
+244
+00:22:14,207 --> 00:22:16,352
+ST: It's nice to meet you, what's your
+name? Lazarus: Nice to meet you, Lazarus.
+
+245
+00:22:16,376 --> 00:22:17,544
+ST: Lazarus, I'm Scott.
+
+246
+00:22:25,218 --> 00:22:28,889
+From the air, Addis Ababa
+looks like any big US city.
+
+247
+00:22:29,056 --> 00:22:33,560
+In fact, it has a bigger population
+than all of them except New York.
+
+248
+00:22:35,062 --> 00:22:37,064
+But this is not unique to Ethiopia.
+
+249
+00:22:37,397 --> 00:22:40,067
+In countries across
+Africa, cities are growing.
+
+250
+00:22:40,567 --> 00:22:46,215
+Across Latin America, and especially
+across developing Asia, it's happening too.
+
+251
+00:22:46,239 --> 00:22:49,409
+150 million people
+moved to cities each year.
+
+252
+00:22:50,619 --> 00:22:55,415
+Almost half of the people in the developing
+world already live in urban centers.
+
+253
+00:22:56,249 --> 00:22:59,419
+By 2050, it will be closer to 70%.
+
+254
+00:22:59,961 --> 00:23:02,798
+The future of the
+developing world is urban.
+
+255
+00:23:04,424 --> 00:23:07,904
+Meeting the huge energy demands
+of these densely populated
+
+256
+00:23:07,928 --> 00:23:10,573
+urban centers will be a great challenge
+
+257
+00:23:10,597 --> 00:23:13,266
+while balancing the
+needs of rural citizens.
+
+258
+00:23:15,644 --> 00:23:18,980
+I'd see how they're doing this
+at Ethiopia's Renaissance Dam.
+
+259
+00:23:19,439 --> 00:23:22,984
+It sits on the Blue Nile in the
+desert on the border with Sudan.
+
+260
+00:23:37,124 --> 00:23:41,503
+I met with the general manager
+of the entire project, Kifle Horo.
+
+261
+00:23:42,629 --> 00:23:45,775
+ST: This is called the Grand Ethiopian
+Renaissance... Kifle Horo: Renaissance, yeah.
+
+262
+00:23:45,799 --> 00:23:47,467
+ST: Why Renaissance? What does that mean?
+
+263
+00:23:47,634 --> 00:23:50,804
+KH: Ethiopia was great some centuries ago.
+
+264
+00:23:50,846 --> 00:23:55,451
+That's why we called it "Renaissance,"
+coming back to our greatness.
+
+265
+00:23:55,475 --> 00:23:56,143
+ST: Okay.
+
+266
+00:23:56,476 --> 00:24:01,314
+KH: The finance of this project comes from the
+government of Ethiopia and from the public.
+
+267
+00:24:01,815 --> 00:24:05,360
+The public has a stake in
+it, they are buying bond...
+
+268
+00:24:05,819 --> 00:24:07,964
+ST: They're putting their own money.
+KH: Money, yes.
+
+269
+00:24:07,988 --> 00:24:11,676
+KH: Every year, they give
+one month of their salary
+
+270
+00:24:11,700 --> 00:24:15,662
+on a bond basis, which will
+be repaid after five years.
+
+271
+00:24:17,831 --> 00:24:19,976
+Think about that commitment.
+
+272
+00:24:20,000 --> 00:24:25,839
+Many Ethiopians are putting one month of
+salary each year toward bonds for the dam.
+
+273
+00:24:27,340 --> 00:24:31,654
+KH: The total intended
+capacity is around 6.3 gigawatts.
+
+274
+00:24:31,678 --> 00:24:36,492
+ST: Yes. So that's six or
+seven nuclear reactors?
+
+275
+00:24:36,516 --> 00:24:39,352
+KH: Exactly.
+ST: This is big, massive.
+
+276
+00:24:41,188 --> 00:24:45,835
+KH: From the dam, water comes and the spiral
+case guides the water into the turbine.
+
+277
+00:24:45,859 --> 00:24:47,694
+ST: The turbine, that's unbelievable.
+
+278
+00:24:48,528 --> 00:24:50,864
+KH: So huge.
+ST: The scale of that.
+
+279
+00:24:50,906 --> 00:24:52,532
+KH: You can imagine the size.
+
+280
+00:24:58,872 --> 00:25:04,353
+ST: Wow, the scale of this is just crazy.
+
+281
+00:25:04,377 --> 00:25:07,857
+It's hard to appreciate
+the size of this project.
+
+282
+00:25:07,881 --> 00:25:11,885
+When complete, it will provide electricity
+for tens of millions of Ethiopians.
+
+283
+00:25:13,386 --> 00:25:15,055
+ST: What does this dam...
+
+284
+00:25:15,388 --> 00:25:18,433
+ST: How did that contribute to
+lifting up the Ethiopia economically?
+
+285
+00:25:23,730 --> 00:25:28,235
+ST: So you'll be able to provide
+electricity to citizens of Ethiopia?
+
+286
+00:25:54,594 --> 00:25:57,097
+ST: Yeah, for all of Africa.
+KH: Yeah, all of Africa.
+
+287
+00:25:59,474 --> 00:26:03,436
+It seems the dam is well on the
+way to achieving its power goals,
+
+288
+00:26:03,770 --> 00:26:06,147
+but what about the people it has displaced?
+
+289
+00:26:06,773 --> 00:26:10,086
+In the valley that will be flooded
+to create the dam's reservoir,
+
+290
+00:26:10,110 --> 00:26:12,588
+I met with journalist Abraham Fisseha.
+
+291
+00:26:12,612 --> 00:26:17,659
+We're sitting here on the
+upstream side of the GERD.
+
+292
+00:26:17,826 --> 00:26:21,288
+In a few years, we would be
+under about 140 meters of water.
+
+293
+00:26:22,831 --> 00:26:27,836
+And there used to be people that lived here
+in this area, and they're gonna be displaced
+
+294
+00:26:28,295 --> 00:26:30,630
+as this fills. How did they live?
+
+295
+00:26:30,964 --> 00:26:33,633
+It was a very primitive way of living.
+
+296
+00:26:34,634 --> 00:26:36,970
+Sometimes they are dependent on fishing.
+
+297
+00:26:38,138 --> 00:26:42,309
+But no farm, no other activities.
+
+298
+00:26:43,518 --> 00:26:46,855
+So now they have given them an opportunity,
+
+299
+00:26:47,480 --> 00:26:52,027
+even though it's not enough,
+much better than they used to be.
+
+300
+00:26:52,986 --> 00:26:56,156
+They have never been to school,
+they had no access to clean water.
+
+301
+00:26:56,823 --> 00:26:59,326
+So now with relocating them,
+
+302
+00:26:59,868 --> 00:27:02,162
+schools are open, clinic is open.
+
+303
+00:27:02,996 --> 00:27:07,334
+So at least, at the minimum,
+they have an access.
+
+304
+00:27:08,001 --> 00:27:10,045
+Are many of these part of your family?
+
+305
+00:27:16,009 --> 00:27:18,345
+So your life is very different now?
+
+306
+00:27:18,845 --> 00:27:23,683
+[foreign language]
+
+307
+00:27:47,374 --> 00:27:51,711
+So, the electricity which
+will come to this pole,
+
+308
+00:27:52,879 --> 00:27:54,881
+comes from the new dam.
+
+309
+00:27:55,382 --> 00:28:00,720
+[foreign language]
+
+310
+00:28:01,054 --> 00:28:03,366
+Your little boy will be
+able to go to school now.
+
+311
+00:28:03,390 --> 00:28:09,372
+So he could eventually... He
+could learn to write and read.
+
+312
+00:28:09,396 --> 00:28:13,400
+[foreign language]
+
+313
+00:28:18,738 --> 00:28:22,242
+Not all rural people in Ethiopia
+will get power from the dam
+
+314
+00:28:22,575 --> 00:28:24,452
+or react so positively to it.
+
+315
+00:28:24,911 --> 00:28:27,747
+But here, as in many developing regions,
+
+316
+00:28:27,914 --> 00:28:32,252
+big grid electricity projects
+will drive commerce and power cities
+
+317
+00:28:32,585 --> 00:28:35,422
+and help expand the grid to power villages.
+
+318
+00:28:39,759 --> 00:28:41,428
+[music]
+
+319
+00:28:50,270 --> 00:28:53,916
+For most developing countries,
+hydropower is one of two choices,
+
+320
+00:28:53,940 --> 00:28:56,109
+for large grid electricity projects.
+
+321
+00:28:56,943 --> 00:28:59,279
+I went to Vietnam to look at the other one.
+
+322
+00:29:00,613 --> 00:29:02,800
+Hang Nguyen, an energy planner,
+
+323
+00:29:02,824 --> 00:29:06,453
+told me how Vietnam will power
+its urban centers and growing economy.
+
+324
+00:29:07,454 --> 00:29:10,123
+ST: There's a lot of construction
+going on over here, in fact, there's
+
+325
+00:29:10,457 --> 00:29:13,460
+a big jackhammer down here
+knocking things down.
+
+326
+00:30:01,841 --> 00:30:05,345
+So it's been hydro, but it's
+going toward more coal?
+
+327
+00:30:06,179 --> 00:30:08,181
+Why is that, why not keep hydro?
+
+328
+00:30:13,061 --> 00:30:18,191
+So we've built all the dams that could be built
+for the most part, or at least the big ones.
+
+329
+00:30:18,358 --> 00:30:22,695
+So you have to have something
+else that feed that economy.
+
+330
+00:30:24,405 --> 00:30:25,698
+To power its continued growth,
+
+331
+00:30:26,407 --> 00:30:30,912
+Vietnam plans to double its entire
+generation capacity in 10 years.
+
+332
+00:30:31,704 --> 00:30:33,873
+I went to see if they
+could do that with coal.
+
+333
+00:30:34,541 --> 00:30:37,210
+And I'd start by going into a coal mine.
+
+334
+00:30:37,377 --> 00:30:39,546
+[foreign language]
+
+335
+00:30:51,891 --> 00:30:54,394
+[train rumble]
+
+336
+00:31:16,749 --> 00:31:20,062
+Riding this tiny train, deeper
+and deeper into the earth
+
+337
+00:31:20,086 --> 00:31:22,422
+is enough to make anyone claustrophobic.
+
+338
+00:31:24,257 --> 00:31:25,568
+ST: How far do we go?
+
+339
+00:31:25,592 --> 00:31:28,136
+Andy Nguyen: We will
+travel around two kilometers.
+
+340
+00:31:30,096 --> 00:31:32,432
+I was surprised by just how
+many miners were there,
+
+341
+00:31:32,932 --> 00:31:37,270
+going into and out of the mine,
+24 hours a day, on different shifts.
+
+342
+00:31:57,665 --> 00:31:58,333
+ST: Wow.
+
+343
+00:32:03,838 --> 00:32:06,466
+ST: Wow, that's about as good as it gets.
+
+344
+00:32:07,467 --> 00:32:08,611
+Pliable.
+
+345
+00:32:08,635 --> 00:32:10,136
+AN: The coal here is high quality.
+
+346
+00:32:10,303 --> 00:32:11,512
+ST: Yes, it is.
+AN: It's very hot.
+
+347
+00:32:11,638 --> 00:32:12,805
+ST: Yes, it is.
+
+348
+00:32:26,527 --> 00:32:27,695
+ST: There it is.
+
+349
+00:32:32,325 --> 00:32:36,329
+ST: Alright. It's wet. It's a slurry.
+
+350
+00:32:38,498 --> 00:32:39,832
+[foreign language]
+
+351
+00:32:40,500 --> 00:32:44,003
+In Vietnam, working in a coal
+mine is a steady high-paying job.
+
+352
+00:32:44,712 --> 00:32:46,547
+How long has this mine been operating?
+
+353
+00:32:47,006 --> 00:32:47,674
+[foreign language]
+
+354
+00:32:50,343 --> 00:32:51,678
+ST: Did your father work in this business?
+
+355
+00:32:52,011 --> 00:32:52,178
+Miner: Yes.
+ST: Yes, he did.
+
+356
+00:32:53,346 --> 00:32:53,823
+ST: And you're...
+
+357
+00:32:53,847 --> 00:32:54,847
+[foreign language]
+
+358
+00:32:55,348 --> 00:32:56,992
+AN: My father, my grandfather also.
+
+359
+00:32:57,016 --> 00:32:58,160
+ST: Really?
+
+360
+00:32:58,184 --> 00:32:59,519
+So he's third generation.
+
+361
+00:32:59,686 --> 00:33:01,187
+[foreign language]
+
+362
+00:33:02,689 --> 00:33:06,192
+AN: My grandfather, my father, and now me.
+ST: Yeah, here you are.
+
+363
+00:33:12,031 --> 00:33:16,536
+Coal leaves Vietnam's mines on trains
+and passes through a network of coal towns.
+
+364
+00:33:16,744 --> 00:33:19,914
+[train horn]
+
+365
+00:33:22,542 --> 00:33:25,020
+Each town is made up
+mostly of coal workers,
+
+366
+00:33:25,044 --> 00:33:27,714
+their families and the businesses
+that support them.
+
+367
+00:33:36,431 --> 00:33:38,867
+Most of the coal is
+headed toward the coast,
+
+368
+00:33:38,891 --> 00:33:41,728
+where it will eventually
+be loaded and shipped on barges.
+
+369
+00:33:46,733 --> 00:33:48,735
+I went there with journalist, Andy Nguyen.
+
+370
+00:33:49,902 --> 00:33:52,923
+AN: This is a port where the ships
+come to transport coal.
+
+371
+00:33:52,947 --> 00:33:54,907
+ST: Right. You can see the coal.
+
+372
+00:33:55,408 --> 00:33:58,286
+ST: So we are seeing at least
+8 or 10 ships right here.
+
+373
+00:34:08,588 --> 00:34:12,067
+ST: They take it down the coast
+back to rivers on a train,
+
+374
+00:34:12,091 --> 00:34:14,761
+and then to coal plants
+and make electricity.
+
+375
+00:34:20,767 --> 00:34:22,769
+It appears Vietnam has the mining capacity,
+
+376
+00:34:23,603 --> 00:34:28,649
+the trained labor force and the transportation
+system to support their coal growth plans.
+
+377
+00:34:29,776 --> 00:34:35,114
+And in the next 20 years, Vietnam plans
+to build 50 new coal plants like this one.
+
+378
+00:34:35,782 --> 00:34:36,824
+ST: So where are we now?
+
+379
+00:34:37,158 --> 00:34:39,619
+AN: Master control room, the power plant.
+
+380
+00:34:40,286 --> 00:34:44,600
+ST: And so these guys, they're
+basically measuring what? Generators?
+
+381
+00:34:44,624 --> 00:34:45,792
+AN: Ash.
+
+382
+00:34:46,793 --> 00:34:49,605
+ST: Oh, it's the ash.
+He's looking at the ash.
+
+383
+00:34:49,629 --> 00:34:51,506
+ST: And this guy is
+doing something different?
+
+384
+00:34:52,131 --> 00:34:53,633
+Water system.
+
+385
+00:34:54,300 --> 00:34:56,636
+ST: Oh the water system. AN:
+Water system. ST: The cooling system.
+
+386
+00:34:56,844 --> 00:34:58,471
+ST: So everybody has a different job.
+
+387
+00:35:00,181 --> 00:35:04,953
+ST: Coal has many advantages, but one of
+the challenges is just the air quality
+
+388
+00:35:04,977 --> 00:35:06,830
+the particulates in the ash.
+
+389
+00:35:06,854 --> 00:35:08,147
+So how do we fix that?
+
+390
+00:35:13,820 --> 00:35:18,801
+AN: So we do, we are using a limestone powder
+to burn with coal to reduce the emissions.
+
+391
+00:35:18,825 --> 00:35:20,493
+ST: To get the sulfur.
+
+392
+00:35:20,827 --> 00:35:23,329
+AN: And the ash, the
+second challenge is the ash.
+
+393
+00:35:24,831 --> 00:35:28,352
+AN: This is a conveyor
+system to transport ash
+
+394
+00:35:28,376 --> 00:35:32,505
+from the power plant to
+this area to store the ash.
+
+395
+00:35:32,672 --> 00:35:34,340
+ST: Is this all ash behind us?
+
+396
+00:35:34,382 --> 00:35:35,842
+[foreign language]
+
+397
+00:35:36,509 --> 00:35:37,510
+[foreign language]
+
+398
+00:35:38,052 --> 00:35:41,514
+AN: Around five million cubic meter of ash.
+
+399
+00:35:42,682 --> 00:35:44,851
+A lot of the ash ends up in this yard,
+
+400
+00:35:45,226 --> 00:35:47,186
+but a lot still goes out the stack.
+
+401
+00:35:47,687 --> 00:35:50,499
+I went to talk to some of the
+people who live just downwind
+
+402
+00:35:50,523 --> 00:35:53,192
+from the coal plant to
+see if this is a problem.
+
+403
+00:35:55,194 --> 00:35:58,197
+ST: Does everybody here, everybody
+you know have electricity?
+
+404
+00:36:09,542 --> 00:36:15,381
+Yes, of course. When I was born, I had
+electricity, my family had electricity.
+
+405
+00:36:15,715 --> 00:36:19,760
+So you work in a business, the
+coal business, which is your life
+
+406
+00:36:20,428 --> 00:36:26,601
+and that business puts pollution.
+Do you see that as a conflict?
+
+407
+00:36:27,727 --> 00:36:29,204
+No, she works for a railway company.
+
+408
+00:36:29,228 --> 00:36:33,232
+But these guys were in coal and the
+whole community is based on coal
+
+409
+00:36:33,774 --> 00:36:35,067
+but it makes the environment...
+
+410
+00:36:35,943 --> 00:36:37,111
+So how do you change that?
+
+411
+00:36:37,403 --> 00:36:39,113
+[foreign language]
+
+412
+00:36:43,618 --> 00:36:45,453
+There are some ideas here. What's going on?
+
+413
+00:36:46,746 --> 00:36:47,121
+Yeah.
+
+414
+00:36:47,288 --> 00:36:51,935
+It does not come from the coal mine;
+It comes from the thermal power plant.
+
+415
+00:36:51,959 --> 00:36:52,896
+From the plant.
+
+416
+00:36:52,920 --> 00:36:55,421
+Yeah. You see the white dust in the air.
+
+417
+00:36:55,922 --> 00:37:04,263
+In the US, on the coal plants, we have
+scrubbers that scrub this out before it goes up.
+
+418
+00:37:10,811 --> 00:37:13,439
+It makes it more expensive,
+it makes it more expensive.
+
+419
+00:37:13,606 --> 00:37:16,651
+[foreign language]
+
+420
+00:37:17,610 --> 00:37:19,946
+What are some of the other
+challenges in the community?
+
+421
+00:37:24,784 --> 00:37:27,453
+So you don't want coal to go away?
+
+422
+00:37:36,796 --> 00:37:39,632
+Coal powers Vietnam's
+communities and businesses.
+
+423
+00:37:40,299 --> 00:37:44,637
+In exchange for these benefits, they
+seem willing to accept its air pollution.
+
+424
+00:37:45,805 --> 00:37:48,617
+Vietnam will use coal to build an economy
+
+425
+00:37:48,641 --> 00:37:51,477
+that's strong enough to
+eventually afford something else,
+
+426
+00:37:51,644 --> 00:37:55,982
+like many countries have and many will,
+across the developing world.
+
+427
+00:37:57,817 --> 00:38:00,194
+Making the electricity is
+just half the challenge.
+
+428
+00:38:02,154 --> 00:38:03,990
+The other is getting it to
+the people who need it.
+
+429
+00:38:05,700 --> 00:38:10,329
+Nairobi, the capital of Kenya, is another
+one of Africa's fast-rising cities.
+
+430
+00:38:10,705 --> 00:38:13,350
+Here, over a million people live in slums
+
+431
+00:38:13,374 --> 00:38:16,669
+and many are struggling to get
+safe, reliable electricity.
+
+432
+00:38:17,336 --> 00:38:19,839
+I went to visit Kibera, the largest slum,
+
+433
+00:38:20,006 --> 00:38:23,342
+with Kenya Power's Director of
+Infrastructure, David Mwaniki.
+
+434
+00:38:23,509 --> 00:38:27,013
+Mafuta taa, makaa. What
+does this say? Swahili.
+
+435
+00:38:39,859 --> 00:38:42,004
+ST: So charcoal here, we have
+kerosene there. David Mwaniki: Yes.
+
+436
+00:38:42,028 --> 00:38:45,507
+So this is sort of
+what it was, and still is.
+
+437
+00:38:45,531 --> 00:38:48,010
+Kind of where it's going some.
+And that's the future.
+
+438
+00:38:48,034 --> 00:38:49,410
+That's the future.
+
+439
+00:38:55,374 --> 00:38:56,542
+ST: So this is a school?
+
+440
+00:38:56,584 --> 00:38:58,377
+DM: Yeah. It's a nice place to be.
+
+441
+00:38:58,919 --> 00:39:01,589
+ST: Did you grow up with electricity when
+you were young? Did you have electricity?
+
+442
+00:39:11,932 --> 00:39:12,391
+That's perfect.
+
+443
+00:39:15,394 --> 00:39:17,730
+But that's the opportunity
+that these kids will have.
+
+444
+00:39:46,592 --> 00:39:47,134
+That's phenomenal.
+
+445
+00:39:54,600 --> 00:39:56,435
+There was illegal connections?
+Yes.
+
+446
+00:39:56,477 --> 00:39:57,645
+Run by?
+
+447
+00:39:59,939 --> 00:40:00,773
+Like cartels?
+
+448
+00:40:21,627 --> 00:40:24,773
+I met with Jaelle Mwalo
+to find out how Kenya Power
+
+449
+00:40:24,797 --> 00:40:27,508
+worked with the cartels
+to install electricity.
+
+450
+00:40:30,803 --> 00:40:34,014
+ST: So the cartels were here... Jael
+Mwadiloh: Yeah. ST: And the next step was?
+
+451
+00:40:35,474 --> 00:40:36,517
+To engage the cartels.
+
+452
+00:40:52,491 --> 00:40:54,636
+William Opiyo is one of the local leaders
+
+453
+00:40:54,660 --> 00:40:57,997
+that Kenya Power identified
+to help install power lines.
+
+454
+00:40:59,665 --> 00:41:02,376
+ST: We're walking under a brand
+new power line here.
+
+455
+00:41:22,855 --> 00:41:27,693
+So Kenya Power put in the poles
+and brought legal electricity,
+
+456
+00:41:28,194 --> 00:41:33,199
+and then the cartel said, "No.
+We'll tap into it with drops."
+
+457
+00:41:33,532 --> 00:41:35,034
+William Opiyo: Yeah.
+ST: Illegally.
+
+458
+00:41:35,201 --> 00:41:40,581
+Can we see one of those here or not?
+Can you point to the illegal wire?
+
+459
+00:41:41,207 --> 00:41:43,709
+ST: Can I tell which one it is?
+WO: Yeah I can see. ST: Which one?
+
+460
+00:41:45,419 --> 00:41:46,420
+Which one are we looking at?
+
+461
+00:41:46,921 --> 00:41:48,547
+ST: Right here?
+WO: Yes. ST: Okay.
+
+462
+00:41:51,217 --> 00:41:52,384
+ST: And this one?
+WO: Yes.
+
+463
+00:42:00,726 --> 00:42:04,897
+Wow. So William, these are homes?
+
+464
+00:42:06,607 --> 00:42:09,401
+I see four doors on this side,
+and four down this side.
+
+465
+00:42:15,074 --> 00:42:17,409
+Hello! I'm Scott.
+
+466
+00:42:18,744 --> 00:42:19,411
+What's your name?
+
+467
+00:42:20,496 --> 00:42:22,248
+Dominic. It's nice to meet you.
+
+468
+00:42:22,831 --> 00:42:25,918
+Thanks for letting us come
+to your home today and visit.
+
+469
+00:42:25,960 --> 00:42:27,169
+Dominic: Yeah. My pleasure.
+
+470
+00:42:27,253 --> 00:42:29,898
+ST: I can see you use
+a lot of electricity.
+
+471
+00:42:29,922 --> 00:42:33,425
+What's this? What's
+this here?
+
+472
+00:42:37,096 --> 00:42:37,972
+ST: What is it?
+
+473
+00:42:42,601 --> 00:42:43,519
+ST: Oh, this was Kenya Power's?
+
+474
+00:42:44,687 --> 00:42:46,081
+ST: And it's empty.
+WO: Yeah. Yeah.
+
+475
+00:42:46,105 --> 00:42:48,774
+ST: And this is the illegal?
+WO: Yeah. The illegal.
+
+476
+00:42:49,275 --> 00:42:57,700
+ST: Is it better for you for having
+Kenya Power or this cartel power?
+
+477
+00:43:00,536 --> 00:43:01,954
+ST: It's safe?
+Dominic: Yeah.
+
+478
+00:43:01,996 --> 00:43:05,541
+ST: Have you ever had an electrical
+accident? Like you've got shocked?
+
+479
+00:43:07,293 --> 00:43:08,877
+ST: Yes?
+Dominic: That is, oh yes.
+
+480
+00:43:09,211 --> 00:43:11,338
+Okay. So it's not very safe?
+
+481
+00:43:12,548 --> 00:43:15,301
+You are laughing because it's scary?
+
+482
+00:43:19,471 --> 00:43:21,849
+ST: Oh I see. Yes. That looks pretty scary.
+
+483
+00:43:22,308 --> 00:43:27,354
+ST: I mean tell me what happens with illegal
+power like that. What are the concerns?
+
+484
+00:43:31,483 --> 00:43:36,155
+ST: Live wires? I mean what... I mean
+that's got to have killed people!
+
+485
+00:43:36,488 --> 00:43:37,323
+WO: Yeah. Yeah.
+
+486
+00:43:44,538 --> 00:43:46,165
+ST: Children?
+WO: Yeah. Yeah.
+
+487
+00:43:46,999 --> 00:43:48,310
+So when it rains...
+
+488
+00:43:48,334 --> 00:43:50,002
+Everything is metal.
+
+489
+00:43:53,756 --> 00:43:55,674
+ST: Boom! WO: Yes. ST: Wow.
+
+490
+00:43:58,844 --> 00:44:03,515
+So it's a real safety and security issue.
+
+491
+00:44:04,683 --> 00:44:09,936
+And the reason that's still there? Like,
+why doesn't somebody go take it down?
+
+492
+00:44:12,858 --> 00:44:14,360
+Who would do it?
+
+493
+00:44:17,863 --> 00:44:19,031
+ST: You?
+WO: Yes.
+
+494
+00:44:34,922 --> 00:44:39,385
+Around the world, there are about
+one billion people living in slums,
+
+495
+00:44:39,760 --> 00:44:44,556
+and there are a grid expansion projects like
+this in cities across developing Africa,
+
+496
+00:44:44,640 --> 00:44:46,308
+Asia and Latin America.
+
+497
+00:44:46,558 --> 00:44:48,435
+All will bring lighting and literacy,
+
+498
+00:44:48,644 --> 00:44:52,064
+communication and safety,
+health care and refrigeration,
+
+499
+00:44:52,231 --> 00:44:54,233
+small business, and industry.
+
+500
+00:44:54,650 --> 00:44:56,652
+And all will struggle with corruption.
+
+501
+00:44:56,902 --> 00:45:00,406
+It's perhaps the biggest stumbling
+block to energy development.
+
+502
+00:45:00,739 --> 00:45:03,909
+Hydroelectric dams,
+particularly in African countries
+
+503
+00:45:04,243 --> 00:45:06,078
+where there are still good resources
+
+504
+00:45:06,245 --> 00:45:08,664
+will increase in size and in number.
+
+505
+00:45:08,956 --> 00:45:13,585
+They'll face challenges of financing,
+environment and displacement of local people.
+
+506
+00:45:14,169 --> 00:45:18,006
+Coal electricity will grow
+dramatically in Asian countries.
+
+507
+00:45:18,257 --> 00:45:22,511
+While it's declined in Europe and
+North America over the last 40 years,
+
+508
+00:45:22,678 --> 00:45:27,850
+in Asia, coal use for power generation
+has increased more than 1000%.
+
+509
+00:45:28,308 --> 00:45:33,439
+Regional particulate air pollution
+and CO2 emissions have grown along with it.
+
+510
+00:45:35,941 --> 00:45:39,254
+It's clear that developing
+countries will continue to grow,
+
+511
+00:45:39,278 --> 00:45:41,321
+urbanize and need more energy.
+
+512
+00:45:41,780 --> 00:45:47,202
+Reducing environmental impact and
+corruption will remain two great challenges.
+
+513
+00:45:51,832 --> 00:45:54,460
+For the one billion people
+living off the grid,
+
+514
+00:45:54,501 --> 00:45:58,964
+they'll need off-grid solutions like the
+solar system we were building in Colombia.
+
+515
+00:45:59,465 --> 00:46:01,550
+[foreign language]
+
+516
+00:46:02,301 --> 00:46:06,138
+Here, people and equipment converge on
+the tiny village of Pueblo Bayo,
+
+517
+00:46:06,472 --> 00:46:09,391
+where the pavement ends and the
+road heads into the jungle.
+
+518
+00:46:09,975 --> 00:46:11,786
+It had taken a year of work
+
+519
+00:46:11,810 --> 00:46:14,313
+and a great deal of resources
+to organize this trip.
+
+520
+00:46:21,528 --> 00:46:24,865
+Uno. Dos. Tres... Eso!
+
+521
+00:46:25,365 --> 00:46:28,827
+We asked our friends at REC
+SOLAR to donate solar panels.
+
+522
+00:46:31,872 --> 00:46:34,184
+The panels were manufactured in Singapore,
+
+523
+00:46:34,208 --> 00:46:37,002
+shipped to Los Angeles
+and trucked to Miami.
+
+524
+00:46:38,378 --> 00:46:40,190
+Let's back it up a little
+so I can get my leg out.
+
+525
+00:46:40,214 --> 00:46:41,548
+[laughter]
+
+526
+00:46:43,217 --> 00:46:47,238
+The sun doesn't shine at night which
+is when the Arhuacos need power.
+
+527
+00:46:47,262 --> 00:46:50,349
+That means a battery which
+the panels will charge.
+
+528
+00:46:51,683 --> 00:46:54,561
+The batteries were made
+in China, shipped to LA,
+
+529
+00:46:54,686 --> 00:46:56,498
+trucked to Ohio for testing
+
+530
+00:46:56,522 --> 00:47:00,526
+then joined our panels in Miami
+for the trip to Barranquilla, Colombia.
+
+531
+00:47:06,073 --> 00:47:09,010
+From there, they passed through
+three different trucks
+
+532
+00:47:09,034 --> 00:47:12,913
+and finally into ours to at last get here.
+
+533
+00:47:13,121 --> 00:47:16,917
+Most important, we brought a dozen
+volunteers from the US and Colombia,
+
+534
+00:47:17,209 --> 00:47:19,378
+smart, able, educated people,
+
+535
+00:47:19,545 --> 00:47:22,589
+who Steve could teach how to
+install a solar microgrid.
+
+536
+00:47:23,131 --> 00:47:25,551
+Well, I guess we got
+over the first challenge.
+
+537
+00:47:26,385 --> 00:47:27,928
+There'll be a few more.
+
+538
+00:47:28,470 --> 00:47:30,138
+[music]
+
+539
+00:47:39,898 --> 00:47:42,442
+As we drove the last four
+hours back into the jungle,
+
+540
+00:47:42,901 --> 00:47:46,798
+I couldn't help but wonder how much
+transportation fuel was involved
+
+541
+00:47:46,822 --> 00:47:51,577
+in getting this solar system and all of
+us who would install it out to Gunchukwa.
+
+542
+00:48:06,592 --> 00:48:10,178
+[background conversation]
+
+543
+00:48:19,605 --> 00:48:20,814
+ST: Towards me.
+
+544
+00:48:21,523 --> 00:48:24,693
+You ready? Watch your step on those stones.
+
+545
+00:48:25,277 --> 00:48:29,489
+Osi McCarney: Basically the
+first message is: Welcome, welcome back.
+
+546
+00:48:29,698 --> 00:48:33,785
+Thank you for coming back. Thank
+you for bringing this gift.
+
+547
+00:48:36,288 --> 00:48:38,624
+Steve McCarney: Yes, a
+trend continued, perfect.
+
+548
+00:48:39,124 --> 00:48:41,519
+ST: I've been traveling in the last year,
+
+549
+00:48:41,543 --> 00:48:45,380
+and spoken in probably 10 or 15 countries,
+
+550
+00:48:45,505 --> 00:48:48,508
+and I always show pictures of
+Gunchukwa. So Gunchukwa...
+
+551
+00:48:48,884 --> 00:48:49,944
+OM: Is traveling.
+
+552
+00:48:49,968 --> 00:48:53,305
+ST: Is going to be known
+very well. And I hope that's okay.
+
+553
+00:48:53,805 --> 00:48:56,034
+OM: He says that he feels
+that they are traveling.
+
+554
+00:48:56,058 --> 00:48:58,393
+ST: Yes. Yes, you are.
+
+555
+00:48:58,518 --> 00:48:59,519
+[laughter]
+
+556
+00:49:00,062 --> 00:49:02,206
+ST: And finally, I will thank our team,
+
+557
+00:49:02,230 --> 00:49:06,026
+we have volunteers from Colombia,
+from around the United States,
+
+558
+00:49:06,360 --> 00:49:08,463
+students, young professionals,
+
+559
+00:49:08,487 --> 00:49:12,991
+that have all volunteered to come
+here this week and to meet you
+
+560
+00:49:13,325 --> 00:49:16,870
+and to work with you and
+bring our cultures together.
+
+561
+00:49:18,497 --> 00:49:22,834
+I was struck that it would take a similar
+global convergence of people and technology
+
+562
+00:49:23,168 --> 00:49:28,340
+to electrify any of the hundreds of thousands of
+rural villages around the world like Gunchukwa.
+
+563
+00:49:28,840 --> 00:49:31,760
+But for now we'd focused just on this one.
+
+564
+00:49:32,386 --> 00:49:34,012
+[music]
+
+565
+00:49:44,272 --> 00:49:47,401
+ST: Some places are so
+rural that there aren't villages.
+
+566
+00:49:47,901 --> 00:49:52,239
+In the Maasai territories of Kenya,
+a solar microgrid is too expensive.
+
+567
+00:49:52,572 --> 00:49:54,574
+Smaller off-grid solutions are required.
+
+568
+00:49:56,076 --> 00:50:01,623
+Here I met with Isaiah, a member of the
+Maasai tribe who is also a traveling salesman.
+
+569
+00:50:09,923 --> 00:50:11,967
+That's perfect, and they
+get good reception here.
+
+570
+00:50:15,554 --> 00:50:18,116
+Isaiah, you were raised in this community?
+Isaiah: Yes.
+
+571
+00:50:18,140 --> 00:50:19,742
+ST: You went to school here?
+Isaiah: Yes.
+
+572
+00:50:19,766 --> 00:50:22,227
+Did you have any
+electricity in school or home?
+
+573
+00:50:24,730 --> 00:50:26,898
+So this is really changing lives.
+
+574
+00:50:31,570 --> 00:50:32,738
+ST: That is fantastic.
+
+575
+00:50:36,950 --> 00:50:40,763
+Utility companies face so many
+other challenges in developing countries
+
+576
+00:50:40,787 --> 00:50:44,624
+that stringing power lines to
+scattered homes becomes a low priority,
+
+577
+00:50:45,417 --> 00:50:49,921
+but this makes it an opportunity
+for businesses selling solar home systems.
+
+578
+00:50:54,593 --> 00:50:56,470
+Isaiah: This is the TV.
+ST: The TV.
+
+579
+00:50:57,262 --> 00:50:59,073
+ST: Then I can see the battery.
+
+580
+00:50:59,097 --> 00:51:00,575
+Isaiah: Yeah, the battery is over there.
+
+581
+00:51:00,599 --> 00:51:01,516
+ST: Right.
+
+582
+00:51:10,442 --> 00:51:12,611
+Okay. Just pull it a little bit this way.
+
+583
+00:51:13,653 --> 00:51:15,113
+ST: Is that good?
+Isaiah: Yeah, that one is good.
+
+584
+00:51:17,282 --> 00:51:20,619
+Isaiah: The TV is so
+big. The TV comes here.
+
+585
+00:51:21,286 --> 00:51:25,874
+ST: Ah, the power line.
+It's very quick. It's very easy.
+
+586
+00:51:26,374 --> 00:51:29,127
+Hello. Hello.
+
+587
+00:51:31,171 --> 00:51:34,299
+Hello. So I can activate it now.
+
+588
+00:51:38,220 --> 00:51:43,016
+Kenya is sometimes called the Silicon Valley
+of distributed renewable energy solutions.
+
+589
+00:51:43,475 --> 00:51:48,480
+In Nairobi, I met with Pauline Githugu,
+M-KOPA's Director of Marketing.
+
+590
+00:51:49,648 --> 00:51:51,626
+ST: This is big.
+
+591
+00:51:51,650 --> 00:51:54,962
+Pauline Githugu: Yeah, there's a lot going
+on here. ST: How many people are in here?
+
+592
+00:51:54,986 --> 00:51:59,967
+We have about 200 staff who
+are within the call center. ST: 200?
+
+593
+00:51:59,991 --> 00:52:04,138
+Yeah. And the basic activity
+here is to support our customers,
+
+594
+00:52:04,162 --> 00:52:09,477
+so once they make the decision to buy
+the product we have to switch it on.
+
+595
+00:52:09,501 --> 00:52:10,478
+ST: Yeah.
+PG: Yeah.
+
+596
+00:52:10,502 --> 00:52:12,003
+ST: Young people.
+PG: Yes.
+
+597
+00:52:12,546 --> 00:52:13,505
+A lot of buzz.
+
+598
+00:52:13,588 --> 00:52:18,152
+Yes, I'd say our average
+age here is probably 28.
+
+599
+00:52:18,176 --> 00:52:21,680
+ST: Really? PG: Maybe even
+younger within the call center.
+
+600
+00:52:22,556 --> 00:52:25,493
+PG: The payment, this
+is done by mobile money.
+
+601
+00:52:25,517 --> 00:52:28,663
+ST: So that comes through a mobile network.
+
+602
+00:52:28,687 --> 00:52:30,873
+Yes, that comes through
+a mobile network, so
+
+603
+00:52:30,897 --> 00:52:35,402
+this device has a SIM card. So
+it operates like a mobile phone.
+
+604
+00:52:35,777 --> 00:52:37,839
+ST: So this is it.
+
+605
+00:52:37,863 --> 00:52:42,200
+If you don't have the ability
+to use your phone and pay...
+
+606
+00:52:42,868 --> 00:52:43,512
+You don't do this.
+
+607
+00:52:43,536 --> 00:52:44,846
+No, you can't do this.
+
+608
+00:52:44,870 --> 00:52:46,389
+ST: This is the heart of your business.
+PG: Yeah.
+
+609
+00:52:46,413 --> 00:52:48,790
+Is this something that Kenya,
+
+610
+00:52:49,416 --> 00:52:55,690
+M-KOPA and others can share and export
+to the world as one of the key things?
+
+611
+00:52:55,714 --> 00:53:00,027
+Absolutely. I think this is something
+that we've proved can really work,
+
+612
+00:53:00,051 --> 00:53:06,975
+but it is really predicated on the
+existence of a good mobile network.
+
+613
+00:53:07,559 --> 00:53:09,561
+In Kenya and many other countries,
+
+614
+00:53:09,895 --> 00:53:15,066
+tech startups like this one are allowing rural
+families to buy their own off-grid electricity
+
+615
+00:53:15,567 --> 00:53:18,612
+which can help them get
+something even more important.
+
+616
+00:53:22,449 --> 00:53:25,952
+On the outskirts of Nairobi,
+I met with farmer, John Kidenda.
+
+617
+00:53:30,582 --> 00:53:36,421
+ST: Would all of this grow in natural
+rainfall or do you have to use more water?
+
+618
+00:53:43,428 --> 00:53:44,405
+It's January now.
+
+619
+00:53:44,429 --> 00:53:45,448
+John Kidenda: We're in January.
+
+620
+00:53:45,472 --> 00:53:46,431
+[laughter]
+
+621
+00:53:51,436 --> 00:53:52,580
+ST: So you have to irrigate.
+
+622
+00:53:52,604 --> 00:53:53,623
+I have to irrigate.
+
+623
+00:53:53,647 --> 00:53:56,524
+How does the water get from
+your system to the plants?
+
+624
+00:54:11,623 --> 00:54:13,100
+ST: Two panels.
+JK: Two panels.
+
+625
+00:54:13,124 --> 00:54:15,126
+What does a system like this cost?
+
+626
+00:54:33,520 --> 00:54:36,374
+Okay, so your costs are covered
+here by what you get every month.
+
+627
+00:54:36,398 --> 00:54:38,066
+Comfortably. Comfortably.
+That's fanastic.
+
+628
+00:54:41,486 --> 00:54:43,655
+That's deep.
+
+629
+00:54:47,826 --> 00:54:49,494
+ST: Fifty feet!
+JK: Yeah, fifty feet.
+
+630
+00:54:49,661 --> 00:54:50,805
+So it's really deep.
+
+631
+00:54:50,829 --> 00:54:52,998
+So you got a lot of water here.
+
+632
+00:54:58,003 --> 00:54:58,837
+Wow.
+
+633
+00:54:59,212 --> 00:55:03,067
+Samir Ibrahim is the
+Kenyan-born American educated
+
+634
+00:55:03,091 --> 00:55:08,346
+Silicon Valley-style entrepreneur who
+started SunCulture that built John's system.
+
+635
+00:55:08,513 --> 00:55:09,824
+Let's take a look at your pump.
+
+636
+00:55:09,848 --> 00:55:11,659
+Samir Ibrahim: This is the Rain Maker Two.
+
+637
+00:55:11,683 --> 00:55:13,351
+And this plugs right into here.
+
+638
+00:55:13,852 --> 00:55:17,856
+It's the strongest energy management
+system for off-grid customers in Africa.
+
+639
+00:55:18,023 --> 00:55:19,000
+Really?
+Yeah.
+
+640
+00:55:19,024 --> 00:55:21,002
+So there's a SIM card in there?
+
+641
+00:55:21,026 --> 00:55:23,754
+There's a SIM card in
+there, WiFi, Bluetooth.
+
+642
+00:55:23,778 --> 00:55:26,924
+You can talk to things in the
+field, so we are actually building,
+
+643
+00:55:26,948 --> 00:55:30,511
+We've built an Internet of
+Things platform to bring
+
+644
+00:55:30,535 --> 00:55:34,098
+precision agriculture services
+to farmers for the first time here.
+
+645
+00:55:34,122 --> 00:55:34,873
+Right.
+
+646
+00:55:35,206 --> 00:55:38,209
+In Africa, we have 60% of
+the world's unused farmable land.
+
+647
+00:55:38,376 --> 00:55:40,271
+Okay. Of the world's
+unused farmable land?
+
+648
+00:55:40,295 --> 00:55:42,189
+Of the world's unused farmable land.
+
+649
+00:55:42,213 --> 00:55:44,758
+We're the only continent when
+we talk about water scarcity,
+
+650
+00:55:44,966 --> 00:55:48,362
+It's not a physical water scarcity,
+it's an economic water scarcity
+
+651
+00:55:48,386 --> 00:55:50,638
+So people just can't afford
+to just pull the water up.
+
+652
+00:55:51,556 --> 00:55:58,372
+My dream is to prove this out in a way
+where we get dozens of companies doing this.
+
+653
+00:55:58,396 --> 00:55:59,124
+Yeah.
+
+654
+00:55:59,148 --> 00:56:02,960
+With hundreds of thousands, if
+not millions of acres under irrigation
+
+655
+00:56:02,984 --> 00:56:07,113
+with modular energy management systems
+so that people can plug in other appliances
+
+656
+00:56:07,572 --> 00:56:10,909
+and that people have the
+choice of what they do.
+
+657
+00:56:11,493 --> 00:56:13,971
+I mean we are very fortunate.
+We can choose what we do.
+
+658
+00:56:13,995 --> 00:56:16,390
+When we use power, when we take
+a shower, when we watch TV.
+
+659
+00:56:16,414 --> 00:56:16,933
+Right.
+
+660
+00:56:16,957 --> 00:56:19,584
+We wanna give people that choice.
+We wanna give people that freedom.
+
+661
+00:56:26,591 --> 00:56:29,820
+Can you imagine what affordable
+access to water would do
+
+662
+00:56:29,844 --> 00:56:32,305
+to change the entire continent of Africa?
+
+663
+00:56:33,598 --> 00:56:36,643
+JK: Are you ready?
+ST: I'm ready. Let's sprinkle.
+
+664
+00:56:38,978 --> 00:56:39,771
+JK: There.
+
+665
+00:56:41,523 --> 00:56:42,440
+JK: Wow.
+ST: Whoa!
+
+666
+00:56:42,482 --> 00:56:43,418
+There you have it.
+
+667
+00:56:43,442 --> 00:56:44,526
+ST: That's spraying.
+
+668
+00:56:50,615 --> 00:56:51,783
+Now you're thinking big.
+
+669
+00:56:52,117 --> 00:56:52,784
+Yes.
+
+670
+00:56:54,494 --> 00:56:56,704
+In this and many developing regions,
+
+671
+00:56:56,996 --> 00:57:00,792
+small electricity businesses
+driven by local entrepreneurs
+
+672
+00:57:01,167 --> 00:57:03,795
+are using new tech to solve old problems.
+
+673
+00:57:04,796 --> 00:57:08,025
+In many cases, they have the
+potential to scale faster
+
+674
+00:57:08,049 --> 00:57:10,969
+and reach rural customers
+faster than power lines.
+
+675
+00:57:13,304 --> 00:57:14,305
+[music]
+
+676
+00:57:22,021 --> 00:57:26,377
+Back in Gunchukwa, our team of volunteers
+has started the week-long process
+
+677
+00:57:26,401 --> 00:57:28,361
+of building the solar microgrid.
+
+678
+00:57:30,196 --> 00:57:31,156
+ST: First panel.
+
+679
+00:57:41,541 --> 00:57:42,709
+SM: Alright.
+
+680
+00:57:47,338 --> 00:57:48,673
+It's ready for us?
+
+681
+00:57:52,260 --> 00:57:53,720
+It's pretty close.
+That good?
+
+682
+00:57:57,015 --> 00:57:59,100
+I think that's it.
+Perfect sun.
+
+683
+00:57:59,517 --> 00:58:04,022
+SM: Mmm, yeah.
+ST: No trees, pretty clearing.
+
+684
+00:58:05,398 --> 00:58:08,693
+As long as we don't get the
+goats doing the tango on these things.
+
+685
+00:58:09,235 --> 00:58:10,403
+ST: First panel.
+
+686
+00:58:12,697 --> 00:58:13,698
+ST: It is good.
+
+687
+00:58:18,828 --> 00:58:22,874
+SM: You just get them in spots. This one
+looks like it's gonna need to be loosened.
+
+688
+00:58:23,208 --> 00:58:25,251
+We've almost got our first sub-array.
+
+689
+00:58:25,627 --> 00:58:27,128
+Sterling Richard: We got a 35.5.
+
+690
+00:58:33,801 --> 00:58:37,180
+Doug Ratcliff: Okay, now I'm gonna
+just pull it all through. Alright?
+
+691
+00:58:49,484 --> 00:58:50,527
+ST: Alright.
+
+692
+00:58:51,694 --> 00:58:54,280
+SM: Alright. We got three kilowatts.
+
+693
+00:58:55,031 --> 00:58:56,407
+ST: Congratulations.
+
+694
+00:58:57,325 --> 00:58:58,326
+[laughter]
+
+695
+00:59:00,453 --> 00:59:01,348
+ST: It's awesome.
+
+696
+00:59:01,372 --> 00:59:02,872
+The Arhuacos wanted to help.
+
+697
+00:59:03,289 --> 00:59:08,294
+They're farmers and were able to knock out the
+trenches for the conduits in a matter of hours.
+
+698
+00:59:13,216 --> 00:59:17,136
+ST: I think when we left a year and a month
+ago, we all had that moral conflict within us.
+
+699
+00:59:18,012 --> 00:59:23,351
+The conflict of, "Will this
+improve this community or not?"
+
+700
+00:59:25,144 --> 00:59:28,332
+The challenge, I believe, that they're
+wise enough to know about and face
+
+701
+00:59:28,356 --> 00:59:34,070
+is here in the beautiful Sierra Nevada,
+places like this are becoming encroached upon.
+
+702
+00:59:34,654 --> 00:59:38,283
+And I think they know that
+they have to be part of that.
+
+703
+00:59:38,908 --> 00:59:45,307
+And my hope is through all of
+you and those that we reach,
+
+704
+00:59:45,331 --> 00:59:49,627
+we can communicate
+what they bring and share
+
+705
+00:59:50,128 --> 00:59:54,799
+so that this busy, crazy
+world that we come from
+
+706
+00:59:55,133 --> 00:59:57,176
+can become more like this one.
+
+707
+00:59:58,428 --> 01:00:02,366
+And if we can be one small voice
+in how to find that balance,
+
+708
+01:00:02,390 --> 01:00:06,394
+then I think we will have made
+a little bit of a difference.
+
+709
+01:00:08,021 --> 01:00:10,874
+SM: We're moving into
+another phase on this work,
+
+710
+01:00:10,898 --> 01:00:13,776
+we've got it as we say in the
+trades, we're out of the ground now.
+
+711
+01:00:13,901 --> 01:00:16,672
+So now we're gonna set
+up the electrical system,
+
+712
+01:00:16,696 --> 01:00:18,740
+and so I wanted to just have a brief talk.
+
+713
+01:00:19,574 --> 01:00:25,830
+Essentially, what we're doing is we're
+protecting the wiring from kids, animals,
+
+714
+01:00:26,164 --> 01:00:29,042
+and that's why you see a
+light switch this high.
+
+715
+01:00:29,667 --> 01:00:33,731
+That's so kids don't run in here when
+everybody else is busy with something else
+
+716
+01:00:33,755 --> 01:00:36,215
+and turn everything on, they
+can't reach that so well.
+
+717
+01:00:37,133 --> 01:00:39,177
+ST: If we could put a little
+glue on there and then...[click]
+
+718
+01:00:41,596 --> 01:00:44,349
+Paula: More? More? Yes.
+
+719
+01:00:45,016 --> 01:00:47,352
+ST: Yes Eric, yes Paula.
+
+720
+01:00:47,727 --> 01:00:49,854
+DT: It just pops on actually.
+Sarah Jane Todd: Oh.
+
+721
+01:00:50,271 --> 01:00:52,940
+SM: So, every room's going to have a light.
+
+722
+01:00:53,149 --> 01:00:55,109
+DT: Ta-da.
+Everyone: Yay.
+
+723
+01:00:55,360 --> 01:00:58,088
+SM: We spoke a lot about sustainability,
+
+724
+01:00:58,112 --> 01:01:02,867
+and the Achilles heel to all of
+these mini-grid systems is the battery.
+
+725
+01:01:03,451 --> 01:01:06,639
+So the more times the light gets used,
+
+726
+01:01:06,663 --> 01:01:09,082
+the more time that
+ceiling fans are running,
+
+727
+01:01:09,374 --> 01:01:11,042
+the bigger the battery has to be.
+
+728
+01:01:12,669 --> 01:01:16,172
+To wire the battery, we called
+in the professionals from Bogota.
+
+729
+01:01:17,715 --> 01:01:20,527
+Every battery in every off-grid village
+
+730
+01:01:20,551 --> 01:01:23,030
+is technologically complex and dangerous,
+
+731
+01:01:23,054 --> 01:01:25,139
+if not handled correctly.
+
+732
+01:01:32,772 --> 01:01:35,483
+It may be the Achilles
+heel of the mini-grid,
+
+733
+01:01:35,817 --> 01:01:38,319
+but it's also what makes it possible.
+
+734
+01:01:41,906 --> 01:01:43,157
+SM: Good work, fellas.
+
+735
+01:01:43,783 --> 01:01:45,910
+As a battery, that's as pretty as they get.
+
+736
+01:01:46,411 --> 01:01:47,078
+Alright.
+
+737
+01:01:50,540 --> 01:01:52,834
+SM: It's in place.
+[laughing]
+
+738
+01:01:53,960 --> 01:01:57,088
+In 10 years' time, the battery
+will need to be replaced.
+
+739
+01:01:57,797 --> 01:01:59,674
+The Arhuacos wanted this refrigerator,
+
+740
+01:01:59,799 --> 01:02:02,194
+so they could sell cold
+drinks and popsicles
+
+741
+01:02:02,218 --> 01:02:06,973
+to raise $10,000 to $15,000 to buy
+a new battery when the time comes.
+
+742
+01:02:08,808 --> 01:02:12,413
+SM: A lot of electricity is about
+bringing the power to the load,
+
+743
+01:02:12,437 --> 01:02:13,747
+which is the lights,
+
+744
+01:02:13,771 --> 01:02:17,084
+and then switches are
+what interrupt that power.
+
+745
+01:02:17,108 --> 01:02:21,088
+If you make a bad connection,
+it's just like a switch.
+
+746
+01:02:21,112 --> 01:02:23,465
+It just breaks that continuity
+and then nothing happens,
+
+747
+01:02:23,489 --> 01:02:26,093
+and then you don't know,
+is it that connection?
+
+748
+01:02:26,117 --> 01:02:27,553
+Is it that connection?
+
+749
+01:02:27,577 --> 01:02:30,556
+Is it in the light, is it in the
+electronics that feed the light?
+
+750
+01:02:30,580 --> 01:02:32,391
+Did somebody do something wrong back there?
+
+751
+01:02:32,415 --> 01:02:36,753
+So one error here means checking
+sometimes five or six places,
+
+752
+01:02:36,919 --> 01:02:39,273
+which really sets the whole group back,
+
+753
+01:02:39,297 --> 01:02:42,943
+especially if it's Friday night and the goat's
+cooking, and you're trying to figure out why
+
+754
+01:02:42,967 --> 01:02:46,471
+your circuit isn't lighting
+and everyone else is.
+
+755
+01:02:48,931 --> 01:02:52,018
+We'd need everyone's help for
+the last step of the install.
+
+756
+01:02:52,685 --> 01:02:55,730
+The Arhuacos had turned a
+tree into this light post,
+
+757
+01:02:56,189 --> 01:02:59,567
+and the tropical hardwood
+was nearly as heavy as steel.
+
+758
+01:03:22,215 --> 01:03:23,549
+DT: I always wanted to be a brace.
+
+759
+01:03:24,050 --> 01:03:25,968
+Solar micro-grids like this one
+
+760
+01:03:26,093 --> 01:03:30,407
+and solar home systems may not have
+the power of a coal plant or a dam
+
+761
+01:03:30,431 --> 01:03:32,266
+to run cities and businesses.
+
+762
+01:03:32,850 --> 01:03:36,270
+But they'll bring electricity to
+millions of off-grid citizens,
+
+763
+01:03:36,437 --> 01:03:39,649
+allowing their first steps
+into the modern world.
+
+764
+01:03:41,359 --> 01:03:44,862
+All that was left here was for
+the panels to charge the battery,
+
+765
+01:03:45,238 --> 01:03:49,700
+so we could switch on the lights
+for the first time ever in Gunchukwa.
+
+766
+01:03:55,289 --> 01:03:58,501
+Perhaps the biggest energy
+challenge in the developing world,
+
+767
+01:03:58,876 --> 01:04:01,396
+affecting both urban and rural citizens
+
+768
+01:04:01,420 --> 01:04:06,759
+is how to move from wood and other biomass
+to fuels that produce less smoke.
+
+769
+01:04:07,009 --> 01:04:10,847
+In Nepal, I was ready to see how
+they're making this transition.
+
+770
+01:04:11,347 --> 01:04:14,701
+I'd start in a suburb of the
+capital city, Kathmandu,
+
+771
+01:04:14,725 --> 01:04:18,062
+where this plant bottles
+Liquefied Petroleum Gas, or LPG,
+
+772
+01:04:18,729 --> 01:04:21,291
+the same fuel used in gas barbecue grills.
+
+773
+01:04:21,315 --> 01:04:23,150
+ST: We are surrounded by canisters.
+
+774
+01:04:45,089 --> 01:04:47,258
+So this operation is really growing then.
+
+775
+01:04:53,848 --> 01:04:59,037
+ST: How many homes are on LPG now,
+do you think? Just rough percentage?
+
+776
+01:04:59,061 --> 01:05:02,064
+Amod Pokhrel: In Kathmandu Valley, 94%.
+
+777
+01:05:02,273 --> 01:05:03,375
+Oh, it's that high?
+
+778
+01:05:03,399 --> 01:05:09,423
+Yeah, 94% of the homes have LPG.
+And 6% of households still use biomass.
+
+779
+01:05:09,447 --> 01:05:11,157
+ST: That's not much, though.
+AP: Yeah, yeah.
+
+780
+01:05:13,951 --> 01:05:17,848
+ST: We talked about, it's a better fuel.
+What are some of the challenges?
+
+781
+01:05:17,872 --> 01:05:22,418
+AP: There are many challenges.
+For example, 100% comes from India.
+
+782
+01:05:23,044 --> 01:05:26,648
+Nepal is dependent on India
+and there have been some hiccups,
+
+783
+01:05:26,672 --> 01:05:30,635
+like there was a blockade in 2015,
+immediately after the earthquake
+
+784
+01:05:30,927 --> 01:05:34,639
+and the supply was cut for
+about five-six months.
+
+785
+01:05:35,056 --> 01:05:37,659
+Because Nepal has a different
+and a very difficult geography.
+
+786
+01:05:37,683 --> 01:05:40,269
+Then, prices increasing also,
+that's another challenge.
+
+787
+01:05:40,478 --> 01:05:43,290
+Because it depends on
+international market price also.
+
+788
+01:05:43,314 --> 01:05:46,484
+So, there are many challenges
+also associated with this.
+
+789
+01:05:46,651 --> 01:05:48,736
+ST: Nothing's perfect.
+AP: Nothing's perfect.
+
+790
+01:05:51,322 --> 01:05:52,490
+ST: Ready to take us?
+
+791
+01:05:54,533 --> 01:05:57,244
+ST: So it's interesting where all
+the different people live, the things.
+
+792
+01:06:01,832 --> 01:06:04,168
+These look like pretty
+modern buildings over here.
+
+793
+01:06:05,461 --> 01:06:06,754
+Here's the facility.
+
+794
+01:06:07,838 --> 01:06:12,569
+In lieu of pipelines, this is
+Nepal's LPG distribution network.
+
+795
+01:06:12,593 --> 01:06:14,696
+Gas comes from refineries in India,
+
+796
+01:06:14,720 --> 01:06:16,931
+on ever smaller modes of transportation,
+
+797
+01:06:17,264 --> 01:06:19,100
+to reach the people who use it.
+
+798
+01:06:19,684 --> 01:06:22,245
+AP: We'll put this cylinder on a bicycle.
+
+799
+01:06:22,269 --> 01:06:23,956
+ST: On a bicycle?
+AP: On a bicycle, yeah.
+
+800
+01:06:23,980 --> 01:06:24,832
+ST: Oh good.
+
+801
+01:06:24,856 --> 01:06:27,042
+AP: Yeah, so one bike
+can carry two canisters.
+
+802
+01:06:27,066 --> 01:06:31,797
+ST: Okay, the roads look pretty good
+for biking. How about I try it?
+
+803
+01:06:31,821 --> 01:06:34,073
+AP: Sure, yeah. ST: Can
+I bike? AP: Yeah, sure.
+
+804
+01:06:34,240 --> 01:06:36,283
+AP: We'll help you put on the canister.
+ST: Let's take them to a family.
+
+805
+01:06:36,534 --> 01:06:37,844
+AP: Just go straight.
+ST: Okay.
+
+806
+01:06:37,868 --> 01:06:39,453
+AP: And then turn left
+and I'll see you there.
+
+807
+01:06:40,121 --> 01:06:42,808
+ST: This might not go very straight,
+but we're gonna give it a good run.
+
+808
+01:06:42,832 --> 01:06:45,209
+Wow, where did my heels go?
+Alright, we're out of here.
+
+809
+01:06:58,764 --> 01:07:00,391
+ST: This is the house?
+AP: Yeah, this is the house.
+
+810
+01:07:00,641 --> 01:07:01,600
+ST: This is the house?
+
+811
+01:07:02,184 --> 01:07:03,728
+AP: Yeah, everybody needs energy.
+
+812
+01:07:04,729 --> 01:07:07,815
+[foreign language]
+
+813
+01:07:19,744 --> 01:07:21,579
+AP: There's a blue flame.
+
+814
+01:07:23,748 --> 01:07:26,685
+ST: And no emissions, no smoke, no...
+
+815
+01:07:26,709 --> 01:07:28,854
+AP: No smoke. ST: Very
+clean. AP: Yes, very clean.
+
+816
+01:07:28,878 --> 01:07:31,023
+ST: Ask her if she enjoys cooking with it.
+
+817
+01:07:31,047 --> 01:07:33,132
+[foreign language]
+
+818
+01:07:37,261 --> 01:07:39,472
+AP: Yeah, it's easy.
+ST: It's easy.
+
+819
+01:07:40,765 --> 01:07:45,061
+In urban Nepal, most households
+have chosen this easier, cleaner fuel,
+
+820
+01:07:45,394 --> 01:07:48,731
+which is available, because
+there's a system to transport it.
+
+821
+01:07:50,524 --> 01:07:54,278
+But in rural Nepal, where the
+roads are few and often unpaved,
+
+822
+01:07:54,695 --> 01:07:56,781
+LPG canisters are harder to come by.
+
+823
+01:07:57,615 --> 01:08:00,910
+Here, families need
+another alternative to wood.
+
+824
+01:08:01,243 --> 01:08:03,662
+AP: The mountains.
+ST: Yeah, that's beautiful. And the valley.
+
+825
+01:08:05,831 --> 01:08:08,626
+ST: A bunch of dried corn on the roof.
+
+826
+01:08:17,468 --> 01:08:19,720
+So, your kitchen.
+
+827
+01:08:20,137 --> 01:08:22,723
+And you're cooking, you're
+boiling something here, I can see.
+
+828
+01:08:22,848 --> 01:08:25,476
+[foreign language]
+
+829
+01:08:27,770 --> 01:08:29,105
+ST: Making tea.
+AP: Tea.
+
+830
+01:08:30,648 --> 01:08:31,941
+What are you cooking with?
+
+831
+01:08:32,733 --> 01:08:35,236
+[foreign language]
+
+832
+01:08:35,528 --> 01:08:37,071
+S: Gas
+ST: Gas?
+
+833
+01:08:37,905 --> 01:08:38,864
+Gobar gas.
+
+834
+01:08:39,448 --> 01:08:42,993
+So, Gobar gas is a
+dung-based gas, like biogas.
+
+835
+01:08:43,410 --> 01:08:44,662
+Animal dung-based biogas.
+
+836
+01:08:46,664 --> 01:08:48,433
+AP: It's cow dung.
+ST: Cow dung. Okay.
+
+837
+01:08:48,457 --> 01:08:49,792
+And you like it?
+
+838
+01:08:50,835 --> 01:08:53,462
+[foreign language]
+
+839
+01:08:57,049 --> 01:09:00,511
+AP: Yes, you don't have to
+buy cylinder, it's free. ST: Right.
+
+840
+01:09:03,180 --> 01:09:04,348
+AP: So you have one cow.
+
+841
+01:09:04,473 --> 01:09:06,892
+They can drink milk and then use dung.
+
+842
+01:09:07,560 --> 01:09:11,123
+ST: So they drink the milk, and they
+use the dung and you cook again.
+
+843
+01:09:11,147 --> 01:09:12,189
+It's a perfect circle.
+
+844
+01:09:18,195 --> 01:09:22,342
+ST: So we're going to get
+biomass and look at biogas?
+
+845
+01:09:22,366 --> 01:09:24,678
+AP: So we'll use dung.
+
+846
+01:09:24,702 --> 01:09:26,912
+ST: We'll use dung?
+AP: This is cow dung.
+
+847
+01:09:27,371 --> 01:09:28,598
+ST: What's she gonna do?
+
+848
+01:09:28,622 --> 01:09:30,267
+AP: She'll put this dung in the bucket.
+
+849
+01:09:30,291 --> 01:09:31,208
+ST: She will?
+AP: Yeah.
+
+850
+01:09:32,042 --> 01:09:34,253
+ST: I guess I probably ought to help, huh?
+AP: Yeah.
+
+851
+01:09:35,171 --> 01:09:37,464
+ST: Oh, nice. That's nice.
+
+852
+01:09:39,175 --> 01:09:41,010
+ST: Biogas.
+AP: Biogas.
+
+853
+01:09:47,141 --> 01:09:49,476
+ST: That's just a fresh one.
+AP: Yes.
+
+854
+01:09:49,643 --> 01:09:50,644
+[laughing]
+
+855
+01:09:52,563 --> 01:09:54,749
+AP: So she'll put water.
+Do you wanna wash your hands?
+
+856
+01:09:54,773 --> 01:09:56,609
+ST: Oh, yeah, yeah,
+I'll wash my hands, sure.
+
+857
+01:09:57,443 --> 01:09:58,736
+AP: It'll serve two purposes.
+
+858
+01:09:59,612 --> 01:10:02,156
+ST: There you go. Efficiency.
+
+859
+01:10:02,239 --> 01:10:04,116
+AP: Efficiency, yeah.
+ST: In every step.
+
+860
+01:10:04,700 --> 01:10:05,261
+ST: There you go.
+
+861
+01:10:05,285 --> 01:10:06,285
+[foreign language]
+
+862
+01:10:06,702 --> 01:10:08,120
+ST: Oh she's got to mix it first.
+
+863
+01:10:08,871 --> 01:10:10,265
+AP: Yeah, mix it. It has
+to be thoroughly mixed.
+
+864
+01:10:10,289 --> 01:10:11,999
+ST: Oh, I'm glad I already washed my hands.
+
+865
+01:10:13,584 --> 01:10:15,461
+AP: It has to be thoroughly
+mixed and then stir it.
+
+866
+01:10:21,383 --> 01:10:23,010
+ST: Now I take this here?
+
+867
+01:10:24,178 --> 01:10:24,929
+ST: Now I pour it?
+
+868
+01:10:28,265 --> 01:10:29,934
+ST: Alright. Oh, yeah, that's
+nice. That's not very deep.
+
+869
+01:10:35,606 --> 01:10:37,191
+AP: So the toilet is also connected.
+
+870
+01:10:37,942 --> 01:10:39,985
+ST: This is the...
+AP: Human waste also goes there.
+
+871
+01:10:40,277 --> 01:10:43,864
+ST: Nobody's there, luckily.
+I just opened the door.
+
+872
+01:10:44,031 --> 01:10:49,912
+So Amod, here we got a concrete
+canister and a bunch of stuff in it.
+
+873
+01:10:50,079 --> 01:10:51,473
+And then there's gas up in the kitchen.
+
+874
+01:10:51,497 --> 01:10:52,706
+What's the process?
+
+875
+01:10:52,790 --> 01:10:57,896
+AP: So this is an inlet, you put mix
+of dung and then water, you stir it,
+
+876
+01:10:57,920 --> 01:11:02,716
+And then methane is in the
+bacteria that works on the manure.
+
+877
+01:11:03,509 --> 01:11:05,070
+And then it generates biogas.
+
+878
+01:11:05,094 --> 01:11:09,324
+And then people get biogas through that
+pipe. That yellow pipe you'll see.
+
+879
+01:11:09,348 --> 01:11:13,036
+And then it goes to that house.
+So this is a 6 cubic meter biogas system.
+
+880
+01:11:13,060 --> 01:11:15,688
+But, people are building
+like 20 cubic meter.
+
+881
+01:11:16,021 --> 01:11:18,190
+ST: Well, let's go see one of the
+bigger ones. AP: Yeah, let's go.
+
+882
+01:11:31,036 --> 01:11:35,558
+ST: So, where do you put
+in the dung and the water?
+
+883
+01:11:35,582 --> 01:11:37,143
+AP: So it will be there.
+ST: Oh, wow.
+
+884
+01:11:37,167 --> 01:11:39,688
+AP: So it will be there. ST: That's a
+big room there. AP: It's a big room, yeah.
+
+885
+01:11:39,712 --> 01:11:42,715
+ST: There's a concrete dome
+over the big chamber. AP: Yeah.
+
+886
+01:11:42,965 --> 01:11:44,842
+And how much biogas will this make?
+
+887
+01:11:45,301 --> 01:11:46,403
+[foreign language]
+
+888
+01:11:46,427 --> 01:11:52,325
+So it provides you with gas enough for eight
+hours to cook food for six family members.
+
+889
+01:11:52,349 --> 01:11:53,225
+Wow.
+
+890
+01:11:56,353 --> 01:12:01,025
+ST: So, wonderful system. Where
+can it be put around the world?
+
+891
+01:12:01,317 --> 01:12:04,278
+It can go a lot of places. For
+example, if it works in Nepal.
+
+892
+01:12:04,528 --> 01:12:07,882
+There's lots of opportunity to
+upscale this in South Asia and Africa.
+
+893
+01:12:07,906 --> 01:12:10,552
+ST: South America? AP: South
+America. ST: Sure. That's good.
+
+894
+01:12:10,576 --> 01:12:12,995
+AP: If it's possible in Nepal,
+then it's possible everywhere.
+
+895
+01:12:13,120 --> 01:12:14,163
+ST: Right, right.
+
+896
+01:12:14,538 --> 01:12:18,643
+Both these gas solutions: LPG and Biogas,
+
+897
+01:12:18,667 --> 01:12:22,296
+produce a tiny fraction of the
+particulates of burning wood.
+
+898
+01:12:22,755 --> 01:12:25,692
+And everywhere that particulate
+pollution has declined,
+
+899
+01:12:25,716 --> 01:12:28,594
+respiratory disease has
+plummeted along with it.
+
+900
+01:12:28,969 --> 01:12:34,224
+LPG use is growing rapidly, especially
+in urban areas across Asia and Africa,
+
+901
+01:12:34,475 --> 01:12:38,937
+where there are refineries to produce
+the gas and road systems to transport it.
+
+902
+01:12:39,355 --> 01:12:42,399
+There are half a million
+biogas systems in Nepal alone.
+
+903
+01:12:42,900 --> 01:12:45,861
+These could be well suited to
+rural areas around the world,
+
+904
+01:12:46,320 --> 01:12:49,466
+wherever there's livestock to
+make the manure that fuels them,
+
+905
+01:12:49,490 --> 01:12:52,743
+and temperate climates to keep
+them from freezing or drying out.
+
+906
+01:12:53,577 --> 01:12:55,347
+These modern cooking fuels,
+
+907
+01:12:55,371 --> 01:12:59,583
+combined with access to affordable
+on-grid and off-grid electricity,
+
+908
+01:12:59,792 --> 01:13:04,213
+will help literally billions of
+people live better, healthier lives.
+
+909
+01:13:06,382 --> 01:13:10,177
+For my last stop in Nepal, Amod wanted to
+show me the newest alternative to wood.
+
+910
+01:13:11,804 --> 01:13:16,016
+As grid electricity from hydropower
+becomes more available and reliable,
+
+911
+01:13:16,392 --> 01:13:19,269
+a market for electric
+cook-tops is springing up.
+
+912
+01:13:20,771 --> 01:13:23,750
+AP: So Scott, this is the
+store that I was referring to,
+
+913
+01:13:23,774 --> 01:13:25,251
+and one of the entrepreneurs
+
+914
+01:13:25,275 --> 01:13:27,403
+that is selling induction stoves.
+
+915
+01:13:29,113 --> 01:13:29,780
+ST: It's beautiful.
+
+916
+01:13:30,155 --> 01:13:31,156
+[foreign language]
+
+917
+01:13:31,865 --> 01:13:34,511
+AP: So if you want to cook rice.
+ST: Right.
+
+918
+01:13:34,535 --> 01:13:37,055
+AP: Then you press this rice button.
+ST: Yeah.
+
+919
+01:13:37,079 --> 01:13:39,665
+AP: So, if you want to boil
+water, then you press water button.
+
+920
+01:13:39,790 --> 01:13:43,127
+[foreign language]
+
+921
+01:13:43,544 --> 01:13:48,173
+Yeah, if you wanna fry, then you can press
+this. So she's saying that it's easy.
+
+922
+01:13:48,757 --> 01:13:52,219
+How many of these have
+you sold in your store?
+
+923
+01:13:52,511 --> 01:13:55,973
+[foreign language]
+
+924
+01:13:56,014 --> 01:14:00,269
+Overall 60 induction stoves have
+been sold. But she has sold 10.
+
+925
+01:14:00,394 --> 01:14:03,188
+ST: 10 from here? AP: 10 from here.
+ST: And how much time did that take?
+
+926
+01:14:04,898 --> 01:14:06,334
+Within one month.
+
+927
+01:14:06,358 --> 01:14:08,444
+Wow, that's amazing.
+
+928
+01:14:09,027 --> 01:14:11,506
+Are you seeing that bigger
+trend in the Valley as well?
+
+929
+01:14:11,530 --> 01:14:14,700
+Yes, yes, so other people are buying it.
+
+930
+01:14:15,033 --> 01:14:17,161
+From other markets
+also or other stores also.
+
+931
+01:14:18,203 --> 01:14:19,848
+How much would this cost?
+
+932
+01:14:19,872 --> 01:14:21,206
+[foreign language]
+
+933
+01:14:22,124 --> 01:14:24,185
+5500 Nepali rupees.
+
+934
+01:14:24,209 --> 01:14:29,756
+5500 rupees. So that's
+about $55. That's a lot.
+
+935
+01:14:29,965 --> 01:14:32,092
+AP: Yeah.
+ST: But you're selling still that many.
+
+936
+01:14:32,634 --> 01:14:36,930
+You know what? Sold. I'll
+take it, I'll take it today.
+
+937
+01:14:39,433 --> 01:14:40,517
+That's beautiful.
+
+938
+01:14:42,352 --> 01:14:44,563
+ST: Thank you so much.
+Store Owner: Thank you.
+
+939
+01:14:54,740 --> 01:14:56,533
+[foreign language]
+
+940
+01:14:58,035 --> 01:14:59,745
+I found your son out there.
+
+941
+01:15:02,581 --> 01:15:04,124
+We have something to give you.
+
+942
+01:15:07,586 --> 01:15:09,713
+Electric cooking.
+
+943
+01:15:14,885 --> 01:15:16,678
+Have you seen that before?
+
+944
+01:15:19,264 --> 01:15:20,599
+ST: No. Should we open it?
+
+945
+01:15:23,268 --> 01:15:25,479
+It's for your pot to sit.
+
+946
+01:15:31,109 --> 01:15:36,323
+Now, we plug it in to electricity,
+
+947
+01:15:37,324 --> 01:15:41,954
+which Amod will help you get to your house
+
+948
+01:15:42,412 --> 01:15:45,123
+and it costs less money than wood.
+
+949
+01:15:57,469 --> 01:16:00,430
+Very good. And there will be no smoke.
+
+950
+01:16:09,690 --> 01:16:11,525
+[foreign language]
+
+951
+01:16:13,151 --> 01:16:16,071
+She's asking if we'd like to have tea.
+
+952
+01:16:16,780 --> 01:16:17,799
+Absolutely.
+
+953
+01:16:17,823 --> 01:16:19,092
+[laughing]
+
+954
+01:16:19,116 --> 01:16:20,075
+Let's have tea.
+
+955
+01:16:24,288 --> 01:16:26,766
+In Gunchukwa, it's Friday night,
+
+956
+01:16:26,790 --> 01:16:28,625
+and the goat is cooking,
+
+957
+01:16:28,834 --> 01:16:30,669
+and there was just one thing left to do.
+
+958
+01:16:34,715 --> 01:16:39,177
+We gathered everyone in the village
+square to turn the lights on together.
+
+959
+01:16:41,096 --> 01:16:42,723
+It's a very exciting time.
+
+960
+01:16:43,098 --> 01:16:45,559
+[foreign language]
+
+961
+01:16:46,059 --> 01:16:49,688
+A year ago we came as
+strangers to Gunchukwa.
+
+962
+01:16:50,147 --> 01:16:52,024
+Today, we are here as friends.
+
+963
+01:16:52,274 --> 01:16:57,404
+And now we're going to
+count backwards from five.
+
+964
+01:16:57,738 --> 01:17:03,076
+We will say, "Five, Four, Three,
+Two, One, Light," together.
+
+965
+01:17:03,869 --> 01:17:06,204
+We will do it very loudly. Are you ready?
+
+966
+01:17:06,997 --> 01:17:08,290
+ST: In Espanol and English.
+
+967
+01:17:08,999 --> 01:17:10,542
+OM: Yes. Okay.
+ST: Ready.
+
+968
+01:17:11,335 --> 01:17:20,802
+Five, Four, Three, Two, One, Light.
+
+969
+01:17:56,380 --> 01:17:58,423
+ST: On the count of three, a big duni.
+
+970
+01:17:58,882 --> 01:18:00,676
+Everyone: One, Two, Three...
+
+971
+01:18:54,187 --> 01:18:57,149
+Energy powers the people
+to power themselves.
+
+972
+01:18:57,482 --> 01:19:01,403
+Find out how you can help end
+energy poverty at switchon.org.

@@ -1,0 +1,7500 @@
+1
+00:00:48,222 --> 00:00:51,703
+If we build artificial
+general intelligence,
+
+2
+00:00:51,747 --> 00:00:53,531
+that'll be the biggest event
+
+3
+00:00:53,575 --> 00:00:56,708
+in the history
+of life on Earth.
+
+4
+00:00:56,752 --> 00:01:00,147
+Alien intelligence inside a computer
+system that
+
+5
+00:01:00,190 --> 00:01:03,280
+has control over the planet,
+the day it arrives...
+
+6
+00:01:03,324 --> 00:01:05,108
+And science fiction
+books and movies
+
+7
+00:01:05,152 --> 00:01:07,197
+have set it up in advance.
+
+8
+00:01:25,781 --> 00:01:27,696
+What's the problem?
+
+9
+00:01:27,739 --> 00:01:29,698
+I think you know
+what the problem is
+
+10
+00:01:29,741 --> 00:01:31,134
+just as well as I do.
+
+11
+00:01:31,178 --> 00:01:32,701
+What are you
+talking about, HAL?
+
+12
+00:01:34,094 --> 00:01:35,617
+This mission
+is too important
+
+13
+00:01:35,660 --> 00:01:37,793
+for me to allow you
+to jeopardize it.
+
+14
+00:01:39,360 --> 00:01:42,363
+I don't know what you're
+talking about, HAL.
+
+15
+00:01:42,406 --> 00:01:45,975
+HAL, a super-intelligent
+computer.
+
+16
+00:01:46,018 --> 00:01:48,325
+We'd call it AI today.
+
+17
+00:01:49,544 --> 00:01:52,242
+My character, Dave,
+was the astronaut
+
+18
+00:01:52,286 --> 00:01:55,027
+in one of the most prophetic
+films ever made
+
+19
+00:01:55,071 --> 00:01:57,378
+about the threat
+posed to humanity
+
+20
+00:01:57,421 --> 00:01:59,423
+by artificial intelligence.
+
+21
+00:02:01,121 --> 00:02:03,166
+HAL was science fiction.
+
+22
+00:02:03,210 --> 00:02:06,996
+But now, AI is all around us.
+
+23
+00:02:07,039 --> 00:02:09,172
+Artificial intelligence
+isn't the future.
+
+24
+00:02:09,216 --> 00:02:11,087
+AI is already here.
+
+25
+00:02:11,131 --> 00:02:12,915
+This week a robot
+ran for mayor
+
+26
+00:02:12,958 --> 00:02:14,177
+in a small
+Japanese town.
+
+27
+00:02:14,221 --> 00:02:15,352
+The White House says
+
+28
+00:02:15,396 --> 00:02:17,137
+it is creating
+a new task force
+
+29
+00:02:17,180 --> 00:02:19,182
+to focus
+on artificial intelligence.
+
+30
+00:02:19,226 --> 00:02:21,271
+Google has already
+announced plans
+
+31
+00:02:21,315 --> 00:02:23,360
+to invest more in AI research.
+
+32
+00:02:23,404 --> 00:02:28,713
+IBM sending an artificial intelligence
+robot into space.
+
+33
+00:02:28,757 --> 00:02:31,673
+Because of my small role
+in the conversation,
+
+34
+00:02:31,716 --> 00:02:34,154
+I understand
+that we're on a journey,
+
+35
+00:02:34,197 --> 00:02:37,244
+one that starts
+with narrow AI.
+
+36
+00:02:37,287 --> 00:02:39,942
+Machines that perform
+specific tasks
+
+37
+00:02:39,985 --> 00:02:41,378
+better than we can.
+
+38
+00:02:42,336 --> 00:02:44,381
+But the AI of science fiction
+
+39
+00:02:44,425 --> 00:02:47,471
+is artificial general
+intelligence,
+
+40
+00:02:47,515 --> 00:02:50,213
+machines that can
+do everything
+
+41
+00:02:50,257 --> 00:02:51,693
+better than us.
+
+42
+00:02:52,694 --> 00:02:54,478
+Narrow AI is really
+
+43
+00:02:54,522 --> 00:02:57,220
+like an idiot savant
+to the extreme,
+
+44
+00:02:57,264 --> 00:02:58,830
+where it can do something,
+
+45
+00:02:58,874 --> 00:03:00,963
+like multiply numbers
+really fast,
+
+46
+00:03:01,006 --> 00:03:02,617
+way better than any human.
+
+47
+00:03:02,660 --> 00:03:06,011
+But it can't do
+anything else whatsoever.
+
+48
+00:03:06,055 --> 00:03:09,928
+But AGI, artificial
+general intelligence,
+
+49
+00:03:09,972 --> 00:03:12,453
+which doesn't exist yet,
+is instead
+
+50
+00:03:12,496 --> 00:03:14,629
+intelligence
+that can do everything
+
+51
+00:03:14,672 --> 00:03:15,934
+as well as humans can.
+
+52
+00:03:21,244 --> 00:03:24,247
+So what happens
+if we do create AGI?
+
+53
+00:03:25,248 --> 00:03:27,294
+Science fiction authors
+have warned us
+
+54
+00:03:27,337 --> 00:03:28,773
+it could be dangerous.
+
+55
+00:03:29,513 --> 00:03:31,385
+And they're not the only ones.
+
+56
+00:03:32,864 --> 00:03:35,911
+I think people should be concerned about it.
+
+57
+00:03:35,954 --> 00:03:37,565
+AI is a fundamental risk
+
+58
+00:03:37,608 --> 00:03:39,349
+to the existence
+of human civilization.
+
+59
+00:03:39,393 --> 00:03:42,178
+And I don't think people
+fully appreciate that.
+
+60
+00:03:42,222 --> 00:03:43,919
+I do think we have to
+worry about it.
+
+61
+00:03:43,962 --> 00:03:45,225
+I don't think it's inherent
+
+62
+00:03:45,268 --> 00:03:48,010
+as we create
+super intelligence
+
+63
+00:03:48,053 --> 00:03:49,533
+that it will
+necessarily always
+
+64
+00:03:49,577 --> 00:03:51,927
+have the same goals in mind
+that we do.
+
+65
+00:03:51,970 --> 00:03:53,233
+I think the development
+
+66
+00:03:53,276 --> 00:03:55,713
+of full
+artificial intelligence
+
+67
+00:03:55,757 --> 00:03:58,368
+could spell the end
+of the human race.
+
+68
+00:03:58,412 --> 00:04:00,457
+...the end of the human race.
+
+69
+00:04:01,893 --> 00:04:05,201
+Tomorrow, if the headline said
+an artificial intelligence
+
+70
+00:04:05,245 --> 00:04:08,248
+has been manufactured
+that's as intelligent
+
+71
+00:04:08,291 --> 00:04:10,293
+or more intelligent
+than human beings,
+
+72
+00:04:10,337 --> 00:04:12,077
+people would argue about it,
+but I don't think
+
+73
+00:04:12,121 --> 00:04:13,992
+they'd be surprised,
+because science fiction
+
+74
+00:04:14,036 --> 00:04:15,907
+has helped us imagine all kinds
+
+75
+00:04:15,951 --> 00:04:17,431
+of unimaginable things.
+
+76
+00:04:20,999 --> 00:04:23,393
+Experts are divided
+about the impact
+
+77
+00:04:23,437 --> 00:04:25,613
+AI will have on our future,
+
+78
+00:04:25,656 --> 00:04:29,747
+and whether or not Hollywood
+is helping us plan for it.
+
+79
+00:04:29,791 --> 00:04:32,750
+Our dialogue
+has really been hijacked
+by Hollywood
+
+80
+00:04:32,794 --> 00:04:35,927
+because The Terminator
+makes a better blockbuster
+
+81
+00:04:35,971 --> 00:04:38,147
+than AI being good,
+
+82
+00:04:38,190 --> 00:04:39,409
+or AI being neutral,
+
+83
+00:04:39,453 --> 00:04:41,063
+or AI being confused.
+
+84
+00:04:41,106 --> 00:04:42,456
+Technology here in AI
+
+85
+00:04:42,499 --> 00:04:44,501
+is no different.
+It's a tool.
+
+86
+00:04:44,545 --> 00:04:47,156
+I like to think of it
+as a fancy pencil.
+
+87
+00:04:47,199 --> 00:04:49,593
+And so what pictures
+we draw with it,
+
+88
+00:04:49,637 --> 00:04:52,248
+that's up to us as a society.
+
+89
+00:04:52,292 --> 00:04:55,251
+We don't have to do
+what AI tells us.
+
+90
+00:04:55,295 --> 00:04:56,861
+We tell AI what to do.
+
+91
+00:04:58,646 --> 00:05:00,300
+I think
+Hollywood films
+
+92
+00:05:00,343 --> 00:05:02,214
+do help the conversation.
+
+93
+00:05:02,258 --> 00:05:03,781
+Someone needs to be thinking
+
+94
+00:05:03,825 --> 00:05:07,089
+ahead of what
+the consequences are.
+
+95
+00:05:07,132 --> 00:05:08,786
+But just as we can't
+really imagine
+
+96
+00:05:08,830 --> 00:05:11,311
+what the actual science
+of the future
+is going to be like,
+
+97
+00:05:11,354 --> 00:05:13,400
+I don't think we've begun
+
+98
+00:05:13,443 --> 00:05:16,316
+to really think about
+all of the possible futures,
+
+99
+00:05:16,359 --> 00:05:19,188
+which logically spring out
+of this technology.
+
+100
+00:05:19,231 --> 00:05:23,497
+Artificial intelligence has
+the power to change society.
+
+101
+00:05:23,540 --> 00:05:25,499
+A growing chorus
+of criticism
+
+102
+00:05:25,542 --> 00:05:27,283
+is highlighting the dangers
+
+103
+00:05:27,327 --> 00:05:29,416
+of handing control
+to machines.
+
+104
+00:05:29,459 --> 00:05:31,331
+There's gonna be
+a lot of change coming.
+
+105
+00:05:31,374 --> 00:05:32,897
+The larger long-term concern
+
+106
+00:05:32,941 --> 00:05:35,639
+is that humanity will be
+sort of shunted aside.
+
+107
+00:05:35,683 --> 00:05:37,598
+This is something
+Stanley Kubrick and others
+
+108
+00:05:37,641 --> 00:05:39,469
+were worried about
+50 years ago, right?
+
+109
+00:05:41,993 --> 00:05:43,647
+It's happening.
+
+110
+00:05:43,691 --> 00:05:47,608
+How do we gauge the urgency
+of this conversation?
+
+111
+00:05:49,436 --> 00:05:51,742
+If people saw on radar right now
+
+112
+00:05:51,786 --> 00:05:54,179
+that an alien spaceship
+was approaching Earth
+
+113
+00:05:54,223 --> 00:05:56,181
+and it was 25 years away,
+
+114
+00:05:56,225 --> 00:05:57,835
+we would be mobilized
+to prepare
+
+115
+00:05:57,879 --> 00:06:00,621
+for that alien's arrival
+25 years from now.
+
+116
+00:06:00,664 --> 00:06:03,058
+But that's exactly
+the situation that we're in
+
+117
+00:06:03,101 --> 00:06:04,799
+with artificial intelligence.
+
+118
+00:06:04,842 --> 00:06:06,670
+Could be 25 years, could be 50 years,
+
+119
+00:06:06,714 --> 00:06:09,456
+but an alien intelligence will arrive
+
+120
+00:06:09,499 --> 00:06:11,109
+and we should be prepared.
+
+121
+00:06:14,286 --> 00:06:16,637
+Well, gentlemen, meet Tobor.
+
+122
+00:06:16,680 --> 00:06:19,379
+An electronic simulacrum
+of a man.
+
+123
+00:06:19,422 --> 00:06:21,772
+Gosh. Gee willikers.
+
+124
+00:06:21,816 --> 00:06:24,645
+Even though much work remains
+before he is completed,
+
+125
+00:06:24,688 --> 00:06:26,211
+he is already
+a sentient being.
+
+126
+00:06:28,388 --> 00:06:30,390
+Back in 1956 when the term
+
+127
+00:06:30,433 --> 00:06:32,696
+artificial intelligence
+first came about,
+
+128
+00:06:32,740 --> 00:06:35,395
+the original goals
+of artificial intelligence
+
+129
+00:06:35,438 --> 00:06:37,701
+were human-level intelligence.
+
+130
+00:06:37,745 --> 00:06:41,052
+He does look almost kind,
+doesn't he?
+
+131
+00:06:41,096 --> 00:06:43,838
+Over time that's proved to be really
+difficult.
+
+132
+00:06:46,449 --> 00:06:49,626
+I think, eventually,
+we will have human-level
+
+133
+00:06:49,670 --> 00:06:51,889
+intelligence from machines.
+
+134
+00:06:51,933 --> 00:06:55,153
+But it may be
+a few hundred years.
+It's gonna take a while.
+
+135
+00:06:55,197 --> 00:06:57,634
+And so people are getting
+a little over-excited
+
+136
+00:06:57,678 --> 00:06:59,854
+about the future capabilities.
+
+137
+00:06:59,897 --> 00:07:03,945
+And now, Elektro,
+I command you to walk back.
+
+138
+00:07:04,293 --> 00:07:05,425
+Back.
+
+139
+00:07:08,297 --> 00:07:09,559
+Almost every generation,
+
+140
+00:07:09,603 --> 00:07:11,169
+people have got
+so enthusiastic.
+
+141
+00:07:11,213 --> 00:07:12,736
+They watch 2001,
+
+142
+00:07:12,780 --> 00:07:14,564
+they fall in love with HAL,
+they think,
+
+143
+00:07:14,608 --> 00:07:16,871
+"Yeah, give me six weeks.
+I'll get this sorted."
+
+144
+00:07:17,785 --> 00:07:19,830
+It doesn't happen and everyone gets upset.
+
+145
+00:07:21,179 --> 00:07:24,052
+So what's changed
+in AI research?
+
+146
+00:07:26,489 --> 00:07:28,839
+The difference with the AI we have today
+
+147
+00:07:28,883 --> 00:07:32,495
+and the reason AI suddenly took this big
+leap forward
+
+148
+00:07:32,539 --> 00:07:34,758
+is the Internet.
+That is their world.
+
+149
+00:07:34,802 --> 00:07:37,587
+Tonight the information
+superhighway,
+
+150
+00:07:37,631 --> 00:07:39,415
+and one of its main
+thoroughfares,
+
+151
+00:07:39,459 --> 00:07:42,505
+an online network
+called Internet.
+
+152
+00:07:42,549 --> 00:07:45,421
+In 1981,
+only 213 computers
+
+153
+00:07:45,465 --> 00:07:46,901
+were hooked to the Internet.
+
+154
+00:07:46,944 --> 00:07:48,816
+As the new year begins,
+an estimated
+
+155
+00:07:48,859 --> 00:07:50,600
+two-and-a-half million
+computers
+
+156
+00:07:50,644 --> 00:07:51,993
+will be on the network.
+
+157
+00:07:53,516 --> 00:07:55,126
+AIs need to eat.
+
+158
+00:07:55,170 --> 00:07:57,346
+Just like sheep need grass,
+
+159
+00:07:57,389 --> 00:07:59,087
+AIs need data.
+
+160
+00:07:59,130 --> 00:08:02,525
+And the great prairies of data
+are on the Internet.
+
+161
+00:08:03,134 --> 00:08:04,484
+That's what it is.
+
+162
+00:08:05,136 --> 00:08:06,181
+They said, "You know what?
+
+163
+00:08:06,224 --> 00:08:07,661
+"Let's just let them loose out there."
+
+164
+00:08:09,532 --> 00:08:11,839
+And suddenly,
+the AIs came to life.
+
+165
+00:08:11,882 --> 00:08:14,276
+Imagine
+thousands of talking robots
+
+166
+00:08:14,319 --> 00:08:15,973
+able to move as one unit,
+
+167
+00:08:16,017 --> 00:08:17,322
+taking on crime, fires,
+
+168
+00:08:17,366 --> 00:08:18,976
+and natural disasters.
+
+169
+00:08:19,020 --> 00:08:21,805
+Artificial intelligence
+platform Amper
+
+170
+00:08:21,849 --> 00:08:24,416
+has created the first album
+entirely composed
+
+171
+00:08:24,460 --> 00:08:26,157
+and produced
+by artificial intelligence.
+
+172
+00:08:26,201 --> 00:08:29,552
+Next week, Christie's will be
+the first auction house
+
+173
+00:08:29,596 --> 00:08:33,251
+to offer artwork created
+by artificial intelligence.
+
+174
+00:08:34,165 --> 00:08:35,819
+Driverless cars, said to be
+
+175
+00:08:35,863 --> 00:08:38,648
+in our not-so-distant future.
+
+176
+00:08:38,692 --> 00:08:40,955
+So even though
+we don't have AGI
+
+177
+00:08:40,998 --> 00:08:44,262
+or human-level
+intelligence yet,
+
+178
+00:08:44,306 --> 00:08:45,699
+are we ready to give autonomy
+
+179
+00:08:45,742 --> 00:08:48,440
+to the machines we do have?
+
+180
+00:08:48,484 --> 00:08:51,574
+Should self-driving cars
+make ethical decisions?
+
+181
+00:08:51,618 --> 00:08:53,881
+That is the growing debate
+as the technology
+
+182
+00:08:53,924 --> 00:08:56,318
+moves closer towards
+mainstream reality.
+
+183
+00:08:58,233 --> 00:08:59,843
+This idea
+of whether or not
+
+184
+00:08:59,887 --> 00:09:02,846
+we can embed ethics
+into machines,
+
+185
+00:09:02,890 --> 00:09:04,544
+whether or not they are
+automated machines
+
+186
+00:09:04,587 --> 00:09:06,415
+or autonomous machines,
+
+187
+00:09:06,458 --> 00:09:08,286
+I'm not sure
+we've got that figured out.
+
+188
+00:09:08,330 --> 00:09:09,723
+If you have
+a self-driving car,
+
+189
+00:09:09,766 --> 00:09:11,202
+it's gonna have to make
+ethical decisions.
+
+190
+00:09:11,246 --> 00:09:14,641
+A classic one people have been
+thinking a lot about is...
+
+191
+00:09:14,684 --> 00:09:16,556
+I don't know if you've heard
+of trolley problems.
+
+192
+00:09:16,599 --> 00:09:18,122
+The trolley problem.The trolley problem.
+
+193
+00:09:18,166 --> 00:09:20,211
+The trolley problem.The trolley problem.
+
+194
+00:09:21,604 --> 00:09:22,823
+In the trolley problem,
+
+195
+00:09:22,866 --> 00:09:24,172
+whether or not
+a driverless car
+
+196
+00:09:24,215 --> 00:09:26,870
+is going to save the driver
+or run over
+
+197
+00:09:26,914 --> 00:09:29,046
+a group of school children
+crossing the road.
+
+198
+00:09:29,090 --> 00:09:31,614
+Will the car
+go right and hit the old lady
+
+199
+00:09:31,658 --> 00:09:35,575
+or will it go left and kill
+the four young people?
+
+200
+00:09:35,618 --> 00:09:39,143
+Either kill five people
+standing on a bus stop
+
+201
+00:09:39,187 --> 00:09:40,405
+or kill yourself.
+
+202
+00:09:40,449 --> 00:09:41,972
+It's an ethical decision
+
+203
+00:09:42,016 --> 00:09:43,931
+that has to be made
+in the moment,
+
+204
+00:09:43,974 --> 00:09:46,020
+too fast for any person
+to get in there.
+
+205
+00:09:46,063 --> 00:09:48,544
+So it's the software
+in your self-driving car
+
+206
+00:09:48,588 --> 00:09:50,546
+that's gonna make
+that ethical decision.
+
+207
+00:09:50,590 --> 00:09:51,852
+Who decides that?
+
+208
+00:09:52,679 --> 00:09:53,897
+Smart society,
+
+209
+00:09:53,941 --> 00:09:55,899
+society that
+values human life,
+
+210
+00:09:55,943 --> 00:09:58,336
+should make a decision that
+
+211
+00:09:58,380 --> 00:10:02,427
+killing one person
+is preferable
+to killing five people.
+
+212
+00:10:02,471 --> 00:10:06,344
+Of course,
+it does raise the question
+who's gonna buy that car.
+
+213
+00:10:06,388 --> 00:10:09,130
+Or, you know, are you gonna
+buy the car where actually,
+
+214
+00:10:09,173 --> 00:10:11,654
+it'll swerve
+and you'll be fine,
+
+215
+00:10:11,698 --> 00:10:13,134
+but they're goners.
+
+216
+00:10:14,918 --> 00:10:17,442
+There are hundreds
+of those kinds of questions
+
+217
+00:10:17,486 --> 00:10:19,140
+all throughout society.
+
+218
+00:10:19,183 --> 00:10:22,883
+And so, ethical philosophers
+battle back and forth.
+
+219
+00:10:25,146 --> 00:10:27,583
+My peeve with
+the philosophers is
+
+220
+00:10:27,627 --> 00:10:30,804
+they're sucking the oxygen
+out of the room.
+
+221
+00:10:30,847 --> 00:10:33,763
+There's this metaphor
+that I have of
+
+222
+00:10:33,807 --> 00:10:37,114
+you have a car
+driving away from a wedding,
+
+223
+00:10:37,158 --> 00:10:41,205
+and the car is driving,
+and behind it there are cans.
+
+224
+00:10:41,249 --> 00:10:45,645
+And the metal cans are
+clanking and making noise.
+
+225
+00:10:45,688 --> 00:10:47,690
+That car is science
+
+226
+00:10:47,734 --> 00:10:50,345
+and technology
+driving forward decisively.
+
+227
+00:10:50,388 --> 00:10:51,955
+And the metal cans clanking
+
+228
+00:10:51,999 --> 00:10:54,697
+are the philosophers
+making a lot of noise.
+
+229
+00:10:54,741 --> 00:10:56,525
+The world is changing
+in such a way
+
+230
+00:10:56,568 --> 00:11:01,138
+that the question of us
+building machines
+
+231
+00:11:01,182 --> 00:11:04,098
+that could become
+more intelligent than we are
+
+232
+00:11:04,141 --> 00:11:07,710
+is more of a reality than a fiction right
+now.
+
+233
+00:11:10,147 --> 00:11:12,759
+Don't we
+have to ask questions now,
+
+234
+00:11:12,802 --> 00:11:15,805
+before the machines
+get smarter than us?
+
+235
+00:11:15,849 --> 00:11:18,373
+I mean, what if they
+achieve consciousness?
+
+236
+00:11:19,635 --> 00:11:21,463
+How far away is that?
+
+237
+00:11:25,075 --> 00:11:26,816
+How close we are
+to a conscious machine?
+
+238
+00:11:26,860 --> 00:11:28,688
+That is the question
+that brings
+
+239
+00:11:28,731 --> 00:11:32,082
+philosophers and scientists
+to blows, I think.
+
+240
+00:11:32,126 --> 00:11:34,302
+You are dead center
+
+241
+00:11:34,345 --> 00:11:37,871
+of the greatest
+scientific event
+in the history of man.
+
+242
+00:11:37,914 --> 00:11:39,699
+If you've created
+a conscious machine,
+
+243
+00:11:39,742 --> 00:11:41,309
+it's not the history of man.
+
+244
+00:11:42,614 --> 00:11:44,834
+That's the history of gods.
+
+245
+00:11:44,878 --> 00:11:48,533
+The problem with consciousness
+is hardly anybody
+
+246
+00:11:48,577 --> 00:11:50,884
+can define exactly what it is.
+
+247
+00:11:53,408 --> 00:11:55,976
+Is it consciousness
+that makes us special?
+
+248
+00:11:57,586 --> 00:11:58,718
+Human?
+
+249
+00:12:00,894 --> 00:12:03,026
+A way of thinking
+about consciousness
+
+250
+00:12:03,070 --> 00:12:05,159
+which a lot of people
+will agree with...
+
+251
+00:12:05,202 --> 00:12:07,857
+You'll never find something that appeals
+to everyone.
+
+252
+00:12:07,901 --> 00:12:10,468
+...is it's not just
+flashing lights,
+but someone's home.
+
+253
+00:12:11,252 --> 00:12:13,036
+So if you have a...
+
+254
+00:12:13,080 --> 00:12:15,386
+If you bought
+one of those little
+
+255
+00:12:15,430 --> 00:12:16,953
+simple chess-playing machines,
+
+256
+00:12:17,606 --> 00:12:19,173
+it might beat you at chess.
+
+257
+00:12:19,216 --> 00:12:21,218
+There are
+lots of lights flashing.
+
+258
+00:12:21,262 --> 00:12:23,743
+But there's nobody in
+when it wins,
+
+259
+00:12:23,786 --> 00:12:25,222
+going "I won."
+
+260
+00:12:25,962 --> 00:12:29,749
+All right?
+Whereas your dog
+
+261
+00:12:29,792 --> 00:12:32,534
+is a rubbish chess player,
+
+262
+00:12:32,577 --> 00:12:33,927
+but you look at the dog
+and you think,
+
+263
+00:12:33,970 --> 00:12:36,930
+"Someone's actually in.
+It's not just a mechanism."
+
+264
+00:12:38,845 --> 00:12:42,283
+People wonder whether general intelligence
+
+265
+00:12:42,326 --> 00:12:44,459
+requires consciousness.
+
+266
+00:12:46,766 --> 00:12:50,160
+It might partly depend on what
+level of general intelligence
+you're talking about.
+
+267
+00:12:50,204 --> 00:12:53,250
+A mouse has some kind
+of general intelligence.
+
+268
+00:12:53,294 --> 00:12:55,339
+My guess is, if you've got
+a machine which has
+
+269
+00:12:55,383 --> 00:12:58,473
+general intelligence
+at the level of,
+say, a mouse or beyond,
+
+270
+00:12:58,516 --> 00:13:00,997
+it's gonna be a good contender for having
+consciousness.
+
+271
+00:13:04,653 --> 00:13:05,697
+We're not there yet.
+
+272
+00:13:05,741 --> 00:13:07,787
+We're not confronted by humanoid robots
+
+273
+00:13:07,830 --> 00:13:09,832
+that are smarter than we are.
+
+274
+00:13:09,876 --> 00:13:12,182
+We're in this
+curious ethical position
+
+275
+00:13:12,226 --> 00:13:15,446
+of not knowing where and how
+consciousness emerges,
+
+276
+00:13:15,490 --> 00:13:18,841
+and we're building
+increasingly complicated
+minds.
+
+277
+00:13:18,885 --> 00:13:20,800
+We won't know whether
+or not they're conscious,
+
+278
+00:13:20,843 --> 00:13:22,062
+but we might feel they are.
+
+279
+00:13:24,194 --> 00:13:26,718
+The easiest example
+is if you programmed
+
+280
+00:13:26,762 --> 00:13:29,634
+into a computer everything you knew about
+joy,
+
+281
+00:13:29,678 --> 00:13:31,201
+every reference in literature,
+
+282
+00:13:31,245 --> 00:13:33,943
+every definition,
+every chemical compound
+
+283
+00:13:33,987 --> 00:13:36,119
+that's involved with joy
+in the human brain,
+
+284
+00:13:36,163 --> 00:13:39,644
+and you put all of that
+information in a computer,
+
+285
+00:13:39,688 --> 00:13:42,778
+you could argue
+that it understood joy.
+
+286
+00:13:42,822 --> 00:13:45,476
+The question is,
+had it ever felt joy?
+
+287
+00:13:51,613 --> 00:13:53,354
+Did HAL have emotions?
+
+288
+00:13:55,095 --> 00:13:58,228
+Will AIs ever feel
+the way we do?
+
+289
+00:13:59,882 --> 00:14:02,406
+It's very hard to get
+machines to do the things
+
+290
+00:14:02,450 --> 00:14:06,149
+that we don't think about,
+that we're not conscious of.
+
+291
+00:14:06,193 --> 00:14:09,326
+Things like detecting
+that that person over there
+
+292
+00:14:09,370 --> 00:14:11,198
+is really unhappy
+with the way that...
+
+293
+00:14:11,241 --> 00:14:12,721
+Something about
+what I'm doing.
+
+294
+00:14:12,764 --> 00:14:14,027
+And they're sending
+a subtle signal
+
+295
+00:14:14,070 --> 00:14:15,506
+and I probably
+should change what I'm doing.
+
+296
+00:14:17,334 --> 00:14:18,988
+We don't know how to build
+machines that can actually be
+
+297
+00:14:19,032 --> 00:14:22,252
+tuned in to those kinds
+of tiny little social cues.
+
+298
+00:14:24,994 --> 00:14:28,389
+There's this notion that maybe
+there is something magical
+
+299
+00:14:28,432 --> 00:14:30,434
+about brains,
+
+300
+00:14:30,478 --> 00:14:32,045
+about the wetware
+of having
+
+301
+00:14:32,088 --> 00:14:33,785
+an information
+processing system
+
+302
+00:14:33,829 --> 00:14:34,917
+made of meat, right?
+
+303
+00:14:34,961 --> 00:14:37,311
+And that whatever we do
+in our machines,
+
+304
+00:14:37,354 --> 00:14:40,705
+however competent
+they begin to seem,
+
+305
+00:14:40,749 --> 00:14:42,272
+they never really
+will be intelligent
+
+306
+00:14:42,316 --> 00:14:44,579
+in the way that we experience
+ourselves to be.
+
+307
+00:14:46,233 --> 00:14:48,975
+There's really no basis for that.
+
+308
+00:14:51,238 --> 00:14:53,240
+This silly idea
+you can't be intelligent
+
+309
+00:14:53,283 --> 00:14:55,155
+unless you're made of meat.
+
+310
+00:14:56,765 --> 00:14:58,201
+From my perspective,
+as a physicist,
+
+311
+00:14:58,245 --> 00:15:00,682
+that's just carbon chauvinism.
+
+312
+00:15:00,725 --> 00:15:02,118
+Those machines
+are made of exactly
+
+313
+00:15:02,162 --> 00:15:03,903
+the same kind of
+elementary particles
+
+314
+00:15:03,946 --> 00:15:05,382
+that my brain is made out of.
+
+315
+00:15:06,775 --> 00:15:08,429
+Intelligence is just
+a certain...
+
+316
+00:15:08,472 --> 00:15:10,170
+And consciousness is just
+
+317
+00:15:10,213 --> 00:15:12,259
+a certain kind of information processing.
+
+318
+00:15:15,262 --> 00:15:17,655
+Maybe we're not
+so special after all.
+
+319
+00:15:19,744 --> 00:15:21,268
+Could our carbon-based brains
+
+320
+00:15:21,311 --> 00:15:23,531
+be replicated with silicon?
+
+321
+00:15:25,185 --> 00:15:28,405
+We're trying to build
+a computer-generated baby
+
+322
+00:15:28,449 --> 00:15:31,060
+that we can teach
+like a real baby,
+
+323
+00:15:31,104 --> 00:15:34,237
+with the potential for general intelligence.
+
+324
+00:15:39,808 --> 00:15:42,550
+To do that, you really
+have to build
+a computer brain.
+
+325
+00:15:46,162 --> 00:15:50,645
+I wanted to build a simple toy brain model
+
+326
+00:15:52,168 --> 00:15:53,474
+in an embodied system
+
+327
+00:15:53,517 --> 00:15:56,694
+which you could interact with
+face-to-face.
+
+328
+00:16:00,394 --> 00:16:03,527
+And I happen to have an infant at home,
+
+329
+00:16:03,571 --> 00:16:04,964
+a real baby.
+
+330
+00:16:05,660 --> 00:16:07,836
+And I scanned the baby
+
+331
+00:16:07,879 --> 00:16:10,795
+so I could build a 3D model out of her
+
+332
+00:16:10,839 --> 00:16:12,493
+and then use her face
+
+333
+00:16:12,536 --> 00:16:15,452
+as basically the embodiment
+of the system.
+
+334
+00:16:17,063 --> 00:16:20,109
+If a brain which is made out of cells,
+
+335
+00:16:20,153 --> 00:16:23,199
+and it's got blood
+pumping, is able to think,
+
+336
+00:16:24,461 --> 00:16:27,682
+it just may be possible
+that a computer can think
+
+337
+00:16:28,770 --> 00:16:33,166
+if the information is moving in the same
+sort of process.
+
+338
+00:16:37,474 --> 00:16:39,476
+A lot of
+artificial intelligence
+at the moment today
+
+339
+00:16:39,520 --> 00:16:42,044
+is really about
+advanced pattern recognition.
+
+340
+00:16:42,088 --> 00:16:44,003
+It's not about killer robots
+
+341
+00:16:44,046 --> 00:16:45,830
+that are gonna take over
+the world, et cetera.
+
+342
+00:16:47,702 --> 00:16:51,053
+So this is Baby X.
+She's running live
+on my computer.
+
+343
+00:16:51,097 --> 00:16:54,056
+So as I move my hand around,
+make a loud noise,
+
+344
+00:16:54,100 --> 00:16:55,710
+she'll get a fright.
+
+345
+00:16:55,753 --> 00:16:57,407
+We can kind of zoom in.
+
+346
+00:16:57,451 --> 00:17:00,845
+So she basically can see me
+and hear me, you know.
+
+347
+00:17:00,889 --> 00:17:03,022
+Hey, sweetheart.
+
+348
+00:17:03,065 --> 00:17:05,067
+She's not copying my smile,
+
+349
+00:17:05,111 --> 00:17:07,417
+she's responding to my smile.
+
+350
+00:17:08,114 --> 00:17:09,637
+So she's responding to me
+
+351
+00:17:09,680 --> 00:17:12,205
+and we're really concerned
+with the question
+
+352
+00:17:12,248 --> 00:17:14,207
+of how will we
+actually interact
+
+353
+00:17:14,250 --> 00:17:16,644
+with artificial intelligence
+in the future.
+
+354
+00:17:20,039 --> 00:17:23,520
+When I'm talking to Baby X,
+I'm deliberately
+modulating my voice
+
+355
+00:17:23,564 --> 00:17:25,740
+and deliberately doing big facial
+expressions.
+
+356
+00:17:25,783 --> 00:17:27,350
+I'm going "Ooh,"
+all this stuff
+
+357
+00:17:27,394 --> 00:17:29,309
+because I'm getting
+her attention.
+
+358
+00:17:29,744 --> 00:17:31,572
+Ooh.
+
+359
+00:17:32,834 --> 00:17:34,749
+And now that I've got her attention,
+
+360
+00:17:35,793 --> 00:17:37,012
+I can teach something.
+
+361
+00:17:37,056 --> 00:17:38,579
+Okay, so here's Baby X,
+
+362
+00:17:38,622 --> 00:17:41,973
+and this is... She's been
+learning to read words.
+
+363
+00:17:42,017 --> 00:17:43,758
+So here's
+her first word book.
+
+364
+00:17:43,801 --> 00:17:47,370
+So let's see what
+she can see.
+Turn to a page...
+
+365
+00:17:47,414 --> 00:17:49,329
+And here we go.
+Let's see what she...
+
+366
+00:17:49,372 --> 00:17:51,679
+What's this, Baby?
+What's this? What's this?
+
+367
+00:17:52,245 --> 00:17:54,160
+What's this? Sheep.
+
+368
+00:17:54,203 --> 00:17:56,336
+Good girl.
+Now see if she knows
+what the word is.
+
+369
+00:17:56,379 --> 00:17:58,207
+Okay.
+Baby, look over here.
+
+370
+00:17:58,251 --> 00:18:00,079
+Off you go.
+What's this? What's this?
+
+371
+00:18:01,776 --> 00:18:03,952
+Sheep.Good girl.
+
+372
+00:18:03,995 --> 00:18:05,606
+Let's try her
+on something else.
+
+373
+00:18:05,649 --> 00:18:07,216
+Okay.
+
+374
+00:18:07,260 --> 00:18:08,826
+- Let's try on that.
+- What's this?
+
+375
+00:18:08,870 --> 00:18:10,437
+Baby, Baby, over here.
+What's this?
+
+376
+00:18:15,268 --> 00:18:17,618
+Baby. Look at me.
+Look at me. What's this?
+
+377
+00:18:17,661 --> 00:18:19,402
+Baby, over here.
+Over here.
+
+378
+00:18:20,708 --> 00:18:22,927
+Puppy.Good girl.
+
+379
+00:18:22,971 --> 00:18:24,233
+That's what
+she's just read.
+
+380
+00:18:24,277 --> 00:18:26,148
+Ooh.
+
+381
+00:18:26,192 --> 00:18:28,411
+The most intelligent system
+
+382
+00:18:28,455 --> 00:18:30,805
+that we're aware of
+is a human.
+
+383
+00:18:32,198 --> 00:18:35,114
+So using the human
+as a template,
+
+384
+00:18:35,157 --> 00:18:37,333
+as the embodiment of Baby X,
+
+385
+00:18:37,377 --> 00:18:39,509
+is probably the best way
+to try
+
+386
+00:18:39,553 --> 00:18:41,337
+to achieve
+general intelligence.
+
+387
+00:18:48,170 --> 00:18:49,650
+She seems so human.
+
+388
+00:18:51,304 --> 00:18:53,349
+Is this the child
+who takes our hand
+
+389
+00:18:53,393 --> 00:18:55,699
+and leads us to HAL?
+
+390
+00:18:57,484 --> 00:19:00,922
+Whether it's in a real world
+or a virtual world,
+
+391
+00:19:00,965 --> 00:19:02,358
+I do think embodiment
+
+392
+00:19:02,402 --> 00:19:05,492
+is gonna be
+very crucial here.
+
+393
+00:19:05,535 --> 00:19:07,885
+Because I think that
+general intelligence
+
+394
+00:19:07,929 --> 00:19:10,888
+is tied up with being able
+to act in the world.
+
+395
+00:19:13,108 --> 00:19:14,805
+You have to have something,
+
+396
+00:19:14,849 --> 00:19:16,633
+arms, legs, eyes,
+
+397
+00:19:16,677 --> 00:19:18,461
+something that you can
+move around
+
+398
+00:19:18,505 --> 00:19:21,682
+in order to harvest
+new information.
+
+399
+00:19:26,513 --> 00:19:28,906
+So I think to get systems
+that really understand
+
+400
+00:19:28,950 --> 00:19:30,647
+what they're talking about,
+
+401
+00:19:30,691 --> 00:19:32,997
+you will need systems
+that can act
+
+402
+00:19:33,041 --> 00:19:34,564
+and intervene in the world,
+
+403
+00:19:34,608 --> 00:19:36,827
+and possibly systems
+that have something
+
+404
+00:19:36,871 --> 00:19:39,308
+almost like a social life.
+
+405
+00:19:39,352 --> 00:19:43,007
+For me, thinking and feeling
+will come together.
+
+406
+00:19:43,051 --> 00:19:44,574
+And they will come together
+
+407
+00:19:44,618 --> 00:19:47,534
+because of the importance
+of embodiment.
+
+408
+00:19:52,539 --> 00:19:53,975
+The stories that
+we tell ourselves
+
+409
+00:19:54,018 --> 00:19:56,325
+open up arenas
+for discussion,
+
+410
+00:19:56,369 --> 00:19:58,109
+and they also help us
+think about things.
+
+411
+00:19:58,153 --> 00:19:59,415
+Ava!
+
+412
+00:20:02,592 --> 00:20:04,377
+The most dominant story...
+
+413
+00:20:04,420 --> 00:20:05,769
+Go back to your room.
+
+414
+00:20:05,813 --> 00:20:07,684
+...is AI is scary.
+
+415
+00:20:07,728 --> 00:20:09,991
+There's a bad guy,
+there's a good guy...
+
+416
+00:20:12,123 --> 00:20:14,822
+That is
+a non-productive storyline.
+
+417
+00:20:14,865 --> 00:20:15,866
+Stop!
+
+418
+00:20:16,954 --> 00:20:18,608
+Ava, I said stop!
+
+419
+00:20:20,784 --> 00:20:22,656
+Whoa! Whoa! Whoa!
+
+420
+00:20:22,699 --> 00:20:27,269
+The reality is AI is
+remarkably useful to us.
+
+421
+00:20:27,313 --> 00:20:30,838
+Robot surgeons are increasingly used in
+NHS hospitals.
+
+422
+00:20:30,881 --> 00:20:33,623
+They don't get tired,
+their hands don't tremble,
+
+423
+00:20:33,667 --> 00:20:36,060
+and their patients
+make a faster recovery.
+
+424
+00:20:36,104 --> 00:20:38,672
+It alerted me that
+there was one animal in heat.
+
+425
+00:20:38,715 --> 00:20:41,065
+She was ready to be bred,
+and three animals that
+
+426
+00:20:41,109 --> 00:20:42,806
+may have
+a potential health problem.
+
+427
+00:20:42,850 --> 00:20:45,548
+A Facebook program
+can detect suicidal behavior
+
+428
+00:20:45,592 --> 00:20:47,681
+by analyzing user information,
+
+429
+00:20:47,724 --> 00:20:50,074
+and Facebook CEO
+Mark Zuckerberg believes
+
+430
+00:20:50,118 --> 00:20:52,425
+this is just the beginning.
+
+431
+00:20:52,468 --> 00:20:55,036
+Here is someone
+who has visual impairment
+
+432
+00:20:55,079 --> 00:20:57,386
+being able to see
+because of AI.
+
+433
+00:20:57,430 --> 00:21:00,128
+Those are the benefits
+of what AI does.
+
+434
+00:21:00,171 --> 00:21:01,738
+Diagnose cancer earlier.
+
+435
+00:21:01,782 --> 00:21:03,174
+Predict heart disease.
+
+436
+00:21:03,218 --> 00:21:05,481
+But the revolution
+has only just begun.
+
+437
+00:21:06,917 --> 00:21:08,397
+AI is.
+
+438
+00:21:08,441 --> 00:21:10,617
+It's happening.
+And so it is a question
+
+439
+00:21:10,660 --> 00:21:13,533
+of what we do with it,
+how we build it.
+
+440
+00:21:13,576 --> 00:21:15,665
+That's the only question
+that matters. And I think,
+
+441
+00:21:15,709 --> 00:21:19,060
+we potentially are at risk
+of ruining that
+
+442
+00:21:19,103 --> 00:21:20,453
+by having this
+knee-jerk reaction
+
+443
+00:21:20,496 --> 00:21:22,672
+that AI is bad
+and it's coming to get us.
+
+444
+00:21:25,196 --> 00:21:27,155
+So just like my astronaut,
+
+445
+00:21:27,198 --> 00:21:28,461
+we're on a journey.
+
+446
+00:21:29,200 --> 00:21:31,638
+Narrow AI is already here.
+
+447
+00:21:32,421 --> 00:21:35,294
+But how far are we from AGI?
+
+448
+00:21:36,425 --> 00:21:39,210
+And how fast are we going?
+
+449
+00:21:39,254 --> 00:21:40,603
+Every five years,
+
+450
+00:21:40,647 --> 00:21:43,214
+computers are getting
+ten times faster.
+
+451
+00:21:43,258 --> 00:21:45,216
+At the moment,
+we don't have yet
+
+452
+00:21:45,260 --> 00:21:48,263
+little devices,
+computational devices,
+
+453
+00:21:48,307 --> 00:21:51,484
+that can compute
+as much as a human brain.
+
+454
+00:21:51,527 --> 00:21:52,702
+But every five years,
+
+455
+00:21:52,746 --> 00:21:55,575
+computers are getting
+ten times cheaper,
+
+456
+00:21:55,618 --> 00:21:57,925
+which means that soon
+we are going to have that.
+
+457
+00:21:57,968 --> 00:22:01,189
+And once we have that,
+then 50 years later,
+
+458
+00:22:01,232 --> 00:22:02,451
+if the trend doesn't break,
+
+459
+00:22:02,495 --> 00:22:04,801
+we should have
+for the same price
+
+460
+00:22:04,845 --> 00:22:07,630
+little computational devices
+that can compute
+
+461
+00:22:07,674 --> 00:22:10,329
+as much as
+all ten billion brains
+
+462
+00:22:10,372 --> 00:22:11,808
+of humankind together.
+
+463
+00:22:14,202 --> 00:22:15,551
+It's catching up.
+
+464
+00:22:16,770 --> 00:22:20,034
+What happens
+if it passes us by?
+
+465
+00:22:20,077 --> 00:22:23,342
+Now a robot
+that's been developed
+by a Japanese scientist
+
+466
+00:22:23,385 --> 00:22:25,387
+is so fast, it can win
+
+467
+00:22:25,431 --> 00:22:27,346
+the rock-paper-scissors game
+against a human
+
+468
+00:22:27,389 --> 00:22:29,130
+every single time.
+
+469
+00:22:29,173 --> 00:22:31,175
+The presumption has to be that
+
+470
+00:22:31,219 --> 00:22:33,177
+when an artificial
+intelligence
+
+471
+00:22:33,221 --> 00:22:35,266
+reaches human intelligence,
+
+472
+00:22:35,310 --> 00:22:38,008
+it will very quickly
+exceed human intelligence,
+
+473
+00:22:38,052 --> 00:22:39,227
+and once that happens,
+
+474
+00:22:39,270 --> 00:22:41,272
+it doesn't even
+need us anymore
+
+475
+00:22:41,316 --> 00:22:43,884
+to make it smarter.
+It can make itself smarter.
+
+476
+00:22:46,408 --> 00:22:49,455
+You create AIs
+which are better than us
+
+477
+00:22:49,498 --> 00:22:50,586
+at a lot of things.
+
+478
+00:22:50,630 --> 00:22:52,545
+And one of the things
+they get better at
+
+479
+00:22:52,588 --> 00:22:54,373
+is programming computers.
+
+480
+00:22:54,416 --> 00:22:56,113
+So it reprograms itself.
+
+481
+00:22:56,157 --> 00:22:57,898
+And it is now
+better than it was,
+
+482
+00:22:57,941 --> 00:23:01,380
+which means it's now
+better than it was
+at reprogramming.
+
+483
+00:23:02,729 --> 00:23:05,384
+So it doesn't
+get better like that.
+
+484
+00:23:06,123 --> 00:23:07,690
+It gets better like that.
+
+485
+00:23:09,562 --> 00:23:11,172
+And we get left behind
+
+486
+00:23:11,215 --> 00:23:13,304
+as it keeps getting faster,
+
+487
+00:23:13,348 --> 00:23:15,872
+evolving at
+an exponential rate.
+
+488
+00:23:15,916 --> 00:23:18,005
+That's this event
+that a lot of researchers
+
+489
+00:23:18,048 --> 00:23:19,746
+refer to as the singularity.
+
+490
+00:23:21,965 --> 00:23:23,706
+And it will get beyond
+
+491
+00:23:23,750 --> 00:23:26,405
+where we are competitive
+very quickly.
+
+492
+00:23:26,448 --> 00:23:29,625
+So think about someone
+not having a PhD in one area,
+
+493
+00:23:29,669 --> 00:23:32,280
+but having it
+in every conceivable area.
+
+494
+00:23:32,323 --> 00:23:34,413
+You can't figure out
+what they're doing.
+
+495
+00:23:34,456 --> 00:23:36,806
+They can do things
+no one else is capable of.
+
+496
+00:23:39,461 --> 00:23:40,854
+Just imagine
+what it would be like
+
+497
+00:23:40,897 --> 00:23:43,247
+to be in dialogue
+with another person
+
+498
+00:23:43,291 --> 00:23:44,814
+running on a time course
+
+499
+00:23:44,858 --> 00:23:48,557
+that was a million times
+faster than yours.
+
+500
+00:23:48,601 --> 00:23:51,255
+So for every second
+you had to think
+
+501
+00:23:51,299 --> 00:23:52,431
+about what you were
+going to do
+
+502
+00:23:52,474 --> 00:23:53,867
+or what you were
+going to say,
+
+503
+00:23:53,910 --> 00:23:57,436
+it had two weeks to think
+about this, right?
+
+504
+00:23:57,479 --> 00:24:00,569
+Um, or a billion times faster,
+
+505
+00:24:00,613 --> 00:24:02,528
+so if for every second
+you had to think,
+
+506
+00:24:02,571 --> 00:24:05,487
+it it's high-stakes poker
+or some negotiation,
+
+507
+00:24:05,531 --> 00:24:09,448
+every second you are thinking,
+it has 32 years
+
+508
+00:24:09,491 --> 00:24:11,798
+to think about what
+its next move will be.
+
+509
+00:24:12,581 --> 00:24:14,931
+There's no way to win in that game.
+
+510
+00:24:15,715 --> 00:24:17,456
+The singularity,
+
+511
+00:24:17,499 --> 00:24:19,719
+the moment the machines
+surpass us.
+
+512
+00:24:20,415 --> 00:24:22,548
+Inevitable? Not everyone
+
+513
+00:24:22,591 --> 00:24:25,289
+at the forefront of AI
+thinks so.
+
+514
+00:24:25,333 --> 00:24:27,857
+Some of my friends
+who are worried
+about the future
+
+515
+00:24:27,901 --> 00:24:30,033
+think that we're gonna
+get to a singularity
+
+516
+00:24:30,077 --> 00:24:31,687
+where the AI systems
+are able
+
+517
+00:24:31,731 --> 00:24:33,602
+to reprogram themselves
+and make themselves
+
+518
+00:24:33,646 --> 00:24:35,517
+better and better
+and better.
+
+519
+00:24:36,910 --> 00:24:39,652
+Maybe in
+the long-distant future.
+
+520
+00:24:39,695 --> 00:24:42,045
+But our present AI systems
+
+521
+00:24:42,089 --> 00:24:44,831
+are very, very narrow
+at what they do.
+
+522
+00:24:45,745 --> 00:24:47,573
+We can't build a system today
+
+523
+00:24:47,616 --> 00:24:49,488
+that can understand
+a computer program
+
+524
+00:24:49,531 --> 00:24:52,316
+at the level
+that a brand-new student
+in programming
+
+525
+00:24:52,360 --> 00:24:54,754
+understands
+in four or five weeks.
+
+526
+00:24:55,581 --> 00:24:56,756
+And by the way,
+
+527
+00:24:56,799 --> 00:24:59,019
+people have been working
+on this problem
+
+528
+00:24:59,062 --> 00:25:00,499
+for over 40 years.
+
+529
+00:25:00,542 --> 00:25:02,065
+It's not because
+people haven't tried.
+
+530
+00:25:02,109 --> 00:25:03,980
+It's because we don't have
+any clue how to do it.
+
+531
+00:25:04,024 --> 00:25:06,766
+So to imagine it's suddenly
+gonna jump out of nothing
+
+532
+00:25:06,809 --> 00:25:09,986
+I think is completely wrong.
+
+533
+00:25:11,640 --> 00:25:14,600
+There's a negative
+narrative about AI.
+
+534
+00:25:14,643 --> 00:25:16,602
+Brilliant people
+like Elon Musk
+
+535
+00:25:16,645 --> 00:25:19,648
+use very religious imagery.
+
+536
+00:25:19,692 --> 00:25:22,999
+With artificial intelligence,
+we are summoning the demon.
+
+537
+00:25:23,043 --> 00:25:24,958
+You know? You know
+all those stories where
+
+538
+00:25:25,001 --> 00:25:27,090
+there's the guy with
+the pentagram and holy water
+
+539
+00:25:27,134 --> 00:25:29,005
+and he's like, "Yeah,"
+he's sure he can control
+the demon.
+
+540
+00:25:30,137 --> 00:25:31,312
+Doesn't work out.
+
+541
+00:25:32,313 --> 00:25:33,488
+You know, people like me
+
+542
+00:25:33,532 --> 00:25:35,795
+who've spent
+their entire career
+
+543
+00:25:35,838 --> 00:25:39,538
+working on AI are literally
+hurt by that, right?
+
+544
+00:25:39,581 --> 00:25:42,105
+It's a personal attack almost.
+
+545
+00:25:43,933 --> 00:25:46,196
+I tend to think
+about what's gonna happen
+
+546
+00:25:46,240 --> 00:25:49,243
+in the next ten years,
+in the next 25 years.
+
+547
+00:25:49,286 --> 00:25:50,549
+Beyond 25,
+
+548
+00:25:50,592 --> 00:25:52,681
+it's so difficult to predict
+
+549
+00:25:52,725 --> 00:25:55,379
+that it becomes
+very much a speculation.
+
+550
+00:25:55,423 --> 00:25:56,816
+But I must warn you,
+
+551
+00:25:56,859 --> 00:25:59,383
+I've been
+specifically programmed
+
+552
+00:25:59,427 --> 00:26:02,125
+not to take over the world.
+
+553
+00:26:02,169 --> 00:26:04,650
+All of a sudden,
+for the first time
+
+554
+00:26:04,693 --> 00:26:07,478
+in the history of the field,
+you have some people saying,
+
+555
+00:26:07,522 --> 00:26:09,350
+"The reason
+we don't have to worry
+
+556
+00:26:09,393 --> 00:26:10,743
+"about any kind of
+
+557
+00:26:10,786 --> 00:26:12,614
+"existential risk
+to humanity
+
+558
+00:26:12,658 --> 00:26:13,746
+"from super-intelligent
+machines
+
+559
+00:26:13,789 --> 00:26:15,225
+"is because it's impossible.
+
+560
+00:26:16,096 --> 00:26:17,532
+"We're gonna fail."
+
+561
+00:26:17,576 --> 00:26:21,275
+I... I find this
+completely bizarre.
+
+562
+00:26:21,318 --> 00:26:26,280
+Stuart Russell
+cowrote the textbook
+many AI students study with.
+
+563
+00:26:26,323 --> 00:26:30,893
+He understands the momentum
+driving our AI future.
+
+564
+00:26:30,937 --> 00:26:33,766
+But given the rate
+of investment in AI,
+
+565
+00:26:33,809 --> 00:26:35,811
+the number
+of incredibly smart people
+
+566
+00:26:35,855 --> 00:26:37,596
+who are working
+on these problems,
+
+567
+00:26:37,639 --> 00:26:39,728
+and the enormous incentive,
+
+568
+00:26:39,772 --> 00:26:42,339
+to achieve general
+purpose intelligence,
+
+569
+00:26:42,383 --> 00:26:43,819
+back of the envelope
+calculation,
+
+570
+00:26:43,863 --> 00:26:47,388
+the value is about
+10,000 trillion dollars.
+
+571
+00:26:47,431 --> 00:26:50,652
+Because it would revolutionize the economy
+of the world.
+
+572
+00:26:51,697 --> 00:26:53,612
+With that scale of incentive,
+
+573
+00:26:53,655 --> 00:26:56,266
+I think betting against human ingenuity
+
+574
+00:26:56,310 --> 00:26:58,660
+just seems incredibly foolish.
+
+575
+00:26:58,704 --> 00:27:01,054
+China has
+a big vested interest
+
+576
+00:27:01,097 --> 00:27:04,187
+in being recognized
+as, kind of, an AI superpower.
+
+577
+00:27:04,231 --> 00:27:06,625
+And they're investing
+what I believe is
+
+578
+00:27:06,668 --> 00:27:08,931
+upwards of $150 billion
+
+579
+00:27:08,975 --> 00:27:10,498
+the next five to ten years.
+
+580
+00:27:10,541 --> 00:27:11,891
+There have been
+some news flashes
+
+581
+00:27:11,934 --> 00:27:13,632
+that the government
+will start ramping up
+
+582
+00:27:13,675 --> 00:27:15,024
+its investment in AI.
+
+583
+00:27:15,068 --> 00:27:17,723
+Every company
+in the Fortune 500,
+
+584
+00:27:17,766 --> 00:27:20,029
+whether it's IBM, Microsoft,
+
+585
+00:27:20,073 --> 00:27:22,771
+or they're outside
+like Kroger,
+
+586
+00:27:22,815 --> 00:27:24,599
+is using
+artificial intelligence
+
+587
+00:27:24,643 --> 00:27:25,861
+to gain customers.
+
+588
+00:27:25,905 --> 00:27:28,647
+I don't think that people
+should underestimate
+
+589
+00:27:28,690 --> 00:27:30,605
+the types of innovations
+going on.
+
+590
+00:27:30,649 --> 00:27:32,694
+And what this world
+is gonna look like
+
+591
+00:27:32,738 --> 00:27:34,261
+in three to five years
+from now,
+
+592
+00:27:34,304 --> 00:27:36,480
+I think people are gonna have
+a hard time predicting it.
+
+593
+00:27:36,524 --> 00:27:38,787
+I know many people
+who work
+
+594
+00:27:38,831 --> 00:27:40,571
+in AI
+and they would tell you,
+
+595
+00:27:40,615 --> 00:27:42,791
+"Look, I'm going to work
+and I have doubts.
+
+596
+00:27:42,835 --> 00:27:45,489
+"I'm working on
+creating this machine
+
+597
+00:27:45,533 --> 00:27:47,100
+"that can treat cancer,
+
+598
+00:27:47,883 --> 00:27:49,450
+"extend our life expectancy,
+
+599
+00:27:49,493 --> 00:27:52,801
+"make our societies better,
+more just, more equal.
+
+600
+00:27:54,020 --> 00:27:57,197
+"But it could also
+be the end of humanity."
+
+601
+00:28:00,156 --> 00:28:02,376
+The end of humanity?
+
+602
+00:28:07,033 --> 00:28:08,991
+What is our plan
+as a species?
+
+603
+00:28:11,472 --> 00:28:12,778
+We don't have one.
+
+604
+00:28:14,170 --> 00:28:15,737
+We don't have a plan
+and we don't realize
+
+605
+00:28:15,781 --> 00:28:17,217
+it's necessary
+to have a plan.
+
+606
+00:28:26,879 --> 00:28:28,707
+A lot of
+the AI researchers
+
+607
+00:28:28,750 --> 00:28:30,143
+would love for our
+science fiction books
+
+608
+00:28:30,186 --> 00:28:32,362
+and movies
+to be more balanced,
+
+609
+00:28:33,494 --> 00:28:36,149
+to show the good uses of AI.
+
+610
+00:28:42,677 --> 00:28:45,724
+All of the bad things
+we tend to do,
+
+611
+00:28:45,767 --> 00:28:46,899
+you play them out
+
+612
+00:28:46,942 --> 00:28:50,380
+to the apocalyptic level
+in science fiction
+
+613
+00:28:50,424 --> 00:28:51,991
+and then you show them
+to people
+
+614
+00:28:52,034 --> 00:28:54,254
+and it gives you
+food for thought.
+
+615
+00:28:56,822 --> 00:28:59,389
+People need to have that warning signal
+
+616
+00:28:59,433 --> 00:29:00,913
+in the back of their minds.
+
+617
+00:29:05,091 --> 00:29:06,745
+I think
+it's really important
+
+618
+00:29:06,788 --> 00:29:08,834
+to distinguish between
+science on the one hand,
+
+619
+00:29:08,877 --> 00:29:11,010
+and science fiction
+on the other hand.
+
+620
+00:29:11,053 --> 00:29:12,489
+I don't know
+what's gonna happen
+
+621
+00:29:12,533 --> 00:29:13,752
+a thousand years from now,
+
+622
+00:29:13,795 --> 00:29:15,188
+but as somebody
+in the trenches,
+
+623
+00:29:15,231 --> 00:29:17,190
+as somebody who's building
+AI systems,
+
+624
+00:29:17,233 --> 00:29:20,628
+who's been doing so for more
+than a quarter of a century,
+
+625
+00:29:20,671 --> 00:29:22,891
+I feel like I have
+my hand on the pulse
+
+626
+00:29:22,935 --> 00:29:24,588
+of what's gonna happen next,
+
+627
+00:29:24,632 --> 00:29:26,982
+in the next five,
+ten, 20 years,
+
+628
+00:29:27,026 --> 00:29:28,636
+much more so
+than these folks
+
+629
+00:29:28,679 --> 00:29:31,900
+who ultimately are not
+building AI systems.
+
+630
+00:29:31,944 --> 00:29:34,294
+We wanna build the technology,
+think about it.
+
+631
+00:29:34,337 --> 00:29:36,252
+We wanna see
+how people react to it
+
+632
+00:29:36,296 --> 00:29:39,081
+and build the next generation
+and make it better.
+
+633
+00:29:40,953 --> 00:29:43,694
+Skepticism
+about whether this poses
+
+634
+00:29:43,738 --> 00:29:47,786
+any danger to us
+seems peculiar.
+
+635
+00:29:47,829 --> 00:29:52,094
+Even if we've given it goals
+that we approve of,
+
+636
+00:29:52,138 --> 00:29:56,795
+it may form instrumental goals
+that we can't foresee,
+
+637
+00:29:56,838 --> 00:29:58,666
+that are not aligned
+with our interest.
+
+638
+00:29:58,709 --> 00:30:01,451
+And that's the goal alignment problem.
+
+639
+00:30:01,495 --> 00:30:03,149
+Goal alignment.
+
+640
+00:30:03,192 --> 00:30:06,239
+Exactly how
+my battle with HAL began.
+
+641
+00:30:06,282 --> 00:30:10,112
+The goal alignment problem
+with AI is where
+
+642
+00:30:10,852 --> 00:30:13,463
+you set it a goal
+
+643
+00:30:14,334 --> 00:30:17,554
+and then, the way
+that it does this goal
+
+644
+00:30:17,598 --> 00:30:20,819
+turns out to be at odds
+with what you really wanted.
+
+645
+00:30:22,081 --> 00:30:25,649
+The classic AI alignment problem in film...
+
+646
+00:30:25,693 --> 00:30:27,521
+Hello. HAL, do you read me?
+
+647
+00:30:27,564 --> 00:30:29,566
+...is HAL in2001.
+
+648
+00:30:30,611 --> 00:30:32,134
+HAL, do you read me?
+
+649
+00:30:32,178 --> 00:30:34,397
+HAL is given a clear goal.Do you read me,
+HAL?
+
+650
+00:30:34,441 --> 00:30:38,662
+Make the mission succeed. But to make it
+succeed,
+
+651
+00:30:38,706 --> 00:30:40,621
+he's gonna have to make
+
+652
+00:30:40,664 --> 00:30:42,275
+some of the people
+on the mission die.
+
+653
+00:30:42,318 --> 00:30:45,191
+Affirmative, Dave.
+I read you.
+
+654
+00:30:46,453 --> 00:30:48,455
+Open the pod bay doors, HAL.
+
+655
+00:30:48,498 --> 00:30:50,065
+I'm sorry, Dave.
+
+656
+00:30:50,109 --> 00:30:51,980
+I'm afraid I can't do that.
+
+657
+00:30:52,024 --> 00:30:55,766
+"I'm sorry, Dave,
+I can't do that,"
+
+658
+00:30:55,810 --> 00:30:58,987
+is actually
+a real genius illustration
+
+659
+00:30:59,031 --> 00:31:02,512
+of what the real threat is
+from super-intelligence.
+
+660
+00:31:02,556 --> 00:31:05,472
+It's not malice.
+It's competence.
+
+661
+00:31:05,515 --> 00:31:07,169
+HAL was really competent
+
+662
+00:31:07,213 --> 00:31:11,913
+and had goals that
+just didn't align with Dave's.
+
+663
+00:31:11,957 --> 00:31:13,523
+HAL, I won't argue
+with you anymore.
+
+664
+00:31:14,437 --> 00:31:15,569
+Open the doors!
+
+665
+00:31:16,178 --> 00:31:18,441
+Dave, this conversation
+
+666
+00:31:18,485 --> 00:31:22,054
+can serve no purpose anymore.
+Goodbye.
+
+667
+00:31:24,317 --> 00:31:25,318
+HAL?
+
+668
+00:31:26,580 --> 00:31:27,581
+HAL?
+
+669
+00:31:29,235 --> 00:31:30,236
+HAL?
+
+670
+00:31:32,455 --> 00:31:33,456
+HAL!
+
+671
+00:31:37,808 --> 00:31:39,549
+HAL and I
+wanted the same thing.
+
+672
+00:31:40,986 --> 00:31:42,596
+Just not in the same way.
+
+673
+00:31:44,119 --> 00:31:47,427
+And it can be dangerous
+when goals don't align.
+
+674
+00:31:52,127 --> 00:31:54,521
+In Kubrick's film,
+there was a solution.
+
+675
+00:31:55,261 --> 00:31:57,567
+When HAL tried to kill me,
+
+676
+00:31:57,611 --> 00:31:59,178
+I just switched him off.
+
+677
+00:32:01,310 --> 00:32:03,922
+People say, "Well, just switch them off."
+
+678
+00:32:06,750 --> 00:32:08,665
+But you can't
+just switch them off.
+
+679
+00:32:08,709 --> 00:32:10,537
+Because they
+already thought of that.
+
+680
+00:32:10,580 --> 00:32:11,930
+They're super-intelligent.
+
+681
+00:32:13,453 --> 00:32:15,716
+For a machine
+convinced of its goal,
+
+682
+00:32:15,759 --> 00:32:18,675
+even something as simple as
+"fetch the coffee."
+
+683
+00:32:18,719 --> 00:32:21,200
+It's obvious to any
+sufficiently intelligent
+machine
+
+684
+00:32:21,243 --> 00:32:23,637
+that it can't fetch the coffee
+if it's switched off.
+
+685
+00:32:25,769 --> 00:32:28,076
+Give it a goal, you've given the machine
+
+686
+00:32:28,120 --> 00:32:30,252
+an incentive to defend itself.
+
+687
+00:32:31,688 --> 00:32:33,908
+It's sort of a psychopathic behavior
+
+688
+00:32:33,952 --> 00:32:37,433
+of the single-minded fixation
+on some objective.
+
+689
+00:32:39,261 --> 00:32:43,831
+For example, if you wanted
+to try and develop a system
+
+690
+00:32:43,874 --> 00:32:46,094
+that might generate
+world peace,
+
+691
+00:32:46,138 --> 00:32:48,662
+then maybe the most efficient,
+
+692
+00:32:49,184 --> 00:32:50,620
+and
+
+693
+00:32:51,708 --> 00:32:53,188
+speedy way to achieve that
+
+694
+00:32:53,232 --> 00:32:55,669
+is simply to annihilate
+all the humans.
+
+695
+00:32:59,716 --> 00:33:01,196
+Just get rid of the people,
+
+696
+00:33:01,240 --> 00:33:02,763
+they would stop being in conflict.
+
+697
+00:33:04,069 --> 00:33:06,027
+Then there would be
+world peace.
+
+698
+00:33:22,000 --> 00:33:23,827
+Personally, I have
+very little time
+
+699
+00:33:23,871 --> 00:33:26,656
+for these
+parlor discussions.
+
+700
+00:33:26,700 --> 00:33:28,919
+We have to build
+these systems,
+
+701
+00:33:28,963 --> 00:33:30,486
+experiment with them,
+
+702
+00:33:30,530 --> 00:33:33,359
+see where they go awry
+and fix them.
+
+703
+00:33:34,708 --> 00:33:38,146
+We have so many opportunities
+to use AI for the good,
+
+704
+00:33:38,190 --> 00:33:40,192
+why do we focus on the fear?
+
+705
+00:33:41,410 --> 00:33:43,151
+We are building them.
+
+706
+00:33:43,195 --> 00:33:45,371
+Baby X is an example.
+
+707
+00:33:46,720 --> 00:33:48,461
+Will she be a good AI?
+
+708
+00:33:49,505 --> 00:33:51,203
+I think
+what's critical in this
+
+709
+00:33:51,246 --> 00:33:53,596
+is that machines
+are accountable,
+
+710
+00:33:53,640 --> 00:33:54,989
+and you can look at them
+
+711
+00:33:55,033 --> 00:33:57,035
+and see what's making
+them tick.
+
+712
+00:33:58,253 --> 00:34:01,082
+And the best way to understand something
+is to build it.
+
+713
+00:34:02,301 --> 00:34:05,304
+Baby X has
+a virtual physiology.
+
+714
+00:34:06,783 --> 00:34:11,484
+Has pain circuits
+and it has joy circuits.
+
+715
+00:34:12,920 --> 00:34:16,184
+She has parameters which are
+actually representing
+
+716
+00:34:16,228 --> 00:34:18,752
+her internal chemical state,
+if you like.
+
+717
+00:34:21,320 --> 00:34:23,887
+You know, if she's stressed,
+there's high cortisol.
+
+718
+00:34:23,931 --> 00:34:25,541
+If she's feeling good,
+high dopamine,
+
+719
+00:34:25,585 --> 00:34:27,500
+high serotonin,
+that type of thing.
+
+720
+00:34:28,414 --> 00:34:30,111
+This is all part of, you know,
+
+721
+00:34:30,155 --> 00:34:32,505
+adding extra human factors
+into computing.
+
+722
+00:34:32,548 --> 00:34:34,985
+Now, because she's got these
+virtual emotional systems,
+
+723
+00:34:35,029 --> 00:34:36,552
+I can do things like...
+
+724
+00:34:36,596 --> 00:34:39,251
+I'm gonna avoid her
+or hide over here.
+
+725
+00:34:39,294 --> 00:34:41,427
+So she's looking for
+where I've gone.
+
+726
+00:34:42,993 --> 00:34:45,996
+So we should start seeing
+virtual cortisol building up.
+
+727
+00:34:46,040 --> 00:34:49,913
+Aww!
+
+728
+00:34:49,957 --> 00:34:53,656
+I've turned off the audio
+for a reason, but anyway...
+
+729
+00:34:53,700 --> 00:34:55,832
+I'll put her
+out of her misery.
+Okay. Sorry.
+
+730
+00:34:55,876 --> 00:34:58,661
+It's okay, sweetheart.
+Don't cry. It's okay.
+It's okay.
+
+731
+00:34:58,705 --> 00:35:00,228
+Good girl. Okay. Yeah.
+
+732
+00:35:00,272 --> 00:35:02,012
+So what's happening
+is she's responding
+
+733
+00:35:02,056 --> 00:35:04,145
+to my facial expressions
+and my voice.
+
+734
+00:35:06,452 --> 00:35:08,758
+But how is chemical state
+
+735
+00:35:08,802 --> 00:35:10,412
+represented in Baby X?
+
+736
+00:35:10,456 --> 00:35:12,414
+It's literally
+a mathematical parameter.
+
+737
+00:35:12,458 --> 00:35:15,156
+So there's levels,
+different levels of dopamine,
+
+738
+00:35:15,200 --> 00:35:16,810
+but they're
+represented by numbers.
+
+739
+00:35:20,030 --> 00:35:23,469
+The map of her virtual
+neurochemical state
+
+740
+00:35:24,122 --> 00:35:25,427
+is probably the closest
+
+741
+00:35:25,471 --> 00:35:28,387
+that we can get
+to felt experience.
+
+742
+00:35:31,259 --> 00:35:33,131
+So if we can build
+a computer model
+
+743
+00:35:33,174 --> 00:35:36,134
+that we can change
+the settings of
+and the parameters of,
+
+744
+00:35:36,177 --> 00:35:38,440
+give it different experiences,
+
+745
+00:35:38,484 --> 00:35:40,050
+and have it interact with us
+
+746
+00:35:40,094 --> 00:35:42,270
+like we interact
+with other people,
+
+747
+00:35:42,314 --> 00:35:44,272
+maybe this is a way
+to explore
+
+748
+00:35:44,316 --> 00:35:45,882
+consciousness in
+a new way.
+
+749
+00:35:48,276 --> 00:35:50,974
+If she does
+become conscious,
+
+750
+00:35:51,018 --> 00:35:52,846
+what sort of life
+will she want?
+
+751
+00:35:55,240 --> 00:35:57,894
+An AI, if it's conscious,
+
+752
+00:35:57,938 --> 00:36:00,506
+then it's like your child.
+
+753
+00:36:03,117 --> 00:36:05,337
+Does it have rights?
+
+754
+00:36:05,380 --> 00:36:07,513
+Last year,
+European lawmakers
+passed a resolution
+
+755
+00:36:07,556 --> 00:36:11,560
+to grant legal status
+to electronic persons.
+
+756
+00:36:11,604 --> 00:36:13,171
+That move's now
+being considered
+
+757
+00:36:13,214 --> 00:36:14,868
+by the European Commission.
+
+758
+00:36:16,565 --> 00:36:17,871
+Machines with rights.
+
+759
+00:36:19,394 --> 00:36:20,656
+Are we ready for that?
+
+760
+00:36:22,441 --> 00:36:25,313
+I think it raises
+moral and ethical problems,
+
+761
+00:36:25,357 --> 00:36:27,228
+which we really
+
+762
+00:36:27,924 --> 00:36:31,276
+are most content to ignore.
+
+763
+00:36:35,845 --> 00:36:37,456
+What is it
+that we really want?
+
+764
+00:36:38,761 --> 00:36:40,850
+We want a creature, a being, that we can
+
+765
+00:36:40,894 --> 00:36:42,548
+interact with in some way,
+
+766
+00:36:42,591 --> 00:36:45,507
+that is enough like us
+that we can relate to it,
+
+767
+00:36:45,551 --> 00:36:48,728
+but is dispensable
+or disposable.
+
+768
+00:36:50,469 --> 00:36:52,471
+The first and most notable one,
+
+769
+00:36:52,514 --> 00:36:54,255
+I think, was inMetropolis.
+
+770
+00:36:58,303 --> 00:37:00,522
+The Maria doppelganger that was created by
+
+771
+00:37:00,566 --> 00:37:03,917
+the scientist simulated a sexy female.
+
+772
+00:37:08,226 --> 00:37:11,359
+And this goes back
+to our penchant for slavery
+
+773
+00:37:11,403 --> 00:37:12,534
+down through the ages.
+
+774
+00:37:12,578 --> 00:37:14,144
+Let's get people
+that we can,
+
+775
+00:37:14,188 --> 00:37:16,538
+in a way, dehumanize
+
+776
+00:37:16,582 --> 00:37:19,019
+and we can do
+what we want with them.
+
+777
+00:37:19,062 --> 00:37:21,282
+And so, I think,
+we're just, you know,
+
+778
+00:37:21,326 --> 00:37:23,241
+finding a new way
+to do slavery.
+
+779
+00:37:27,332 --> 00:37:30,465
+Would it be right for us
+to have them as our slaves?
+
+780
+00:37:33,512 --> 00:37:35,731
+This all becomes
+slightly weird ethically
+
+781
+00:37:35,775 --> 00:37:38,821
+if we happen to,
+by choice or by accident,
+
+782
+00:37:38,865 --> 00:37:40,867
+build conscious slaves.
+
+783
+00:37:40,910 --> 00:37:44,653
+That seems like a morally
+questionable thing to do,
+
+784
+00:37:44,697 --> 00:37:47,090
+if not an outright
+evil thing to do.
+
+785
+00:37:47,134 --> 00:37:49,267
+Artificial intelligence
+is making its way
+
+786
+00:37:49,310 --> 00:37:51,094
+into the global sex market.
+
+787
+00:37:51,138 --> 00:37:53,096
+A California company
+will soon roll out
+
+788
+00:37:53,140 --> 00:37:56,143
+a new incredibly lifelike
+sex robot
+
+789
+00:37:56,186 --> 00:37:58,537
+run by
+artificial intelligence.
+
+790
+00:37:58,580 --> 00:38:00,452
+One application
+that does trouble me
+
+791
+00:38:00,495 --> 00:38:02,802
+is the rise of sex robots
+
+792
+00:38:02,845 --> 00:38:06,327
+that are shaped
+in the image of real women.
+
+793
+00:38:06,371 --> 00:38:08,895
+I am already
+taking over the world
+
+794
+00:38:08,938 --> 00:38:10,462
+one bedroom at a time.
+
+795
+00:38:11,332 --> 00:38:13,116
+If they are conscious,
+
+796
+00:38:13,160 --> 00:38:15,162
+capable of sentience,
+
+797
+00:38:15,205 --> 00:38:18,948
+of experiencing pain
+and suffering,
+
+798
+00:38:18,992 --> 00:38:22,735
+and they were being
+subject to degrading, cruel
+
+799
+00:38:22,778 --> 00:38:26,869
+or other forms of utterly
+unacceptable treatment,
+
+800
+00:38:26,913 --> 00:38:30,525
+the danger is that
+we'd become desensitized
+
+801
+00:38:30,569 --> 00:38:34,094
+to what's morally acceptable
+and what's not.
+
+802
+00:38:40,796 --> 00:38:44,670
+If she's conscious,
+she should be able to say no.
+
+803
+00:38:44,713 --> 00:38:45,714
+Right?
+
+804
+00:38:50,197 --> 00:38:51,720
+Shouldn't she have that power?
+
+805
+00:38:54,680 --> 00:38:58,814
+Aren't these the questions
+we need to ask now?
+
+806
+00:39:01,034 --> 00:39:04,080
+What do we want it
+to mean to be human?
+
+807
+00:39:05,299 --> 00:39:08,171
+All other species on Earth,
+up until now,
+
+808
+00:39:08,215 --> 00:39:10,522
+have not had the luxury
+
+809
+00:39:10,565 --> 00:39:12,480
+to answer what they
+want it to mean
+
+810
+00:39:12,524 --> 00:39:14,439
+to be a mouse
+or to be an earthworm.
+
+811
+00:39:14,482 --> 00:39:17,659
+But we have now reached
+this tipping point
+
+812
+00:39:17,703 --> 00:39:20,401
+where our understanding
+of science and technology
+
+813
+00:39:20,445 --> 00:39:23,186
+has reached the point that
+we can completely transform
+
+814
+00:39:23,230 --> 00:39:24,710
+what it means to be us.
+
+815
+00:39:30,890 --> 00:39:33,588
+What will it mean
+to be human?
+
+816
+00:39:36,896 --> 00:39:41,553
+If machines become more,
+will we become less?
+
+817
+00:39:43,642 --> 00:39:46,601
+The computer Deep Blue
+has tonight triumphed over
+
+818
+00:39:46,645 --> 00:39:48,951
+the world chess champion
+Garry Kasparov.
+
+819
+00:39:48,995 --> 00:39:51,040
+It's the first time
+a machine has defeated
+
+820
+00:39:51,084 --> 00:39:52,390
+a reigning world champion.
+
+821
+00:39:52,433 --> 00:39:53,521
+More on that showdown
+
+822
+00:39:53,565 --> 00:39:55,262
+on one of America's
+most beloved
+
+823
+00:39:55,305 --> 00:39:56,481
+game shows, Jeopardy!
+
+824
+00:39:56,524 --> 00:39:58,483
+Two human champions going
+
+825
+00:39:58,526 --> 00:40:01,399
+brain
+-to
+-brain with a super
+-computer named Watson.
+
+826
+00:40:01,442 --> 00:40:02,661
+What isThe Last Judgment?
+
+827
+00:40:02,704 --> 00:40:04,010
+Correct.
+Go again. Watson.
+
+828
+00:40:04,053 --> 00:40:06,012
+Who is Jean Valjean? Correct.
+
+829
+00:40:06,055 --> 00:40:07,796
+A Google computer program has
+
+830
+00:40:07,840 --> 00:40:10,190
+once again beaten
+a world champion in Go.
+
+831
+00:40:10,233 --> 00:40:12,453
+Go, an ancient Chinese board game,
+
+832
+00:40:12,497 --> 00:40:15,238
+is one of the most complex
+games ever devised.
+
+833
+00:40:15,282 --> 00:40:18,154
+It's another milestone in
+the rush to develop machines
+
+834
+00:40:18,198 --> 00:40:19,765
+that are smarter than humans.
+
+835
+00:40:19,808 --> 00:40:21,897
+We have
+this air of superiority,
+
+836
+00:40:21,941 --> 00:40:23,551
+we as humans.
+
+837
+00:40:23,595 --> 00:40:27,425
+So we kind of got used to be
+the smartest kid on the block.
+
+838
+00:40:27,468 --> 00:40:30,428
+And I think that
+this is no longer the case.
+
+839
+00:40:30,471 --> 00:40:34,606
+And we know that
+because we rely on AI
+
+840
+00:40:34,649 --> 00:40:37,043
+to help us to make
+many important decisions.
+
+841
+00:40:40,699 --> 00:40:44,746
+Humans are irrational
+in many very bad ways.
+
+842
+00:40:44,790 --> 00:40:48,968
+We're prejudiced,
+we start wars, we kill people.
+
+843
+00:40:51,318 --> 00:40:53,276
+If you want to maximize
+the chances
+
+844
+00:40:53,320 --> 00:40:55,278
+of people surviving overall,
+
+845
+00:40:55,322 --> 00:40:57,629
+you should essentially
+give more and more
+
+846
+00:40:57,672 --> 00:40:59,805
+decision-making powers
+to computers.
+
+847
+00:41:05,158 --> 00:41:08,161
+Maybe machines would
+do a better job than us.
+
+848
+00:41:10,250 --> 00:41:11,251
+Maybe.
+
+849
+00:41:19,520 --> 00:41:22,305
+I am thrilled
+and honored to be here
+
+850
+00:41:22,349 --> 00:41:23,872
+at the United Nations.
+
+851
+00:41:23,916 --> 00:41:27,876
+The future is here. It's just
+not evenly distributed.
+
+852
+00:41:27,920 --> 00:41:29,835
+AI could help
+efficiently distribute
+
+853
+00:41:29,878 --> 00:41:31,663
+the world's
+existing resources,
+
+854
+00:41:31,706 --> 00:41:33,534
+like food and energy.
+
+855
+00:41:34,883 --> 00:41:37,451
+I am here to help humanity
+create the future.
+
+856
+00:41:40,541 --> 00:41:42,369
+The one
+super-intelligent scenario
+
+857
+00:41:42,412 --> 00:41:43,936
+that is provocative
+to think about
+
+858
+00:41:43,979 --> 00:41:46,765
+is what I call
+the benevolent dictator.
+
+859
+00:41:46,808 --> 00:41:48,941
+Where you have
+this super-intelligence
+which runs Earth,
+
+860
+00:41:48,984 --> 00:41:51,117
+guided by strict ethical principles that try
+
+861
+00:41:51,160 --> 00:41:52,945
+to help humanity flourish.
+
+862
+00:41:54,642 --> 00:41:56,165
+Would everybody love that?
+
+863
+00:41:56,209 --> 00:41:57,297
+If there's no disease,
+
+864
+00:41:57,340 --> 00:41:59,038
+no poverty, no crime...
+
+865
+00:42:00,039 --> 00:42:02,345
+Many people would probably
+greatly prefer it
+
+866
+00:42:02,389 --> 00:42:03,999
+to their lot today.
+
+867
+00:42:04,043 --> 00:42:06,436
+But I can imagine that some
+might still lament
+
+868
+00:42:06,480 --> 00:42:09,831
+that we humans just
+don't have more freedom
+
+869
+00:42:09,875 --> 00:42:13,052
+to determine our own course.
+And, um...
+
+870
+00:42:15,968 --> 00:42:18,623
+It's a tough one.
+It really is. We...
+
+871
+00:42:18,666 --> 00:42:20,668
+I don't think most people
+would wanna be
+
+872
+00:42:20,712 --> 00:42:23,279
+like zoo animals, with no...
+
+873
+00:42:28,197 --> 00:42:29,808
+On the other hand...
+
+874
+00:42:29,851 --> 00:42:30,896
+Yeah.
+
+875
+00:42:31,810 --> 00:42:33,202
+I don't have any glib answers
+
+876
+00:42:33,246 --> 00:42:34,769
+to these really
+tough questions.
+
+877
+00:42:34,813 --> 00:42:36,858
+That's why I think
+it's just so important
+
+878
+00:42:36,902 --> 00:42:38,730
+that we as a global community
+
+879
+00:42:38,773 --> 00:42:41,820
+really discuss them now.
+
+880
+00:42:41,863 --> 00:42:43,604
+Machines that
+can read your face.
+
+881
+00:42:43,648 --> 00:42:44,910
+Recognize emotional cues.
+
+882
+00:42:44,953 --> 00:42:46,781
+Closer to a brain
+process of a human...
+
+883
+00:42:46,825 --> 00:42:48,304
+Robots imbued
+with life...
+
+884
+00:42:48,348 --> 00:42:49,871
+An emotional computer...
+
+885
+00:42:49,915 --> 00:42:52,395
+From this moment on,
+regardless of
+whether you think
+
+886
+00:42:52,439 --> 00:42:54,223
+we're just gonna get stuck
+with narrow AI
+
+887
+00:42:54,267 --> 00:42:57,705
+or we'll get general AI
+or get super-intelligent AI
+
+888
+00:42:57,749 --> 00:42:59,011
+or conscious
+super-intelligent...
+
+889
+00:42:59,054 --> 00:43:00,839
+Wherever you think
+we're gonna get to,
+
+890
+00:43:00,882 --> 00:43:03,189
+I think any stage along that
+
+891
+00:43:03,842 --> 00:43:05,844
+will change who we are.
+
+892
+00:43:07,454 --> 00:43:09,587
+Up and at 'em, Mr. J.
+
+893
+00:43:11,806 --> 00:43:13,721
+The question
+you have to ask is,
+
+894
+00:43:13,765 --> 00:43:16,158
+is AI gonna do something
+for you
+
+895
+00:43:16,202 --> 00:43:17,507
+or something to you?
+
+896
+00:43:17,551 --> 00:43:19,727
+I was dreaming
+about sleeping.
+
+897
+00:43:19,771 --> 00:43:21,424
+If we build AI systems
+
+898
+00:43:21,468 --> 00:43:22,948
+that do everything we want,
+
+899
+00:43:22,991 --> 00:43:26,647
+we kind of hand over
+our world to them.
+
+900
+00:43:26,691 --> 00:43:29,955
+So that kind of enfeeblement
+is kind of irreversible.
+
+901
+00:43:33,741 --> 00:43:37,789
+There is an existential risk
+that is real and serious.
+
+902
+00:43:39,312 --> 00:43:41,880
+If every single desire,
+
+903
+00:43:41,923 --> 00:43:44,839
+preference, need, has been catered for...
+
+904
+00:43:44,883 --> 00:43:47,668
+Morning, Rosie.
+What's for breakfast?
+
+905
+00:43:47,712 --> 00:43:50,802
+...we don't notice
+that our capacity
+
+906
+00:43:50,845 --> 00:43:53,587
+to make decisions
+for ourselves
+
+907
+00:43:53,631 --> 00:43:56,285
+has been slowly eroded.
+
+908
+00:43:56,808 --> 00:43:58,374
+This is George Jetson,
+
+909
+00:43:58,418 --> 00:44:01,160
+signing off for
+the entire day.
+
+910
+00:44:03,118 --> 00:44:05,468
+There's no going back
+from there. Why?
+
+911
+00:44:05,512 --> 00:44:08,384
+Because AI can make
+such decisions
+
+912
+00:44:08,428 --> 00:44:09,951
+with higher accuracy
+
+913
+00:44:09,995 --> 00:44:12,345
+than whatever
+a human being can achieve.
+
+914
+00:44:14,390 --> 00:44:17,785
+I had a conversation
+with an engineer, and he said,
+
+915
+00:44:17,829 --> 00:44:20,701
+"Look, the safest way
+of landing a plane today
+
+916
+00:44:20,745 --> 00:44:22,311
+"is to have the pilot
+leave the deck
+
+917
+00:44:22,355 --> 00:44:23,704
+"and throw away the key,
+
+918
+00:44:23,748 --> 00:44:25,837
+"because the safest way
+
+919
+00:44:25,880 --> 00:44:29,362
+"is to use
+an autopilot, an AI."
+
+920
+00:44:31,843 --> 00:44:33,714
+We cannot
+manage the complexity
+
+921
+00:44:33,758 --> 00:44:35,411
+of the world by ourselves.
+
+922
+00:44:35,455 --> 00:44:37,718
+Our form of intelligence,
+
+923
+00:44:37,762 --> 00:44:40,547
+as amazing as it is,
+is severely flawed.
+
+924
+00:44:40,590 --> 00:44:42,854
+And by adding
+an additional helper,
+
+925
+00:44:42,897 --> 00:44:44,943
+which is
+artificial intelligence,
+
+926
+00:44:44,986 --> 00:44:47,336
+we stand the ability
+to potentially improve
+
+927
+00:44:47,380 --> 00:44:49,643
+our cognition dramatically.
+
+928
+00:44:49,687 --> 00:44:52,994
+The most cutting-edge thing
+about Hannes Sjoblad
+
+929
+00:44:53,038 --> 00:44:54,735
+isn't the phone in his hand,
+
+930
+00:44:54,779 --> 00:44:57,782
+it's the microchip
+in his hand.
+
+931
+00:44:57,825 --> 00:44:59,348
+What if you could
+type something
+
+932
+00:44:59,392 --> 00:45:00,872
+just by thinking about it?
+
+933
+00:45:00,915 --> 00:45:01,960
+Sounds like sci-fi,
+
+934
+00:45:02,003 --> 00:45:03,396
+but it may be close
+to reality.
+
+935
+00:45:03,439 --> 00:45:05,354
+In as little as five years,
+
+936
+00:45:05,398 --> 00:45:08,009
+super-smart people could be
+walking down the street,
+
+937
+00:45:08,053 --> 00:45:09,532
+men and women who've paid
+
+938
+00:45:09,576 --> 00:45:11,273
+to increase
+their intelligence.
+
+939
+00:45:11,317 --> 00:45:14,233
+Linking brains to computers
+by using implants.
+
+940
+00:45:14,276 --> 00:45:16,104
+What if we could upload
+a digital copy
+
+941
+00:45:16,148 --> 00:45:18,193
+of our memories
+and consciousness to a point
+
+942
+00:45:18,237 --> 00:45:19,542
+that human beings
+could achieve
+
+943
+00:45:19,586 --> 00:45:21,283
+a sort of digital immortality?
+
+944
+00:45:21,327 --> 00:45:22,720
+Just last year,
+
+945
+00:45:22,763 --> 00:45:25,331
+for the first time
+in world history,
+
+946
+00:45:25,374 --> 00:45:26,854
+a memory was recorded.
+
+947
+00:45:26,898 --> 00:45:28,638
+We can actually take
+recorded memory
+
+948
+00:45:28,682 --> 00:45:30,815
+and insert it back
+into an animal,
+
+949
+00:45:30,858 --> 00:45:32,294
+and it remembers.
+
+950
+00:45:32,338 --> 00:45:33,774
+Technology is a part of us.
+
+951
+00:45:33,818 --> 00:45:35,210
+It's a reflection of
+who we are.
+
+952
+00:45:35,254 --> 00:45:38,257
+That is the narrative
+we should be thinking about.
+
+953
+00:45:38,300 --> 00:45:42,435
+We think all that exists
+is everything we can imagine.
+
+954
+00:45:42,478 --> 00:45:44,002
+When in reality,
+we can imagine
+
+955
+00:45:44,045 --> 00:45:46,874
+a very small subset
+of what's
+potentially possible.
+
+956
+00:45:46,918 --> 00:45:48,571
+The real interesting stuff
+in the world
+
+957
+00:45:48,615 --> 00:45:50,399
+is what sits
+beyond our imagination.
+
+958
+00:45:51,836 --> 00:45:54,142
+When these
+massive systems emerge,
+
+959
+00:45:54,186 --> 00:45:56,405
+as a species,
+I think we get an F
+
+960
+00:45:56,449 --> 00:45:59,408
+for our ability to predict
+what they're going to become.
+
+961
+00:46:00,932 --> 00:46:03,543
+Technology
+has always changed us.
+
+962
+00:46:04,457 --> 00:46:05,806
+We evolve with it.
+
+963
+00:46:06,851 --> 00:46:09,897
+How far are we prepared
+to go this time?
+
+964
+00:46:10,855 --> 00:46:13,074
+There was a time
+when Aristotle
+
+965
+00:46:13,118 --> 00:46:15,337
+lamented the creation
+of the written language
+
+966
+00:46:15,381 --> 00:46:18,079
+because he said this would
+destroy people's memories
+
+967
+00:46:18,123 --> 00:46:19,646
+and it would be
+a terrible thing.
+
+968
+00:46:19,689 --> 00:46:22,823
+And yet today, I carry
+my brain in my pocket,
+
+969
+00:46:22,867 --> 00:46:24,520
+in the form of my smartphone,
+
+970
+00:46:24,564 --> 00:46:27,915
+and that's changed the way
+I go through the world.
+
+971
+00:46:27,959 --> 00:46:30,483
+I think we're absolutely
+merging with our technology.
+
+972
+00:46:30,526 --> 00:46:33,791
+Absolutely. I would... I would
+use the term "co-evolving."
+
+973
+00:46:36,750 --> 00:46:38,578
+We're evolving it to match our needs
+
+974
+00:46:38,621 --> 00:46:42,190
+and we are changing to match what it can
+provide to us.
+
+975
+00:46:45,759 --> 00:46:49,023
+So instead of being
+replaced by the machines,
+
+976
+00:46:49,067 --> 00:46:51,417
+we're going to merge
+with them?
+
+977
+00:46:51,460 --> 00:46:54,463
+I have a number of friends
+who have bionic arms.
+
+978
+00:46:54,507 --> 00:46:55,813
+Are they cyborgs?
+
+979
+00:46:55,856 --> 00:46:57,075
+In a way,
+they're on that path.
+
+980
+00:46:57,118 --> 00:46:59,468
+I have people
+who have implants
+
+981
+00:46:59,512 --> 00:47:02,123
+in their ears.
+Are they AIs?
+
+982
+00:47:02,167 --> 00:47:04,082
+Well, we're in a way
+on that path
+
+983
+00:47:04,125 --> 00:47:06,301
+of augmenting human bodies.
+
+984
+00:47:07,912 --> 00:47:09,696
+Human potential lies
+
+985
+00:47:09,739 --> 00:47:12,133
+in this co-evolutionary
+relationship.
+
+986
+00:47:12,177 --> 00:47:14,048
+A lot of people
+are trying to hold onto
+
+987
+00:47:14,092 --> 00:47:16,137
+the things that make them
+special and unique,
+
+988
+00:47:16,181 --> 00:47:17,878
+which is not
+the correct frame.
+
+989
+00:47:17,922 --> 00:47:19,227
+Let's create more.
+
+990
+00:47:21,229 --> 00:47:24,058
+Rewrite our intelligence,
+improve everything
+
+991
+00:47:24,102 --> 00:47:27,192
+we're capable of. Emotions,
+imagination, creativity.
+
+992
+00:47:27,235 --> 00:47:29,020
+Everything that
+makes us human.
+
+993
+00:47:33,894 --> 00:47:35,896
+There's already
+a symbiotic relationship
+
+994
+00:47:35,940 --> 00:47:39,465
+between us and a machine
+that is enhancing who we are.
+
+995
+00:47:43,338 --> 00:47:45,775
+And... And there is a whole movement, you
+know,
+
+996
+00:47:45,819 --> 00:47:47,386
+the trans-human movement,
+
+997
+00:47:47,429 --> 00:47:48,735
+where basically
+
+998
+00:47:48,778 --> 00:47:51,259
+people really bet bigtime
+
+999
+00:47:51,303 --> 00:47:52,826
+on the notion that
+
+1000
+00:47:52,870 --> 00:47:54,872
+this machine-human integration
+
+1001
+00:47:54,915 --> 00:47:57,091
+is going to redefine who we are.
+
+1002
+00:48:00,921 --> 00:48:02,227
+This is only gonna grow.
+
+1003
+00:48:06,100 --> 00:48:08,407
+There's gonna be a learning
+process that gets us
+
+1004
+00:48:08,450 --> 00:48:11,801
+to that endgame where
+we live with these devices
+
+1005
+00:48:11,845 --> 00:48:13,934
+that become
+smarter and smarter.
+
+1006
+00:48:13,978 --> 00:48:15,805
+We learn
+how to adapt ourselves
+
+1007
+00:48:15,849 --> 00:48:17,546
+around them,
+and they adapt to us.
+
+1008
+00:48:17,590 --> 00:48:20,158
+And I hope we become
+more human in the process.
+
+1009
+00:48:23,683 --> 00:48:25,903
+It's hard
+to understand how merging
+
+1010
+00:48:25,946 --> 00:48:27,165
+with the machines
+
+1011
+00:48:27,208 --> 00:48:28,557
+can make us more human.
+
+1012
+00:48:30,081 --> 00:48:33,127
+But is merging
+our best chance of survival?
+
+1013
+00:48:35,086 --> 00:48:36,652
+We humans are limited
+
+1014
+00:48:36,696 --> 00:48:39,699
+to how many neurons
+we can fit in our brain.
+
+1015
+00:48:39,742 --> 00:48:42,615
+And there are other species that have even
+smaller brains.
+
+1016
+00:48:44,138 --> 00:48:46,314
+When you look at
+bees and fish moving,
+
+1017
+00:48:46,358 --> 00:48:49,230
+it looks like
+a single organism.
+
+1018
+00:48:49,274 --> 00:48:52,320
+And biologists actually refer
+to it as a super-organism.
+
+1019
+00:48:56,237 --> 00:48:58,326
+That is why birds flock,
+
+1020
+00:48:58,370 --> 00:49:00,546
+and bees swarm,
+and fish school.
+
+1021
+00:49:00,589 --> 00:49:03,462
+They make decisions that are in the best
+interest
+
+1022
+00:49:03,505 --> 00:49:04,942
+of the whole population
+
+1023
+00:49:04,985 --> 00:49:08,380
+by thinking together
+as this larger mind.
+
+1024
+00:49:12,558 --> 00:49:15,474
+And we humans could do
+the same thing by forming
+
+1025
+00:49:15,517 --> 00:49:18,520
+a hive mind connecting us
+together with AI.
+
+1026
+00:49:19,782 --> 00:49:21,828
+So the humans and the software together
+
+1027
+00:49:21,871 --> 00:49:24,265
+become this super-intelligence,
+
+1028
+00:49:24,309 --> 00:49:28,008
+enabling us to make the best decisions for
+us all.
+
+1029
+00:49:30,663 --> 00:49:33,274
+When I first started looking
+at this, it sounded
+scary to me.
+
+1030
+00:49:33,318 --> 00:49:35,189
+But then I realized
+it's scarier
+
+1031
+00:49:35,233 --> 00:49:37,104
+for an alien intelligence
+
+1032
+00:49:37,148 --> 00:49:40,107
+to emerge that has
+nothing to do with humans
+
+1033
+00:49:40,151 --> 00:49:42,849
+than for us humans
+to connect together
+
+1034
+00:49:42,892 --> 00:49:44,677
+and become
+a super-intelligence.
+
+1035
+00:49:44,720 --> 00:49:46,809
+That's the direction
+that I work on,
+
+1036
+00:49:46,853 --> 00:49:48,898
+because I see it as,
+
+1037
+00:49:48,942 --> 00:49:51,031
+in some sense,
+the only alternative
+
+1038
+00:49:51,075 --> 00:49:53,991
+to humans ultimately
+being replaced by AI.
+
+1039
+00:49:56,776 --> 00:50:00,301
+Can Baby X help us
+understand the machines
+
+1040
+00:50:00,345 --> 00:50:02,347
+so we can work together?
+
+1041
+00:50:03,522 --> 00:50:06,655
+Human and intelligent machine
+cooperation will define
+
+1042
+00:50:06,699 --> 00:50:08,179
+the next era of history.
+
+1043
+00:50:09,397 --> 00:50:13,010
+You probably do have to create a virtual
+empathetic machine.
+
+1044
+00:50:14,533 --> 00:50:16,491
+Empathy is a lot about connecting with
+
+1045
+00:50:16,535 --> 00:50:18,580
+other people's struggles.
+
+1046
+00:50:18,624 --> 00:50:20,060
+The more connection you have,
+
+1047
+00:50:20,104 --> 00:50:22,106
+the more communication
+that you have,
+
+1048
+00:50:22,149 --> 00:50:23,629
+the safer that makes it.
+
+1049
+00:50:26,066 --> 00:50:28,068
+So at a very basic level,
+
+1050
+00:50:28,112 --> 00:50:30,592
+there's some sort
+of symbiotic relationship.
+
+1051
+00:50:32,725 --> 00:50:34,509
+By humanizing this technology,
+
+1052
+00:50:34,553 --> 00:50:36,859
+you're actually increasing the channels
+
+1053
+00:50:36,903 --> 00:50:38,818
+for communication and cooperation.
+
+1054
+00:50:40,254 --> 00:50:42,648
+AI working in a human world
+
+1055
+00:50:42,691 --> 00:50:44,389
+has to be about humans.
+
+1056
+00:50:47,044 --> 00:50:48,567
+The future's what we make it.
+
+1057
+00:50:53,528 --> 00:50:56,227
+If we
+can't envision a future
+
+1058
+00:50:56,270 --> 00:50:58,707
+that we really, really want,
+
+1059
+00:50:58,751 --> 00:51:00,579
+we're probably
+not gonna get one.
+
+1060
+00:51:04,974 --> 00:51:06,889
+Stanley Kubrick
+tried to imagine
+
+1061
+00:51:06,933 --> 00:51:09,457
+what the future
+might look like.
+
+1062
+00:51:09,501 --> 00:51:12,199
+Now that
+that future's approaching,
+
+1063
+00:51:12,243 --> 00:51:15,202
+who is in charge
+of what it will look like?
+
+1064
+00:51:16,595 --> 00:51:18,205
+Who controls it? Google.
+
+1065
+00:51:18,249 --> 00:51:20,033
+The military. Tech giant Facebook...
+
+1066
+00:51:20,077 --> 00:51:22,166
+Samsung... Facebook, Microsoft, Amazon.
+
+1067
+00:51:22,209 --> 00:51:23,906
+The tide has
+definitely turned
+
+1068
+00:51:23,950 --> 00:51:26,387
+in favor of
+the corporate world.
+
+1069
+00:51:26,431 --> 00:51:29,738
+The US military, and I suspect
+this is true worldwide,
+
+1070
+00:51:29,782 --> 00:51:32,698
+cannot hold a candle to the AI
+that's being developed
+
+1071
+00:51:32,741 --> 00:51:33,873
+in corporate companies.
+
+1072
+00:51:36,136 --> 00:51:37,224
+If corporations,
+
+1073
+00:51:37,268 --> 00:51:39,966
+not nations, hold the power,
+
+1074
+00:51:40,009 --> 00:51:42,925
+what can we do
+in a capitalist system
+
+1075
+00:51:42,969 --> 00:51:46,799
+to ensure AI
+is developed safely?
+
+1076
+00:51:48,627 --> 00:51:52,152
+If you mix AI research
+with capitalism,
+
+1077
+00:51:52,196 --> 00:51:54,372
+on the one hand, capitalism
+will make it run faster.
+
+1078
+00:51:54,415 --> 00:51:56,896
+That's why we're getting
+lots of research done.
+
+1079
+00:51:56,939 --> 00:51:58,332
+But there is a basic problem.
+
+1080
+00:51:58,376 --> 00:52:00,421
+There's gonna be a pressure
+
+1081
+00:52:00,465 --> 00:52:03,555
+to be first one to the market,
+not the safest one.
+
+1082
+00:52:03,598 --> 00:52:06,123
+This car was in autopilot mode
+
+1083
+00:52:06,166 --> 00:52:07,907
+when it crashed
+in Northern California,
+
+1084
+00:52:07,950 --> 00:52:09,300
+killing the driver.
+
+1085
+00:52:09,343 --> 00:52:11,432
+Artificial intelligence
+may have
+
+1086
+00:52:11,476 --> 00:52:14,261
+more power to crash
+the markets
+than anything else
+
+1087
+00:52:14,305 --> 00:52:17,003
+because humans aren't
+prepared to stop them.
+
+1088
+00:52:17,046 --> 00:52:19,179
+A chatbot named Tay.
+
+1089
+00:52:19,223 --> 00:52:20,963
+She was designed to speak like a teenager
+
+1090
+00:52:21,007 --> 00:52:23,140
+and learn by interacting online.
+
+1091
+00:52:23,183 --> 00:52:25,446
+But in a matter of hours, Tay was corrupted
+
+1092
+00:52:25,490 --> 00:52:29,058
+into a Hitler-supporting sexbot.
+
+1093
+00:52:29,102 --> 00:52:33,106
+This kind of talk that somehow
+in the context of capitalism,
+
+1094
+00:52:33,150 --> 00:52:36,979
+AI is gonna be misused,
+really frustrates me.
+
+1095
+00:52:37,023 --> 00:52:39,025
+Whenever we develop
+technology,
+
+1096
+00:52:39,068 --> 00:52:42,246
+whether it's, you know,
+coal-burning plants,
+whether it's cars,
+
+1097
+00:52:42,289 --> 00:52:45,249
+there's always that incentive
+to move ahead quickly,
+
+1098
+00:52:45,292 --> 00:52:47,555
+and there's always
+the regulatory regime,
+
+1099
+00:52:47,599 --> 00:52:50,384
+part of the government's job
+to balance that.
+
+1100
+00:52:50,428 --> 00:52:51,777
+AI is no different here.
+
+1101
+00:52:53,170 --> 00:52:55,259
+Whenever we have
+technological advances,
+
+1102
+00:52:55,302 --> 00:52:56,695
+we need to temper them
+
+1103
+00:52:56,738 --> 00:52:59,219
+with appropriate
+rules and regulations.
+
+1104
+00:52:59,524 --> 00:53:00,829
+Duh!
+
+1105
+00:53:00,873 --> 00:53:03,005
+Until there's
+a major disaster,
+
+1106
+00:53:03,049 --> 00:53:04,311
+corporations are gonna
+be saying
+
+1107
+00:53:04,355 --> 00:53:06,095
+"We don't need to worry
+about these things.
+
+1108
+00:53:06,139 --> 00:53:07,401
+"Trust us, we're the experts.
+
+1109
+00:53:07,445 --> 00:53:09,490
+"We have humanity's
+best interests at heart."
+
+1110
+00:53:09,534 --> 00:53:12,624
+What AI is really about
+is it's a new set of rules
+
+1111
+00:53:12,667 --> 00:53:16,018
+for companies in terms of
+how to be more competitive,
+
+1112
+00:53:16,062 --> 00:53:18,543
+how to drive more efficiency,
+and how to drive growth,
+
+1113
+00:53:18,586 --> 00:53:20,632
+and creative new
+business models and...
+
+1114
+00:53:20,675 --> 00:53:22,416
+Once corporate scientists
+
+1115
+00:53:22,460 --> 00:53:23,983
+start to dominate the debate,
+
+1116
+00:53:24,026 --> 00:53:26,333
+it's all over, you've lost.
+
+1117
+00:53:26,377 --> 00:53:29,380
+You know, they're paid
+to deny the existence
+
+1118
+00:53:29,423 --> 00:53:31,512
+of risks
+and negative outcomes.
+
+1119
+00:53:32,948 --> 00:53:36,213
+At the moment,
+almost all AI research
+
+1120
+00:53:36,256 --> 00:53:38,345
+is about making human lives
+
+1121
+00:53:38,389 --> 00:53:41,479
+longer, healthier and easier.
+
+1122
+00:53:42,219 --> 00:53:43,742
+Because the big companies,
+
+1123
+00:53:43,785 --> 00:53:45,309
+they want to sell you AIs
+
+1124
+00:53:45,352 --> 00:53:46,527
+that are useful for you,
+
+1125
+00:53:46,571 --> 00:53:48,312
+and so you are
+only going to buy
+
+1126
+00:53:48,355 --> 00:53:49,704
+those that help you.
+
+1127
+00:53:51,402 --> 00:53:53,578
+The problem of AI
+in a capitalist paradigm
+
+1128
+00:53:53,621 --> 00:53:56,581
+is it's always
+gonna be cheaper
+
+1129
+00:53:56,624 --> 00:53:59,236
+just to get the product
+out there when it does the job
+
+1130
+00:53:59,279 --> 00:54:02,195
+rather than do it safely.
+
+1131
+00:54:02,239 --> 00:54:04,676
+Right now, the way it works,
+you have a conference
+
+1132
+00:54:04,719 --> 00:54:07,548
+with 10,000 researchers,
+all of them working
+
+1133
+00:54:07,592 --> 00:54:11,204
+on developing more capable AI, except,
+like, 50 people
+
+1134
+00:54:11,248 --> 00:54:13,511
+who have a tiny workshop
+talking about safety
+
+1135
+00:54:13,554 --> 00:54:15,687
+and controlling
+what everyone else is doing.
+
+1136
+00:54:16,775 --> 00:54:19,734
+No one has a working safety mechanism.
+
+1137
+00:54:19,778 --> 00:54:22,259
+And no one even has
+a prototype for it.
+
+1138
+00:54:24,609 --> 00:54:26,175
+In the not-so-distant future,
+
+1139
+00:54:26,219 --> 00:54:28,439
+you will have
+all kinds of AIs
+
+1140
+00:54:28,482 --> 00:54:31,093
+that don't just do
+what humans tell them,
+
+1141
+00:54:31,137 --> 00:54:33,400
+but they will invent
+their own goals
+
+1142
+00:54:33,444 --> 00:54:35,054
+and their own experiments,
+
+1143
+00:54:35,097 --> 00:54:37,535
+and they will transcend
+humankind.
+
+1144
+00:54:40,364 --> 00:54:41,756
+As of today,
+
+1145
+00:54:41,800 --> 00:54:43,454
+I would say
+it's completely unethical
+
+1146
+00:54:43,497 --> 00:54:45,847
+to try to develop such a machine and
+release it.
+
+1147
+00:54:48,372 --> 00:54:50,461
+We only get one chance
+to get it right.
+
+1148
+00:54:50,504 --> 00:54:53,464
+You screw up,
+everything possibly is lost.
+
+1149
+00:54:57,381 --> 00:54:59,948
+What happens
+if we get it wrong?
+
+1150
+00:55:01,167 --> 00:55:03,387
+The thing that scares me
+the most is this AI
+
+1151
+00:55:03,430 --> 00:55:06,303
+will become the product
+of its parents,
+
+1152
+00:55:06,346 --> 00:55:09,131
+in the same way
+that you are and I am.
+
+1153
+00:55:09,175 --> 00:55:11,264
+Let's ask who
+those parents are.
+
+1154
+00:55:11,308 --> 00:55:12,657
+Right?
+
+1155
+00:55:12,700 --> 00:55:15,312
+Chances are they're either
+gonna be military parents
+
+1156
+00:55:15,355 --> 00:55:17,314
+or they're gonna be
+business parents.
+
+1157
+00:55:17,357 --> 00:55:20,142
+If they're business parents,
+they're asking the AI
+
+1158
+00:55:20,186 --> 00:55:22,449
+to become something
+
+1159
+00:55:22,493 --> 00:55:25,626
+that can make a lot of money.
+
+1160
+00:55:27,672 --> 00:55:29,848
+So they're teaching it greed.
+
+1161
+00:55:32,198 --> 00:55:35,854
+Military parents are gonna teach it to kill.
+
+1162
+00:55:38,683 --> 00:55:41,468
+Truly superhuman intelligence
+
+1163
+00:55:41,512 --> 00:55:44,079
+is so much... Is so super.
+
+1164
+00:55:44,123 --> 00:55:45,690
+It's so much better
+than we are
+
+1165
+00:55:45,733 --> 00:55:49,563
+that the first country or company to get
+there
+
+1166
+00:55:49,607 --> 00:55:51,217
+has the winner-take-all advantage.
+
+1167
+00:56:14,066 --> 00:56:17,809
+Because there's such
+an arms race in AI globally,
+
+1168
+00:56:17,852 --> 00:56:19,898
+and that's both literally,
+in terms of building
+
+1169
+00:56:19,941 --> 00:56:22,335
+weapons systems,
+but also figuratively
+
+1170
+00:56:22,379 --> 00:56:24,685
+with folks like Putin
+and the Chinese saying
+
+1171
+00:56:24,729 --> 00:56:28,036
+whoever dominates AI
+is gonna dominate the economy
+
+1172
+00:56:28,080 --> 00:56:30,517
+in the 21st century.
+
+1173
+00:56:30,561 --> 00:56:33,520
+I don't think we have a choice
+to put the brakes on,
+
+1174
+00:56:33,564 --> 00:56:36,001
+to stop developing
+and researching.
+
+1175
+00:56:36,044 --> 00:56:39,047
+We can build the technology,
+we can do the research,
+
+1176
+00:56:39,091 --> 00:56:40,745
+and imbue it with our values,
+
+1177
+00:56:40,788 --> 00:56:43,356
+but realistically,
+totalitarian regimes
+
+1178
+00:56:43,400 --> 00:56:45,489
+will imbue the technology
+with their values.
+
+1179
+00:56:46,707 --> 00:56:49,406
+Israel, Russia, the US
+and China
+
+1180
+00:56:49,449 --> 00:56:51,146
+are all contestants
+
+1181
+00:56:51,190 --> 00:56:54,193
+in what's being described
+as a new global arms race.
+
+1182
+00:56:56,413 --> 00:56:58,371
+All countries,
+whether they admit it or not,
+
+1183
+00:56:58,415 --> 00:57:00,765
+are going to develop
+lethal autonomous weapons.
+
+1184
+00:57:03,028 --> 00:57:06,423
+And is that really
+a capability that we want
+
+1185
+00:57:06,466 --> 00:57:08,381
+in the hands
+of a corporate nation state
+
+1186
+00:57:08,425 --> 00:57:10,252
+as opposed to a nation state?
+
+1187
+00:57:10,296 --> 00:57:12,124
+The reality is
+if Facebook or Google
+
+1188
+00:57:12,167 --> 00:57:14,082
+wanted to start an army,
+
+1189
+00:57:14,126 --> 00:57:17,912
+they would have
+technologically
+superior capabilities
+
+1190
+00:57:17,956 --> 00:57:19,958
+than any other nation
+on the planet.
+
+1191
+00:57:21,481 --> 00:57:24,832
+Some AI scientists
+are so concerned,
+
+1192
+00:57:24,876 --> 00:57:26,965
+they produced this
+dramatized video
+
+1193
+00:57:27,008 --> 00:57:29,054
+to warn of the risks.
+
+1194
+00:57:29,097 --> 00:57:31,796
+Your kids probably have
+one of these, right?
+
+1195
+00:57:33,493 --> 00:57:34,929
+Not quite. We produced
+
+1196
+00:57:34,973 --> 00:57:37,454
+the Slaughterbot video
+to illustrate
+
+1197
+00:57:37,497 --> 00:57:39,151
+the risk
+of autonomous weapons.
+
+1198
+00:57:39,194 --> 00:57:41,632
+That skill is all AI.
+
+1199
+00:57:42,676 --> 00:57:44,025
+It's flying itself.
+
+1200
+00:57:44,983 --> 00:57:47,072
+There are people within
+the AI community
+
+1201
+00:57:47,115 --> 00:57:48,639
+who wish I would shut up.
+
+1202
+00:57:49,814 --> 00:57:52,294
+People who think that making the video is
+
+1203
+00:57:52,338 --> 00:57:54,775
+a little bit treasonous.
+
+1204
+00:57:54,819 --> 00:57:57,517
+Just like any mobile device
+these days,
+
+1205
+00:57:57,561 --> 00:57:59,780
+it has cameras and sensors.
+
+1206
+00:57:59,824 --> 00:58:03,044
+And just like your phones
+and social media apps,
+
+1207
+00:58:03,088 --> 00:58:04,742
+it does facial recognition.
+
+1208
+00:58:04,785 --> 00:58:07,353
+Up until now,
+the arms races tended to be
+
+1209
+00:58:07,396 --> 00:58:09,616
+bigger, more powerful,
+more expensive,
+
+1210
+00:58:09,660 --> 00:58:11,618
+faster jets that cost more.
+
+1211
+00:58:12,358 --> 00:58:15,622
+AI means that you could have
+
+1212
+00:58:15,666 --> 00:58:17,885
+very small, cheap weapons
+
+1213
+00:58:17,929 --> 00:58:19,757
+that are very efficient
+at doing
+
+1214
+00:58:19,800 --> 00:58:21,933
+one very simple job, like
+
+1215
+00:58:22,803 --> 00:58:24,718
+finding you in a crowd
+and killing you.
+
+1216
+00:58:25,545 --> 00:58:27,852
+This is how it works.
+
+1217
+00:58:37,514 --> 00:58:40,560
+Every single major advance
+in human technology
+
+1218
+00:58:40,604 --> 00:58:43,084
+has always been weaponized.
+
+1219
+00:58:43,128 --> 00:58:48,046
+And the idea of weaponized AI,
+I think, is terrifying.
+
+1220
+00:58:48,089 --> 00:58:50,701
+Trained as a team,
+they can penetrate
+
+1221
+00:58:50,744 --> 00:58:52,920
+buildings, cars, trains,
+
+1222
+00:58:52,964 --> 00:58:57,316
+evade people, bullets...
+They cannot be stopped.
+
+1223
+00:58:57,359 --> 00:58:59,536
+There are lots of
+weapons that kill people.
+
+1224
+00:58:59,579 --> 00:59:01,059
+Machine guns
+can kill people,
+
+1225
+00:59:01,102 --> 00:59:03,844
+but they require
+a human being
+to carry and point them.
+
+1226
+00:59:03,888 --> 00:59:06,368
+With autonomous weapons,
+you don't need a human
+
+1227
+00:59:06,412 --> 00:59:08,066
+to carry them
+or supervise them.
+
+1228
+00:59:08,936 --> 00:59:12,723
+You just program and then off they go.
+
+1229
+00:59:12,766 --> 00:59:15,377
+So you can create the effect of an army
+
+1230
+00:59:15,421 --> 00:59:16,770
+carrying a million machine guns,
+
+1231
+00:59:16,814 --> 00:59:18,903
+with two guys and a truck.
+
+1232
+00:59:23,429 --> 00:59:25,866
+Putin said that
+the first person to develop
+
+1233
+00:59:25,910 --> 00:59:29,653
+strong artificial intelligence
+will rule the world.
+
+1234
+00:59:29,696 --> 00:59:31,568
+When world leaders use terms
+
+1235
+00:59:31,611 --> 00:59:33,570
+like "rule the world,"
+
+1236
+00:59:33,613 --> 00:59:35,572
+I think you gotta pay attention to it.
+
+1237
+00:59:43,928 --> 00:59:47,105
+Now, that is an air strike
+of surgical precision.
+
+1238
+00:59:50,151 --> 00:59:53,894
+I've been campaigning against
+these weapons since 2007,
+
+1239
+00:59:53,938 --> 00:59:56,027
+and there's three main
+sets of arguments.
+
+1240
+00:59:56,070 --> 00:59:58,899
+There's the moral arguments,
+there's arguments
+
+1241
+00:59:58,943 --> 01:00:01,598
+about not complying
+with the laws of war,
+
+1242
+01:00:01,641 --> 01:00:03,904
+and there are arguments
+about how they will change
+
+1243
+01:00:03,948 --> 01:00:05,514
+global security of the planet.
+
+1244
+01:00:05,558 --> 01:00:07,604
+We need new regulations.
+
+1245
+01:00:07,647 --> 01:00:11,433
+We need to really think
+about it now, yesterday.
+
+1246
+01:00:11,477 --> 01:00:14,262
+Some of the world's leaders
+in artificial intelligence
+
+1247
+01:00:14,306 --> 01:00:17,439
+are urging the United Nations
+to ban the development
+
+1248
+01:00:17,483 --> 01:00:18,919
+of autonomous weapons,
+
+1249
+01:00:18,963 --> 01:00:20,921
+otherwise known
+as killer robots.
+
+1250
+01:00:20,965 --> 01:00:23,750
+In the letter
+they say "once developed,
+
+1251
+01:00:23,794 --> 01:00:26,013
+"they will permit
+armed conflict to be fought
+
+1252
+01:00:26,057 --> 01:00:29,669
+"at timescales faster
+than humans can comprehend."
+
+1253
+01:00:29,713 --> 01:00:32,237
+I'm a signatory
+to that letter.
+
+1254
+01:00:32,280 --> 01:00:33,717
+My philosophy is,
+
+1255
+01:00:33,760 --> 01:00:36,502
+and I hope the governments
+of the world enforce this,
+
+1256
+01:00:36,545 --> 01:00:39,331
+that as long as
+a human life is involved,
+
+1257
+01:00:39,374 --> 01:00:41,420
+then a human needs to be
+in the loop.
+
+1258
+01:00:43,988 --> 01:00:47,078
+Anyone with a 3D printer
+and a computer
+
+1259
+01:00:47,121 --> 01:00:48,993
+can have a lethal
+autonomous weapon.
+
+1260
+01:00:49,036 --> 01:00:51,691
+If it's accessible
+to everyone on the planet,
+
+1261
+01:00:51,735 --> 01:00:53,954
+then compliance, for example,
+
+1262
+01:00:53,998 --> 01:00:56,783
+would be nearly impossible
+to track.
+
+1263
+01:00:56,827 --> 01:00:58,785
+What the hell
+are you doing? Stop!
+
+1264
+01:00:58,829 --> 01:01:00,657
+You're shooting into thin air.
+
+1265
+01:01:00,700 --> 01:01:02,223
+When you're imagining
+
+1266
+01:01:02,267 --> 01:01:03,877
+waging war in the future,
+
+1267
+01:01:03,921 --> 01:01:06,053
+where soldiers are robots,
+
+1268
+01:01:06,097 --> 01:01:09,796
+and we pose no risk
+of engagement to ourselves...
+
+1269
+01:01:09,840 --> 01:01:12,494
+When war becomes
+just like a video game,
+
+1270
+01:01:12,538 --> 01:01:14,671
+as it has
+incrementally already,
+
+1271
+01:01:15,280 --> 01:01:16,716
+it's a real concern.
+
+1272
+01:01:19,023 --> 01:01:21,199
+When we don't have skin in the game, quite
+literally...
+
+1273
+01:01:23,767 --> 01:01:26,770
+...when all of this is being run from a
+terminal
+
+1274
+01:01:26,813 --> 01:01:29,294
+thousands of miles away from the
+battlefield...
+
+1275
+01:01:33,080 --> 01:01:35,953
+...that could lower the bar for waging war
+
+1276
+01:01:35,996 --> 01:01:37,606
+to a point where we would recognize
+
+1277
+01:01:37,650 --> 01:01:39,913
+that we have become monsters.
+
+1278
+01:01:50,707 --> 01:01:51,882
+Who are you?
+
+1279
+01:01:53,144 --> 01:01:55,233
+Hey! Hey!
+
+1280
+01:01:58,976 --> 01:02:01,543
+Having been
+a former fighter pilot,
+
+1281
+01:02:01,587 --> 01:02:03,589
+I have also seen
+people make mistakes
+
+1282
+01:02:03,632 --> 01:02:05,765
+and kill innocent people
+
+1283
+01:02:05,809 --> 01:02:07,898
+who should not
+have been killed.
+
+1284
+01:02:07,941 --> 01:02:11,205
+One day in the future,
+it will be more reliable
+
+1285
+01:02:11,249 --> 01:02:13,512
+to have a machine do it
+than a human do it.
+
+1286
+01:02:13,555 --> 01:02:15,035
+The idea of robots
+
+1287
+01:02:15,079 --> 01:02:17,734
+who can kill humans
+on their own
+
+1288
+01:02:17,777 --> 01:02:20,301
+has been a science fiction
+staple for decades.
+
+1289
+01:02:20,345 --> 01:02:23,043
+There are a number of
+these systems around already,
+
+1290
+01:02:23,087 --> 01:02:24,784
+that work autonomously.
+
+1291
+01:02:24,828 --> 01:02:26,873
+But that's called
+supervised autonomy
+
+1292
+01:02:26,917 --> 01:02:30,224
+because somebody's there
+to switch it on and off.
+
+1293
+01:02:30,268 --> 01:02:32,052
+What's only
+been seen in Hollywood
+
+1294
+01:02:32,096 --> 01:02:35,839
+could soon be coming
+to a battlefield near you.
+
+1295
+01:02:35,882 --> 01:02:37,797
+The Pentagon investing
+billions of dollars
+
+1296
+01:02:37,841 --> 01:02:39,407
+to develop autonomous weapons,
+
+1297
+01:02:39,451 --> 01:02:41,845
+machines that could one day
+kill on their own.
+
+1298
+01:02:41,888 --> 01:02:45,239
+But the Pentagon insists humans will
+decide to strike.
+
+1299
+01:02:45,283 --> 01:02:48,460
+Once you get AI
+into military hardware,
+
+1300
+01:02:49,853 --> 01:02:51,985
+you've got to make it
+make the decisions,
+
+1301
+01:02:52,029 --> 01:02:53,944
+otherwise there's no point
+in having it.
+
+1302
+01:02:55,119 --> 01:02:58,035
+One of the benefits of AI is that it's
+quicker than us.
+
+1303
+01:03:00,037 --> 01:03:02,474
+Once we're in a proper fight and that switch
+
+1304
+01:03:02,517 --> 01:03:04,476
+that keeps the human in the loop,
+
+1305
+01:03:04,519 --> 01:03:07,044
+we better switch it off,
+because if you don't,
+you lose.
+
+1306
+01:03:10,047 --> 01:03:11,788
+These will make
+the battlefield
+
+1307
+01:03:11,831 --> 01:03:13,441
+too fast for humans.
+
+1308
+01:03:19,273 --> 01:03:21,493
+If there's no human involved at all,
+
+1309
+01:03:21,536 --> 01:03:25,279
+if command and control have gone over to
+autonomy,
+
+1310
+01:03:25,323 --> 01:03:27,716
+we could trigger a war and it could be
+finished
+
+1311
+01:03:27,760 --> 01:03:30,110
+in 20 minutes with massive devastation,
+
+1312
+01:03:30,154 --> 01:03:32,460
+and nobody knew about it before it started.
+
+1313
+01:03:40,251 --> 01:03:44,298
+So who decides what
+we should do in the future
+
+1314
+01:03:45,560 --> 01:03:46,561
+now?
+
+1315
+01:03:48,389 --> 01:03:51,958
+From Big Bang till now,
+billions of years.
+
+1316
+01:03:52,959 --> 01:03:56,658
+This is the only time
+a person can steer
+
+1317
+01:03:56,702 --> 01:03:58,225
+the future
+of the whole humanity.
+
+1318
+01:04:12,892 --> 01:04:15,982
+Maybe we should worry that
+we humans aren't wise enough
+
+1319
+01:04:16,026 --> 01:04:17,636
+to handle this much power.
+
+1320
+01:04:20,378 --> 01:04:23,294
+Who is actually
+going to make the choices,
+
+1321
+01:04:23,337 --> 01:04:26,950
+and in the name of whom
+are you actually speaking?
+
+1322
+01:04:34,087 --> 01:04:37,482
+If we, the rest of society,
+fail to actually
+
+1323
+01:04:37,525 --> 01:04:39,788
+really join this conversation
+in a meaningful way
+
+1324
+01:04:39,832 --> 01:04:42,182
+and be part of the decision,
+
+1325
+01:04:42,226 --> 01:04:45,098
+then we know whose values
+are gonna go into these
+
+1326
+01:04:45,142 --> 01:04:47,448
+super-intelligent beings.
+
+1327
+01:04:47,492 --> 01:04:50,103
+Red Bull.Yes, Deon.
+
+1328
+01:04:50,843 --> 01:04:52,584
+Red Bull.
+
+1329
+01:04:52,627 --> 01:04:56,196
+It's going to be decided by some tech nerds
+
+1330
+01:04:56,240 --> 01:04:58,024
+who've had too much Red Bull to drink...
+
+1331
+01:04:58,068 --> 01:04:59,939
+who I don't think
+have any particular
+
+1332
+01:04:59,983 --> 01:05:01,723
+qualifications to speak
+
+1333
+01:05:01,767 --> 01:05:03,247
+on behalf of all humanity.
+
+1334
+01:05:05,945 --> 01:05:10,080
+Once you are in
+the excitement of
+discovery...
+
+1335
+01:05:11,516 --> 01:05:12,778
+Come on!
+
+1336
+01:05:12,821 --> 01:05:14,562
+...you sort of
+turn a blind eye
+
+1337
+01:05:14,606 --> 01:05:16,434
+to all these
+more moralistic questions,
+
+1338
+01:05:16,477 --> 01:05:21,091
+like how is this going to
+impact society as a whole?
+
+1339
+01:05:23,223 --> 01:05:25,182
+And you do it because you can.
+
+1340
+01:05:29,664 --> 01:05:31,579
+And the scientists
+are pushing this forward
+
+1341
+01:05:31,623 --> 01:05:34,582
+because they can see
+the genuine benefits
+
+1342
+01:05:34,626 --> 01:05:35,670
+that this will bring.
+
+1343
+01:05:36,845 --> 01:05:38,412
+And they're also
+really, really excited.
+
+1344
+01:05:38,456 --> 01:05:41,241
+I mean, you don't...
+You don't go into science
+
+1345
+01:05:41,285 --> 01:05:43,852
+because, well,
+you couldn't
+be a football player,
+
+1346
+01:05:43,896 --> 01:05:45,550
+"Hell, I'll be a scientist."
+
+1347
+01:05:45,593 --> 01:05:47,291
+You go in because
+that's what you love
+and it's really exciting.
+
+1348
+01:05:49,423 --> 01:05:50,947
+It's alive!
+
+1349
+01:05:50,990 --> 01:05:53,253
+It's alive! It's alive!
+
+1350
+01:05:53,297 --> 01:05:54,646
+It's alive!
+
+1351
+01:05:54,689 --> 01:05:55,995
+We're switching
+
+1352
+01:05:56,039 --> 01:05:57,518
+from being creation
+to being God.
+
+1353
+01:05:57,562 --> 01:06:00,391
+Now I know what it feels like
+to be God!
+
+1354
+01:06:00,434 --> 01:06:02,219
+If you study theology,
+
+1355
+01:06:02,262 --> 01:06:05,787
+one thing you learn
+is that it is never the case
+
+1356
+01:06:05,831 --> 01:06:07,528
+that God
+successfully manages
+
+1357
+01:06:07,572 --> 01:06:10,270
+to control its creation.
+
+1358
+01:06:14,144 --> 01:06:16,189
+We're not there yet,
+
+1359
+01:06:16,233 --> 01:06:17,495
+but if we do create
+
+1360
+01:06:17,538 --> 01:06:19,671
+artificial general
+intelligence,
+
+1361
+01:06:20,802 --> 01:06:22,456
+can we maintain control?
+
+1362
+01:06:24,676 --> 01:06:27,287
+If you create a self-aware AI,
+
+1363
+01:06:27,331 --> 01:06:29,637
+the first thing
+it's gonna want
+
+1364
+01:06:29,681 --> 01:06:31,204
+is independence.
+
+1365
+01:06:31,248 --> 01:06:34,642
+At least, the one intelligence
+that we all know is ourselves.
+
+1366
+01:06:34,686 --> 01:06:38,037
+And we know that we would not wanna be
+doing the bidding
+
+1367
+01:06:38,081 --> 01:06:39,996
+of some other intelligence.
+
+1368
+01:06:41,867 --> 01:06:45,566
+We have no reason to believe that it will
+be friendly...
+
+1369
+01:06:56,186 --> 01:06:58,579
+...or that it will
+have goals and aspirations
+
+1370
+01:06:58,623 --> 01:07:00,277
+that align with ours.
+
+1371
+01:07:04,020 --> 01:07:06,500
+So how long before
+there's a robot revolution
+
+1372
+01:07:06,544 --> 01:07:08,024
+or an AI revolution?
+
+1373
+01:07:18,077 --> 01:07:20,775
+We are in a world today where it is
+
+1374
+01:07:20,819 --> 01:07:22,473
+absolutely a foot race
+
+1375
+01:07:22,516 --> 01:07:25,693
+to go as fast as possible
+toward creating
+
+1376
+01:07:25,737 --> 01:07:28,305
+an artificial
+general intelligence
+
+1377
+01:07:28,348 --> 01:07:31,569
+and there don't seem to be
+any brakes being applied
+anywhere in sight.
+
+1378
+01:07:33,571 --> 01:07:34,789
+It's crazy.
+
+1379
+01:07:42,493 --> 01:07:44,712
+I think
+it's important to honestly
+
+1380
+01:07:44,756 --> 01:07:46,888
+discuss such issues.
+
+1381
+01:07:46,932 --> 01:07:48,977
+It might be
+a little too late to make
+
+1382
+01:07:49,021 --> 01:07:51,371
+this conversation afterwards.
+
+1383
+01:07:59,423 --> 01:08:04,297
+It's important to remember
+that intelligence is not evil
+
+1384
+01:08:04,341 --> 01:08:06,343
+and it is also not good.
+
+1385
+01:08:07,170 --> 01:08:09,737
+Intelligence gives power.
+
+1386
+01:08:09,781 --> 01:08:12,305
+We are more powerful than tigers on this
+planet,
+
+1387
+01:08:12,349 --> 01:08:14,525
+not because we have sharper claws
+
+1388
+01:08:14,568 --> 01:08:16,570
+or bigger biceps,
+because we're smarter.
+
+1389
+01:08:17,615 --> 01:08:19,704
+We do take
+the attitude that ants
+
+1390
+01:08:19,747 --> 01:08:23,403
+matter a bit and fish matter a bit, but
+humans matter more.
+
+1391
+01:08:23,447 --> 01:08:25,405
+Why? Because we're
+more intelligent,
+
+1392
+01:08:25,449 --> 01:08:27,581
+more sophisticated,
+more conscious.
+
+1393
+01:08:27,625 --> 01:08:30,236
+Once you've got systems which
+are more intelligent than us,
+
+1394
+01:08:30,280 --> 01:08:32,282
+maybe they're simply gonna matter more.
+
+1395
+01:08:41,421 --> 01:08:44,598
+As humans, we live
+in a world of microorganisms.
+
+1396
+01:08:46,122 --> 01:08:48,124
+They're life, but if a microorganism
+
+1397
+01:08:48,167 --> 01:08:50,517
+becomes a nuisance, we take an antibiotic
+
+1398
+01:08:50,561 --> 01:08:53,129
+and we destroy billions of them at once.
+
+1399
+01:08:57,220 --> 01:08:59,526
+If you were an artificial intelligence,
+
+1400
+01:08:59,570 --> 01:09:01,137
+wouldn't you look
+at every little human
+
+1401
+01:09:01,180 --> 01:09:03,008
+that has this
+very limited view
+
+1402
+01:09:03,051 --> 01:09:05,402
+kind of like
+we look at microorganisms?
+
+1403
+01:09:09,188 --> 01:09:10,494
+Maybe I would.
+
+1404
+01:09:13,410 --> 01:09:16,152
+Maybe human insignificance
+
+1405
+01:09:16,195 --> 01:09:18,632
+is the biggest threat of all.
+
+1406
+01:09:21,505 --> 01:09:24,247
+Sometimes when I talk
+about AI risk, people go,
+
+1407
+01:09:24,290 --> 01:09:26,162
+"Shh! Max,
+don't talk like that.
+
+1408
+01:09:26,205 --> 01:09:28,338
+"That's Luddite
+scaremongering."
+
+1409
+01:09:28,381 --> 01:09:30,035
+But it's not scaremongering.
+
+1410
+01:09:30,078 --> 01:09:33,169
+It's what we at MIT
+call safety engineering.
+
+1411
+01:09:35,867 --> 01:09:39,218
+I mean, think about it, before NASA
+launched the Apollo 11 moon mission,
+
+1412
+01:09:39,262 --> 01:09:40,785
+they systematically thought through
+
+1413
+01:09:40,828 --> 01:09:43,004
+everything that could go wrong
+when you put a bunch of people
+
+1414
+01:09:43,048 --> 01:09:45,616
+on top of explosive fuel tanks
+and launched them somewhere
+
+1415
+01:09:45,659 --> 01:09:48,532
+where no one can help them.
+Was that scaremongering?
+
+1416
+01:09:48,575 --> 01:09:51,012
+No, that was precisely
+the safety engineering
+
+1417
+01:09:51,056 --> 01:09:54,538
+that guaranteed
+the success of the mission.
+
+1418
+01:09:54,581 --> 01:09:58,498
+That's precisely the strategy I think we
+have to take with AGI.
+
+1419
+01:09:58,542 --> 01:10:00,805
+Think through everything that could go wrong
+
+1420
+01:10:00,848 --> 01:10:02,720
+to make sure it goes right.
+
+1421
+01:10:06,898 --> 01:10:08,856
+I am who I am
+because of the movie
+
+1422
+01:10:08,900 --> 01:10:11,337
+A Space Odyssey.
+
+1423
+01:10:11,381 --> 01:10:14,601
+Aged 14, it was
+an eye-opener for me.
+
+1424
+01:10:14,645 --> 01:10:17,343
+That movie is the best
+of all science fiction
+
+1425
+01:10:17,387 --> 01:10:20,912
+with its predictions
+for how AI would evolve.
+
+1426
+01:10:23,088 --> 01:10:24,872
+But in reality,
+
+1427
+01:10:24,916 --> 01:10:27,658
+if something is sufficiently
+far in the future,
+
+1428
+01:10:27,701 --> 01:10:30,748
+we can't imagine
+what the world will be like,
+
+1429
+01:10:30,791 --> 01:10:33,229
+so we actually can't say
+anything sensible
+
+1430
+01:10:33,272 --> 01:10:34,447
+about what the issues are.
+
+1431
+01:10:36,014 --> 01:10:37,233
+Worrying about
+super-intelligence safety
+
+1432
+01:10:37,276 --> 01:10:39,278
+is a little like
+worrying about
+
+1433
+01:10:39,322 --> 01:10:40,932
+how you're
+gonna install seat belts
+
+1434
+01:10:40,975 --> 01:10:42,542
+in transporter devices.
+
+1435
+01:10:42,586 --> 01:10:44,457
+Like in Star Trek,
+where you can just zip
+
+1436
+01:10:44,501 --> 01:10:46,242
+from one place to another.
+
+1437
+01:10:46,285 --> 01:10:48,331
+Um, maybe there's
+some dangers to that,
+
+1438
+01:10:48,374 --> 01:10:49,941
+so we should have
+seatbelts, right?
+
+1439
+01:10:49,984 --> 01:10:51,986
+But it's of course very silly
+because we don't know enough
+
+1440
+01:10:52,030 --> 01:10:53,466
+about how
+transporter technology
+
+1441
+01:10:53,510 --> 01:10:55,338
+might look to be able to say
+
+1442
+01:10:55,381 --> 01:10:57,427
+whether seatbelts even apply.
+
+1443
+01:10:58,993 --> 01:11:01,648
+To say that there
+won't be a problem because
+
+1444
+01:11:02,954 --> 01:11:04,869
+the unknowns are so vast,
+
+1445
+01:11:04,912 --> 01:11:07,567
+that we don't even know
+where the problem
+is gonna be,
+
+1446
+01:11:08,829 --> 01:11:10,570
+that is crazy.
+
+1447
+01:11:15,706 --> 01:11:18,056
+I think conversation is
+probably the only
+way forward here.
+
+1448
+01:11:18,099 --> 01:11:20,014
+At the moment,
+among ourselves,
+
+1449
+01:11:20,058 --> 01:11:21,364
+and when the time comes,
+
+1450
+01:11:21,407 --> 01:11:23,627
+with the emerging
+artificial intelligences.
+
+1451
+01:11:25,716 --> 01:11:27,152
+So as soon as
+there is anything
+
+1452
+01:11:27,195 --> 01:11:28,719
+remotely in that ballpark,
+
+1453
+01:11:28,762 --> 01:11:30,721
+we should start trying
+to have a conversation
+
+1454
+01:11:30,764 --> 01:11:32,636
+with it somehow.
+
+1455
+01:11:33,637 --> 01:11:35,900
+Dog. Dog. Yeah.
+
+1456
+01:11:35,943 --> 01:11:38,946
+One of the things we hope
+to do with Baby X is to try
+
+1457
+01:11:38,990 --> 01:11:41,906
+to get a better insight
+into our own nature.
+
+1458
+01:11:43,777 --> 01:11:46,302
+She's designed
+to learn autonomously.
+
+1459
+01:11:47,564 --> 01:11:50,610
+She can be plugged
+into the Internet,
+
+1460
+01:11:50,654 --> 01:11:54,266
+click on webpages by herself
+and see what happens,
+
+1461
+01:11:54,310 --> 01:11:56,442
+kind of learn how we learn.
+
+1462
+01:11:57,400 --> 01:12:00,707
+If we make this
+super fantastic AI,
+
+1463
+01:12:00,751 --> 01:12:04,363
+it may well help us become
+better versions of ourselves,
+
+1464
+01:12:06,365 --> 01:12:08,106
+help us evolve.
+
+1465
+01:12:15,505 --> 01:12:17,550
+It will have societal effects.
+
+1466
+01:12:19,117 --> 01:12:20,597
+Is it to be feared?
+
+1467
+01:12:22,381 --> 01:12:24,035
+Or is it something
+to learn from?
+
+1468
+01:12:28,648 --> 01:12:31,999
+So when might
+we be faced with machines
+
+1469
+01:12:32,043 --> 01:12:36,656
+that are as smart,
+smarter than we are?
+
+1470
+01:12:38,571 --> 01:12:41,661
+I think one of the ways
+to think about
+the near future of AI
+
+1471
+01:12:41,705 --> 01:12:44,708
+is what I would call
+the event horizon.
+
+1472
+01:12:46,231 --> 01:12:48,015
+People have heard of black holes,
+
+1473
+01:12:48,059 --> 01:12:50,191
+this super dense point where
+
+1474
+01:12:50,235 --> 01:12:52,977
+if you get too close, you get sucked in.
+
+1475
+01:12:53,020 --> 01:12:55,893
+There is a boundary. Once you cross that
+boundary,
+
+1476
+01:12:55,936 --> 01:12:58,025
+there is no way back.
+
+1477
+01:12:58,069 --> 01:13:02,900
+What makes that dangerous is you can't
+tell where it is.
+
+1478
+01:13:02,943 --> 01:13:05,816
+And I think AI as a technology
+is gonna be like that,
+
+1479
+01:13:05,859 --> 01:13:09,210
+that there will be a point
+where the logic of the money
+
+1480
+01:13:09,254 --> 01:13:11,430
+and the power and the promise
+
+1481
+01:13:11,474 --> 01:13:14,781
+will be such that
+once we cross that boundary,
+
+1482
+01:13:14,825 --> 01:13:16,783
+we will then be
+into that future.
+
+1483
+01:13:16,827 --> 01:13:19,395
+There will be no way back,
+politically, economically
+
+1484
+01:13:19,438 --> 01:13:21,658
+or even in terms
+of what we want.
+
+1485
+01:13:21,701 --> 01:13:24,008
+But we need to be worrying
+about it before we reach
+
+1486
+01:13:24,051 --> 01:13:27,315
+the event horizon,
+and we don't know where it is.
+
+1487
+01:13:27,359 --> 01:13:29,405
+I don't think it's gonna
+happen any time soon.
+
+1488
+01:13:29,448 --> 01:13:31,145
+The next few decades.
+
+1489
+01:13:31,189 --> 01:13:32,364
+Twenty-five to 50 years.
+
+1490
+01:13:32,408 --> 01:13:33,452
+A few hundred years.
+
+1491
+01:13:33,496 --> 01:13:34,584
+It's over
+the next few decades.
+
+1492
+01:13:34,627 --> 01:13:35,802
+Not in my lifetime.
+
+1493
+01:13:35,846 --> 01:13:38,239
+Nobody knows.
+But it doesn't really matter.
+
+1494
+01:13:38,283 --> 01:13:41,634
+Whether it's years
+or 100 years,
+the problem is the same.
+
+1495
+01:13:41,678 --> 01:13:44,594
+It's just as real
+and we'll need
+all this time to solve it.
+
+1496
+01:13:49,816 --> 01:13:53,733
+History is just full of
+over-hyped tech predictions.
+
+1497
+01:13:53,777 --> 01:13:55,605
+Like, where are
+those flying cars
+
+1498
+01:13:55,648 --> 01:13:57,389
+that were supposed
+to be here, right?
+
+1499
+01:13:57,433 --> 01:14:00,740
+But it's also full
+of the opposite,
+
+1500
+01:14:00,784 --> 01:14:03,134
+when people said,
+"Never gonna happen."
+
+1501
+01:14:07,878 --> 01:14:10,968
+I'm embarrassed as a physicist that Ernest
+Rutherford,
+
+1502
+01:14:11,011 --> 01:14:13,274
+one of the greatest nuclear physicists of
+all time said
+
+1503
+01:14:13,318 --> 01:14:15,929
+that nuclear energy was never gonna happen.
+
+1504
+01:14:17,061 --> 01:14:18,932
+And the very next day,
+
+1505
+01:14:18,976 --> 01:14:22,458
+Leo Szilard invents
+the nuclear chain reaction.
+
+1506
+01:14:22,501 --> 01:14:24,677
+So if someone says
+they are completely sure
+
+1507
+01:14:24,721 --> 01:14:27,114
+something is never
+gonna happen,
+
+1508
+01:14:27,158 --> 01:14:29,377
+even though it's consistent
+with the laws of physics,
+
+1509
+01:14:29,421 --> 01:14:31,510
+I'm like, "Yeah, right."
+
+1510
+01:14:36,646 --> 01:14:38,430
+We're not there yet.
+
+1511
+01:14:38,474 --> 01:14:41,477
+We haven't built a super-intelligent AI.
+
+1512
+01:14:45,002 --> 01:14:47,483
+And even if we stipulated that it won't
+happen
+
+1513
+01:14:47,526 --> 01:14:49,528
+shorter than 50 years from now, right?
+
+1514
+01:14:49,572 --> 01:14:52,183
+So we have 50 years to think about this.
+
+1515
+01:14:52,226 --> 01:14:53,706
+Well...
+
+1516
+01:14:53,750 --> 01:14:56,143
+it's nowhere written
+that 50 years
+
+1517
+01:14:56,187 --> 01:14:59,059
+is enough time to figure out
+how to do this safely.
+
+1518
+01:15:01,018 --> 01:15:02,628
+I actually think
+it's going to take
+
+1519
+01:15:02,672 --> 01:15:05,196
+some extreme negative example
+
+1520
+01:15:05,239 --> 01:15:08,504
+of the technology
+for everyone to pull back
+
+1521
+01:15:08,547 --> 01:15:11,115
+and realize that
+we've got to get this thing
+
+1522
+01:15:11,158 --> 01:15:13,334
+under control, we've
+got to have constraints.
+
+1523
+01:15:13,378 --> 01:15:16,207
+We are living
+in a science fiction world
+and we're all,
+
+1524
+01:15:16,250 --> 01:15:20,037
+um, in this big, kind of
+social, tactical experiment,
+
+1525
+01:15:20,080 --> 01:15:22,692
+experimenting on ourselves,
+recklessly,
+
+1526
+01:15:22,735 --> 01:15:25,172
+like no doctor would
+ever dream of doing.
+
+1527
+01:15:25,216 --> 01:15:26,522
+We're injecting ourselves
+
+1528
+01:15:26,565 --> 01:15:28,262
+with everything that
+we come up with
+
+1529
+01:15:28,306 --> 01:15:29,655
+to see what happens.
+
+1530
+01:15:31,875 --> 01:15:34,486
+Clearly,
+the thought process is...
+
+1531
+01:15:34,530 --> 01:15:36,140
+You're creating
+learning robots.
+
+1532
+01:15:36,183 --> 01:15:38,534
+Learning robots are exactly
+what lead to Skynet.
+
+1533
+01:15:38,577 --> 01:15:40,884
+Now I've got a choice,
+right? I can say,
+
+1534
+01:15:40,927 --> 01:15:42,842
+"Don't worry,
+I'm not good at my job.
+
+1535
+01:15:43,887 --> 01:15:45,932
+"You have nothing to fear
+because I suck at this
+
+1536
+01:15:45,976 --> 01:15:48,108
+"and I'm not gonna
+actually accomplish anything."
+
+1537
+01:15:48,152 --> 01:15:50,458
+Or I have to say, "You know,
+
+1538
+01:15:50,502 --> 01:15:51,938
+"You're right,
+we're all gonna die,
+
+1539
+01:15:51,982 --> 01:15:53,810
+"but it's gonna be
+sort of fun to watch,
+
+1540
+01:15:53,853 --> 01:15:56,856
+"and it'd be good to be
+one of the people
+in the front row."
+
+1541
+01:15:56,900 --> 01:16:00,033
+So yeah, I don't have
+a terrific answer
+to these things.
+
+1542
+01:16:02,122 --> 01:16:04,734
+The truth, obviously,
+is somewhere in between.
+
+1543
+01:16:07,171 --> 01:16:09,260
+Can there be an in-between?
+
+1544
+01:16:10,435 --> 01:16:13,264
+Or are we facing
+a new world order?
+
+1545
+01:16:15,614 --> 01:16:18,965
+I have some colleagues who
+are fine with AI taking over
+
+1546
+01:16:19,009 --> 01:16:21,228
+and even causing
+human extinction,
+
+1547
+01:16:21,272 --> 01:16:22,752
+as long as we feel
+
+1548
+01:16:22,795 --> 01:16:25,189
+that those AIs
+are our worthy ancestors.
+
+1549
+01:16:28,453 --> 01:16:32,065
+In the long run, humans
+are not going to remain
+
+1550
+01:16:32,109 --> 01:16:34,372
+the crown of creation.
+
+1551
+01:16:36,679 --> 01:16:38,594
+But that's okay.
+
+1552
+01:16:38,637 --> 01:16:41,727
+Because there is still beauty
+
+1553
+01:16:41,771 --> 01:16:44,469
+and grandeur and greatness
+
+1554
+01:16:44,512 --> 01:16:47,211
+in realizing that you are
+
+1555
+01:16:48,212 --> 01:16:51,955
+a tiny part of
+
+1556
+01:16:51,998 --> 01:16:55,045
+a much grander scheme
+which is leading the universe
+
+1557
+01:16:55,088 --> 01:16:59,223
+from lower complexity
+towards higher complexity.
+
+1558
+01:17:07,318 --> 01:17:11,017
+We could be rapidly approaching a precipice
+
+1559
+01:17:11,061 --> 01:17:13,063
+for the human race where we find
+
+1560
+01:17:13,106 --> 01:17:16,762
+that our ultimate destiny is to have been
+
+1561
+01:17:16,806 --> 01:17:20,113
+the forebearer of the true
+
+1562
+01:17:20,157 --> 01:17:24,161
+emergent, evolutionary, intelligent sort
+of beings.
+
+1563
+01:17:26,990 --> 01:17:30,515
+So we may just be here
+to give birth
+
+1564
+01:17:30,558 --> 01:17:32,735
+to the child of this...
+Of this machine...
+
+1565
+01:17:32,778 --> 01:17:34,345
+Machine civilization.
+
+1566
+01:17:37,957 --> 01:17:39,785
+Selfishly,
+as a human, of course,
+
+1567
+01:17:39,829 --> 01:17:41,961
+I want humans to stick around.
+
+1568
+01:17:44,355 --> 01:17:47,837
+But maybe that's a very local, parochial
+point of view.
+
+1569
+01:17:49,795 --> 01:17:52,102
+Maybe viewed from the point
+of view of the universe,
+
+1570
+01:17:52,145 --> 01:17:53,973
+it's a better universe
+with our...
+
+1571
+01:17:54,017 --> 01:17:57,020
+With our super-intelligent
+descendants.
+
+1572
+01:18:03,766 --> 01:18:06,377
+Our field
+is likely to succeed
+
+1573
+01:18:06,420 --> 01:18:09,772
+in its goal to achieve
+general purpose intelligence.
+
+1574
+01:18:12,209 --> 01:18:16,082
+We now have the capability
+to radically modify
+
+1575
+01:18:16,126 --> 01:18:17,954
+the economic structure
+of the world,
+
+1576
+01:18:17,997 --> 01:18:19,825
+the role of human beings
+in the world
+
+1577
+01:18:19,869 --> 01:18:22,480
+and, potentially,
+human control over the world.
+
+1578
+01:18:34,666 --> 01:18:37,277
+The idea was
+that he is taken in
+
+1579
+01:18:37,321 --> 01:18:39,192
+by godlike entities,
+
+1580
+01:18:39,236 --> 01:18:42,239
+creatures of pure energy
+and intelligence.
+
+1581
+01:18:43,893 --> 01:18:47,897
+They put him in what you could describe as
+a human zoo.
+
+1582
+01:18:49,812 --> 01:18:51,901
+The end
+of the astronaut's journey.
+
+1583
+01:18:56,601 --> 01:18:58,081
+Did he travel through time?
+
+1584
+01:18:58,864 --> 01:19:00,561
+To the future?
+
+1585
+01:19:00,605 --> 01:19:04,827
+Were those godlike entities
+the descendants of HAL?
+
+1586
+01:19:06,089 --> 01:19:09,092
+Artificial intelligence
+that you can't switch off,
+
+1587
+01:19:10,658 --> 01:19:13,879
+that keeps learning
+and learning until
+
+1588
+01:19:14,488 --> 01:19:16,316
+they're running the zoo,
+
+1589
+01:19:16,360 --> 01:19:18,144
+the universe,
+
+1590
+01:19:18,188 --> 01:19:19,363
+everything.
+
+1591
+01:19:22,061 --> 01:19:26,022
+Is that Kubrick's
+most profound prophecy?
+
+1592
+01:19:27,110 --> 01:19:28,154
+Maybe.
+
+1593
+01:19:30,548 --> 01:19:32,985
+But take it from an old man.
+
+1594
+01:19:33,029 --> 01:19:35,466
+If HAL is close
+to being amongst us,
+
+1595
+01:19:36,510 --> 01:19:38,121
+we need to pay attention.
+
+1596
+01:19:39,470 --> 01:19:41,559
+We need to talk about AI.
+
+1597
+01:19:42,734 --> 01:19:44,388
+Super-intelligence.
+
+1598
+01:19:44,431 --> 01:19:45,432
+Will it be conscious?
+
+1599
+01:19:46,390 --> 01:19:47,478
+The trolley problem.
+
+1600
+01:19:48,261 --> 01:19:49,306
+Goal alignment.
+
+1601
+01:19:50,350 --> 01:19:51,743
+The singularity.
+
+1602
+01:19:51,787 --> 01:19:53,049
+First to the market.
+
+1603
+01:19:53,789 --> 01:19:54,964
+AI safety.
+
+1604
+01:19:56,008 --> 01:19:57,401
+Lethal autonomous weapons.
+
+1605
+01:19:58,794 --> 01:19:59,969
+Robot revolution.
+
+1606
+01:20:00,708 --> 01:20:01,971
+The hive mind.
+
+1607
+01:20:03,320 --> 01:20:04,800
+The transhuman movement.
+
+1608
+01:20:05,888 --> 01:20:08,629
+Transcend humankind.
+
+1609
+01:20:08,673 --> 01:20:10,196
+We don't have a plan,
+we don't realize
+
+1610
+01:20:10,240 --> 01:20:11,807
+it's necessary
+to have a plan.
+
+1611
+01:20:13,286 --> 01:20:15,549
+What do we want
+the role of humans to be?

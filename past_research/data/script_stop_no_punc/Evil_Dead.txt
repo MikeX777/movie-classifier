@@ -1,0 +1,3780 @@
+EVIL DEAD Sam Raimi
+
+BOOK OF THE DEAD
+
+The Ultimate Experience In Grueling Terror
+
+By
+
+Sam Raimi
+
+101379
+
+SCENE CODING
+
+Interior  I
+
+Exterior  E
+
+Day  D
+
+Night  N
+
+Twilight  T
+
+LOCATION CODING
+
+CAR  Car
+
+B  Bridge
+
+CAB  Surrounding area outside cabin
+
+W  Woods
+
+MR  Main Room
+
+DR  Dining Room
+
+K  Kitchen
+
+C  Cellar
+
+WS  Work Shed
+
+LB  Lindas Bedroom
+
+SB  Shellys Bedroom
+
+CB  Cheryls Bedroom
+
+BTR Bathroom
+
+EXAMPLE
+
+12 ID  DR
+
+TRANSLATION
+
+Scene 12 Interior Day Dining Room
+
+1 ED  W
+
+Something evil lurking deep withing wooded moun
+
+tains Tennessee camera takes point
+
+view Rising swampy bog mud slides view
+
+allowing early morning mist hanging
+
+forest Creeping silently past trees gliding small
+
+shrubs moves onward woods mammoth
+
+oak rests directly path The tree uprooted
+
+unseen force falls deafening crash
+
+2 ED  CAR
+
+Near by stretch highway curves base
+
+mountain The road winds oblivion
+
+peaks From view rumble engine
+
+heard It large logging truck headed south Moving
+
+away truck smaller finally disap
+
+pears distance From truck emerged
+
+dilapidated gold 1973 Oldsmobile comes view
+
+3 ID  CAR
+
+Inside people seen They couples ASHLY
+
+LINDA SCOTT SHELLY CHERYL ASHLYs sister
+
+Both SCOTT SHELLY wear Michigan State Tshirts
+
+students univer
+
+sity SCOTT driving SHELLY sits
+
+front ASHLY LINDA CHERYL back They listen
+
+old Baby Moses And The Thrillers song
+
+radio SHELLY slapping dash board
+
+drum
+
+SHELLY
+
+Singing music Together
+
+forever
+
+SCOTT
+
+Ash we
+
+ASHLY
+
+Ill tell ya second Now were
+
+seventyfive past
+
+county border
+
+4 ED  W
+
+Once again camera takes point view
+
+dark brooding force stops atop forest ridge
+
+peer downward Its view focuses 1973 Olds
+
+mobile speeding narrow highway below
+
+5 ID  CAR
+
+ASHLY traces route map finger
+
+ASHLY
+
+Which uswhich
+
+us
+
+SCOTT
+
+Jesus Christ tell
+
+ya
+
+ASHLY zeroes map finger
+
+ASHLY
+
+Right
+
+SCOTT growing impatient
+
+ASHLY
+
+Right
+
+SCOTT
+
+Yes
+
+ASHLY
+
+Here
+
+Suddenly radio stops steering wheel jerks
+
+SCOTTs hand
+
+6 ED  CAR
+
+The car screetches control opposite lane
+
+A large oncoming tanker truck horn screaming
+
+races car collision coarse
+
+7 ID  CAR
+
+SHELLY
+
+Scotty watch out
+
+8 ED  CAR
+
+The truck races closer
+
+9 ID  CAR
+
+Their steering wheel locked
+
+ASHLY
+
+Turn
+
+10 ED  CAR
+
+At possible instant SCOTTs wheel
+
+controlled car swerves sharply
+
+lane
+
+11 ED  CAR
+
+The truck speeds harmlessly past them
+
+12 ID  CAR
+
+ASHLY
+
+Damn Scott hell that
+
+You trying kill us
+
+SCOTT
+
+Dont yell me its lousy
+
+steering wheel The damn thing jerked
+
+right hand
+
+ASHLY
+
+I cant understand it I
+
+thing tuneup
+
+SHELLY
+
+Radios dead too ace
+
+ASHLY
+
+And I em tune
+
+thing yesterday
+
+SCOTT
+
+Well cause
+
+damn thing dont work Only thing
+
+works car
+
+lousy horn
+
+SCOTT honks horn
+
+13 ED  CAR
+
+Several local MEN walking highway respond
+
+horn waving
+
+14 ID  CAR
+
+SCOTT yells window them
+
+SCOTT
+
+Aw hell Im waving ya
+
+He looks rear view mirror The MEN wav
+
+ing distance SCOTT turns drive
+
+SCOTT
+
+Jesus Christ
+
+SHELLY turns seat holds
+
+pint Scotch
+
+SHELLY
+
+Well Id like toast To
+
+Scott killed us
+
+SCOTT
+
+Aw eat shit die ya
+
+SHELLY laugh
+
+SHELLY
+
+Okay okay wild weekend
+
+wonderful cabin good friends
+
+She glances SCOTT provided
+
+live long
+
+SHELLY cooly drinks Scotch passes bottle
+
+ASHLY LINDA ASHLY pours LINDA drink
+
+bottle cap keeps bottle They raise drinks
+
+ASHLY LINDA
+
+With good friends
+
+They toast drink react strong liquor ASHLY
+
+tries hide reaction Scotch
+
+LINDA SHELLY reacted calmly ASHLY passes
+
+bottle CHERYL stops polite No
+
+thank you SCOTT
+
+LINDA
+
+Hey Scotty whats place like
+
+anyway
+
+SCOTT
+
+Well guy thats renting says
+
+its old place little run down
+
+its right mountains
+
+totally secluded He takes drink
+
+bottle Best is
+
+cheap
+
+LINDA
+
+Why getting cheap
+
+SCOTT
+
+I dont know real bad
+
+shape
+
+CHERYL
+
+You mean nobodys seen place
+
+yet
+
+SCOTT
+
+Not yet
+
+ASHLY
+
+Might bad
+
+LINDA
+
+No
+
+ASHLY
+
+Actually nice
+
+LINDA
+
+Yeah
+
+SHELLY
+
+Its probably real pit
+
+CHERYL
+
+I cant believe were renting
+
+place weekend nobodys
+
+seen
+
+SCOTT
+
+Mumbling himself Jesus Christ
+
+again
+
+CHERYL
+
+Turning ASHLY You know mom
+
+dad let place
+
+like knew
+
+ASHLY
+
+Which exactly dont know
+
+Ill tell I gonna call
+
+The guys fixed car
+
+15 ED  CAR
+
+The car approaches exit highway
+
+16 ID  CAR
+
+ASHLY glances map again
+
+ASHLY
+
+Hey I think
+
+off
+
+17 ED  CAR
+
+The car turns main highway follows
+
+roads approaches narrow dirt lane
+
+winds upward twin set mountains
+
+18 ID  CAR
+
+SCOTT glances peaks
+
+SCOTT
+
+These mountains familiar
+
+LINDA
+
+What remind of Some
+
+thing majestic Adventure
+
+SCOTT
+
+Yeah like adventure
+
+LINDA
+
+Any adventure particular
+
+SCOTT
+
+Shellys sweater
+
+ASHLY SCOTT laugh loud LINDA laughs quietly
+
+CHERYL lets embarassed giggle herself
+
+SHELLY
+
+Teasing Oooh youre gonna
+
+Scotty expect it
+
+youre gonna good
+
+19 ED  B
+
+Finally car arrives wooden bridge extending
+
+great chasm Carefully vehicle crosses
+
+20 ED  CAB
+
+It late afternoon eventually arrive
+
+destination The small wooden cabin surrounded
+
+dark woods SCOTT shuts car contin
+
+ues sputter backfire
+
+21 ID  CAR
+
+ASHLY reacts car
+
+ASHLY
+
+II sent em check tuneup
+
+Im paying it
+
+LINDA
+
+This place perfect
+
+CHERYL
+
+The woods come awfully close
+
+house dont they
+
+SCOTT
+
+So whats wrong woods
+
+cant bite ya
+
+CHERYL
+
+Its little claustrophobic
+
+thats all
+
+LINDA
+
+Well I think its beautiful
+
+SHELLY
+
+Me too its gonna bomb week
+
+end
+
+22 ED  CAB
+
+SCOTT moves door cabin finds
+
+small ring keys concealed shelf
+
+door ASHLY unloads car others
+
+SCOTT
+
+Its supposed
+
+here
+
+After trying keys able unlock door
+
+23 ID  MR
+
+The interior cabin completely dark SCOTT
+
+opens door stands silhouetted doorway
+
+moment enters light switch
+
+The illumination reveals floors walls ceilings
+
+cedar There small bedrooms kitchen
+
+main room contains stone fireplace set
+
+wall An old grandfather clock stands silently
+
+corner partially hidden shadows A door
+
+rear cabin leads small work shed
+
+containing work bench assortment tools
+
+wall Located centrally main room trap
+
+door leading cellar This catches SCOTTs eye
+
+SCOTT
+
+Hey place dungeon
+
+CHERYL puts case art supplies moves
+
+SCOTT trap door He unlocks chain securing
+
+trap door keys hands ring
+
+SHELLY
+
+SCOTT
+
+Put you
+
+SHELLY leaves keys SCOTT tries open
+
+hatch cannot
+
+SCOTT
+
+They nailed shut
+
+CHERYL
+
+Good I dont like cellars Probably
+
+garbage anyways
+
+SCOTT
+
+Cheryl dont nail garbage
+
+cellars I mean its going
+
+try anything
+
+CHERYL
+
+Well whats there
+
+SCOTT
+
+Well number things
+
+Old baseball cards mushrooms dead
+
+bodies
+
+LINDA
+
+Hey look this
+
+LINDA standing corner old grand
+
+father clock She repositions balance weight
+
+begins tick
+
+LINDA
+
+Ta daaaaaa
+
+The applaud whistle LINDA smiles
+
+24 ET  CAB
+
+The cabin seen outside Twilight come
+
+25 IT  MR
+
+CHERYL sits living room near window She
+
+drawing sketches old clock As works
+
+ticking stops unexpectedly CHERYL puts pencil
+
+looks clock It stands silently cor
+
+ner hands frozen position There rust
+
+ling woods CHERYL looks window
+
+trees Something moving outside re
+
+mains hidden forest A gust wind fills
+
+room CHERYL glances hand It turns pale
+
+white begins shake jerk uncontrollably
+
+She stares incredulously hand guided
+
+unseen force picks pencil begins sketch
+
+figure pad The wind gales open
+
+window dies slowly hand completes
+
+drawing Whatever edge woods
+
+retreated them Her hand loses pale
+
+cast control more CHERYL picks
+
+pad paper The likeness book
+
+form ancient writing cover sketched
+
+She looks woods silent A snapping
+
+wood heard cellar CHERYL quickly turns
+
+trap door nailed shut floor Pos
+
+sibly mouse fixes gaze it
+
+Another sound like faint breathing comes
+
+cellar
+
+26 IT  KMR
+
+ASHLY LINDA enter kitchen ASHLY drink
+
+ing beer moves CHERYL He stands
+
+trap door
+
+ASHLY
+
+Whatre drawing Cheryl
+
+He picks piece paper LINDA looks
+
+shoulder glance it
+
+CHERYL
+
+II dont know
+
+ASHLY
+
+Is bible
+
+CHERYL
+
+No its bible She glances
+
+cellar knowing some
+
+thing there I dont know
+
+is
+
+LINDA
+
+Well clocks
+
+bad
+
+LINDA picks sketch walks clock
+
+steps away She stands comparing
+
+real thing CHERYL ASHLY She
+
+inches trap door CHERYL
+
+wants warning ASHLY kneels
+
+speak secretly
+
+ASHLY
+
+In whisper I got right here
+
+He taps shirt pocket CHERYL looking
+
+past paying attention She watches LINDAs
+
+feet waiting cellar grab them
+
+LINDA looks drawing comparison
+
+LINDA
+
+Cheryl good I like
+
+numbers wood
+
+ish style
+
+ASHLY produces small box shirt opens
+
+quickly CHERYL It contains gold pendant
+
+necklace LINDA takes step closer clock She
+
+standing trap door Although
+
+nailed shut opens slightly pulling nails
+
+it CHERYL gasps ASHLY pleased response
+
+ASHLY
+
+Still whisper I knew youd
+
+like it
+
+Quickly places shirt touches
+
+lips finger indicate secrecy sup
+
+rise LINDA returns sketch places
+
+CHERYLs small drawing table
+
+LINDA
+
+Its good Cheryl Very close
+
+origional
+
+CHERYL
+
+In relieved whisper Yes
+
+close
+
+LINDA
+
+Im gonna check dinner
+
+LINDA returns kitchen ASHLY turns CHERYL
+
+ASHLY
+
+You better washed up Ill
+
+ya there
+
+He winks follows LINDA kitchen CHERYL
+
+looks cellar Slowly point
+
+view camera moves trap door wait
+
+ingwaiting
+
+27 IT  K
+
+A blender screams mixes drink kitchen
+
+SHELLY shuts carries dining room
+
+28 IT  DR
+
+She joins seated dinner
+
+table serves mixture SCOTT sits LINDA
+
+CHERYL He leans CHERYL
+
+SCOTT
+
+In whisper Dead bodies
+
+cellar dead bodies cellar
+
+CHERYL
+
+Will stop it
+
+LINDA
+
+Scott leave ya
+
+SCOTT turns LINDA
+
+SCOTT
+
+Will relax Im kidding
+
+around She joke
+
+He stops talking hears trickling water He
+
+turns CHERYL finish pouring glass water
+
+lap The laugh SCOTT silent moment
+
+begins chuckling himself He turns CHERYL
+
+SCOTT
+
+Jokingly Ill ya
+
+With napkin blots water pants
+
+SCOTT
+
+Ill ya Cheryl
+
+ASHLY stands drink raises glass
+
+ASHLY
+
+Id like toast
+
+evening As greek friend
+
+said Nishatnisfert
+
+disrubentutarim
+
+LINDA
+
+Which means
+
+SCOTT
+
+Party down
+
+The laughter stifled loud snap cracking
+
+wood heard main room
+
+SCOTT
+
+What hell
+
+All stand table hurry main room
+
+29 IN  MR
+
+The nails held trap door ripped
+
+out tact hatch wide open
+
+They stand silently it looking blank
+
+this CHERYL slighly nervous
+
+others ASHLY speak
+
+ASHLY
+
+Slowly What this
+
+SCOTT
+
+Whatever is its there
+
+CHERYL
+
+I dont like cellars lets close
+
+up She want deal
+
+it Its probably animal
+
+SCOTT
+
+An animal An anhahahahaha
+
+thats stupidest thing I
+
+heard life Jesus Christ
+
+SCOTT locates flashlight peers hole He
+
+traces old wooden steps darkness light
+
+LINDA
+
+Maybe animal
+
+SCOTT
+
+Yeah probably right Its probably
+
+animal UhCheryl
+
+dont sure
+
+He hands flashlight CHERYL quickly gives
+
+back
+
+CHERYL
+
+Scotty Im going there
+
+SCOTT
+
+Okay okay cowards Ill go
+
+LINDA
+
+Scotty dont Youre crazy
+
+there Why dont wait
+
+morning
+
+SCOTT
+
+Look Ill right
+
+SHELLY
+
+What melodrama What courage A kiss
+
+brave hero
+
+SCOTT kisses SHELLY flashlight hand descends
+
+narrow steps cellars blackness
+
+SHELLY
+
+I virgin queen eagerly await
+
+precious moment
+
+ascend
+
+SCOTT
+
+Virgin queen Hahahahaha
+
+He disappears floor SHELLY CHERYL LINDA
+
+ASHLY wait above
+
+ASHLY
+
+Calling down Hey Scott any
+
+thing
+
+There answer
+
+ASHLY
+
+Hey ScottScott
+
+SHELLY
+
+Hes kidding around
+
+There silence
+
+SHELLY
+
+Isnt he
+
+No sounds come cellar
+
+ASHLY
+
+Linda flashlight
+
+LINDA
+
+Thats brought up
+
+ASHLY spots lantern fireplace mantle
+
+ASHLY
+
+Then lantern
+
+LINDA brings over ASHLY opens kerosene valve
+
+lights wick descends basement
+
+30 IN  C
+
+Down below ASHLY moves quietly past old stone walls
+
+wooden beams support main floor above In
+
+stands old door leads
+
+section cellar Cautiously moves it
+
+Before touch it door swings open slowly
+
+moan ASHLY moves doorway deeper
+
+cellar Condensation water pipes turn
+
+cellar echo chamber drips fall shallow
+
+pools dirt floor below As ASHLY scans
+
+light spots shadow corner eye
+
+ASHLY
+
+Scott
+
+ASHLY breaks cold sweat moves away
+
+area shadow passed He backs sqarely
+
+pair arms grab him
+
+ASHLY
+
+Ahhhhhhh
+
+It SCOTT him
+
+ASHLY
+
+What hell
+
+here jerkin off How come
+
+didnt answer me
+
+SCOTT
+
+When
+
+ASHLY
+
+Just now I mean upstairs
+
+SCOTT
+
+I didnt hear you
+
+ASHLY
+
+Oh well anything
+
+SCOTT
+
+Uhuh
+
+ASHLY
+
+Whats this
+
+SCOTT sweeps light corner reveals
+
+items atop small table Beneath dusty cloth
+
+finds book appears covered sort
+
+animal hide ancient form writing
+
+cover Along book SCOTT ASHLY uncover
+
+reel reel tape recorder ancient dagger
+
+parapanalia including box rifle shells
+
+31 EN  CAB
+
+It evening darkness surrounds small cabin
+
+32 IN  MR
+
+The group sits huddled fireplace talking
+
+quietly school The bottle Scotch passed
+
+around ASHLY rewinding tape recorder
+
+done turns on The voice old man
+
+heard ASHLY turns talking
+
+ASHLY
+
+Shhh listen this
+
+VOICE
+
+My Julian Knowby I pro
+
+fessor ancient Egyptian mythology
+
+Dextin universitys ancient history
+
+department
+
+ASHLY
+
+This tape I downstairs
+
+VOICE
+
+ContinuingI recording
+
+entry small cabin south
+
+ern mountains Tennessee Here I
+
+staying wife weeks
+
+I continue research un
+
+disturbed Since May group assoc
+
+iate professors
+
+excavating ruins Can Dar I
+
+believe I important
+
+area reason
+
+log With it I ac
+
+curate record translations
+
+latest find six
+
+lost volumes ancient
+
+Sumarian burial practices rites
+
+Basically book dos
+
+donts dealing deceased en
+
+titled Naturan Demanto roughly trans
+
+lated Book Of The Dead It bound
+
+human flesh inked blood
+
+deceased
+
+SCOTT
+
+Jeez Id hate
+
+pens
+
+VOICE
+
+ContinuingThis particular volume
+
+deals demons demon resurrect
+
+ion These Katardi family
+
+meaning forces believed inhab
+
+jungles woods mans do
+
+main The pages I
+
+translated warn demons
+
+dangerous everpresent exist
+
+primarily book As legend
+
+it sacred high priests
+
+Can Dar tribe posess
+
+books
+
+properly control resurrected de
+
+mons It act
+
+reciting resurrection passage
+
+demons able
+
+posess living For years
+
+thought legend
+
+CHERYL turns machine point
+
+SCOTT
+
+Hey whatd for It
+
+getting good
+
+CHERYL
+
+I dont want hear
+
+thats all
+
+SCOTT
+
+Singing Cheryls scared Cheryls
+
+scared
+
+ASHLY
+
+Scott leave ya
+
+SCOTT
+
+Jesus Christ
+
+He moves tape recorder fast forewards
+
+bit stops
+
+SCOTT
+
+Shes acting like baby its
+
+big deal
+
+He turns machine on The passage continues
+
+VOICE
+
+Tantirahmistrobeenhazarta
+
+33 EN  CAB
+
+As tape plays natural sounds forest
+
+die out autumn colors trees fade
+
+gloomy grey
+
+34 IN  MR
+
+VOICE
+
+Tantirmanovmishazensober
+
+All eyes CHERYLs turn window
+
+35 EN  CAB
+
+Outside clouds roll east thunder booms
+
+distance wind picks up begins rain
+
+36 IN  MR
+
+VOICE
+
+Kanda
+
+37 EN  CAB
+
+A section ground deep woods begins crack
+
+opens Smoke seeps within evil
+
+force unleashed
+
+38 IN  MR
+
+CHERYL
+
+In whisper Shut off
+
+VOICE
+
+Kanda
+
+39 EN  CAB
+
+The winds howl blackbirds fly nests
+
+screaming
+
+40 IN  MR
+
+CHERYL
+
+Louder now Shut off
+
+ASHLY hearing time turns
+
+window CHERYL She overwhealmed fear
+
+VOICE
+
+Kanda
+
+41 EN  CAB
+
+A bolt lightning strikes near thunder
+
+crash deafening
+
+42 IN  MR
+
+CHERYL longer control herself She screams
+
+covers ears
+
+CHERYL
+
+Shut offffff
+
+The window shatters branch nearby tree
+
+tears it ASHLY runs tape recorder
+
+turns off CHERYL crying now runs room
+
+ASHLY turns SCOTT
+
+ASHLY
+
+Scott knew play it I
+
+meanI mean knew upset
+
+ting her You dont know
+
+youre carrying far
+
+SCOTT
+
+To SHELLY Cmon Back ASHLY
+
+Big deal its joke shit
+
+SCOTT SHELLY head bedroom SCOTT mumbles
+
+way
+
+SCOTT
+
+Youd think shes years old
+
+something
+
+SCOTT slams door him ASHLY sighs He moves
+
+broken window reaches close
+
+outside shutters
+
+LINDA
+
+Hes bothering hasnt
+
+he
+
+ASHLY walks chair near window
+
+ASHLY
+
+No Its Scott Scottys okay
+
+Its came
+
+here things little
+
+tense He sits All crazy
+
+things going on And look
+
+window were gonna pay
+
+window now
+
+LINDA
+
+Itll better tomorrow Thingsll
+
+smooth out youll see
+
+ASHLY
+
+I hope so
+
+He looks LINDA lovingly long moment
+
+ASHLY
+
+Whatya stay
+
+listen storm
+
+LINDA
+
+Deal Lemme check Cheryl Ill
+
+right back
+
+From room seen opening CHERYLs door
+
+crack LINDA asks right gets
+
+muffled reply In foreground ASHLY removes
+
+small box showed CHERYL earlier places
+
+hand He glances LINDA She closes CHERYLs
+
+door walks ASHLY sound asleep
+
+box hand She reaches box ASHLY opens
+
+eyes watch LINDA looks him eyes
+
+closed time appear fast asleep LINDA
+
+turns attention box ASHLY watches
+
+wideeyed removes hand Quickly
+
+LINDA turns expected ASHLY sleeping
+
+like baby She begins turn box
+
+ASHLY opens eyes LINDA turns
+
+time catch eyes wide open
+
+LINDA
+
+Ah ha
+
+ASHLY
+
+Laughing Stealing blind
+
+eh Its you
+
+LINDA begins open box
+
+LINDA
+
+It better good
+
+The gold necklace revealed inside
+
+LINDA
+
+Oh Ash its beautiful
+
+LINDA kisses ASHLY He removes necklace box
+
+holds neck
+
+ASHLY
+
+Fastening neck I
+
+going
+
+left things got hectic
+
+chance Ive had Do
+
+like it
+
+LINDA moves mirror
+
+LINDA
+
+Its beautiful I love it
+
+She turns ASHLY Ill
+
+off
+
+43 EN  CAB
+
+Lightning strikes woods examines
+
+small cottage Through outside window ASHLY
+
+LINDA seen embracing This force watching
+
+moves house window The silhouette
+
+SCOTT SHELLY undressing seen The force
+
+continues arrives CHERYLs window Inside
+
+brushes hair mirror
+
+moment sets brush moves window
+
+She stops uncrumple sketch drawn earlier looks
+
+it dark woods
+
+44 IN  CB
+
+CHERYL faintly hear kind sound It
+
+sound heard earlier cellar A
+
+noise like breathing
+
+45 EN  CAB
+
+The evil entity rounds corner cabin CHERYL
+
+walks rooms door She
+
+seen stepping door It closes her Wind
+
+shaking tree branches sends dead leaves fluttering
+
+about
+
+CHERYL
+
+Calling woods Is anybody
+
+there
+
+There answer CHERYL steps away cottage
+
+woods
+
+46 EN  W
+
+The breeze animates nightgown alive
+
+CHERYL stops
+
+CHERYL
+
+I know someones thereI
+
+heard youI heard cellar
+
+Suddenly CHERYL chilled She folds arms
+
+stands woods edge listening
+
+There darkness sounds evening wind
+
+blowing trees CHERYL steps forest
+
+feet stops A deep woods
+
+heard She freezes Whispering distance grows
+
+somewhat louder soft wail heard like
+
+long dead dredged roam earth
+
+again CHERYL turn cabin
+
+rustling comes group trees
+
+yards her She stops No sound Nothing moves
+
+Several yards left twig snaps suddenly She
+
+turns silence again The winds die down
+
+leaving deathly stillness woods Then
+
+once entire forest alive flurry
+
+chaotic noises movement Snakelike vines wrap
+
+ankles slither legs Tree branches
+
+near begin claw rake her The force
+
+moving woods her CHERYL able
+
+break vines run cabin She emerges
+
+woods clearing The force
+
+following
+
+47 EN  CAB
+
+CHERYL reaches cabin door locked She
+
+begins pounding door
+
+CHERYL
+
+Help help let in Open door
+
+The evil entity emerges woods
+
+CHERYL
+
+Ashly Linda Open up
+
+CHERYL spots small key ring door
+
+SHELLY returned earlier One one fran
+
+tically jams key lock
+
+right one The force comes closer
+
+key
+
+CHERYL
+
+Please please Help me help
+
+meeeee
+
+The evil entity her actions
+
+frantic ring falls ground She bends
+
+pick up hand grabs arm It
+
+SCOTT opened door inside She
+
+pushes door slams tightly
+
+48 IN  MR
+
+SCOTT
+
+What hell happ
+
+CHERYL
+
+In hysterics Itit tried kill
+
+me I I heard noise andand I
+
+ran treesthe trees
+
+SCOTT
+
+What you
+
+He cut ASHLY approaching others
+
+ASHLY
+
+Cheryl whats wrong you Did
+
+woods
+
+you
+
+CHERYL
+
+No no nothe woods themselves
+
+The trees theyre alive
+
+She hugs ASHLY tightly cries hysterical sobs
+
+CHERYL
+
+Theyre alive
+
+LINDA
+
+Ash dont I
+
+bedroom lie little
+
+CHERYL
+
+Cutting off Im lying
+
+down Im staying here Were
+
+leaving place were leaving
+
+place right now
+
+SCOTT
+
+Wait minute Im sure hell
+
+going anywhere
+
+SHELLY
+
+Cheryl
+
+ASHLY
+
+Cheryl theres there
+
+Trees attack people
+
+CHERYL
+
+Ashly drive town
+
+not
+
+ASHLY
+
+Looking watch Right Now
+
+He realizes desperate is
+
+Sure sure Ill drive town
+
+But youll listen
+
+youre saying you
+
+CHERYL
+
+I dont care sounds I want
+
+leave minute You bring
+
+things go
+
+ASHLY
+
+Okay dont want stay I
+
+cant you
+
+LINDA puts coat CHERYL ASHLY helps
+
+door
+
+49 EN  CAB
+
+ASHLY CHERYL car ASHLY helps CHERYL
+
+gets drivers side
+
+50 IN  CAR
+
+CHERYL
+
+Ill stay place town tonight
+
+ASHLY tries start car There response
+
+CHERYL somewhat worried ASHLY tries again
+
+The car turn over A look dread comes
+
+CHERYLs face
+
+51 EN  CAB
+
+SCOTT join outside
+
+52 IN  CAR
+
+CHERYL
+
+Its gonna start
+
+ASHLY tries engine
+
+CHERYL
+
+I know its gonna start Its
+
+gonna let leave
+
+ASHLY keys engine turns time start
+
+ing roar ASHLY worried CHERYLs condition
+
+glances her Confused upset CHERYL turns
+
+away ASHLY looks window They drive
+
+night wooded mountains town
+
+ASHLY glances CHERYL studying forest in
+
+tensely sign movement The concern
+
+sister obvious expression face
+
+Their car approaches narrow bridge area slows
+
+down
+
+CHERYL
+
+Why slowing down
+
+ASHLY brings car halt
+
+CHERYL
+
+What this
+
+ASHLYs gaze fixed directly ahead mouth opens
+
+slowly He flips high beams stab
+
+evening mist
+
+53 EN  B
+
+The bridge chasm torn away CHERYL
+
+silent ASHLY walks ravines edge examine
+
+remains
+
+54 IN  CAR
+
+CHERYL
+
+Mumbling herself No no no no
+
+noits going let leave
+
+its going let goits
+
+gonna let gooooo
+
+55 EN  CAB
+
+An axe raised air brought smash
+
+ing log splitting two SCOTT chopping
+
+wood outside cabin Behind him window
+
+CHERYL sits cup tea hand watching him
+
+SCOTT sets axe down gathers wood moves
+
+away CHERYL shifts gaze SCOTT woods
+
+beyond The camera moves CHERYL past
+
+SHELLY LINDA seen playing cards
+
+floor ASHLY seated near fireplace
+
+tape recorder him He plugs earphone
+
+hear it SCOTT enters cabin
+
+passes ASHLY drop wood
+
+fireplace He throws log in heads
+
+outside
+
+56 IN  MR
+
+From inside LINDA speaks
+
+LINDA
+
+Cheryl wanna play cards
+
+CHERYL
+
+Turning smile Uhuh
+
+CHERYL turns face window again
+
+LINDA
+
+Hey tomorrow morning well
+
+way cliff town
+
+okay
+
+CHERYL
+
+Okay
+
+Outside window SCOTT chops wood nights
+
+fire ASHLY turns tape recorder listen
+
+ear plug
+
+VOICE
+
+March 12th Suzanne came
+
+murdered me My wife
+
+At I thought mental
+
+physical disorder
+
+happened eyes I
+
+fooling myself I knew
+
+was
+
+Outside window SCOTT continues chop gather
+
+wood SHELLY engaged cards LINDA holds
+
+particular
+
+SHELLY
+
+Okay guess card
+
+LINDA
+
+How I going know card
+
+is
+
+SHELLY
+
+Guess Im going youre
+
+psychic
+
+The card clubs
+
+LINDA
+
+Okaaaayis queen
+
+SHELLY
+
+Right
+
+LINDA
+
+Really
+
+SHELLY
+
+Yeah
+
+LINDA
+
+Hey Ash I guessed card right
+
+ASHLY
+
+indifferently Truly amazing Linda
+
+He listening intently log continues
+
+VOICE
+
+Three days passed
+
+thing there I hop
+
+ing weaken food
+
+water Nothing worked Finally
+
+desperation I dragged
+
+shed dismembered what
+
+again
+
+SHELLY
+
+Cheryl that
+
+CHERYL remains staring
+
+window
+
+SHELLY
+
+Try one
+
+She removes clubs deck holds up
+
+LINDA
+
+Okay lemme think uh
+
+She puts hands head curved funnel form
+
+ation direct thoughts card
+
+LINDA
+
+Um its seven
+
+SHELLY
+
+Oh God suit
+
+LINDA
+
+Diamonds wait I mean hearts
+
+SHELLY
+
+Thats right seven hearts
+
+LINDA
+
+Hey Ash that I guessed
+
+cards row
+
+ASHLY
+
+Still paying attention How
+
+Linda
+
+He concentrating tape
+
+VOICE
+
+This I saw dark figures
+
+moving woods I
+
+tampered Book
+
+Of The Dead I know what
+
+I resurrected
+
+book coming me
+
+LINDA
+
+You know I thought I
+
+sort extra sense You know
+
+like esp something
+
+SHELLY
+
+Whats one
+
+She holds queen spades
+
+LINDA
+
+Another seven
+
+SHELLY
+
+I dont believe it
+
+CHERYL
+
+Still looking outside Queen
+
+spades
+
+SHELLY looks card CHERYL She holds
+
+card
+
+CHERYL
+
+Four hearts
+
+The card hearts SHELLY bites lip
+
+fear reaches card ASHLY LINDA listen
+
+silence
+
+CHERYL
+
+Eight spades
+
+SHELLY picks card CHERYL correct again
+
+CHERYL
+
+Two spades jack diamonds
+
+jack clubs
+
+Faster faster calls off Even SHELLY
+
+flip up Suddenly CHERYL turns
+
+group Her eyes bone white SHELLYs deck
+
+cards slip hand scatter floor
+
+CHERYLs body hoisted feet jerked
+
+like whiteeyed marionette She speaks voice un
+
+like own
+
+CHERYL
+
+Why disturbed sleep
+
+awakened ancient slum
+
+ber You die Like
+
+you We
+
+one All hahahahaha
+
+She screams low gruff voice collapses
+
+floor
+
+ASHLY
+
+Oh God Shelly Scott here
+
+SHELLY respond
+
+ASHLY
+
+Hurry
+
+She exits door LINDA moves CHERYL
+
+lifts head gently CHERYL appears unconcious
+
+her reaches pen
+
+LINDA
+
+Did eyes Im scared
+
+Whats wrong her
+
+ASHLY begins speak SCOTT SHELLY enter
+
+SCOTT
+
+What happened her
+
+CHERYLs hand clutches pen tightly
+
+LINDA
+
+Look eyes
+
+SCOTTs hand reaches CHERYLs eyes inspect them
+
+blink open The pen hand races upward
+
+slashes down ripping LINDAs achilles tendon
+
+LINDA screams fiercely blur bloodied
+
+pen raised again ASHLY grabs CHERYLs arm stopping
+
+her powerful swipe swings remaining
+
+arm LINDA sent sprawling cabin
+
+floor CHERYL clutches ASHLY and lifting
+
+him sends body reeling room book
+
+case topples over trapping beneath weight
+
+SHELLY stands screaming CHERYL advances
+
+ASHLYs face bloody pen He struggles pull
+
+cannot CHERYL
+
+SCOTT grabs behind Effortlessly tosses
+
+moves ASHLY again SCOTT climbs
+
+feet grabs axe CHERYL raises pen
+
+ASHLYs face SCOTT gives sharp jab
+
+jaw wooden handle CHERYL stumbles past LINDA
+
+falls backwards head cellar She
+
+begins climb SCOTT slams trap door shut
+
+hand It wont close CHERYL starts push
+
+trap door open below SCOTT climbs
+
+thrown viciuosly rams
+
+butt axe protruding hand Demented
+
+screams moans heard CHERYLs hand
+
+finally pulled SCOTT manages secure
+
+chain hatch
+
+57 IN  LB
+
+Later evening LINDA seen bed sleeping
+
+ASHLY covers blanket kisses her walks
+
+door closing quietly him
+
+58 IN  MR
+
+ASHLY joins SCOTT SHELLY sit near
+
+main room From cellar strange moans sobs
+
+laughter emerge horrible rasping sounds CHERYLs
+
+breathing Through sequence dialogue
+
+breathing louder somewhat quiet
+
+SCOTT
+
+Shell okay Ash took
+
+bad bump
+
+ASHLY
+
+Quietly Yeah
+
+SCOTT SHELLY listen strange noises
+
+ASHLY looks window woods beyond
+
+ASHLY
+
+Weve got hours
+
+morning
+
+SHELLY
+
+I dont know I wait
+
+long
+
+SCOTT
+
+You to We to Then
+
+its light out well try
+
+way chasm
+
+SHELLY
+
+Covering ears Why
+
+making horrible noises
+
+ASHLY
+
+I dont know
+
+SHELLY
+
+And eyes
+
+ASHLY SCOTT quiet
+
+SHELLY
+
+What eyes Desperately
+
+For Gods sake happened
+
+eyes
+
+CHERYL patiently sits cellars darkness
+
+streak light eyes crack
+
+trap door Her head slightly tilted watches
+
+listens said above From point
+
+view hear SCOTT speak SHELLY
+
+SCOTT
+
+Everythings gonna right
+
+CHERYLs lips slightly blackish yellow
+
+liquid drools teeth She grins
+
+59 EN  CAB
+
+Outside forest dark The unseen force moves
+
+wooded area pushing small trees shrubs
+
+advances The cottage comes view evil
+
+entity glides it The figure girl cabin
+
+window seen looking out The force stops moves
+
+bush
+
+60 IN  MR
+
+Inside SHELLY studying woods
+
+SHELLY
+
+Scotty II think theres some
+
+thing there
+
+SCOTT joins window looks out
+
+61 EN  CAB
+
+From woods force watches SCOTT peer out
+
+nothing Through window says some
+
+thing reassure SHELLY moves away
+
+62 IN  MR
+
+Inside SCOTT heard mid sentence
+
+SCOTT
+
+Is rest Ash I
+
+stay Cheryl
+
+SHELLY
+
+Okay
+
+SCOTT
+
+Everythings gonna okay Come
+
+morning youll see
+
+SHELLY heads bedroom SCOTT walks
+
+fireplace sits He slices twigs branch
+
+Sumarian dagger tosses fire ASHLY
+
+glances Book Of The Dead old clock
+
+It stands silent
+
+63 EN  CAB
+
+Again evil entity watches outside It sees
+
+SHELLY leave room turn lights another
+
+She begins undress near window The force
+
+moves cover rushes tremendous
+
+speed SHELLY looking bedroom window
+
+She sees sheer terror covers face scream
+
+stifles throat late
+
+64 IN  MR
+
+A noise heard SHELLYs bedroom SCOTT drops
+
+small stick whittling looks up He places
+
+dagger floor walks SHELLYs room
+
+SCOTT
+
+Shelly okay
+
+She answer SCOTT approaches door turns
+
+ASHLY
+
+SCOTT
+
+Keep eye Cheryl minute
+
+65 IN  SB
+
+SCOTT enters darkness room sees
+
+amidst shadows
+
+SCOTT
+
+Shelly
+
+He looks window It open wind blows
+
+curtains
+
+66 IN  S BATH
+
+SCOTT steps SHELLYs bathroom sees
+
+shower curtain drawn Cautiously moves it
+
+SCOTT
+
+Shelly
+
+He pulls curtain reveal tub SCOTT
+
+turns bedroom SHELLY steps
+
+doorway posessed With scream latches SCOTT
+
+Her eyes gone bone white claws SCOTTs
+
+face clothes nails
+
+67 IN  SB
+
+Screaming SCOTT stumbles bedroom SHELLY
+
+biting throat
+
+68 IN  MR
+
+They stagger main room SCOTT manages
+
+knock SHELLY fireplace She
+
+remains motionless head smolders hot
+
+coals SCOTT rushes her grabs arm pulls
+
+out SHELLYs face hair head
+
+seared blackened She blinks eyes open turns
+
+charred head SCOTT speaks rasp
+
+SHELLY
+
+Thank you I dont know I
+
+I remained hot
+
+coals burning pretty flesh You
+
+pretty skin us
+
+Cackling SHELLY clutches SCOTTs neck begins throttl
+
+ing life vicelike grip He tries
+
+break hold cannot ASHLY tries
+
+backhand blow SHELLY knocks cabinet smash
+
+ing bits A garbled help escapes
+
+SCOTTs frothing mouth SHELLY reaches down picks
+
+Sumarian dagger holding SCOTT throat
+
+hand raises dagger other
+
+ASHLY slightly injured crawls feet SCOTT
+
+grabs raised arm choking swings
+
+camping knife sheath slices
+
+deep SHELLYs raised wrist severing it
+
+A murky black ooze pumps wound She emits
+
+ear splitting howl tightens grip SCOTTs
+
+throat He drops hunting knife ASHLY watches
+
+terrified unable SHELLY raises dangling
+
+hand Still clutching dagger mouth
+
+bites off The useless falls floor
+
+dagger firmly fist SCOTT
+
+dead grabs severed hand clutching
+
+dagger attempt swings ramming
+
+blade spine
+
+SHELLY screetches CHERYL cellar
+
+old grandfather clock gongs lightning strikes
+
+instant SHELLY reaches
+
+remaining arm clutch severed hand knife
+
+protruding back A black ooze pours
+
+wound bends backward screaming ASHLY
+
+stands horror clutching axe unable move
+
+Black ooze runs SHELLYs mouth body writhes
+
+spasmatically floor Gradually move
+
+ments cease dead As SCOTT slowly stands
+
+feet SHELLYs arm grabs leg
+
+SCOTT
+
+Ahhhhhhh
+
+Some force reanimates her body
+
+dead
+
+ASHLY
+
+Nonono
+
+SCOTT
+
+Hit her
+
+SHELLYs body hoisted up jerking feet
+
+laughing madly
+
+SCOTT
+
+Hit it
+
+SCOTT screams backs ASHLY stands
+
+axe paralyzed Gurgling black ooze SHELLY
+
+advances remaining arm SCOTT
+
+grabs axe ASHLY pushes away slams
+
+her Lightning flashes thunder booms
+
+CHERYL screams cellar SCOTT brings axe
+
+frenzy Then
+
+final chop silence
+
+SHELLYs body remains floor time
+
+ASHLY cope fact dead
+
+done
+
+ASHLY
+
+UhScott
+
+SCOTT
+
+Yeah
+
+ASHLY
+
+What uhwhat gonna do
+
+SCOTT
+
+Bury her
+
+ASHLY
+
+Youcant bury Shelly Shes friend
+
+isnt she
+
+SCOTT
+
+Ash shes dead
+
+ASHLY moves away SCOTT
+
+SCOTT
+
+Shellys dead Were gonna bury
+
+now
+
+ASHLY bites lip looks blankly
+
+69 EN  CAB
+
+Finally body dragged outside buried near
+
+work shed Harsh floodlights house
+
+task look stark barren
+
+70 IN  MR
+
+SCOTT ASHLY return inside ASHLY heads LINDAs
+
+room check her
+
+71 IN  LB
+
+He peers LINDA sleeping peacefully
+
+72 IN  MR
+
+ASHLY quietly returns main room SCOTT load
+
+ing new batteries flashlight
+
+SCOTT
+
+I saw old hiking trail
+
+driving here Now I dont
+
+know goes way
+
+gorge
+
+ASHLY
+
+Or its tact
+
+SCOTT
+
+Or its tact But
+
+uh I guess Ill out Take good
+
+care Linda
+
+ASHLY
+
+I will Do everything
+
+SCOTT
+
+Putting small pack Yeah
+
+set
+
+ASHLY
+
+ListenScottyIm sorry
+
+falling apart like when
+
+SCOTT
+
+Dont bother really
+
+He steps door
+
+SCOTT
+
+If I way here Ill
+
+mark come back Then
+
+Im hours
+
+reasonwell I dont
+
+come back grab Linda leg all
+
+hell here
+
+They shake hands
+
+ASHLY
+
+Youre good man
+
+SCOTT
+
+Good Im best
+
+73 EN  CAB
+
+ASHLY smiles goodbye SCOTT watches
+
+night He lingers moment SHELLYs
+
+grave slowly disappears woods
+
+74 IN  MR
+
+ASHLY closes door turns main room
+
+He sees CHERYLs eyes crack cellar
+
+She watching space be
+
+tween trap door floor ASHLY walks past
+
+LINDAs room
+
+75 IN  LB
+
+He opens door crack light falls her
+
+LINDA wakes up
+
+LINDA
+
+Whos there Ash
+
+ASHLY
+
+Its Linda
+
+LINDA
+
+Ash I bad dream Linda
+
+ASHLY
+
+You baby
+
+LINDA
+
+Yeah Shes right isnt she
+
+ASHLY
+
+Yeah Fine
+
+LINDA
+
+Is Shelly okay Ash
+
+ASHLY longer hide fear anxiety He speaks
+
+whisper let voice quiver
+
+ASHLY
+
+Yeah sure Shes sleeping thats
+
+all
+
+LINDA
+
+Ash I love you She turns over
+
+ASHLY
+
+Get rest
+
+ASHLY closes door fear
+
+hours ago engulfs more
+
+76 IN  MR
+
+ASHLY moves main room stops dead
+
+tracks voice cellar speaks
+
+CHERYL
+
+You lied her You lied Linda
+
+Shellys sleeping Shes dead
+
+Dont know difference You
+
+killed her You Scott cut
+
+axe Shes dead hahahaha
+
+haha
+
+ASHLY picks axe slams trap
+
+door CHERYL silent moment
+
+hatch opens inch so The length chain
+
+securing it CHEYLs white eyes seen again
+
+CHERYL
+
+Hahahahahaha
+
+ASHLY takes axe steps outside
+
+77 EN  CAB
+
+He begins chop wood taking emotions
+
+logs blow SHELLYs blood
+
+seen blade axe
+
+78 IN  MR
+
+From dungeon CHERYL watches ASHLY chop wood
+
+window The shadow axe rising striking
+
+seen white eyes
+
+79 EN  CAB
+
+Exhausted ASHLY puts axe He looks
+
+woods sign SCOTT He returns
+
+cabin
+
+80 IN  MR
+
+CHERYL begins taunting again
+
+CHERYL
+
+Soon like
+
+lock cellar
+
+Hahahahaha
+
+CHERYL begins violently ram fists trap
+
+door ASHLY walks LINDAs room
+
+81 IN  LB
+
+She asleep Quietly wake her ASHLY
+
+pulls blanket exposing bandaged leg He re
+
+moves wrappings looks wound As
+
+this infects blackened coloration in
+
+credible speed ASHLY looks LINDA
+
+sleeping sees watching
+
+white eyes evil grimace face She lets
+
+low growl
+
+82 IN  MR
+
+ASHLY jolts backwards room escape
+
+door He steps outside stops look
+
+in He main room finds difficult
+
+LINDAs room lost shadows Something
+
+ragged bloody grabs him It SCOTTs mutilated
+
+body ripped torn shreds He alive ASHLY
+
+looks door LINDAs room He
+
+barely LINDA sits bed watching
+
+glaring white eyes ASHLY helps SCOTT
+
+couch sit SCOTT agony barely
+
+speak
+
+SCOTT
+
+Ash I think Im dying Jesus I
+
+cant feel legs
+
+ASHLY
+
+Uhuh Scotty youre gonna okay
+
+Youre gonna fine youll see
+
+He throws log fire
+
+ASHLY
+
+Youll see
+
+He looks LINDAs bedroom again gone
+
+She sitting corner main room
+
+ASHLY is watching him SCOTT begins cough hor
+
+rible rasping sounds
+
+SCOTT
+
+Its its gonna let leave
+
+CherylCheryl rightwere
+
+gonna die here
+
+ASHLY
+
+Were gonna die
+
+SCOTT
+
+All gonna die All us
+
+ASHLY grabs SCOTT shakes violently
+
+ASHLY
+
+Were gonna die Were gonna
+
+die Were getting here Now
+
+listen me way
+
+chasm
+
+SCOTT passes out
+
+ASHLY
+
+Scotty Scott
+
+ASHLY slaps SCOTT He stirs awake mumbles
+
+SCOTT
+
+Jesus Ash I dont want die So
+
+lonely die like this Youre
+
+gonna leave you Are Ash
+
+CHERYL
+
+Imitating SCOTT I dont want
+
+die So lonely die like this Youre
+
+gonna leave you Are
+
+Ash Hahahahaha
+
+ASHLY
+
+Scott way
+
+chasm
+
+SCOTT
+
+Ash Im scared II cant feel
+
+legs
+
+ASHLY
+
+Scott listen please
+
+Gods sake Is way
+
+chasm
+
+SCOTT
+
+There isone way trailbut
+
+trees knowdont see
+
+theyre alive Theyre aliahhhhhhh
+
+His sentence cut short cries sharp pain
+
+Blood dribbles nostrils doubles
+
+grabbing stomach LINDA begins laugh ASHLY looks
+
+her posesses hatred
+
+ASHLY
+
+Shut up
+
+She continues laugh CHERYL cellar joins
+
+laughter ASHLY walks LINDA slaps
+
+continues He grabs hunting rifle rack
+
+wall loads shells flips safety
+
+places barrels LINDAs head
+
+ASHLY
+
+God forgive Linda
+
+The laughter stops eyes return normal It
+
+LINDA again ASHLY puts rifle
+
+LINDA
+
+Ash oh Ash help Me Please
+
+She hugs tightly
+
+LINDA
+
+Dont let away again
+
+please please please
+
+ASHLY
+
+Crying holding tightly I
+
+wont I wont I promise
+
+CHERYLs voice heard blackness cellar
+
+CHERYL
+
+Ashly Ashly help me Let
+
+here Im right now
+
+ASHLY releases LINDA moves cautiously cellar
+
+LINDA remains nervously fumbling necklace
+
+CHERYL
+
+Im right now Ashly Im
+
+right Come unlock chain
+
+let out
+
+ASHLY
+
+Cheryl
+
+There reply cellar ASHLY looks
+
+crack sees darkness He reaches
+
+chain begins unlock it sensing
+
+wrong stops
+
+ASHLY
+
+Cheryl
+
+He puts ear floor listening slight
+
+est sound CHERYLs arms rip floor boards
+
+grab ASHLYs head He breaks away hand
+
+reaches chain grasp it Slowly
+
+withdraws beneath floor
+
+CHERYL
+
+A little sweet Ash
+
+doing This sister Cheryl Dont
+
+recognize me
+
+Her voice drifts off evil leughter resumes
+
+celler
+
+ASHLY
+
+Crying yelling cellar
+
+You bastards Why this
+
+Why
+
+There silence moment Laughter
+
+begins again It LINDA Her eyes white more
+
+laughs ASHLY
+
+ASHLY
+
+OhLinda
+
+With newly courage ASHLY angrily grabs LINDA
+
+legs drags outside
+
+83 EN  CAB
+
+LINDA
+
+Its useless useless useless In
+
+time well come him
+
+hahahahaha
+
+ASHLY leaves woods runs cabin
+
+closing door him
+
+84 IN  MR
+
+SCOTT coughing again
+
+SCOTT
+
+Ash Ash pleaseI dont want
+
+die butbut I cant stand
+
+pain It hurts Ash Gimme something
+
+Gimme out
+
+ASHLY
+
+Scott I cant I I know its bad
+
+But I cant now I cant
+
+Id lose mind
+
+SCOTT
+
+Please Ash please
+
+ASHLY
+
+Youll better youll see
+
+LINDAs laughter faintly heard outside ASHLY moves
+
+window pulls curtain LINDA
+
+longer woods sitting edge clear
+
+ing watching ASHLY glowing white eyes
+
+ASHLY
+
+Yeah tomorrow soon youll
+
+better well
+
+tomorrow
+
+SCOTT
+
+There tomorrow You youve
+
+got kill cut cut
+
+up sister too
+
+ASHLY
+
+No Shelly You
+
+Shelly You Linda loves
+
+me Youre delirious IIll
+
+water
+
+ASHLY places glass Scotts lips
+
+ASHLY
+
+Now sun
+
+hour well
+
+together You me Linda Shelly
+
+nno Shelly she well
+
+home together Wouldnt like
+
+going home Youd like Id
+
+bet wouldnt ya
+
+There answer SCOTT The water runs
+
+mouth
+
+ASHLY
+
+Scott
+
+SCOTT dead LINDAs laughter heard again ASHLY
+
+walks window pulls curtain There
+
+there He turns there With
+
+Sumarian dagger LINDA rips ASHLYs shirt cutting
+
+arm He screams watches horror runs
+
+tongue dagger licking blood it
+
+She turns attention ASHLY grabs
+
+struggle LINDA backs ASHLY
+
+SCOTT knocking body floor CHERYLs gnarled
+
+arm reaches broken floor boards
+
+grabs ASHLYs foot He manages turn LINDAs arm
+
+knife back Forcefully ASHLY
+
+pushes body SCOTT falls back
+
+ward dagger impaling it The
+
+blade tears rips stomach
+
+Lightning flashes thunder roars LINDA screams
+
+deep growl once quiet
+
+ASHLY drags LINDAs corpse past crumpled body
+
+SCOTT past CHERYL watches below
+
+door work shed
+
+85 IN  WS
+
+He lifts work bench secures body
+
+number chains hang nails
+
+wall He rips tarp hanging
+
+wall reveal chain saw He starts moves
+
+her Buzzing madly saw lowered
+
+position inches LINDAs neck ASHLY looks
+
+LINDAs face Her eyes gone blue He
+
+turns saw
+
+ASHLY
+
+In whisper Linda
+
+He drops saw breaks crying LINDAs
+
+body
+
+86 EN  CAB
+
+An evening mist drifts woods cloaks
+
+shed ASHLY carries LINDAs body outside burial
+
+He lays body ground picks shovel
+
+Harsh floodlights corners cabin create
+
+strange shadows ground ASHLY digs LINDAs
+
+grave She lies digging One
+
+eyes opens It white ASHLY drops shovel
+
+looks her She appears dead
+
+87 IN  MR
+
+Inside cabin CHERYL begins slamming fists
+
+trap door cellar again She wants
+
+out The screws holding hatch place begin
+
+loosen
+
+88 EN  CAB
+
+ASHLY places LINDAs corpse grave oblivious
+
+CHERYLs pounding He begins cover dirt
+
+89 IN  MR
+
+CHERYL ripped screw holds
+
+trap door tact
+
+90 EN  CAB
+
+ASHLY glances grave sees LINDAs necklace
+
+dirt mound He reaches pick
+
+LINDAs hand shoots beneath grave
+
+grabs him She pulls grave scream
+
+ing clutches ASHLYs leg black bloodied
+
+hand He twists around trying free himself
+
+let go By now LINDA completely
+
+grave With fingernails rips ASHLYs
+
+leg tearing skin Screaming picks large
+
+log nearby swings roundhouse face
+
+again breaking wood smaller bits She grabs
+
+log clinging end lifts
+
+throws ASHLY log all away her ASHLY
+
+hits ground considerable force
+
+time begins comprehend power thing
+
+dealing with Thick black ooze pours LINDAs
+
+nose mouth turns ASHLY sprawled
+
+ground
+
+ASHLY
+
+Stay back
+
+His hand gropes handle spade LINDA
+
+advances him laughing
+
+ASHLY
+
+Linda please hear
+
+me Keep away
+
+His fingers tighten wooden handle With scream
+
+lunges him From ground ASHLY swings
+
+spade upward lopping head The head falls
+
+mud body falls him grabbing jerk
+
+ing spasmatically Thick black ooze pumps
+
+neck ASHLY manages pull
+
+underneath body He backs away disgust falls
+
+He picks sees LINDAs necklace
+
+ground ASHLY stashes pocket
+
+staggers cabin
+
+91 IN  MR
+
+Inside looks main room SCOTTs body
+
+ASHLY
+
+Oh
+
+It moan deep inside him The trap door open
+
+CHERYL gone ASHLY walks kicks shut
+
+A slight breeze sweeps door causing
+
+SHELLYs bedroom door creak open ASHLY picks
+
+rifle cautiously moves door
+
+92 IN  SB
+
+He enters The room dark closet door bangs
+
+forth breeze ASHLY moves
+
+it grabs handle slowly opens door Only
+
+clothes inside He turns end
+
+room CHERYL pops window right him
+
+He swings fires shattering window CHERYL
+
+backs away spots open door
+
+ASHLY
+
+The door
+
+He makes mad dash SHELLYs room
+
+93 IN  MR
+
+In main room ASHLY races door
+
+94 EN  CAB
+
+Outside CHERYL door
+
+95 IN  MR
+
+ASHLY arrives time CHERYL started
+
+reaching in He slams door fingers rams
+
+gun butt them Horrible screams heard
+
+CHERYL withdraws hand ASHLY able slam
+
+door bolt it He runs entrance lead
+
+ing shed locks also On way
+
+main room pumps rifle preparation It
+
+shell
+
+ASHLY
+
+To himself More shells Where
+
+I box shells
+
+96 IN  C
+
+From basement trap door lifts open ASHLY
+
+decends The step rotten breaks
+
+weight ASHLY sprawls floor Slowly picks
+
+walks dividing stone doorway
+
+beneath water pipes small table On it finds
+
+box shells quickly loads gun
+
+He ascends steps enters main room more
+
+97 IN  MR
+
+The sound ticking catches ASHLYs attention He looks
+
+old grandfather clock slowly winding back
+
+wards He watches waits tensely Turning carefully
+
+ASHLY tries monitor windows The ticking grows
+
+louder A shadow passes window
+
+fires shattering glass million pieces Wind
+
+whips cabin swirling glass leaves
+
+floor ASHLY waits leaning door
+
+happen He tense determined
+
+survive He whispers himself
+
+ASHLY
+
+Cmon cmon with
+
+torturing like this
+
+Placing hand side ASHLY discovers
+
+pocket He lifts eyes It LINDAs
+
+necklace
+
+ASHLY
+
+Linda He whispers
+
+The ticking stops He tilts head slightest
+
+sound All silent From behind arms rip
+
+door grab him ASHLY tears away falls
+
+floor The necklace tossed away confusion
+
+CHERYLs hands pull away looks hole
+
+door From floor ASHLY raises rifle
+
+fires head
+
+98 EN  CAB
+
+Clutching face screaming horribly CHERYL
+
+jolted door
+
+99 IN  MR
+
+ASHLY places dresser chair holes
+
+door Behind ASHLY SCOTTs corpse sits opens
+
+white eyes It stands moves ASHLY He
+
+turns gun SCOTT knocks hands
+
+Desperately ASHLY grabs table lamp shatters
+
+SCOTTs head jams exposed socket
+
+face shocking him SCOTT staggers
+
+steps continues ASHLY
+
+100 EN  CAB
+
+Outside Cheryl pounding door
+
+101 IN  MR
+
+ASHLY picks small table Book Of
+
+The Dead professors journal He throws
+
+SCOTT This affect him advances closer
+
+The Book Of The Dead lands near fireplace edges
+
+paper darken heat SCOTT picks ASHLY
+
+begins throttle rag doll The
+
+door begins CHERYLs pounding ASHLY
+
+brings hands SCOTTs eyes With crash CHERYL
+
+breaks door begins push
+
+dresser away Pages Book Of The Dead smolder
+
+ing now ASHLY jams fingers SCOTTs eyes
+
+slips grip SCOTT clutches eye sockets
+
+begins smolder ASHLY sees book Its
+
+pages burn edge CHERYL topples dresser
+
+enters room Her face partially torn away
+
+shot gun blast ASHLY rushes throw book
+
+burning logs CHERYL smoldering also gives
+
+backhand blow head sent
+
+sprawling floor She grabs fireplace poker
+
+crushed fingers turns ASHLY crawl
+
+ing fireplace When reach
+
+book SCOTT grabs leg begins pull ASHLY back
+
+ward CHERYL approaches smoke pouring
+
+clothes slams ASHLY poker
+
+ASHLY screams A glitter catches eye It LINDAs
+
+necklace Grabbing it tosses end clasp
+
+book It slides cover SCOTT pulls
+
+ASHLY swings necklace
+
+desperate attempt CHERYL raises poker
+
+final blow The necklace drapes book
+
+ASHLY dragged clasp hooks cover pulls
+
+book him With yank seizes book
+
+tosses blaze
+
+CHERYL SCOTT freeze The Book Of The Dead burns
+
+bluish green flame Smoke pours SCOTT CHERYL
+
+distant demonical screams heard woods
+
+The fireplace poker slips CHERYLs hand sticks
+
+wood scarcely inch ASHLYs head The
+
+bodies SCOTT CHERYL begin cave inward
+
+themselves collapsing floor smoldering
+
+heaps Finally left burnt clothing
+
+blackish grey ooze floor bodies
+
+were
+
+The old clock begins tick again normally ASHLY slowly
+
+climbs feet stand fuming debris Open
+
+ing hand looks LINDAs necklace The force
+
+retreats him door slowly returning
+
+darkness emerged Gradually natural
+
+sounds forest swell trees lose gloom
+
+Autumn colors return The rays sunlight gleam
+
+woods cabin Daybreak finally
+
+come
+

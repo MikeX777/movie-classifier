@@ -1,0 +1,6453 @@
+1
+00:00:17,390 --> 00:00:20,732
+Island of grace
+
+2
+00:01:30,486 --> 00:01:31,529
+Mark's here.
+
+3
+00:01:43,618 --> 00:01:44,315
+Hey, Megan.
+
+4
+00:01:44,623 --> 00:01:45,441
+Hi, Mark.
+
+5
+00:01:48,006 --> 00:01:50,169
+Lucky.
+He doesn't even know my name.
+
+6
+00:01:50,169 --> 00:01:50,789
+You sure?
+
+7
+00:01:50,789 --> 00:01:53,351
+You find a way to slip it in
+every time you see him.
+
+8
+00:01:54,190 --> 00:01:57,020
+Still, you have to work at it
+to get noticed by the right guy.
+
+9
+00:01:57,314 --> 00:01:57,915
+Megan.
+
+10
+00:01:58,852 --> 00:01:59,526
+Later.
+
+11
+00:02:00,924 --> 00:02:02,503
+Hey, are you okay?
+
+12
+00:02:02,503 --> 00:02:03,703
+Yeah. Why?
+
+13
+00:02:03,703 --> 00:02:05,888
+You weren't
+at the Johnsons' last night
+
+14
+00:02:05,888 --> 00:02:06,885
+for the service project.
+
+15
+00:02:07,327 --> 00:02:08,290
+Oh, that.
+
+16
+00:02:08,792 --> 00:02:10,655
+I had plans with Kim
+and some others.
+
+17
+00:02:11,764 --> 00:02:13,728
+I thought you were
+in charge of it.
+
+18
+00:02:13,728 --> 00:02:16,328
+I handed it off to someone else.
+It went fine, right?
+
+19
+00:02:16,328 --> 00:02:18,130
+No big deal.
+
+20
+00:02:18,130 --> 00:02:19,321
+What'd you do last night?
+
+21
+00:02:20,043 --> 00:02:21,319
+We went to Pyro's.
+
+22
+00:02:21,319 --> 00:02:22,252
+The club.
+
+23
+00:02:23,546 --> 00:02:26,027
+You went clubbing
+on a Tuesday night?
+
+24
+00:02:26,384 --> 00:02:27,263
+It's ladies' night.
+
+25
+00:02:41,772 --> 00:02:42,507
+Yes?
+
+26
+00:02:42,507 --> 00:02:43,464
+Mark?
+
+27
+00:02:43,464 --> 00:02:46,339
+Your meeting with Mr. Davidson
+is about to start.
+
+28
+00:02:47,245 --> 00:02:47,880
+Thank you.
+
+29
+00:03:10,545 --> 00:03:11,751
+What are you
+doing here?
+
+30
+00:03:12,685 --> 00:03:14,152
+Davidson asked him
+to come.
+
+31
+00:03:16,874 --> 00:03:18,384
+So, do you guys know
+what this is all about?
+
+32
+00:03:18,384 --> 00:03:19,378
+I have no idea.
+
+33
+00:03:20,834 --> 00:03:23,057
+Good.
+We can start.
+
+34
+00:03:24,403 --> 00:03:27,536
+Hansu Technologies
+is licensing our C25 chip.
+
+35
+00:03:27,816 --> 00:03:29,232
+That's the Chinese company,
+right?
+
+36
+00:03:29,232 --> 00:03:31,428
+This is gonna be used for
+their new wireless media player.
+
+37
+00:03:31,428 --> 00:03:33,178
+They're finally ready
+to move forward on it.
+
+38
+00:03:33,178 --> 00:03:34,399
+They're getting ready
+to manufacture it
+
+39
+00:03:34,399 --> 00:03:36,965
+at their Indonesia plant,
+so I want you there.
+
+40
+00:03:36,965 --> 00:03:37,921
+Great.
+
+41
+00:03:38,443 --> 00:03:40,187
+You know this thing
+inside and out,
+
+42
+00:03:40,187 --> 00:03:43,558
+so I need you to make sure
+they don't change their minds.
+
+43
+00:03:43,558 --> 00:03:44,498
+Done.
+
+44
+00:03:45,086 --> 00:03:47,571
+And, uh, Megan.
+
+45
+00:03:47,571 --> 00:03:49,899
+You'll be handling this account
+as we move forward.
+
+46
+00:03:50,113 --> 00:03:51,251
+Me?
+
+47
+00:03:51,674 --> 00:03:53,083
+You excel
+in your responsibilities.
+
+48
+00:03:53,083 --> 00:03:54,757
+You show great promise.
+
+49
+00:03:55,414 --> 00:03:57,713
+Plus, Mark here thought
+it might be a good fit.
+
+50
+00:03:57,713 --> 00:03:59,520
+Thank you.
+
+51
+00:04:00,194 --> 00:04:03,290
+Chris, you'll help with
+the technical implementation.
+
+52
+00:04:03,521 --> 00:04:04,485
+Yes, sir.
+
+53
+00:04:04,948 --> 00:04:06,043
+Paul can't come?
+
+54
+00:04:06,253 --> 00:04:07,608
+His wife is due any day.
+
+55
+00:04:07,608 --> 00:04:09,442
+And I understand
+Chris here speaks Chinese.
+
+56
+00:04:10,089 --> 00:04:10,852
+I do.
+
+57
+00:04:12,003 --> 00:04:13,140
+You speak Chinese?
+
+58
+00:04:15,259 --> 00:04:17,122
+I thought we were
+going to Indonesia.
+
+59
+00:04:17,383 --> 00:04:19,495
+Most of their top executives
+are Chinese.
+
+60
+00:04:19,495 --> 00:04:20,696
+It could be useful.
+
+61
+00:04:20,696 --> 00:04:22,634
+Check with Linda
+for your travel arrangements.
+
+62
+00:04:22,913 --> 00:04:24,790
+You leave tomorrow.
+That's it.
+
+63
+00:04:25,038 --> 00:04:25,724
+Thanks.
+
+64
+00:04:30,345 --> 00:04:31,366
+It's just
+a business trip.
+
+65
+00:04:31,366 --> 00:04:32,499
+I know.
+
+66
+00:04:33,352 --> 00:04:34,737
+So, what are you
+so excited about?
+
+67
+00:04:34,737 --> 00:04:37,267
+I'm finally getting somewhere.
+Did you hear what he said?
+
+68
+00:04:37,267 --> 00:04:38,875
+Yeah, that's
+pretty flattering.
+
+69
+00:04:38,875 --> 00:04:40,973
+And I get to travel
+and see the world.
+
+70
+00:04:40,973 --> 00:04:44,499
+And spend some time with Mark Taylor.
+- There is that.
+
+71
+00:04:45,252 --> 00:04:47,458
+I just heard. You get to
+go somewhere with Mark.
+
+72
+00:04:47,458 --> 00:04:49,108
+How'd you hear so soon?
+- Linda.
+
+73
+00:04:49,108 --> 00:04:50,439
+So, it's just you
+and Mark?
+
+74
+00:04:50,439 --> 00:04:52,334
+No.
+Chris is going, too.
+
+75
+00:04:54,812 --> 00:04:55,371
+Thanks.
+
+76
+00:04:56,684 --> 00:04:58,251
+And it's just business.
+
+77
+00:04:58,251 --> 00:04:59,687
+What are you
+gonna wear?
+
+78
+00:04:59,687 --> 00:05:00,908
+I have no idea.
+
+79
+00:05:01,159 --> 00:05:02,983
+Oh, it's okay.
+I'll come over after work.
+
+80
+00:05:10,760 --> 00:05:11,734
+Exciting meeting?
+
+81
+00:05:14,063 --> 00:05:14,712
+What?
+
+82
+00:05:15,592 --> 00:05:18,384
+I get to go on a trip
+with Mark Taylor.
+
+83
+00:05:18,624 --> 00:05:22,263
+Wow. I know 15 women in this
+office who would kill to be you.
+
+84
+00:05:22,263 --> 00:05:23,607
+That's a first.
+
+85
+00:05:24,213 --> 00:05:25,636
+You don't want to go?
+
+86
+00:05:25,636 --> 00:05:27,050
+Would you?
+
+87
+00:05:27,050 --> 00:05:28,712
+He'll sweet-talk his way
+past everyone,
+
+88
+00:05:28,931 --> 00:05:30,359
+and then
+double-cross them.
+
+89
+00:05:32,000 --> 00:05:34,252
+He took all the credit
+for the work we did on the C25,
+
+90
+00:05:34,464 --> 00:05:36,904
+and he got Brett fired
+and moved us to the basement.
+
+91
+00:05:36,904 --> 00:05:38,545
+You think he's changed?
+
+92
+00:05:40,096 --> 00:05:40,657
+No.
+
+93
+00:05:41,275 --> 00:05:44,135
+But I don't know.
+Mark's going places.
+
+94
+00:05:44,135 --> 00:05:45,630
+He's already
+upper management.
+
+95
+00:05:45,630 --> 00:05:47,967
+Pretty soon, he's going to be
+chief something-or-other.
+
+96
+00:05:47,967 --> 00:05:50,838
+Might not be a bad idea to let
+it go, get on his good side.
+
+97
+00:05:50,838 --> 00:05:52,590
+Why should I trust him?
+
+98
+00:05:53,825 --> 00:05:55,928
+Do you really want to
+back out of the trip?
+
+99
+00:05:56,971 --> 00:05:57,763
+No.
+
+100
+00:06:00,231 --> 00:06:01,652
+At least there's
+an upside.
+
+101
+00:06:02,338 --> 00:06:03,840
+Megan's going, too.
+
+102
+00:06:03,840 --> 00:06:05,133
+Really?
+
+103
+00:06:05,489 --> 00:06:06,719
+Maybe you'll finally
+ask her out.
+
+104
+00:06:08,042 --> 00:06:09,980
+I'm just waiting
+for the right moment.
+
+105
+00:06:09,980 --> 00:06:11,881
+Yeah. How's that working out
+for you?
+
+106
+00:06:20,672 --> 00:06:21,532
+Mm, too tame.
+
+107
+00:06:28,141 --> 00:06:29,918
+What?
+Are you going to a funeral?
+
+108
+00:06:37,525 --> 00:06:38,373
+Why not?
+
+109
+00:06:40,335 --> 00:06:41,050
+Hang on.
+
+110
+00:06:41,050 --> 00:06:42,845
+Don't mind me.
+
+111
+00:06:45,559 --> 00:06:46,342
+Hey, Chris.
+
+112
+00:06:46,342 --> 00:06:48,153
+Hey.
+Got your itinerary.
+
+113
+00:06:49,188 --> 00:06:50,925
+Oh, I forgot
+to pick it up.
+
+114
+00:06:50,925 --> 00:06:53,140
+Linda came looking for you,
+but you'd already left.
+
+115
+00:06:53,140 --> 00:06:54,501
+So I told her
+I'd bring it by.
+
+116
+00:06:55,270 --> 00:06:56,907
+There's a commercial flight
+to Malaysia,
+
+117
+00:06:57,373 --> 00:07:00,380
+then some jet to,
+uh, Kupang - Kupong.
+
+118
+00:07:00,591 --> 00:07:02,202
+Thanks.
+
+119
+00:07:02,677 --> 00:07:04,388
+You have your passport,
+right?
+
+120
+00:07:04,959 --> 00:07:06,047
+Um...
+
+121
+00:07:07,475 --> 00:07:08,080
+Hang on.
+
+122
+00:07:09,689 --> 00:07:11,535
+You know,
+I know I have one.
+
+123
+00:07:13,216 --> 00:07:14,142
+That's good.
+
+124
+00:07:14,818 --> 00:07:15,905
+Where is it?
+
+125
+00:07:16,879 --> 00:07:18,887
+So, how do you know
+Chinese?
+
+126
+00:07:19,571 --> 00:07:21,877
+I did a study-abroad thing
+in college.
+
+127
+00:07:21,877 --> 00:07:24,189
+Really?
+That's a weird choice.
+
+128
+00:07:24,189 --> 00:07:27,467
+1.5 billion Chinese people.
+Smart choice.
+
+129
+00:07:27,957 --> 00:07:32,815
+Well, I hope we can explore
+a little while we're in, um...
+
+130
+00:07:32,815 --> 00:07:34,574
+Indonesia.
+Right.
+
+131
+00:07:35,292 --> 00:07:37,557
+I don't know if we're gonna have
+much time for fun on this trip.
+
+132
+00:07:37,983 --> 00:07:40,039
+Why not?
+It's business.
+
+133
+00:07:40,039 --> 00:07:43,182
+A day to travel there, a day
+back, two days of meetings,
+
+134
+00:07:43,182 --> 00:07:45,111
+not to mention
+the time difference.
+
+135
+00:07:45,111 --> 00:07:46,990
+We'll make time for fun.
+
+136
+00:07:46,990 --> 00:07:48,457
+That'd be nice.
+
+137
+00:07:48,457 --> 00:07:49,702
+You know, I -
+
+138
+00:07:51,244 --> 00:07:54,103
+I don't get to see you
+a whole lot outside of work.
+
+139
+00:07:54,103 --> 00:07:56,356
+Uh, is that
+your subtle way
+
+140
+00:07:56,356 --> 00:07:58,271
+of bugging me
+about going to church?
+
+141
+00:07:59,823 --> 00:08:00,841
+Not really.
+
+142
+00:08:01,606 --> 00:08:03,496
+Well, i've been so busy...
+
+143
+00:08:04,074 --> 00:08:05,934
+Hey, it's your life.
+
+144
+00:08:05,934 --> 00:08:06,726
+Thank you.
+
+145
+00:08:07,869 --> 00:08:09,754
+Doesn't mean I don't worry,
+though.
+
+146
+00:08:10,079 --> 00:08:12,003
+Worry?
+Chris, I -
+
+147
+00:08:12,293 --> 00:08:13,747
+Oh, found it!
+
+148
+00:08:14,711 --> 00:08:15,592
+Still valid?
+
+149
+00:08:17,660 --> 00:08:18,761
+Yes.
+
+150
+00:08:19,790 --> 00:08:21,822
+Shoes!
+- Shoes!
+
+151
+00:08:23,311 --> 00:08:25,524
+Well, I'll just leave you girls
+to your shoes.
+
+152
+00:08:25,524 --> 00:08:27,894
+Yeah.
+Thanks for bringing that over.
+
+153
+00:08:29,068 --> 00:08:31,818
+Gossiping about guys.
+
+154
+00:08:34,953 --> 00:08:36,317
+Those kill my feet.
+
+155
+00:08:36,644 --> 00:08:38,298
+But they look so sexy.
+
+156
+00:08:39,324 --> 00:08:41,028
+So, what did Chris want?
+
+157
+00:08:41,028 --> 00:08:43,474
+I forgot something at work,
+so he brought it for me.
+
+158
+00:08:43,474 --> 00:08:45,727
+That was nice of him.
+
+159
+00:08:45,727 --> 00:08:46,072
+Yeah.
+
+160
+00:08:47,126 --> 00:08:49,166
+No. It's not like that.
+
+161
+00:08:49,166 --> 00:08:50,585
+We go to the same church.
+
+162
+00:08:50,821 --> 00:08:53,944
+Really? I didn't ever peg you
+as the churchy type.
+
+163
+00:08:54,211 --> 00:08:57,665
+Now, Chris, that actually
+explains so much.
+
+164
+00:08:58,693 --> 00:08:59,800
+A swimsuit.
+
+165
+00:09:01,040 --> 00:09:03,047
+I don't think
+we'll be going swimming at all.
+
+166
+00:09:03,047 --> 00:09:04,743
+Do you want
+to risk that?
+
+167
+00:09:08,269 --> 00:09:10,258
+don't you have a bikini?
+
+168
+00:09:10,530 --> 00:09:12,640
+Yeah, but I don't wear it
+that much.
+
+169
+00:09:12,640 --> 00:09:14,560
+You do now.
+Where is it?
+
+170
+00:09:19,427 --> 00:09:21,233
+Much better.
+
+171
+00:09:23,510 --> 00:09:24,370
+You're so lucky.
+
+172
+00:09:24,370 --> 00:09:26,553
+Everyone at work
+was talking about you today.
+
+173
+00:09:26,803 --> 00:09:28,327
+Nothing nice, I bet.
+
+174
+00:09:28,327 --> 00:09:31,494
+Oh, no, just gossip.
+They're just jealous.
+
+175
+00:09:31,965 --> 00:09:33,662
+Why?
+Nothing's going to happen.
+
+176
+00:09:33,941 --> 00:09:35,638
+Besides,
+Chris will be there.
+
+177
+00:09:35,638 --> 00:09:37,366
+Everyone was worried
+until they heard that.
+
+178
+00:09:37,366 --> 00:09:38,573
+If it was just you
+and Mark,
+
+179
+00:09:38,573 --> 00:09:41,447
+you guys would probably end up
+coming back an item.
+
+180
+00:09:41,447 --> 00:09:42,509
+I doubt it.
+
+181
+00:09:42,509 --> 00:09:45,941
+And, besides,
+he's always dating someone.
+
+182
+00:09:45,941 --> 00:09:48,114
+Yeah, that someone
+could be you.
+
+183
+00:10:00,758 --> 00:10:02,302
+Morning.
+- Hi.
+
+184
+00:10:03,228 --> 00:10:05,190
+Thank you.
+
+185
+00:10:05,190 --> 00:10:05,953
+Good morning.
+
+186
+00:10:05,953 --> 00:10:07,164
+Hi, Mark.
+
+187
+00:10:07,616 --> 00:10:08,704
+Nice bag.
+
+188
+00:10:08,704 --> 00:10:10,019
+Megan's.
+
+189
+00:10:10,561 --> 00:10:12,371
+You guys should get checked in.
+I'll see you when we land.
+
+190
+00:10:12,760 --> 00:10:13,887
+You're not flying
+with us?
+
+191
+00:10:14,576 --> 00:10:16,034
+Yeah,
+but I'm in first class.
+
+192
+00:10:16,518 --> 00:10:17,329
+Of course you are.
+
+193
+00:10:43,776 --> 00:10:45,030
+Not bad.
+
+194
+00:10:46,407 --> 00:10:47,904
+Should be better
+than coach.
+
+195
+00:10:47,904 --> 00:10:49,386
+Can't be worse.
+
+196
+00:10:53,313 --> 00:10:54,212
+Hello?
+
+197
+00:10:56,268 --> 00:10:57,012
+Hi, Jenna.
+
+198
+00:10:58,323 --> 00:10:59,326
+Oh, here.
+
+199
+00:11:05,643 --> 00:11:07,224
+Do you always
+carry that?
+
+200
+00:11:08,192 --> 00:11:09,546
+I'm a tech guy.
+
+201
+00:11:11,538 --> 00:11:12,605
+MacGyver.
+
+202
+00:11:14,318 --> 00:11:16,226
+I had
+a lot of fun, too.
+
+203
+00:11:16,754 --> 00:11:17,427
+Well, sure.
+
+204
+00:11:17,427 --> 00:11:20,720
+I'm out of town right now,
+but that'd be fun.
+
+205
+00:11:21,705 --> 00:11:23,080
+No, no.
+
+206
+00:11:23,784 --> 00:11:25,000
+I'll call you this time.
+
+207
+00:11:25,000 --> 00:11:26,254
+I promise.
+
+208
+00:11:26,913 --> 00:11:27,910
+Okay.
+
+209
+00:11:29,005 --> 00:11:29,566
+Sorry.
+
+210
+00:11:30,290 --> 00:11:31,225
+Girlfriend?
+
+211
+00:11:31,439 --> 00:11:32,625
+No.
+Just a date.
+
+212
+00:11:33,281 --> 00:11:35,186
+It didn't work out?
+
+213
+00:11:35,436 --> 00:11:38,505
+Well, I just prefer somebody
+a little closer to my height.
+
+214
+00:11:39,219 --> 00:11:40,898
+What?
+Is she short?
+
+215
+00:11:41,553 --> 00:11:42,312
+Yeah.
+
+216
+00:11:42,544 --> 00:11:44,035
+She can't be
+that short.
+
+217
+00:11:44,865 --> 00:11:46,092
+Well,
+when you look at her,
+
+218
+00:11:46,092 --> 00:11:48,437
+you just assume she's further
+away than she really is.
+
+219
+00:11:48,437 --> 00:11:50,568
+When she's right next to you,
+you just can't ignore it.
+
+220
+00:11:51,830 --> 00:11:54,408
+Look, don't judge me.
+I don't really like dating.
+
+221
+00:11:54,408 --> 00:11:55,831
+It's worth it
+when you find someone,
+
+222
+00:11:56,361 --> 00:11:58,834
+but, otherwise, it's just date
+after date after date.
+
+223
+00:11:58,834 --> 00:12:00,232
+Sounds real tough.
+
+224
+00:12:00,550 --> 00:12:02,338
+You know
+what I'm talking about.
+
+225
+00:12:02,338 --> 00:12:03,704
+Well...
+
+226
+00:12:03,704 --> 00:12:04,876
+Or not.
+
+227
+00:12:05,815 --> 00:12:08,032
+Come on.
+It can't be that bad for you.
+
+228
+00:12:08,032 --> 00:12:11,311
+You're probably breaking hearts
+every weekend, aren't you?
+
+229
+00:12:11,515 --> 00:12:13,532
+No, not really.
+
+230
+00:12:13,532 --> 00:12:14,343
+Come on.
+
+231
+00:12:17,361 --> 00:12:18,910
+This is going to be fun.
+
+232
+00:12:27,995 --> 00:12:29,285
+Okay,
+a few things to remember.
+
+233
+00:12:29,285 --> 00:12:32,192
+Hansu Technologies needs us
+just as bad as we need them,
+
+234
+00:12:32,192 --> 00:12:33,710
+but don't let them
+know that.
+
+235
+00:12:33,710 --> 00:12:35,946
+Be professional,
+but keep the upper hand.
+
+236
+00:12:35,946 --> 00:12:37,846
+And don't do anything
+to mess this up.
+
+237
+00:12:39,097 --> 00:12:40,275
+What's the scope
+of the contract?
+
+238
+00:12:40,275 --> 00:12:43,472
+Deal points on page 4.
+We need to memorize these, okay?
+
+239
+00:12:43,472 --> 00:12:45,347
+I don't want any confusion
+on our part.
+
+240
+00:12:46,290 --> 00:12:48,980
+There's some power issues with
+this chip for what they need.
+
+241
+00:12:48,980 --> 00:12:51,129
+It might be better to have
+a different configuration.
+
+242
+00:12:51,129 --> 00:12:53,101
+Just tell them
+what they need to hear, okay?
+
+243
+00:12:54,926 --> 00:12:56,084
+What was that?
+
+244
+00:12:56,458 --> 00:12:58,158
+I think it was a bird.
+
+245
+00:13:01,241 --> 00:13:03,161
+We're losing power.
+Reduce speed.
+
+246
+00:13:03,161 --> 00:13:04,349
+Is everything okay?
+
+247
+00:13:04,349 --> 00:13:06,454
+Mr. Taylor, stay in your seat
+and strap in.
+
+248
+00:13:08,466 --> 00:13:09,390
+Well, what happened?
+
+249
+00:13:09,390 --> 00:13:11,223
+Left engine's failing.
+
+250
+00:13:14,895 --> 00:13:17,053
+What's going on?
+- Left engine's on fire!
+
+251
+00:13:17,053 --> 00:13:18,286
+Pull the fire handle.
+
+252
+00:13:18,864 --> 00:13:20,466
+Are we going to be okay?
+
+253
+00:13:21,236 --> 00:13:23,414
+We're losing fuel pressure
+in the right engine.
+
+254
+00:13:23,414 --> 00:13:24,804
+Switching frequencies.
+
+255
+00:13:24,804 --> 00:13:26,634
+Mayday, mayday, mayday.
+
+256
+00:13:26,634 --> 00:13:30,809
+Control, this is a distress call
+for Nancy 294 Tango Lima.
+
+257
+00:13:31,767 --> 00:13:33,658
+Mayday, mayday, mayday.
+
+258
+00:13:33,658 --> 00:13:37,879
+Nancy 294 Tango Lima has lost
+power in its left engine.
+
+259
+00:13:37,879 --> 00:13:40,475
+Losing power in the right.
+We're descending rapidly.
+
+260
+00:13:40,475 --> 00:13:43,002
+Request
+immediate assistance.
+
+261
+00:13:43,002 --> 00:13:44,601
+We're still falling
+too fast.
+
+262
+00:13:44,601 --> 00:13:49,867
+Control, this is Nancy 294
+Tango Lima, losing altitude.
+
+263
+00:13:49,867 --> 00:13:51,909
+No one's answering.
+Take over on radio.
+
+264
+00:13:51,909 --> 00:13:53,562
+Mayday, mayday, mayday.
+
+265
+00:13:53,562 --> 00:13:57,269
+Any ATC,
+repeat, any Control Center.
+
+266
+00:13:57,269 --> 00:14:01,255
+Nancy 294 Tango Lima
+is losing altitude.
+
+267
+00:14:01,255 --> 00:14:02,598
+We're drifting off course.
+
+268
+00:14:02,598 --> 00:14:03,864
+We can't hold it.
+
+269
+00:14:03,864 --> 00:14:05,487
+There's something ahead.
+
+270
+00:14:05,487 --> 00:14:07,475
+Anywhere to land?
+- Maybe.
+
+271
+00:14:08,952 --> 00:14:10,192
+We're not going to make it.
+
+272
+00:14:10,192 --> 00:14:12,248
+We're gonna try
+a water landing.
+
+273
+00:14:12,248 --> 00:14:14,537
+Nose up!
+Mayday, mayday, mayday!
+
+274
+00:14:14,537 --> 00:14:17,447
+Nancy 294 Tango Lima
+is going down.
+
+275
+00:14:41,565 --> 00:14:42,557
+Where's Megan?
+
+276
+00:14:43,173 --> 00:14:44,759
+Did you get the raft?
+
+277
+00:14:44,759 --> 00:14:46,016
+What?
+
+278
+00:14:46,016 --> 00:14:47,985
+So we don't drown!
+
+279
+00:14:48,302 --> 00:14:49,739
+What raft?
+
+280
+00:14:50,210 --> 00:14:52,084
+The plane had one,
+didn't it?
+
+281
+00:14:52,084 --> 00:14:53,434
+Megan!
+
+282
+00:14:54,038 --> 00:14:55,814
+You should have
+grabbed it!
+
+283
+00:14:55,814 --> 00:14:57,176
+Help me find her.
+
+284
+00:15:04,961 --> 00:15:06,473
+What about sharks?
+
+285
+00:15:11,042 --> 00:15:12,175
+Megan!
+
+286
+00:15:13,720 --> 00:15:16,175
+Come here.
+You're okay.
+
+287
+00:15:20,723 --> 00:15:22,211
+Megan.
+
+288
+00:15:22,705 --> 00:15:23,991
+Are you okay?
+
+289
+00:15:24,577 --> 00:15:25,719
+Yeah.
+
+290
+00:15:28,058 --> 00:15:29,440
+Over there!
+
+291
+00:15:34,420 --> 00:15:36,990
+It's not too far.
+Think you can make it?
+
+292
+00:16:14,850 --> 00:16:16,171
+Where are the pilots?
+
+293
+00:16:21,013 --> 00:16:22,784
+I think
+I'm going to be sick.
+
+294
+00:16:24,139 --> 00:16:28,006
+It's okay, all right?
+Just -
+
+295
+00:16:28,006 --> 00:16:29,742
+Just breathe.
+
+296
+00:16:56,777 --> 00:16:57,948
+Chris.
+
+297
+00:16:58,841 --> 00:17:00,094
+Come here.
+
+298
+00:17:05,494 --> 00:17:06,791
+What's this?
+
+299
+00:17:06,791 --> 00:17:07,918
+Cellphone.
+
+300
+00:17:09,911 --> 00:17:12,042
+Do you think
+we get reception out here?
+
+301
+00:17:12,042 --> 00:17:14,822
+You're the tech guy.
+Maybe it'll help.
+
+302
+00:17:17,758 --> 00:17:18,977
+Are you hurt?
+
+303
+00:17:19,751 --> 00:17:21,607
+My neck is stiff.
+
+304
+00:17:21,963 --> 00:17:23,932
+He's stiff-necked.
+
+305
+00:17:23,932 --> 00:17:26,279
+Where do you
+think we are?
+
+306
+00:17:26,695 --> 00:17:28,327
+Indonesia, I think.
+
+307
+00:17:28,327 --> 00:17:31,527
+Where, though?
+Were we even close to Kupang?
+
+308
+00:17:32,056 --> 00:17:34,085
+All I know
+is we're on an island.
+
+309
+00:17:34,085 --> 00:17:36,734
+There's over 17,000 islands
+in Indonesia.
+
+310
+00:17:36,734 --> 00:17:38,185
+That doesn't
+narrow it down.
+
+311
+00:17:38,185 --> 00:17:39,602
+Great.
+
+312
+00:17:40,319 --> 00:17:41,787
+Seriously?
+
+313
+00:17:44,152 --> 00:17:44,935
+Hello!
+
+314
+00:17:45,813 --> 00:17:46,667
+What are you doing?
+
+315
+00:17:47,719 --> 00:17:49,765
+I don't think
+anybody heard you.
+
+316
+00:17:51,027 --> 00:17:53,104
+Well, why don't we use
+the cellphone?
+
+317
+00:17:53,104 --> 00:17:55,170
+Hello?
+Anyone out there?
+
+318
+00:17:55,170 --> 00:17:57,478
+There's nobody here.
+
+319
+00:17:57,717 --> 00:17:58,794
+Not that we can see.
+
+320
+00:17:58,794 --> 00:18:00,389
+The last thing we want
+is thinking we're stranded,
+
+321
+00:18:00,389 --> 00:18:05,413
+and there's actually a town
+or resort half a mile away.
+
+322
+00:18:08,429 --> 00:18:11,037
+Hello?
+Is anybody there?
+
+323
+00:18:25,215 --> 00:18:27,423
+I couldn't find anything
+close-by.
+
+324
+00:18:28,013 --> 00:18:30,838
+Maybe tomorrow
+we can search some more.
+
+325
+00:18:31,989 --> 00:18:34,881
+Plus, we need to find
+some water.
+
+326
+00:18:34,881 --> 00:18:36,840
+I could use some
+right now.
+
+327
+00:18:36,840 --> 00:18:38,154
+Yeah.
+
+328
+00:18:38,464 --> 00:18:40,417
+It's getting
+kind of dark.
+
+329
+00:18:40,417 --> 00:18:42,324
+We'll have to wait
+till morning.
+
+330
+00:18:42,324 --> 00:18:45,044
+With any luck, someone
+will have come for us by then.
+
+331
+00:18:45,044 --> 00:18:47,473
+Yeah, someone had
+our flight plan, right?
+
+332
+00:18:47,473 --> 00:18:49,805
+What about
+the black box?
+
+333
+00:18:49,805 --> 00:18:53,149
+Actually, that's for
+when they find the wreckage.
+
+334
+00:18:54,588 --> 00:18:56,570
+But someone had to notice,
+right?
+
+335
+00:18:56,570 --> 00:18:57,819
+Of course.
+
+336
+00:18:57,819 --> 00:18:59,994
+I'm sure someone noticed
+when we went off radar.
+
+337
+00:18:59,994 --> 00:19:02,325
+Plus, they're expecting us
+to land.
+
+338
+00:19:02,325 --> 00:19:06,198
+Between those two things,
+they'll be looking.
+
+339
+00:19:39,556 --> 00:19:41,151
+I'm ready to go home.
+
+340
+00:19:59,767 --> 00:20:03,534
+Uh. Rocks don't make
+good pillows.
+
+341
+00:20:04,006 --> 00:20:05,059
+You sore?
+
+342
+00:20:05,059 --> 00:20:07,310
+It's just my back.
+
+343
+00:20:07,310 --> 00:20:08,334
+Come here.
+
+344
+00:20:10,063 --> 00:20:12,687
+Oh, yeah.
+Right there.
+
+345
+00:20:26,935 --> 00:20:29,491
+Hey, do you guys see that?
+
+346
+00:20:42,267 --> 00:20:44,363
+Mark:
+Chris, go check it out.
+
+347
+00:20:51,271 --> 00:20:52,322
+You're not coming?
+
+348
+00:20:52,322 --> 00:20:55,953
+Dude, these shoes have
+no traction.
+
+349
+00:20:57,852 --> 00:20:59,637
+Be careful.
+
+350
+00:21:15,658 --> 00:21:16,742
+Thirsty?
+
+351
+00:21:17,661 --> 00:21:19,290
+Is that even good?
+
+352
+00:21:24,872 --> 00:21:26,070
+Yep.
+
+353
+00:21:40,584 --> 00:21:41,346
+Hey, Mark!
+
+354
+00:21:42,224 --> 00:21:43,477
+What is it?
+
+355
+00:21:46,221 --> 00:21:47,310
+My bag!
+
+356
+00:21:53,634 --> 00:21:55,817
+I don't suppose
+mine made it.
+
+357
+00:21:55,817 --> 00:21:56,978
+That brick?
+
+358
+00:21:56,978 --> 00:21:59,303
+That's at the bottom
+of the ocean.
+
+359
+00:22:02,230 --> 00:22:04,642
+Here.
+You want to take this back?
+
+360
+00:22:11,158 --> 00:22:13,042
+What is it?
+
+361
+00:22:15,228 --> 00:22:16,999
+It's one of the pilots.
+
+362
+00:22:18,494 --> 00:22:21,445
+Why don't you take that bag
+and see what we can use?
+
+363
+00:22:21,445 --> 00:22:23,037
+Mark, give me a hand.
+
+364
+00:22:23,037 --> 00:22:24,880
+With that?
+
+365
+00:22:24,880 --> 00:22:27,227
+Him. Yes.
+
+366
+00:22:27,227 --> 00:22:28,809
+Well, he's dead.
+
+367
+00:22:28,809 --> 00:22:31,021
+We can't
+leave him here.
+
+368
+00:22:31,433 --> 00:22:32,599
+Why not?
+
+369
+00:22:33,283 --> 00:22:34,225
+Remember the tide?
+
+370
+00:22:34,225 --> 00:22:37,663
+Do you want him washing up
+in the middle of the night?
+
+371
+00:22:39,561 --> 00:22:40,987
+Better to lay him
+to rest.
+
+372
+00:23:42,099 --> 00:23:44,980
+Thanks for all you did.
+
+373
+00:23:46,938 --> 00:23:47,705
+I'm so thirsty.
+
+374
+00:23:47,705 --> 00:23:49,663
+We should have had something
+ready to drink.
+
+375
+00:23:49,663 --> 00:23:53,682
+Hey, you had some orange juice.
+Besides, that needed to be done.
+
+376
+00:23:53,682 --> 00:23:54,441
+Fine.
+It's done.
+
+377
+00:23:54,441 --> 00:23:57,034
+Now we should seriously
+think about getting some water.
+
+378
+00:23:57,034 --> 00:23:59,318
+I'm all for it.
+
+379
+00:23:59,318 --> 00:24:01,533
+We can use these
+and refill them.
+
+380
+00:24:02,647 --> 00:24:04,946
+And I can finally get
+out of this shirt.
+
+381
+00:24:15,098 --> 00:24:16,087
+What?
+
+382
+00:24:16,087 --> 00:24:18,144
+Wasn't me.
+
+383
+00:24:18,628 --> 00:24:20,876
+Hey, can I use these?
+
+384
+00:24:20,876 --> 00:24:22,203
+Sure.
+
+385
+00:24:22,511 --> 00:24:24,669
+I can fix those.
+
+386
+00:24:24,669 --> 00:24:26,286
+Oh, thanks.
+
+387
+00:24:34,642 --> 00:24:35,649
+There you go.
+
+388
+00:24:35,970 --> 00:24:36,962
+Thanks.
+
+389
+00:24:56,416 --> 00:24:59,082
+I'll buy you a new pair of jeans
+when we get back.
+
+390
+00:24:59,082 --> 00:25:00,378
+Don't worry about it.
+
+391
+00:25:00,378 --> 00:25:01,766
+They look a little loose.
+
+392
+00:25:01,766 --> 00:25:04,831
+I'm glad, 'cause if we were
+the same size...
+
+393
+00:25:07,493 --> 00:25:09,986
+Here. Try this.
+
+394
+00:25:13,519 --> 00:25:15,593
+Sorry.
+You get the idea.
+
+395
+00:25:19,751 --> 00:25:21,020
+Not bad.
+
+396
+00:25:27,125 --> 00:25:28,476
+Let's go.
+
+397
+00:25:28,923 --> 00:25:30,753
+I'm not sure
+we should all go.
+
+398
+00:25:30,753 --> 00:25:32,207
+What do you mean?
+
+399
+00:25:32,207 --> 00:25:33,563
+What if a rescue comes?
+
+400
+00:25:33,563 --> 00:25:36,405
+If we're in the middle of
+the island, they can't find us.
+
+401
+00:25:36,405 --> 00:25:39,209
+You really think they're
+gonna find us that quickly?
+
+402
+00:25:39,209 --> 00:25:42,210
+I'm a V.P. in the company.
+Of course they'll come.
+
+403
+00:25:42,210 --> 00:25:43,722
+All right,
+you can stay.
+
+404
+00:25:43,722 --> 00:25:45,371
+But it's gonna be awhile
+before we find water
+
+405
+00:25:45,371 --> 00:25:47,848
+and bring it back
+to you.
+
+406
+00:25:48,880 --> 00:25:52,818
+Plus, if we're lucky,
+we'll find some food.
+
+407
+00:25:55,703 --> 00:25:57,021
+Okay.
+
+408
+00:26:06,311 --> 00:26:08,308
+I could really go for a burger
+right now.
+
+409
+00:26:09,577 --> 00:26:11,912
+Or a nice cut
+of filet mignon.
+
+410
+00:26:12,229 --> 00:26:14,000
+I'm up for any food.
+
+411
+00:26:14,456 --> 00:26:16,475
+There's always that.
+
+412
+00:26:17,025 --> 00:26:18,733
+I'm not that hungry.
+
+413
+00:26:21,688 --> 00:26:24,244
+Hey, can you guys
+wait a minute?
+
+414
+00:26:24,475 --> 00:26:25,724
+What's wrong?
+
+415
+00:26:25,724 --> 00:26:27,336
+Nothing.
+
+416
+00:26:28,662 --> 00:26:29,821
+Where are you going?
+
+417
+00:26:33,447 --> 00:26:34,748
+Nature's calling.
+
+418
+00:26:36,752 --> 00:26:37,854
+Be careful.
+
+419
+00:26:38,790 --> 00:26:40,944
+So, how do you
+know Megan?
+
+420
+00:26:41,292 --> 00:26:43,417
+Aside from work?
+
+421
+00:26:43,726 --> 00:26:44,430
+Yeah.
+
+422
+00:26:44,430 --> 00:26:46,711
+We go to the same church.
+
+423
+00:26:47,038 --> 00:26:47,878
+Really?
+
+424
+00:26:49,335 --> 00:26:52,894
+So, she's like
+a religious type?
+
+425
+00:26:54,494 --> 00:26:55,883
+I was talking.
+
+426
+00:26:57,208 --> 00:26:58,544
+Mark, catch.
+
+427
+00:27:08,281 --> 00:27:10,633
+There you are.
+Fruit?
+
+428
+00:27:10,633 --> 00:27:12,592
+No bugs.
+
+429
+00:27:16,305 --> 00:27:18,728
+Hey, look what Mark
+got us.
+
+430
+00:27:26,599 --> 00:27:29,415
+Well, if we don't find water,
+we can make juice.
+
+431
+00:27:29,415 --> 00:27:32,205
+We should also see
+what else we can find to eat.
+
+432
+00:27:32,205 --> 00:27:34,397
+There's always fish.
+Gross.
+
+433
+00:27:34,743 --> 00:27:35,602
+What?
+
+434
+00:27:35,602 --> 00:27:37,786
+I don't like seafood.
+
+435
+00:27:37,786 --> 00:27:40,149
+I don't think you're gonna find
+a cow on the island.
+
+436
+00:27:40,350 --> 00:27:41,120
+I can dream.
+
+437
+00:27:41,120 --> 00:27:42,896
+Do we even know
+where we're going?
+
+438
+00:27:43,494 --> 00:27:44,855
+Not really.
+
+439
+00:27:44,855 --> 00:27:47,014
+So, we could be walking
+in circles.
+
+440
+00:27:47,014 --> 00:27:49,661
+Who knows? I left the map
+back at the beach.
+
+441
+00:27:50,086 --> 00:27:51,455
+Great.
+
+442
+00:27:51,455 --> 00:27:54,038
+We are doomed.
+
+443
+00:27:56,165 --> 00:27:57,353
+Hey, if you think
+you can do better...
+
+444
+00:27:57,353 --> 00:27:59,498
+I don't think.
+I know.
+
+445
+00:27:59,826 --> 00:28:01,601
+Megan: Guys.
+- Lead the way.
+
+446
+00:28:01,601 --> 00:28:03,978
+Do you hear that?
+I will.
+
+447
+00:28:03,978 --> 00:28:06,259
+They're just birds.
+
+448
+00:28:09,064 --> 00:28:11,665
+Those aren't birds.
+
+449
+00:28:14,229 --> 00:28:16,191
+Bats! Go!
+
+450
+00:28:20,750 --> 00:28:21,657
+Bats! Bats!
+
+451
+00:28:21,657 --> 00:28:22,428
+Bats!
+
+452
+00:28:23,423 --> 00:28:26,216
+Get away! Get away!
+
+453
+00:28:28,435 --> 00:28:29,687
+Water!
+
+454
+00:28:30,405 --> 00:28:31,159
+Water!
+
+455
+00:28:44,251 --> 00:28:45,743
+You screamed
+like a girl.
+
+456
+00:28:45,743 --> 00:28:47,326
+I am a girl!
+
+457
+00:28:47,326 --> 00:28:48,884
+I was talking about Mark.
+
+458
+00:28:56,062 --> 00:28:59,251
+I hope Hansu Technologies
+doesn't back out.
+
+459
+00:28:59,251 --> 00:29:00,749
+Seriously?
+
+460
+00:29:00,749 --> 00:29:02,878
+That's what
+you're hoping for?
+
+461
+00:29:03,186 --> 00:29:04,681
+Well, word is gonna reach
+our competitors.
+
+462
+00:29:04,681 --> 00:29:07,597
+I don't want to lose the deal
+'cause we took too long.
+
+463
+00:29:07,597 --> 00:29:10,062
+I think we have
+bigger problems.
+
+464
+00:29:13,022 --> 00:29:16,363
+It's hard to think of work
+when we're here.
+
+465
+00:29:16,363 --> 00:29:18,717
+You're right.
+
+466
+00:29:18,717 --> 00:29:21,005
+Chris told me something
+that caught me off guard.
+
+467
+00:29:21,265 --> 00:29:22,269
+What?
+
+468
+00:29:23,265 --> 00:29:25,025
+Church?
+
+469
+00:29:26,269 --> 00:29:28,561
+He told you about that?
+
+470
+00:29:29,487 --> 00:29:31,253
+It's cute.
+
+471
+00:29:31,456 --> 00:29:33,270
+Sure, it is.
+
+472
+00:29:33,270 --> 00:29:35,271
+I've never heard
+that one before.
+
+473
+00:29:35,271 --> 00:29:37,878
+I've never known
+any church patrons,
+
+474
+00:29:37,878 --> 00:29:39,373
+or whatever you call them.
+
+475
+00:29:39,373 --> 00:29:40,873
+I don't know
+that I'm a...
+
+476
+00:29:40,873 --> 00:29:43,987
+it's just church.
+
+477
+00:29:44,316 --> 00:29:45,160
+What's that?
+
+478
+00:29:46,208 --> 00:29:48,763
+We were just talking about
+how you two know each other.
+
+479
+00:29:51,267 --> 00:29:53,898
+We should start
+to get back.
+
+480
+00:29:54,941 --> 00:29:56,834
+Why did you tell him?
+
+481
+00:29:56,834 --> 00:29:57,781
+What?
+
+482
+00:29:57,781 --> 00:30:00,424
+You told him
+about church.
+
+483
+00:30:00,625 --> 00:30:01,563
+Yeah, so?
+
+484
+00:30:01,563 --> 00:30:04,081
+You don't tell anyone
+about that.
+
+485
+00:30:04,081 --> 00:30:05,492
+Why not?
+It's a part of you.
+
+486
+00:30:05,492 --> 00:30:07,600
+No.
+I mean, yes, but...
+
+487
+00:30:07,600 --> 00:30:09,288
+What?
+Are you ashamed of it?
+
+488
+00:30:09,288 --> 00:30:10,414
+No.
+I'm sorry.
+
+489
+00:30:10,414 --> 00:30:14,291
+I don't broadcast it
+like you do.
+
+490
+00:30:14,689 --> 00:30:16,325
+I'm tired of standing out.
+
+491
+00:30:17,096 --> 00:30:18,579
+It's not that easy
+for me.
+
+492
+00:30:19,571 --> 00:30:21,839
+It might not be, but that's
+kind of the point, isn't it?
+
+493
+00:30:22,243 --> 00:30:23,112
+Sure, you say that.
+
+494
+00:30:22,487 --> 00:30:24,396
+Your full name
+is Christian Russell.
+
+495
+00:30:24,396 --> 00:30:26,735
+you have religian ingrained
+ since you where born.
+
+496
+00:30:38,249 --> 00:30:39,171
+Thank you.
+
+497
+00:30:41,634 --> 00:30:43,072
+Have you heard?
+- It's awful.
+
+498
+00:30:43,072 --> 00:30:43,922
+What?
+
+499
+00:30:43,922 --> 00:30:45,900
+The charter plane
+went down yesterday.
+
+500
+00:30:46,197 --> 00:30:47,197
+What plane?
+
+501
+00:30:47,197 --> 00:30:49,073
+The plane with Mark, Megan,
+and Chris.
+
+502
+00:30:49,073 --> 00:30:51,482
+Nobody knows where it is
+or if anyone even survived.
+
+503
+00:30:51,482 --> 00:30:54,446
+They're searching for them,
+and nobody's heard anything yet.
+
+504
+00:30:55,167 --> 00:30:56,324
+They crashed?
+
+505
+00:31:08,872 --> 00:31:10,810
+You really think
+this is gonna work?
+
+506
+00:31:11,123 --> 00:31:13,419
+I figure
+it's worth a shot.
+
+507
+00:31:14,453 --> 00:31:16,143
+I'm open
+to suggestions.
+
+508
+00:31:16,798 --> 00:31:19,437
+I say we keep somebody
+on the beach at all times.
+
+509
+00:31:20,124 --> 00:31:22,392
+What?
+To flag them down?
+
+510
+00:31:22,392 --> 00:31:24,624
+If they're looking for us,
+why not?
+
+511
+00:31:24,624 --> 00:31:27,498
+The beach would be
+the easiest place to find us.
+
+512
+00:31:28,643 --> 00:31:31,608
+Doesn't hurt.
+The more we try, the better.
+
+513
+00:31:34,547 --> 00:31:37,033
+What about a fire?
+
+514
+00:31:52,898 --> 00:31:55,166
+Okay, so,
+if we see anything come by,
+
+515
+00:31:55,166 --> 00:31:57,011
+we light
+the signal fire.
+
+516
+00:31:57,011 --> 00:31:59,031
+Do you think the tide
+will be a problem?
+
+517
+00:31:59,031 --> 00:32:00,854
+We're far enough away
+from the water.
+
+518
+00:32:00,854 --> 00:32:02,374
+It should be fine.
+
+519
+00:32:03,674 --> 00:32:06,830
+We should probably build
+a shelter tomorrow.
+
+520
+00:32:06,830 --> 00:32:10,184
+You really think we're
+going to be here awhile.
+
+521
+00:32:13,072 --> 00:32:16,875
+I'd rather be ready for it
+than not.
+
+522
+00:32:22,542 --> 00:32:27,629
+You know, I hate to admit it,
+but he's probably right.
+
+523
+00:32:52,925 --> 00:32:55,445
+I was thinking for a roof.
+What do you think?
+
+524
+00:32:55,445 --> 00:32:56,503
+Sure.
+
+525
+00:33:04,481 --> 00:33:07,183
+No.
+Put it up here.
+
+526
+00:33:08,091 --> 00:33:09,355
+Fine.
+
+527
+00:33:10,913 --> 00:33:13,085
+No.
+This way.
+
+528
+00:33:13,866 --> 00:33:17,050
+Be my guest.
+
+529
+00:33:18,492 --> 00:33:20,184
+What's your problem?
+
+530
+00:33:21,697 --> 00:33:22,967
+My problem?
+
+531
+00:33:22,967 --> 00:33:25,523
+Yeah. I'm not blind.
+You got a problem, just tell me.
+
+532
+00:33:25,523 --> 00:33:28,082
+That is so Mark Taylor.
+
+533
+00:33:27,545 --> 00:33:28,602
+What?
+
+534
+00:33:34,125 --> 00:33:35,718
+You don't know
+what you're doing.
+
+535
+00:33:35,949 --> 00:33:37,221
+You don't do anything.
+
+536
+00:33:37,221 --> 00:33:40,357
+You just sweet-talk everyone,
+flash your little smile,
+
+537
+00:33:40,357 --> 00:33:42,095
+And take credit
+for their work.
+
+538
+00:33:42,095 --> 00:33:43,533
+Are you still
+hung up on that?
+
+539
+00:33:43,533 --> 00:33:44,596
+You got where you are
+because -
+
+540
+00:33:44,596 --> 00:33:46,991
+I got where I am
+because I work hard.
+
+541
+00:33:46,991 --> 00:33:50,996
+I may not be the hands-on guy,
+but I know what I'm doing.
+
+542
+00:33:54,620 --> 00:33:55,932
+You sure do.
+
+543
+00:34:04,777 --> 00:34:06,209
+What are you doing?
+
+544
+00:34:06,209 --> 00:34:09,050
+Seeing if there's anything
+we might have missed.
+
+545
+00:34:09,503 --> 00:34:10,921
+Did you find anything?
+
+546
+00:34:10,921 --> 00:34:12,600
+Nope.
+
+547
+00:34:15,447 --> 00:34:17,755
+I knew there was a raft!
+
+548
+00:34:20,656 --> 00:34:22,765
+You doing okay
+with all this?
+
+549
+00:34:22,765 --> 00:34:24,485
+Yeah.
+
+550
+00:34:27,327 --> 00:34:29,856
+You're handling this better
+than I thought you would.
+
+551
+00:34:30,173 --> 00:34:31,817
+The crash?
+
+552
+00:34:32,473 --> 00:34:35,217
+I thought you'd be like
+every other woman in the office,
+
+553
+00:34:35,217 --> 00:34:38,804
+who, let's face it,
+would be freaking out.
+
+554
+00:34:38,804 --> 00:34:40,957
+Then again, they'd be
+completely awestruck
+
+555
+00:34:40,957 --> 00:34:43,680
+by you being here.
+
+556
+00:34:46,466 --> 00:34:49,091
+You know,
+I kind of get tired of all that.
+
+557
+00:34:49,091 --> 00:34:50,990
+You do?
+
+558
+00:34:51,424 --> 00:34:54,553
+Yeah, it's every guy's fantasy
+to be chased by women, but
+
+559
+00:34:54,553 --> 00:34:58,113
+everyone seems to put me
+on this pedestal.
+
+560
+00:34:58,113 --> 00:35:00,678
+They don't see
+the real me.
+
+561
+00:35:01,253 --> 00:35:05,399
+Is the real you better
+or worse?
+
+562
+00:35:05,284 --> 00:35:06,157
+Both.
+
+563
+00:35:08,189 --> 00:35:09,875
+At least you're honest.
+
+564
+00:35:09,875 --> 00:35:11,472
+Well,
+I'm not perfect, but
+
+565
+00:35:11,472 --> 00:35:13,253
+ there's more to me
+than just...
+
+566
+00:35:13,253 --> 00:35:15,819
+money, success,
+good looks?
+
+567
+00:35:15,819 --> 00:35:18,694
+Sure,
+point them all out.
+
+568
+00:35:18,694 --> 00:35:21,776
+But that's exactly
+what people see first.
+
+569
+00:35:21,776 --> 00:35:23,605
+So, what's the cure?
+
+570
+00:35:23,605 --> 00:35:25,554
+Give away the money?
+Fail?
+
+571
+00:35:25,756 --> 00:35:28,473
+Smear a little mud
+on your face?
+
+572
+00:35:29,022 --> 00:35:30,171
+No.
+
+573
+00:35:30,921 --> 00:35:34,785
+Just find someone
+who can see more than that.
+
+574
+00:35:41,196 --> 00:35:42,499
+We should get back.
+
+575
+00:35:42,499 --> 00:35:44,256
+Make sure Chris hasn't
+torn apart the shelter
+
+576
+00:35:44,256 --> 00:35:45,704
+and built a computer.
+
+577
+00:35:55,399 --> 00:35:58,429
+Are you
+putting on cologne?
+
+578
+00:35:58,429 --> 00:36:03,253
+The benefits of having
+your stuff wash up.
+
+579
+00:36:03,253 --> 00:36:04,628
+Do you mind?
+
+580
+00:36:05,083 --> 00:36:07,070
+What are you doing?
+
+581
+00:36:07,070 --> 00:36:10,519
+I'm seeing what we have
+in case we can use it.
+
+582
+00:36:11,775 --> 00:36:14,072
+That's not whipped cream.
+
+583
+00:36:14,072 --> 00:36:15,633
+Thanks.
+
+584
+00:36:15,633 --> 00:36:17,333
+How would it help?
+
+585
+00:36:17,333 --> 00:36:18,626
+Not sure yet.
+
+586
+00:36:18,626 --> 00:36:20,072
+I know fruit is healthy,
+
+587
+00:36:20,072 --> 00:36:22,947
+but a little variety
+would be really nice.
+
+588
+00:36:25,381 --> 00:36:30,457
+Hey, Chris,
+can I borrow your knife?
+
+589
+00:36:46,801 --> 00:36:48,609
+I thought
+you hated fish.
+
+590
+00:36:48,609 --> 00:36:52,099
+At this point,
+I'm willing to give it a try.
+
+591
+00:36:52,883 --> 00:36:54,298
+Can I help?
+
+592
+00:36:54,500 --> 00:36:55,817
+Please.
+
+593
+00:36:55,817 --> 00:36:58,631
+I don't even think
+I was close.
+
+594
+00:37:06,505 --> 00:37:07,848
+Are you sure
+this even works?
+
+595
+00:37:07,848 --> 00:37:09,299
+Nope.
+
+596
+00:37:11,579 --> 00:37:13,942
+Hurry! Hurry!
+Right there! Right there! Right there!
+
+597
+00:37:18,637 --> 00:37:19,628
+Great.
+
+598
+00:37:43,922 --> 00:37:46,396
+Wait.
+I think I got it!
+
+599
+00:37:46,396 --> 00:37:48,174
+Flammable.
+
+600
+00:37:49,655 --> 00:37:51,123
+Yeah!
+
+601
+00:37:54,371 --> 00:37:55,727
+You got one!
+
+602
+00:38:00,335 --> 00:38:02,485
+Hey,
+look what we got.
+
+603
+00:38:05,108 --> 00:38:06,421
+Now what?
+
+604
+00:38:08,166 --> 00:38:09,483
+We gut it.
+
+605
+00:38:11,078 --> 00:38:12,032
+Really?
+
+606
+00:38:12,311 --> 00:38:15,526
+Well, I'm going to go see
+what else I can find.
+
+607
+00:38:15,526 --> 00:38:17,719
+I'll be back in a while.
+
+608
+00:38:20,733 --> 00:38:23,852
+I'm gonna go with you.
+
+609
+00:38:23,852 --> 00:38:25,980
+Mark,
+you've got the signal fire?
+
+610
+00:38:25,980 --> 00:38:27,791
+You guys don't want fish?
+
+611
+00:38:27,791 --> 00:38:29,449
+I'm okay.
+
+612
+00:38:30,035 --> 00:38:32,726
+I'll just put it
+on ice, then.
+
+613
+00:38:37,892 --> 00:38:39,088
+I can still smell it.
+
+614
+00:38:39,512 --> 00:38:40,668
+The fish?
+
+615
+00:38:42,790 --> 00:38:43,813
+I'm going to go out
+on a limb.
+
+616
+00:38:43,813 --> 00:38:45,398
+That you don't like sushi,
+either.
+
+617
+00:38:45,398 --> 00:38:46,528
+Nope.
+
+618
+00:38:46,528 --> 00:38:48,857
+Can't get past
+the seaweed stuff.
+
+619
+00:38:48,857 --> 00:38:50,827
+It's not the fish
+that bothers you?
+
+620
+00:38:50,827 --> 00:38:53,422
+Yeah, I don't know.
+I never got that far.
+
+621
+00:38:55,343 --> 00:38:56,415
+What was that?
+
+622
+00:38:58,996 --> 00:39:00,542
+Manna from heaven.
+
+623
+00:39:05,233 --> 00:39:06,607
+What are you doing?
+
+624
+00:39:07,336 --> 00:39:08,431
+Don't you want one?
+
+625
+00:39:08,768 --> 00:39:09,930
+Well, yeah, but...
+
+626
+00:39:09,930 --> 00:39:11,607
+I'll just climb up there.
+
+627
+00:39:11,810 --> 00:39:13,649
+Are you sure
+you can get up there?
+
+628
+00:39:15,123 --> 00:39:16,070
+I got it.
+
+629
+00:39:16,379 --> 00:39:17,366
+I'm sure.
+
+630
+00:39:17,848 --> 00:39:19,353
+Just watch.
+
+631
+00:39:25,024 --> 00:39:26,072
+Nice.
+
+632
+00:39:27,368 --> 00:39:28,306
+Just watch.
+
+633
+00:39:34,096 --> 00:39:35,261
+Are you all right?
+
+634
+00:39:37,507 --> 00:39:43,651
+Okay, so, maybe I need to
+rethink this.
+
+635
+00:39:51,904 --> 00:39:52,984
+Okay. Better.
+
+636
+00:40:01,168 --> 00:40:03,214
+Okay,
+now I'm impressed.
+
+637
+00:40:20,354 --> 00:40:21,960
+Nice work.
+
+638
+00:40:22,259 --> 00:40:23,014
+Well...
+
+639
+00:40:24,214 --> 00:40:25,327
+Megan.
+
+640
+00:40:27,527 --> 00:40:28,858
+Do you see that?
+
+641
+00:40:29,590 --> 00:40:30,613
+A boat!
+
+642
+00:40:31,423 --> 00:40:32,649
+Mark!
+
+643
+00:40:36,804 --> 00:40:37,865
+Mark!
+
+644
+00:40:37,865 --> 00:40:38,811
+Mark, light the signal!
+
+645
+00:40:40,987 --> 00:40:42,473
+Mark, light the signal!
+
+646
+00:40:42,994 --> 00:40:43,864
+A boat!
+
+647
+00:40:44,474 --> 00:40:45,819
+What boat?
+
+648
+00:40:52,595 --> 00:40:55,601
+Hurry up, man!
+Hurry up!
+
+649
+00:40:58,386 --> 00:41:00,569
+You're trying to light
+a big log.
+
+650
+00:41:00,569 --> 00:41:01,737
+Get the little stuff.
+
+651
+00:41:01,737 --> 00:41:03,988
+What were you doing?
+The boat was right there.
+
+652
+00:41:03,988 --> 00:41:05,975
+You couldn't light it
+fast enough!
+
+653
+00:41:05,975 --> 00:41:07,674
+I wouldn't have to
+if you'd been awake!
+
+654
+00:41:07,674 --> 00:41:09,316
+Where's the boat?
+
+655
+00:41:09,316 --> 00:41:10,882
+You really think
+this is going to work?
+
+656
+00:41:10,882 --> 00:41:12,638
+Those ships are miles out.
+
+657
+00:41:12,638 --> 00:41:15,175
+The whole island would have to
+be on fire for them to notice.
+
+658
+00:41:15,521 --> 00:41:16,485
+You are so...
+
+659
+00:41:16,485 --> 00:41:18,188
+What?
+
+660
+00:41:25,732 --> 00:41:26,797
+You're right.
+
+661
+00:41:28,196 --> 00:41:29,991
+We need
+a better solution.
+
+662
+00:41:36,880 --> 00:41:39,295
+That looks good.
+
+663
+00:41:40,968 --> 00:41:42,360
+If we had some black pepper
+and some lemon,
+
+664
+00:41:42,360 --> 00:41:44,545
+this would be
+first-class.
+
+665
+00:41:44,831 --> 00:41:45,968
+You cook?
+
+666
+00:41:47,445 --> 00:41:49,325
+Don't tell the girls
+in the office.
+
+667
+00:41:49,577 --> 00:41:51,004
+It's our secret.
+
+668
+00:41:51,624 --> 00:41:52,859
+Shut up.
+
+669
+00:41:53,119 --> 00:41:55,317
+How do you open this?
+
+670
+00:41:57,360 --> 00:41:59,365
+Here. I'll do it.
+
+671
+00:42:00,424 --> 00:42:04,721
+Where is my knife?
+
+672
+00:42:07,101 --> 00:42:08,596
+Thanks.
+
+673
+00:42:34,102 --> 00:42:35,662
+What about a flare?
+
+674
+00:42:35,662 --> 00:42:36,976
+What?
+
+675
+00:42:38,069 --> 00:42:40,166
+For a way
+to signal help.
+
+676
+00:42:40,166 --> 00:42:42,923
+Unless a flare gun washes up,
+we're out of luck.
+
+677
+00:42:43,192 --> 00:42:43,938
+No, but we have...
+
+678
+00:42:43,938 --> 00:42:45,267
+You keep thinking.
+
+679
+00:42:45,267 --> 00:42:46,563
+I'm hungry.
+
+680
+00:42:47,589 --> 00:42:49,320
+And dinner is served.
+
+681
+00:42:49,507 --> 00:42:50,756
+Uau!
+
+682
+00:42:51,506 --> 00:42:53,800
+I thought
+you didn't like fish.
+
+683
+00:42:54,827 --> 00:42:56,467
+It can't be that bad.
+
+684
+00:42:58,472 --> 00:43:00,899
+Should we bless it?
+
+685
+00:43:02,405 --> 00:43:04,110
+Mark,
+do you mind if we...
+
+686
+00:43:04,110 --> 00:43:06,660
+Chris, we don't need to.
+
+687
+00:43:07,460 --> 00:43:08,766
+Go ahead.
+
+688
+00:43:10,195 --> 00:43:11,549
+Do you want to say it?
+
+689
+00:43:11,549 --> 00:43:12,299
+No.
+
+690
+00:43:17,947 --> 00:43:21,256
+John.
+Watch it.
+
+691
+00:43:21,256 --> 00:43:22,714
+Sorry.
+
+692
+00:43:24,452 --> 00:43:25,675
+Are you okay?
+
+693
+00:43:26,149 --> 00:43:27,095
+I'm fine.
+
+694
+00:43:27,800 --> 00:43:29,276
+Everyone's fine,
+apparently.
+
+695
+00:43:29,769 --> 00:43:31,101
+Nobody's
+heard anything more yet.
+
+696
+00:43:31,101 --> 00:43:34,001
+Until we do, we just have to
+hope they're all okay.
+
+697
+00:43:34,001 --> 00:43:36,550
+I thought all the women would
+still be crying over Mark.
+
+698
+00:43:36,550 --> 00:43:39,028
+You have not been to
+the women's bathroom recently.
+
+699
+00:43:39,028 --> 00:43:40,631
+No, I haven't.
+
+700
+00:43:40,879 --> 00:43:42,124
+Look, you're not alone.
+
+701
+00:43:42,124 --> 00:43:44,021
+I can't believe
+how excited I was for Megan.
+
+702
+00:43:44,021 --> 00:43:47,548
+A chance to go on a trip,
+with Mark and all.
+
+703
+00:43:47,548 --> 00:43:49,041
+And now...
+
+704
+00:43:50,162 --> 00:43:52,629
+What if it had been me?
+
+705
+00:43:54,023 --> 00:43:56,346
+That's what
+you're worried about? You?
+
+706
+00:43:56,346 --> 00:43:57,634
+No, it's not -
+
+707
+00:43:57,634 --> 00:44:00,485
+They could be treading water
+right now.
+
+708
+00:44:00,485 --> 00:44:02,196
+There could be sharks nipping
+at their legs.
+
+709
+00:44:02,196 --> 00:44:04,370
+They could already be...
+
+710
+00:44:06,243 --> 00:44:09,377
+I hope Megan's okay.
+I hope they're all okay.
+
+711
+00:44:09,377 --> 00:44:13,540
+Hey, if they're alive,
+Chris will take care of Megan.
+
+712
+00:44:13,540 --> 00:44:15,113
+You think so?
+
+713
+00:44:15,507 --> 00:44:16,711
+I know so.
+
+714
+00:44:18,061 --> 00:44:19,602
+Does Chris like Megan?
+
+715
+00:44:19,602 --> 00:44:20,807
+I didn't say that.
+
+716
+00:44:20,807 --> 00:44:22,479
+So, he doesn't.
+
+717
+00:44:23,058 --> 00:44:24,175
+No.
+
+718
+00:44:25,247 --> 00:44:26,492
+Well, it's kind of...
+
+719
+00:44:26,492 --> 00:44:27,584
+I knew it.
+
+720
+00:44:27,584 --> 00:44:29,314
+I cannot even wait
+until Megan gets back.
+
+721
+00:44:29,314 --> 00:44:31,925
+She might believe it.
+It's kind of obvious.
+
+722
+00:44:32,746 --> 00:44:34,947
+Come on, this isn't just
+some juicy gossip.
+
+723
+00:44:34,947 --> 00:44:37,462
+Two seconds ago,
+you were practically grieving.
+
+724
+00:44:37,462 --> 00:44:39,990
+Have some sense
+of decency.
+
+725
+00:45:15,097 --> 00:45:17,647
+Didn't your mom ever tell you
+not to swim alone?
+
+726
+00:45:20,802 --> 00:45:22,608
+You were sleeping.
+
+727
+00:45:24,106 --> 00:45:25,146
+Where's Mark?
+
+728
+00:45:25,956 --> 00:45:28,002
+It's his day
+to find fruit.
+
+729
+00:45:28,002 --> 00:45:30,881
+That reminds me.
+I need to get the water.
+
+730
+00:45:31,583 --> 00:45:33,232
+Do you want some company?
+
+731
+00:45:33,232 --> 00:45:35,442
+Don't you have to
+man the beach?
+
+732
+00:45:35,442 --> 00:45:37,867
+Not if Mark gets back.
+
+733
+00:45:37,867 --> 00:45:41,986
+Besides, it'll give him
+some time to work on his tan.
+
+734
+00:45:47,114 --> 00:45:49,239
+So,
+you don't like Mark.
+
+735
+00:45:49,239 --> 00:45:52,085
+Wow.
+That wasn't even a question.
+
+736
+00:45:52,287 --> 00:45:53,772
+Why?
+
+737
+00:45:53,772 --> 00:45:55,212
+Why don't I like him?
+
+738
+00:45:55,212 --> 00:45:56,417
+Yeah.
+
+739
+00:45:57,736 --> 00:46:00,313
+I just don't think he's
+everything he pretends to be.
+
+740
+00:46:00,313 --> 00:46:02,894
+Who said he's pretending?
+He's a nice guy.
+
+741
+00:46:03,097 --> 00:46:04,003
+Can be.
+
+742
+00:46:04,003 --> 00:46:05,730
+You don't know him
+like I do.
+
+743
+00:46:05,730 --> 00:46:07,442
+And you don't know him
+like I do.
+
+744
+00:46:07,442 --> 00:46:08,228
+Come on, Megan.
+
+745
+00:46:08,228 --> 00:46:10,836
+A few days ago,
+he was "Mark Taylor" to you.
+
+746
+00:46:10,836 --> 00:46:13,442
+A lot has happened
+since then.
+
+747
+00:46:14,160 --> 00:46:16,856
+I just don't see
+how you can fall for him.
+
+748
+00:46:16,856 --> 00:46:17,862
+It.
+
+749
+00:46:20,210 --> 00:46:22,245
+Why do you care
+if I like him or not?
+
+750
+00:46:22,245 --> 00:46:23,804
+I don't.
+I just -
+
+751
+00:46:25,257 --> 00:46:26,843
+I don't want you to forget
+who you are.
+
+752
+00:46:26,843 --> 00:46:28,056
+Thanks, Dad.
+
+753
+00:46:28,770 --> 00:46:30,025
+Hey, I've seen it.
+
+754
+00:46:30,025 --> 00:46:31,415
+You're changing.
+
+755
+00:46:31,415 --> 00:46:33,255
+Change is a good thing.
+
+756
+00:46:33,255 --> 00:46:34,443
+Not all the time.
+
+757
+00:46:34,443 --> 00:46:35,400
+What do you know?
+
+758
+00:46:35,400 --> 00:46:37,957
+Oh, come on.
+Don't act like I'm blind.
+
+759
+00:46:41,038 --> 00:46:42,673
+When you got your job
+at the company,
+
+760
+00:46:42,673 --> 00:46:44,458
+you know what made me
+notice you?
+
+761
+00:46:45,047 --> 00:46:47,992
+You were in the breakroom,
+reading The Bible.
+
+762
+00:46:47,061 --> 00:46:48,208
+Every day you did that.
+
+763
+00:46:48,415 --> 00:46:50,291
+There was something different
+about you.
+
+764
+00:46:50,291 --> 00:46:52,215
+Yeah,
+it's called being a dork.
+
+765
+00:46:52,215 --> 00:46:54,412
+No. It's called
+cherishing something.
+
+766
+00:46:54,808 --> 00:46:55,444
+Because of your example,
+
+767
+00:46:55,444 --> 00:46:56,998
+I asked about
+what made you different,
+
+768
+00:46:56,998 --> 00:47:00,289
+what gave you
+that light in your eyes.
+
+769
+00:47:01,329 --> 00:47:04,693
+It made me realize I was missing
+something in my life.
+
+770
+00:47:05,491 --> 00:47:06,976
+How can you
+be ashamed of that now?
+
+771
+00:47:06,976 --> 00:47:08,086
+I'm not!
+
+772
+00:47:08,086 --> 00:47:09,631
+You got all embarrassed
+about praying.
+
+773
+00:47:09,853 --> 00:47:11,164
+I didn't want to force it on Mark.
+- Nice excuse.
+
+774
+00:47:11,164 --> 00:47:13,223
+What about not going to church?
+- I go.
+
+775
+00:47:14,357 --> 00:47:17,268
+Or clubbing all weekend,
+or working even on Sunday?
+
+776
+00:47:17,268 --> 00:47:18,752
+When I met you,
+you never would have done that.
+
+777
+00:47:18,752 --> 00:47:21,131
+Religion, it's so restricting, it's 
+been this way my hole life.
+
+778
+00:47:21,131 --> 00:47:22,535
+You don't know
+what it's like.
+
+779
+00:47:22,535 --> 00:47:24,943
+What? I've acecpted Christ later
+ in my life, so could i understand?
+
+780
+00:47:24,943 --> 00:47:25,622
+Yeah!
+
+781
+00:47:25,622 --> 00:47:26,987
+I still had to make changes,
+but it was worth it.
+
+782
+00:47:26,987 --> 00:47:27,629
+But for me -
+
+783
+00:47:27,629 --> 00:47:29,864
+You can rationalize it
+all you want.
+
+784
+00:47:29,864 --> 00:47:31,337
+But until you get past
+the excuses
+
+785
+00:47:31,337 --> 00:47:34,623
+and think about it honestly,
+you're just lying to yourself.
+
+786
+00:47:42,479 --> 00:47:44,731
+Get past the excuses, Megan.
+Don't be ashamed.
+
+787
+00:47:44,731 --> 00:47:46,761
+I am ashamed. Of you!
+
+788
+00:47:47,416 --> 00:47:49,059
+Why don't you try to deal
+with what I face?
+
+789
+00:47:49,059 --> 00:47:51,322
+Walk a mile in my shoes!
+
+790
+00:47:52,231 --> 00:47:54,025
+These aren't even shoes!
+
+791
+00:48:11,525 --> 00:48:12,349
+Nice.
+
+792
+00:48:14,042 --> 00:48:16,009
+Thanks.
+
+793
+00:48:17,928 --> 00:48:18,951
+Where's Megan?
+
+794
+00:48:20,972 --> 00:48:22,605
+She's not back?
+
+795
+00:48:23,068 --> 00:48:26,039
+No. I thought you guys
+went to go get water.
+
+796
+00:48:27,123 --> 00:48:28,408
+We split up.
+
+797
+00:48:58,774 --> 00:48:59,991
+A little help here.
+
+798
+00:49:04,394 --> 00:49:06,228
+She's still not back.
+
+799
+00:49:11,232 --> 00:49:12,873
+It's going to
+get dark soon.
+
+800
+00:49:17,059 --> 00:49:18,449
+Let's go find her.
+
+801
+00:49:30,817 --> 00:49:31,896
+Megan!
+
+802
+00:49:33,008 --> 00:49:35,509
+What did you guys fight about
+anyway?
+
+803
+00:49:35,509 --> 00:49:37,345
+Who says we fought?
+
+804
+00:49:37,345 --> 00:49:39,296
+I'm not trying to make you
+feel guilty.
+
+805
+00:49:39,296 --> 00:49:40,432
+Just a guess.
+
+806
+00:49:41,994 --> 00:49:43,575
+It's complicated.
+
+807
+00:49:46,288 --> 00:49:49,683
+Wait. Do you guys have a thing
+going on or something?
+
+808
+00:49:49,683 --> 00:49:51,328
+What? No.
+
+809
+00:49:51,328 --> 00:49:52,387
+No?
+
+810
+00:49:53,122 --> 00:49:53,911
+Okay.
+
+811
+00:49:56,295 --> 00:49:57,541
+Well, we're just...
+
+812
+00:49:57,541 --> 00:49:58,826
+friends.
+- Right.
+
+813
+00:49:59,521 --> 00:50:00,369
+Good.
+
+814
+00:50:02,164 --> 00:50:03,245
+I've known her awhile,
+
+815
+00:50:05,667 --> 00:50:07,833
+and I worry about some of
+the things she's mixed up in.
+
+816
+00:50:07,833 --> 00:50:08,918
+What?
+Like drugs?
+
+817
+00:50:08,918 --> 00:50:10,449
+No, nothing like that.
+
+818
+00:50:10,449 --> 00:50:13,315
+Megan's a grown woman.
+She knows what she's doing.
+
+819
+00:50:14,088 --> 00:50:15,217
+I hope so.
+
+820
+00:50:15,506 --> 00:50:16,665
+What was that?
+
+821
+00:50:17,767 --> 00:50:18,881
+Just because somebody knows
+what they're doing
+
+822
+00:50:18,881 --> 00:50:20,461
+doesn't mean it's right.
+
+823
+00:50:20,461 --> 00:50:23,039
+Why do I get the feeling
+you're turning this on me?
+
+824
+00:50:23,287 --> 00:50:26,382
+I'm not trying to make you
+feel guilty or anything.
+
+825
+00:50:26,855 --> 00:50:27,600
+Megan!
+
+826
+00:50:28,912 --> 00:50:30,146
+Just level with me.
+
+827
+00:50:30,348 --> 00:50:32,085
+Last year, you took credit
+for what wasn't yours.
+
+828
+00:50:32,085 --> 00:50:33,350
+You get that, right?
+
+829
+00:50:33,552 --> 00:50:34,919
+You see it that way.
+
+830
+00:50:35,120 --> 00:50:37,248
+We all agreed to work
+on the C25 together,
+
+831
+00:50:37,248 --> 00:50:38,560
+but I was the Manager.
+
+832
+00:50:38,560 --> 00:50:40,084
+I get blamed
+for the failures.
+
+833
+00:50:40,286 --> 00:50:41,415
+And the successes?
+
+834
+00:50:41,696 --> 00:50:42,584
+It was our success.
+
+835
+00:50:42,584 --> 00:50:43,759
+That's not what you told
+everyone.
+
+836
+00:50:43,759 --> 00:50:44,849
+It doesn't matter.
+
+837
+00:50:44,849 --> 00:50:46,954
+Who do you think
+they want to succeed?
+
+838
+00:50:46,954 --> 00:50:48,186
+You have to be
+in front of the pack
+
+839
+00:50:48,186 --> 00:50:49,884
+and appeal
+to what they expect.
+
+840
+00:50:49,884 --> 00:50:54,497
+If you want success,
+you have to make it and take it.
+
+841
+00:50:55,887 --> 00:50:57,954
+Maybe you're just not cut out
+for it.
+
+842
+00:50:59,763 --> 00:51:01,663
+Maybe it's
+not worth it.
+
+843
+00:51:01,952 --> 00:51:03,342
+Not like that.
+
+844
+00:51:12,062 --> 00:51:13,231
+Where's the...
+
+845
+00:51:14,934 --> 00:51:17,335
+Is this my punishment?
+
+846
+00:51:19,703 --> 00:51:22,543
+I only missed a few Sundays.
+
+847
+00:51:26,434 --> 00:51:27,784
+I wonder if she made it
+back to the beach.
+
+848
+00:51:29,046 --> 00:51:31,926
+She's got the internal compass
+of Hansel and Gretel,
+
+849
+00:51:31,926 --> 00:51:34,739
+without the breadcrumbs.
+
+850
+00:51:34,739 --> 00:51:36,297
+Well,
+we haven't found her.
+
+851
+00:51:36,297 --> 00:51:37,518
+You think?
+
+852
+00:51:38,356 --> 00:51:39,253
+Megan!
+
+853
+00:51:41,130 --> 00:51:42,693
+Nope.
+Still no Megan.
+
+854
+00:51:43,080 --> 00:51:44,638
+You're welcome to go
+back to camp at any time.
+
+855
+00:51:47,003 --> 00:51:47,862
+Let's split up.
+
+856
+00:51:48,203 --> 00:51:48,782
+Fine.
+
+857
+00:52:03,110 --> 00:52:04,088
+Megan!
+
+858
+00:52:14,747 --> 00:52:15,705
+Chris!
+
+859
+00:52:16,514 --> 00:52:17,544
+Mark!
+
+860
+00:52:25,794 --> 00:52:27,135
+Megan!
+
+861
+00:52:44,201 --> 00:52:46,201
+Megan, can you hear me?
+
+862
+00:52:53,263 --> 00:52:57,342
+Dear Lord, I'm sorry.
+
+863
+00:52:57,342 --> 00:52:59,331
+Please help.
+
+864
+00:53:05,199 --> 00:53:06,738
+Help!
+
+865
+00:53:10,350 --> 00:53:11,070
+Megan?
+
+866
+00:53:11,853 --> 00:53:12,541
+Hello?
+
+867
+00:53:12,858 --> 00:53:13,572
+Megan!
+
+868
+00:53:14,563 --> 00:53:15,266
+Chris?
+
+869
+00:53:20,262 --> 00:53:21,526
+Can you climb up to me?
+
+870
+00:53:21,526 --> 00:53:24,172
+It's too steep.
+I keep slipping.
+
+871
+00:53:27,126 --> 00:53:27,772
+Hang on!
+
+872
+00:53:38,452 --> 00:53:40,065
+Grab the vine.
+I'll pull you up.
+
+873
+00:53:48,545 --> 00:53:50,502
+Come on, I've got you.
+
+874
+00:53:51,187 --> 00:53:52,091
+It's okay.
+
+875
+00:54:07,241 --> 00:54:08,550
+I slipped.
+
+876
+00:54:09,427 --> 00:54:10,636
+I can tell.
+
+877
+00:54:11,888 --> 00:54:13,252
+How'd you get up here?
+
+878
+00:54:13,502 --> 00:54:15,564
+I was trying to get
+back to the beach.
+
+879
+00:54:15,564 --> 00:54:18,398
+You're on a cliff.
+Beaches are at sea level.
+
+880
+00:54:18,600 --> 00:54:20,570
+I don't know
+where everything is.
+
+881
+00:54:20,570 --> 00:54:21,644
+I thought
+it might get me back.
+
+882
+00:54:21,644 --> 00:54:22,628
+Okay.
+
+883
+00:54:27,186 --> 00:54:30,838
+I'm sorry about before.
+
+884
+00:54:33,518 --> 00:54:34,648
+I didn't want
+to make you mad,I just...
+
+885
+00:54:35,992 --> 00:54:37,615
+I know.
+
+886
+00:54:42,322 --> 00:54:45,747
+Megan,
+I want you to be happy.
+
+887
+00:54:47,534 --> 00:54:49,719
+And I know I go about it
+the wrong way.
+
+888
+00:54:49,719 --> 00:54:50,944
+Mark: Megan!
+
+889
+00:54:52,829 --> 00:54:53,807
+Are you okay?
+
+890
+00:54:54,536 --> 00:54:55,460
+I am now.
+
+891
+00:54:57,449 --> 00:54:59,585
+Let's get you cleaned up
+and back to the fire.
+
+892
+00:54:59,585 --> 00:55:00,250
+Come on.
+
+893
+00:55:13,854 --> 00:55:15,813
+It's almost done.
+
+894
+00:55:18,226 --> 00:55:19,356
+You want some water?
+
+895
+00:55:19,559 --> 00:55:20,419
+Sure.
+
+896
+00:55:32,829 --> 00:55:34,498
+Thank you.
+
+897
+00:55:36,372 --> 00:55:37,964
+For finding me.
+
+898
+00:55:43,753 --> 00:55:45,661
+I'm glad
+you weren't hurt.
+
+899
+00:55:47,035 --> 00:55:48,840
+Here.
+- Thanks.
+
+900
+00:55:51,934 --> 00:55:54,392
+Should we, um...
+
+901
+00:55:54,392 --> 00:55:56,015
+Should we pray?
+
+902
+00:55:59,702 --> 00:56:00,706
+Go for it.
+
+903
+00:56:01,641 --> 00:56:03,433
+I never got into it,
+but...
+
+904
+00:56:03,433 --> 00:56:04,530
+Really?
+
+905
+00:56:06,167 --> 00:56:08,030
+God requires
+too much time.
+
+906
+00:56:08,464 --> 00:56:10,976
+I'm busy enough
+as it is.
+
+907
+00:56:14,189 --> 00:56:15,529
+I'll say it.
+
+908
+00:56:27,351 --> 00:56:28,749
+I could use
+another one of these.
+
+909
+00:56:30,503 --> 00:56:32,270
+Can I have the shell
+when you're done?
+
+910
+00:56:32,270 --> 00:56:33,600
+What for?
+
+911
+00:56:33,600 --> 00:56:35,175
+Um...
+
+912
+00:56:35,175 --> 00:56:36,507
+Remember
+that flare idea?
+
+913
+00:56:36,756 --> 00:56:37,840
+You found a flare?
+
+914
+00:56:37,840 --> 00:56:39,688
+No.
+I'm making one.
+
+915
+00:56:40,060 --> 00:56:41,584
+You really think
+you can make one?
+
+916
+00:56:42,029 --> 00:56:43,418
+Contents
+under pressure.
+
+917
+00:56:43,418 --> 00:56:47,435
+When they get hot,
+say by fire, they explode.
+
+918
+00:56:49,333 --> 00:56:52,247
+Put all that in a coconut shell
+with the flame,
+
+919
+00:56:52,584 --> 00:56:53,581
+It might work.
+
+920
+00:56:53,957 --> 00:56:55,667
+You take yourself
+too seriously.
+
+921
+00:56:55,882 --> 00:56:57,638
+So, it's a mini bomb.
+
+922
+00:56:58,034 --> 00:56:59,382
+Isn't that dangerous?
+
+923
+00:56:59,382 --> 00:57:01,708
+I'm not saying I'm gonna hold it
+up when I light it,
+
+924
+00:57:01,708 --> 00:57:03,267
+but if it works...
+
+925
+00:57:03,267 --> 00:57:04,017
+If.
+
+926
+00:57:05,262 --> 00:57:06,725
+What about
+somebody seeing it?
+
+927
+00:57:06,725 --> 00:57:08,598
+From a distance?
+
+928
+00:57:10,283 --> 00:57:12,158
+I haven't thought
+that far.
+
+929
+00:57:12,629 --> 00:57:14,329
+You can say that again.
+
+930
+00:57:16,683 --> 00:57:17,688
+It's clever.
+
+931
+00:57:27,757 --> 00:57:29,882
+Why aren't you intimidated
+by him
+
+932
+00:57:30,189 --> 00:57:32,618
+or by
+what anyone else thinks?
+
+933
+00:57:33,599 --> 00:57:36,838
+Especially church?
+
+934
+00:57:36,838 --> 00:57:39,332
+I feel like everyone looks down
+on us for beliving in God.
+
+935
+00:57:39,872 --> 00:57:40,913
+Do they?
+
+936
+00:57:41,821 --> 00:57:43,453
+I didn't
+when I met you.
+
+937
+00:57:43,453 --> 00:57:46,038
+Yeah, well,
+you're a rare exception.
+
+938
+00:57:46,545 --> 00:57:49,314
+I think most people respect
+what you believe.
+
+939
+00:57:49,314 --> 00:57:51,833
+It doesn't
+feel that way.
+
+940
+00:57:51,833 --> 00:57:55,519
+You're letting it bother you
+more than it should.
+
+941
+00:57:55,519 --> 00:57:59,210
+Sure, believing in God,
+trying to do what's right.
+
+942
+00:57:59,817 --> 00:58:01,276
+It makes us stand out
+a little.
+
+943
+00:58:01,276 --> 00:58:02,837
+A little?
+
+944
+00:58:04,680 --> 00:58:05,856
+What's more important?
+
+945
+00:58:05,856 --> 00:58:09,544
+What everyone else thinks
+or what God thinks?
+
+946
+00:58:12,158 --> 00:58:17,006
+I've heard that before,
+but it's not that simple.
+
+947
+00:58:17,006 --> 00:58:18,615
+Sure, it is.
+
+948
+00:58:18,942 --> 00:58:20,382
+Not for me.
+
+949
+00:58:20,863 --> 00:58:22,736
+It can be.
+
+950
+00:58:23,211 --> 00:58:24,628
+Look, for me,
+
+951
+00:58:24,628 --> 00:58:27,609
+I'd be crazy if I gave up
+something I know is true
+
+952
+00:58:27,609 --> 00:58:30,385
+for what everyone else thinks
+is more important.
+
+953
+00:58:30,385 --> 00:58:32,315
+Fame. Wealth.
+
+954
+00:58:32,315 --> 00:58:33,519
+Respect.
+
+955
+00:58:33,770 --> 00:58:35,960
+Those aren't
+all bad things.
+
+956
+00:58:35,960 --> 00:58:40,567
+No, not if you have
+your priorities straight.
+
+957
+00:58:43,882 --> 00:58:46,070
+Was it a hard adjustment
+for you?
+
+958
+00:58:46,474 --> 00:58:47,603
+Yeah.
+
+959
+00:58:48,084 --> 00:58:51,942
+But it was worth it,
+because it's true.
+
+960
+00:58:52,223 --> 00:58:56,007
+God is real,
+and he loves us.
+
+961
+00:58:56,007 --> 00:58:59,333
+What else matters?
+
+962
+00:59:08,874 --> 00:59:09,837
+Mr. Davidson.
+
+963
+00:59:09,837 --> 00:59:10,696
+Have a seat.
+
+964
+00:59:12,707 --> 00:59:16,629
+John, you've been taking on
+a lot of Chris Russell's work.
+
+965
+00:59:16,850 --> 00:59:19,400
+Yes, sir,
+until he gets back.
+
+966
+00:59:19,843 --> 00:59:21,883
+There's a reality
+we have to face.
+
+967
+00:59:21,883 --> 00:59:24,398
+We have to move forward,
+and that means making changes.
+
+968
+00:59:24,398 --> 00:59:26,127
+You've been doing
+a good job,
+
+969
+00:59:26,127 --> 00:59:28,913
+so we'd like you to take over
+for Chris permanently.
+
+970
+00:59:31,122 --> 00:59:33,073
+But when he comes back,
+then...
+
+971
+00:59:33,565 --> 00:59:37,086
+If he gets back,
+we'll adjust.
+
+972
+00:59:37,712 --> 00:59:38,918
+Keep up the good work.
+
+973
+00:59:44,841 --> 00:59:45,924
+See anything?
+
+974
+00:59:46,541 --> 00:59:47,967
+Minnow.
+
+975
+00:59:48,314 --> 00:59:49,215
+Filling.
+
+976
+00:59:49,602 --> 00:59:51,121
+Any luck?
+
+977
+00:59:51,534 --> 00:59:52,537
+Not yet.
+
+978
+00:59:55,492 --> 00:59:57,113
+Oh,
+I'll be right back.
+
+979
+01:00:05,642 --> 01:00:06,337
+Thanks.
+
+980
+01:00:07,551 --> 01:00:09,317
+Are we going to have anything
+to cook today?
+
+981
+01:00:09,529 --> 01:00:11,190
+The fish
+aren't cooperating.
+
+982
+01:00:11,941 --> 01:00:13,961
+I'd love to go for anything
+besides just fish.
+
+983
+01:00:14,289 --> 01:00:15,928
+Like...
+
+984
+01:00:16,171 --> 01:00:17,956
+Chinese food.
+
+985
+01:00:18,584 --> 01:00:20,962
+Well, if I see any Szechuan
+Chicken running around,
+
+986
+01:00:20,962 --> 01:00:22,273
+I'll let you know.
+
+987
+01:00:22,813 --> 01:00:24,822
+I'd even settle
+for Indonesian food.
+
+988
+01:00:24,822 --> 01:00:26,279
+I was looking forward
+to that.
+
+989
+01:00:26,279 --> 01:00:28,899
+If we made it without any
+problems, we wouldn't care.
+
+990
+01:00:28,899 --> 01:00:30,945
+We'd probably be wishing
+we had a burger.
+
+991
+01:00:30,945 --> 01:00:32,040
+That's true.
+
+992
+01:00:32,552 --> 01:00:34,046
+I guess sometimes
+we just take things for granted
+
+993
+01:00:34,046 --> 01:00:35,720
+that are
+right in front of us.
+
+994
+01:00:35,720 --> 01:00:36,851
+Yep.
+
+995
+01:00:42,646 --> 01:00:43,768
+Like matches.
+
+996
+01:00:43,768 --> 01:00:46,148
+I've got a whole drawerful in
+my kitchen next to the candles,
+
+997
+01:00:46,349 --> 01:00:48,977
+and here it takes Chris forever
+just to light a fire.
+
+998
+01:00:50,185 --> 01:00:52,172
+Candles?
+
+999
+01:00:53,002 --> 01:00:54,255
+So?
+
+1000
+01:00:54,902 --> 01:00:56,320
+They smell nice.
+
+1001
+01:01:34,347 --> 01:01:35,206
+Boom.
+
+1002
+01:01:45,994 --> 01:01:48,889
+Didn't you say something
+about swimming alone?
+
+1003
+01:01:53,269 --> 01:01:56,171
+This reminds me
+of my sister's place.
+
+1004
+01:01:56,171 --> 01:01:57,976
+She lives near a beach?
+
+1005
+01:01:57,976 --> 01:01:59,282
+Yeah.
+
+1006
+01:02:00,116 --> 01:02:02,366
+I spent a summer there
+a couple years ago.
+
+1007
+01:02:02,366 --> 01:02:05,089
+It was actually right before
+I decided to get baptized.
+
+1008
+01:02:05,089 --> 01:02:07,755
+It's a good place to get away,
+clear your head,
+
+1009
+01:02:07,755 --> 01:02:10,898
+find the answers that you're
+searching for, you know?
+
+1010
+01:02:12,601 --> 01:02:15,996
+It's also about five minutes
+away from McDonald's.
+
+1011
+01:02:17,377 --> 01:02:19,670
+I wish
+we were there now.
+
+1012
+01:02:23,037 --> 01:02:25,214
+Was your family okay
+with you getting baptized?
+
+1013
+01:02:26,336 --> 01:02:29,081
+They thought it was weird
+that I wanted it.
+
+1014
+01:02:29,081 --> 01:02:33,273
+My parents had some concerns,
+but they're cool with it now.
+
+1015
+01:02:38,602 --> 01:02:40,585
+Hey, I was thinking.
+
+1016
+01:02:40,585 --> 01:02:41,619
+Yeah?
+
+1017
+01:02:43,454 --> 01:02:44,337
+I...
+
+1018
+01:02:45,707 --> 01:02:50,881
+We both work a lot,
+and I see you there.
+
+1019
+01:02:50,881 --> 01:02:51,573
+Okay.
+
+1020
+01:02:53,344 --> 01:02:59,077
+But it'd be nice if I could see
+you, you know, somewhere else.
+
+1021
+01:02:59,829 --> 01:03:01,787
+Chris,
+I get it, okay?
+
+1022
+01:03:01,787 --> 01:03:03,675
+I know I need to be better
+about going to church,
+
+1023
+01:03:03,879 --> 01:03:06,455
+but you just
+have to let me.
+
+1024
+01:03:07,329 --> 01:03:09,031
+No, that's not
+what I meant.
+
+1025
+01:03:10,018 --> 01:03:10,792
+Really?
+
+1026
+01:03:12,869 --> 01:03:14,612
+I was hoping maybe -
+- Hey!
+
+1027
+01:03:14,612 --> 01:03:16,643
+Do you guys have
+any more water?
+
+1028
+01:03:16,846 --> 01:03:19,348
+No,
+but I can go get some.
+
+1029
+01:03:20,761 --> 01:03:22,367
+Are you sure?
+- Yeah.
+
+1030
+01:03:23,074 --> 01:03:24,324
+Okay.
+
+1031
+01:03:24,952 --> 01:03:27,698
+I was just hoping
+we could go out sometime.
+
+1032
+01:03:27,698 --> 01:03:29,326
+Did you say something?
+
+1033
+01:03:30,277 --> 01:03:31,356
+No.
+
+1034
+01:03:33,949 --> 01:03:36,244
+Does it ever feel like
+
+1035
+01:03:36,468 --> 01:03:39,078
+something always gets in the way
+of what you want?
+
+1036
+01:03:40,096 --> 01:03:42,014
+Sure, sometimes.
+
+1037
+01:03:42,323 --> 01:03:44,371
+It's pretty annoying.
+
+1038
+01:03:44,371 --> 01:03:47,430
+That's why you got to keep
+trying and never give up.
+
+1039
+01:03:47,430 --> 01:03:49,956
+Although, if you keep trying
+and still don't get anywhere...
+
+1040
+01:03:49,956 --> 01:03:52,002
+It just depends
+on how bad you want it.
+
+1041
+01:03:52,002 --> 01:03:55,866
+If you quit,
+you're guaranteed to fail.
+
+1042
+01:03:56,436 --> 01:03:57,685
+I'm going to get
+some fruit.
+
+1043
+01:04:24,597 --> 01:04:25,609
+Megan.
+
+1044
+01:04:26,333 --> 01:04:28,369
+We've always had
+a great friendship.
+
+1045
+01:04:28,620 --> 01:04:29,738
+I really value that.
+
+1046
+01:04:29,738 --> 01:04:31,339
+It's just I...
+
+1047
+01:04:31,804 --> 01:04:34,444
+always wanted something more.
+
+1048
+01:04:36,439 --> 01:04:37,366
+No.
+
+1049
+01:04:37,366 --> 01:04:40,034
+Get to the point faster,
+before something interrupts.
+
+1050
+01:04:42,115 --> 01:04:43,527
+Megan, hi.
+
+1051
+01:04:48,107 --> 01:04:49,514
+Great!
+
+1052
+01:05:01,445 --> 01:05:02,491
+Could work.
+
+1053
+01:05:05,737 --> 01:05:08,388
+Megan, I just think that...
+
+1054
+01:05:09,901 --> 01:05:11,350
+Hey.
+- Hey!
+
+1055
+01:05:11,761 --> 01:05:13,736
+Came to make sure
+you didn't get lost again.
+
+1056
+01:05:13,736 --> 01:05:15,736
+I got here,
+didn't I?
+
+1057
+01:05:16,532 --> 01:05:17,456
+Yeah.
+
+1058
+01:05:17,456 --> 01:05:18,681
+I was just thinking.
+
+1059
+01:05:18,681 --> 01:05:20,893
+I wonder how everyone is
+back at home.
+
+1060
+01:05:21,115 --> 01:05:22,762
+Probably business
+as usual.
+
+1061
+01:05:23,032 --> 01:05:25,175
+Come on,
+someone would miss us.
+
+1062
+01:05:25,752 --> 01:05:27,436
+You, sure.
+
+1063
+01:05:28,090 --> 01:05:29,749
+Don't you have family?
+
+1064
+01:05:30,094 --> 01:05:32,107
+Yeah, but I think I have
+some old girlfriend listed
+
+1065
+01:05:32,107 --> 01:05:34,108
+as my emergency contact.
+
+1066
+01:05:34,628 --> 01:05:36,421
+Well, she'd call them.
+
+1067
+01:05:36,421 --> 01:05:37,802
+It didn't end well.
+
+1068
+01:05:37,802 --> 01:05:40,591
+She'd probably be celebrating
+if she thought I was dead.
+
+1069
+01:05:41,123 --> 01:05:41,924
+Wow.
+
+1070
+01:05:43,283 --> 01:05:44,530
+What about you?
+
+1071
+01:05:45,553 --> 01:05:49,696
+They're out of State,
+but they're probably panicking.
+
+1072
+01:05:50,214 --> 01:05:51,331
+Hey.
+
+1073
+01:05:51,331 --> 01:05:52,960
+They'll be fine.
+
+1074
+01:05:52,960 --> 01:05:54,633
+We'll get back.
+
+1075
+01:06:06,548 --> 01:06:10,354
+Megan, when I think
+of a flower...
+
+1076
+01:06:11,694 --> 01:06:13,487
+I've hit a new low.
+
+1077
+01:06:12,718 --> 01:06:17,285
+Okay.
+Just what I want her to know? How I feel.
+
+1078
+01:06:19,958 --> 01:06:22,585
+Megan, I like you.
+
+1079
+01:06:23,803 --> 01:06:26,313
+Smooth.
+Just blurt it out, Chris.
+
+1080
+01:06:26,313 --> 01:06:29,170
+Smart.
+You are so smart, Chris.
+
+1081
+01:06:29,419 --> 01:06:30,652
+Okay, how about...
+
+1082
+01:06:32,023 --> 01:06:35,098
+It could have been worse.
+I keep telling myself that.
+
+1083
+01:06:35,832 --> 01:06:39,023
+If you didn't come on the trip,
+it'd be Chris and me stuck here.
+
+1084
+01:06:39,622 --> 01:06:41,725
+A nightmare
+for you both.
+
+1085
+01:06:42,128 --> 01:06:43,972
+I'm glad you came.
+
+1086
+01:06:43,972 --> 01:06:46,075
+I wouldn't have it
+any other way.
+
+1087
+01:06:47,284 --> 01:06:49,757
+What about your girlfriend?
+Jenna?
+
+1088
+01:06:50,365 --> 01:06:51,617
+No.
+
+1089
+01:06:52,100 --> 01:06:54,491
+Or any of the other girls
+you date?
+
+1090
+01:06:54,491 --> 01:06:56,666
+I've got a bit of a reputation,
+don't I?
+
+1091
+01:06:56,666 --> 01:06:58,443
+I didn't mean that.
+
+1092
+01:06:59,159 --> 01:07:01,924
+The girls I've dated,
+they're fun, but that's it.
+
+1093
+01:07:01,924 --> 01:07:03,336
+There's nothing more
+to it.
+
+1094
+01:07:03,336 --> 01:07:08,401
+I know that sounds awful.
+
+1095
+01:07:08,401 --> 01:07:09,757
+They just try to get
+my attention,
+
+1096
+01:07:10,319 --> 01:07:11,465
+Instead of being
+the type of girl
+
+1097
+01:07:11,465 --> 01:07:14,418
+that just catches your attention
+automatically.
+
+1098
+01:07:17,623 --> 01:07:18,654
+Like you.
+
+1099
+01:07:27,799 --> 01:07:29,303
+Listen, Megan, if nothing else,
+
+1100
+01:07:29,303 --> 01:07:32,779
+I just thought you should know
+in case you felt the same...
+
+1101
+01:07:35,545 --> 01:07:36,914
+...way.
+
+1102
+01:07:48,812 --> 01:07:49,274
+I'm sorry.
+
+1103
+01:07:49,274 --> 01:07:50,703
+I hope I didn't
+cross some line.
+
+1104
+01:07:50,703 --> 01:07:52,789
+Yeah.
+No, it was fine.
+
+1105
+01:07:55,345 --> 01:07:55,971
+You sure?
+
+1106
+01:07:56,433 --> 01:07:57,813
+I don't want it to be awkward
+for us.
+
+1107
+01:07:58,279 --> 01:07:59,488
+I'm sure.
+
+1108
+01:08:08,517 --> 01:08:09,307
+Good.
+
+1109
+01:08:09,655 --> 01:08:10,570
+Not awkward.
+
+1110
+01:09:03,047 --> 01:09:05,893
+I finally broke things off,
+and I was so relieved.
+
+1111
+01:09:05,893 --> 01:09:09,485
+That totally reminds me
+of this guy that I dated.
+
+1112
+01:09:13,648 --> 01:09:15,859
+Hey,
+where have you been?
+
+1113
+01:09:16,572 --> 01:09:17,644
+Working.
+
+1114
+01:09:27,442 --> 01:09:28,467
+What's this?
+
+1115
+01:09:29,310 --> 01:09:30,392
+Catapult.
+
+1116
+01:09:31,356 --> 01:09:33,299
+Is this what you've been
+working on?
+
+1117
+01:09:33,299 --> 01:09:34,648
+Yeah.
+
+1118
+01:09:34,648 --> 01:09:35,960
+Why?
+
+1119
+01:09:36,566 --> 01:09:38,332
+I'm ready to get off
+this island.
+
+1120
+01:09:41,050 --> 01:09:42,411
+What's it for?
+
+1121
+01:09:42,622 --> 01:09:43,845
+To launch the flare.
+
+1122
+01:09:46,577 --> 01:09:47,395
+Give that back.
+
+1123
+01:09:48,937 --> 01:09:49,988
+Seriously, Chris.
+
+1124
+01:09:49,988 --> 01:09:51,693
+Is this the best
+you can come up with?
+
+1125
+01:09:52,068 --> 01:09:52,897
+Tell you what.
+
+1126
+01:09:53,186 --> 01:09:55,257
+You think of something better
+with the resources we have,
+
+1127
+01:09:55,257 --> 01:09:57,668
+and you can criticize me
+all you want.
+
+1128
+01:10:38,556 --> 01:10:40,126
+What are you
+looking for?
+
+1129
+01:10:41,300 --> 01:10:42,284
+Cologne.
+
+1130
+01:10:42,776 --> 01:10:44,321
+Won't help
+with the smell.
+
+1131
+01:10:46,358 --> 01:10:47,778
+Have you seen
+my shaving cream?
+
+1132
+01:10:48,724 --> 01:10:49,947
+Yeah.
+
+1133
+01:10:51,036 --> 01:10:52,174
+Hey!
+
+1134
+01:10:54,161 --> 01:10:55,387
+What's his problem?
+
+1135
+01:10:56,081 --> 01:10:57,345
+I don't know.
+
+1136
+01:11:03,100 --> 01:11:04,153
+Hey.
+
+1137
+01:11:05,030 --> 01:11:05,859
+Hey.
+
+1138
+01:11:06,659 --> 01:11:08,922
+Is this
+what you've been doing?
+
+1139
+01:11:08,922 --> 01:11:10,153
+Yeah.
+
+1140
+01:11:10,558 --> 01:11:12,414
+You built a catapult.
+
+1141
+01:11:15,599 --> 01:11:17,705
+Why didn't you ask us
+for help?
+
+1142
+01:11:18,921 --> 01:11:21,054
+I didn't know
+how much support I'd get.
+
+1143
+01:11:21,469 --> 01:11:23,143
+Plus, you were caught up
+in other things.
+
+1144
+01:11:23,656 --> 01:11:25,887
+You know,
+you're not so subtle.
+
+1145
+01:11:25,887 --> 01:11:27,469
+Sorry.
+
+1146
+01:11:28,718 --> 01:11:31,893
+Mark's really sweet,
+even more than I thought before.
+
+1147
+01:11:32,589 --> 01:11:34,277
+I didn't think
+that was possible.
+
+1148
+01:11:34,481 --> 01:11:35,994
+Come on,
+don't do that.
+
+1149
+01:11:35,994 --> 01:11:37,637
+Be happy for me.
+
+1150
+01:11:38,928 --> 01:11:41,028
+If you're happy,
+I guess that's all that matters.
+
+1151
+01:11:42,768 --> 01:11:45,152
+I just don't want you
+to get hurt.
+
+1152
+01:11:45,510 --> 01:11:47,608
+I won't get hurt.
+
+1153
+01:11:48,845 --> 01:11:52,297
+When we get back, do you think
+he's going to be as sweet?
+
+1154
+01:11:52,297 --> 01:11:56,699
+Do you ever wonder why he always
+has a new girlfriend?
+
+1155
+01:11:57,657 --> 01:11:59,297
+You'll start to see
+who he really is.
+
+1156
+01:11:59,297 --> 01:12:00,401
+I like who he is.
+
+1157
+01:12:00,401 --> 01:12:02,684
+You like who you think he is.
+There's a difference.
+
+1158
+01:12:02,684 --> 01:12:04,724
+Why are you being so mean about this?
+- I'm not.
+
+1159
+01:12:04,936 --> 01:12:07,124
+I'm just trying to get
+out of here.
+
+1160
+01:12:08,998 --> 01:12:10,448
+You two may be happy
+to stay here forever,
+
+1161
+01:12:10,448 --> 01:12:12,417
+But I'm not going to stick
+around as the third wheel.
+
+1162
+01:12:12,417 --> 01:12:13,331
+What?
+
+1163
+01:12:14,463 --> 01:12:15,998
+I can't take this.
+
+1164
+01:12:15,998 --> 01:12:17,632
+What are you
+talking about?
+
+1165
+01:12:17,632 --> 01:12:19,767
+You really don't know?
+- No.
+
+1166
+01:12:19,767 --> 01:12:21,890
+I'm talking about you.
+
+1167
+01:12:21,890 --> 01:12:22,640
+Us.
+
+1168
+01:12:23,607 --> 01:12:25,173
+I've been trying to tell you
+for the longest time,
+
+1169
+01:12:26,185 --> 01:12:28,922
+but you barely even notice me
+when Mark's around.
+
+1170
+01:12:30,887 --> 01:12:32,923
+I like you, Megan.
+
+1171
+01:12:32,923 --> 01:12:34,235
+A lot.
+
+1172
+01:12:34,755 --> 01:12:37,341
+But now
+I'm not even sure why.
+
+1173
+01:12:37,553 --> 01:12:39,969
+I mean, do we still believe
+in the same things?
+
+1174
+01:12:39,969 --> 01:12:41,356
+Don't question
+what I believe.
+
+1175
+01:12:41,356 --> 01:12:43,260
+Just because I don't make
+a spectacle out of being a christian
+
+1176
+01:12:43,260 --> 01:12:44,565
+doesn't mean
+I don't believe.
+
+1177
+01:12:44,565 --> 01:12:46,949
+Your actions are a reflection
+of your beliefs.
+
+1178
+01:12:46,949 --> 01:12:48,925
+You're trying so hard to fit in
+and be accepted
+
+1179
+01:12:48,925 --> 01:12:51,581
+that you're compromising
+the things that really matter.
+
+1180
+01:12:51,581 --> 01:12:52,535
+You know what?
+
+1181
+01:12:52,535 --> 01:12:54,027
+I'm tired of you
+always judging me.
+
+1182
+01:12:54,027 --> 01:12:55,575
+Nothing I do
+is ever good enough.
+
+1183
+01:12:55,575 --> 01:12:56,577
+I'm never strong enough,
+
+1184
+01:12:56,577 --> 01:12:58,048
+not the perfect person
+you want me to be.
+
+1185
+01:12:58,048 --> 01:12:59,704
+Why don't you stop being
+so self-righteous
+
+1186
+01:12:59,704 --> 01:13:01,811
+and let me be who I am?
+
+1187
+01:13:03,017 --> 01:13:06,087
+You're right.
+
+1188
+01:13:06,087 --> 01:13:12,046
+I just worry about you,
+probably more than I should.
+
+1189
+01:13:13,030 --> 01:13:17,636
+I just see these glimpses of
+the Megan I fell in love with.
+
+1190
+01:13:19,740 --> 01:13:21,906
+It doesn't matter.
+
+1191
+01:13:22,283 --> 01:13:25,537
+I guess
+you've made your choice.
+
+1192
+01:13:37,966 --> 01:13:39,827
+Where have you been?
+
+1193
+01:13:43,071 --> 01:13:44,962
+Just thinking.
+
+1194
+01:13:58,824 --> 01:14:00,864
+I can't.
+
+1195
+01:14:03,826 --> 01:14:06,760
+I can't take it anymore.
+
+1196
+01:14:10,322 --> 01:14:12,058
+Please.
+
+1197
+01:14:12,764 --> 01:14:14,791
+This is my limit.
+
+1198
+01:14:22,414 --> 01:14:23,639
+Help me.
+
+1199
+01:14:24,932 --> 01:14:25,665
+Please.
+
+1200
+01:15:03,380 --> 01:15:04,850
+What's that?
+
+1201
+01:15:23,221 --> 01:15:25,460
+Is that really
+what I think it is?
+
+1202
+01:15:25,460 --> 01:15:27,781
+Plane!
+It's a plane!
+
+1203
+01:15:28,611 --> 01:15:29,940
+Wait!
+
+1204
+01:15:33,986 --> 01:15:36,711
+Hey!
+Come on, where are you?
+
+1205
+01:15:36,711 --> 01:15:38,571
+I can hear it.
+
+1206
+01:15:41,958 --> 01:15:43,773
+There!
+
+1207
+01:15:45,130 --> 01:15:46,132
+Hey!
+- Hey!
+
+1208
+01:15:46,132 --> 01:15:47,660
+Hey!
+- Hey!
+
+1209
+01:15:48,443 --> 01:15:49,780
+We are over here!
+
+1210
+01:15:49,780 --> 01:15:52,778
+Hey!
+- Come on!
+
+1211
+01:15:52,778 --> 01:15:54,028
+Help!
+
+1212
+01:15:54,028 --> 01:15:57,415
+Wait!
+Don't go. Don't go. Don't go.
+
+1213
+01:15:58,321 --> 01:15:59,633
+Come on. Come on. Come on.
+
+1214
+01:15:59,848 --> 01:16:02,408
+Please work.
+
+1215
+01:16:16,250 --> 01:16:17,331
+Chris' flare!
+
+1216
+01:16:34,062 --> 01:16:36,110
+Over here!
+
+1217
+01:16:39,813 --> 01:16:41,342
+He's turning around!
+
+1218
+01:16:41,834 --> 01:16:42,904
+Down here!
+
+1219
+01:16:43,204 --> 01:16:44,622
+They see the flare!
+
+1220
+01:16:44,894 --> 01:16:45,892
+Come on. Down here.
+
+1221
+01:16:45,892 --> 01:16:46,960
+Hey!
+
+1222
+01:16:46,960 --> 01:16:47,925
+Hey!
+
+1223
+01:16:49,016 --> 01:16:50,857
+Down here!
+
+1224
+01:16:59,874 --> 01:17:03,224
+Yes! 
+Over here!
+
+1225
+01:17:03,470 --> 01:17:05,061
+Over here!
+
+1226
+01:17:05,677 --> 01:17:06,767
+Yes!
+
+1227
+01:17:06,767 --> 01:17:07,933
+Hey!
+
+1228
+01:17:11,947 --> 01:17:13,335
+Yes! Come on!
+
+1229
+01:17:17,204 --> 01:17:18,501
+We're going home!
+
+1230
+01:17:54,836 --> 01:17:55,863
+Hey.
+- Hi.
+
+1231
+01:17:55,863 --> 01:17:57,644
+Wow, you look great!
+- Thank you.
+
+1232
+01:17:57,644 --> 01:17:59,222
+Not bad for your first day
+back at work.
+
+1233
+01:17:59,644 --> 01:18:00,480
+Oh well i do what i can.
+
+1234
+01:18:00,480 --> 01:18:01,894
+It's too bad
+about those shoes tough.
+
+1235
+01:18:02,335 --> 01:18:03,896
+I can't believe you and Mark
+are a thing.
+
+1236
+01:18:03,896 --> 01:18:05,430
+I don't know what the rest of us
+are going to do.
+
+1237
+01:18:05,665 --> 01:18:06,419
+But there's a new guy.
+
+1238
+01:18:06,971 --> 01:18:09,202
+Not only is he tall and rich,
+he's divorced.
+
+1239
+01:18:17,368 --> 01:18:18,419
+Congratulations.
+
+1240
+01:18:19,678 --> 01:18:21,190
+I was going
+for "glad you're alive,"
+
+1241
+01:18:21,190 --> 01:18:23,875
+but this was all they had left
+at the bakery.
+
+1242
+01:18:24,093 --> 01:18:25,772
+I think it confused
+some people.
+
+1243
+01:18:25,772 --> 01:18:26,973
+Nice.
+
+1244
+01:18:27,222 --> 01:18:28,174
+Just glad
+to have you back.
+
+1245
+01:18:28,913 --> 01:18:29,851
+Thanks.
+
+1246
+01:18:34,379 --> 01:18:35,443
+Hey, Mark.
+
+1247
+01:18:36,365 --> 01:18:37,290
+Hey.
+
+1248
+01:18:38,028 --> 01:18:40,879
+So, I owe you
+a new pair of jeans.
+
+1249
+01:18:41,898 --> 01:18:42,808
+Thanks.
+
+1250
+01:18:45,078 --> 01:18:47,248
+Do you want to get something
+to eat tonight?
+
+1251
+01:18:47,563 --> 01:18:49,452
+Some Chinese food?
+
+1252
+01:18:50,704 --> 01:18:52,858
+I can't. I've got too much
+to catch up on.
+
+1253
+01:19:03,162 --> 01:19:04,259
+What's the occasion?
+
+1254
+01:19:04,795 --> 01:19:06,062
+Being alive.
+
+1255
+01:19:06,062 --> 01:19:07,505
+John got it for me.
+
+1256
+01:19:07,505 --> 01:19:08,515
+Nice.
+
+1257
+01:19:09,689 --> 01:19:11,608
+People I've never met
+kept stopping by my desk
+
+1258
+01:19:11,608 --> 01:19:12,740
+and eating it.
+
+1259
+01:19:13,088 --> 01:19:15,298
+The cake,
+not my desk.
+
+1260
+01:19:15,719 --> 01:19:16,616
+Got it.
+
+1261
+01:19:17,970 --> 01:19:20,241
+So, crazy day?
+
+1262
+01:19:20,241 --> 01:19:21,780
+Not really.
+
+1263
+01:19:21,780 --> 01:19:24,222
+John pretty much was me
+while I was gone.
+
+1264
+01:19:24,222 --> 01:19:26,082
+Not much for me to do.
+
+1265
+01:19:29,948 --> 01:19:34,169
+Hey, in all of this, I didn't
+get the chance to thank you.
+
+1266
+01:19:35,081 --> 01:19:37,238
+You got us home.
+
+1267
+01:19:37,637 --> 01:19:39,268
+The plane helped.
+
+1268
+01:19:39,268 --> 01:19:40,688
+It wasn't all me.
+
+1269
+01:19:41,034 --> 01:19:43,344
+But they never would have
+seen us,
+
+1270
+01:19:43,835 --> 01:19:45,236
+and it's not just that.
+
+1271
+01:19:45,707 --> 01:19:47,173
+You really saved us.
+
+1272
+01:19:49,924 --> 01:19:50,967
+You're welcome.
+
+1273
+01:19:53,073 --> 01:19:57,723
+Listen, about what happened,
+I wanted to apologize.
+
+1274
+01:19:58,029 --> 01:20:01,080
+You were right
+about me judging you.
+
+1275
+01:20:01,080 --> 01:20:02,223
+I shouldn't have said -
+
+1276
+01:20:02,482 --> 01:20:03,611
+you...
+
+1277
+01:20:03,883 --> 01:20:05,715
+You don't
+have to apologize.
+
+1278
+01:20:08,098 --> 01:20:09,060
+I just wanted you to know
+
+1279
+01:20:09,060 --> 01:20:12,299
+that I'm glad you introduced me
+to Christ
+
+1280
+01:20:13,266 --> 01:20:16,533
+I can´t imagine going back 
+ not having him in my life,
+
+1281
+01:20:17,691 --> 01:20:22,721
+knowing that I'm not alone
+makes all the difference.
+
+1282
+01:20:25,567 --> 01:20:26,949
+You're...
+
+1283
+01:20:27,877 --> 01:20:28,899
+You're welcome.
+
+1284
+01:20:31,100 --> 01:20:34,966
+Look, today is my last day...
+ Okay, I'm ready. Let's go.
+
+1285
+01:20:35,177 --> 01:20:37,029
+I'll talk to you later.
+
+1286
+01:20:41,001 --> 01:20:42,165
+Hi, john.
+- Hi.
+
+1287
+01:20:44,248 --> 01:20:45,127
+Need a hand?
+
+1288
+01:20:47,607 --> 01:20:48,997
+Something you want
+to tell me?
+
+1289
+01:20:49,768 --> 01:20:50,743
+I'm leaving.
+
+1290
+01:20:51,338 --> 01:20:54,263
+Did they fire you?
+
+1291
+01:20:54,263 --> 01:20:57,402
+No, it's not that.
+It's...
+
+1292
+01:20:57,402 --> 01:20:58,802
+It's time.
+
+1293
+01:21:00,684 --> 01:21:01,330
+Chris.
+
+1294
+01:21:01,330 --> 01:21:02,872
+I need to move on.
+
+1295
+01:21:46,787 --> 01:21:48,670
+So, how did you survive?
+
+1296
+01:21:48,670 --> 01:21:52,462
+We ate fruit and coconuts,
+anything we could find.
+
+1297
+01:21:52,462 --> 01:21:55,059
+But then I got to thinking,
+"what about fish?"
+
+1298
+01:21:55,059 --> 01:21:56,686
+So I made this spear.
+
+1299
+01:21:56,898 --> 01:22:00,513
+I go knee-deep in water
+and just waited.
+
+1300
+01:22:01,115 --> 01:22:02,245
+Skip to the end.
+
+1301
+01:22:02,245 --> 01:22:04,382
+You guys haven't even heard
+the best part.
+
+1302
+01:22:04,623 --> 01:22:06,726
+Tell them about how you got
+everyone off the island.
+
+1303
+01:22:06,997 --> 01:22:10,535
+So, I gather up all my stuff,
+mousse and shaving cream,
+
+1304
+01:22:10,908 --> 01:22:13,701
+and we put the stuff in coconuts
+so we could make a flare.
+
+1305
+01:22:13,701 --> 01:22:15,117
+Then I got to thinking,
+
+1306
+01:22:15,117 --> 01:22:16,891
+"How are we gonna get
+these flares up in the air?"
+
+1307
+01:22:16,891 --> 01:22:18,850
+So we build this catapult,
+right?
+
+1308
+01:22:19,531 --> 01:22:20,033
+Hey, John.
+
+1309
+01:22:20,448 --> 01:22:21,010
+Hey.
+
+1310
+01:22:21,540 --> 01:22:23,555
+Where's Chris?
+He's gone.
+
+1311
+01:22:23,777 --> 01:22:26,004
+Oh. Do you know
+when he'll be back?
+
+1312
+01:22:26,719 --> 01:22:27,569
+He quit.
+
+1313
+01:22:28,215 --> 01:22:30,108
+He did? When?
+
+1314
+01:22:30,639 --> 01:22:32,065
+Yesterday.
+You saw him.
+
+1315
+01:22:33,031 --> 01:22:34,527
+He didn't even
+say goodbye.
+
+1316
+01:22:34,835 --> 01:22:36,320
+Maybe he didn't
+get a chance.
+
+1317
+01:22:36,851 --> 01:22:40,360
+Did you guys hear everything
+Mark did on that island?
+
+1318
+01:22:40,360 --> 01:22:42,069
+Yeah.
+I was there.
+
+1319
+01:22:42,601 --> 01:22:44,050
+Oh, yeah. Sorry.
+I forget about that.
+
+1320
+01:22:44,050 --> 01:22:46,007
+So, what is going on
+between the two of you?
+
+1321
+01:22:47,619 --> 01:22:48,796
+I don't know.
+
+1322
+01:22:50,968 --> 01:22:52,408
+Let's go get some dinner.
+
+1323
+01:22:52,957 --> 01:22:55,281
+I thought you and Megan
+were involved.
+
+1324
+01:22:55,281 --> 01:22:58,585
+Megan's nice,
+but we're just friends.
+
+1325
+01:22:58,585 --> 01:22:59,425
+Really?
+
+1326
+01:22:59,425 --> 01:23:02,233
+This may sound awful,
+but she's a little shallow.
+
+1327
+01:23:02,443 --> 01:23:04,952
+I don't know her
+that well.
+
+1328
+01:23:05,211 --> 01:23:07,482
+You should have seen the bag
+she brought on the plane.
+
+1329
+01:23:07,482 --> 01:23:09,846
+That alone was enough
+to take us down.
+
+1330
+01:24:27,028 --> 01:24:28,860
+There you are!
+- Hi.
+
+1331
+01:24:28,860 --> 01:24:32,624
+Hey. Okay, so,
+this weekend, Vegas.
+
+1332
+01:24:32,624 --> 01:24:34,540
+A bunch of us are going.
+Are you in?
+
+1333
+01:24:35,736 --> 01:24:36,833
+Can't.
+
+1334
+01:24:36,833 --> 01:24:38,197
+I have Church this Sunday.
+
+1335
+01:24:38,197 --> 01:24:40,213
+You're picking Church
+over Vegas?
+
+1336
+01:24:40,825 --> 01:24:43,148
+You are starting to sound
+like Chris.
+
+1337
+01:24:43,506 --> 01:24:44,709
+What's wrong with that?
+
+1338
+01:24:44,917 --> 01:24:48,603
+Nothing.
+It's just a little geeky.
+
+1339
+01:24:50,475 --> 01:24:51,478
+Maybe.
+
+1340
+01:24:52,011 --> 01:24:53,542
+But thanks
+for inviting me.
+
+1341
+01:24:55,508 --> 01:24:56,857
+Okay.
+
+1342
+01:25:03,050 --> 01:25:04,229
+We'll send that
+right over.
+
+1343
+01:25:04,556 --> 01:25:05,165
+Thank you.
+
+1344
+01:25:07,022 --> 01:25:08,846
+Hey, Megan.
+- Mark.
+
+1345
+01:25:09,552 --> 01:25:11,239
+I don't have any plans tonight.
+Want to go out?
+
+1346
+01:25:11,239 --> 01:25:12,920
+Thanks, but no.
+
+1347
+01:25:13,487 --> 01:25:14,762
+What about
+tomorrow night?
+
+1348
+01:25:15,930 --> 01:25:17,716
+It's not an issue of when.
+
+1349
+01:25:18,179 --> 01:25:20,489
+I think I'm a little
+too shallow for you.
+
+1350
+01:25:22,225 --> 01:25:24,131
+What?
+You have a better offer?
+
+1351
+01:25:32,298 --> 01:25:35,861
+Hey, this is Chris. I'm not around, so
+leave a message and i'll get back to you.
+
+1352
+01:25:43,994 --> 01:25:45,567
+Where is he?
+- Who?
+
+1353
+01:25:45,567 --> 01:25:47,613
+Chris.
+He's not answering his phone.
+
+1354
+01:25:47,613 --> 01:25:49,169
+He said he was
+going to relax a bit,
+
+1355
+01:25:49,169 --> 01:25:50,799
+clear his head
+or whatever.
+
+1356
+01:25:56,556 --> 01:25:58,471
+Hey, this is Chris.
+ I'm not around, so
+
+1357
+01:25:58,471 --> 01:26:00,395
+leave a message
+and I'll get back to you.
+
+1358
+01:26:00,754 --> 01:26:03,254
+Hi. It's Megan.
+
+1359
+01:26:03,459 --> 01:26:05,633
+I heard you were out of town,
+
+1360
+01:26:07,129 --> 01:26:09,363
+and I wanted to see you
+and talk.
+
+1361
+01:26:10,712 --> 01:26:13,035
+Give me a call back whenever.
+
+1362
+01:26:13,714 --> 01:26:15,504
+Yeah. Bye.
+
+1363
+01:26:22,803 --> 01:26:24,667
+Hey, Megan.
+- Hi.
+
+1364
+01:26:25,237 --> 01:26:26,671
+Did you find Chris?
+
+1365
+01:26:26,671 --> 01:26:27,865
+Sort of.
+
+1366
+01:26:28,212 --> 01:26:29,799
+He's at his sister's.
+
+1367
+01:26:29,799 --> 01:26:31,116
+In Hawaii?
+
+1368
+01:26:31,982 --> 01:26:34,995
+I called him,
+but he hasn't called me back.
+
+1369
+01:26:35,215 --> 01:26:36,943
+Maybe he didn't check
+his messages.
+
+1370
+01:26:37,636 --> 01:26:40,092
+It might be kind of awkward
+over the phone anyway.
+
+1371
+01:26:40,752 --> 01:26:41,608
+Why?
+
+1372
+01:26:42,014 --> 01:26:43,301
+Well, he told me -
+
+1373
+01:26:44,083 --> 01:26:45,282
+I said that -
+
+1374
+01:26:46,805 --> 01:26:48,020
+It's a long story.
+
+1375
+01:26:49,255 --> 01:26:50,879
+One of those, huh?
+
+1376
+01:26:51,180 --> 01:26:52,241
+Yeah.
+
+1377
+01:26:53,003 --> 01:26:54,960
+It'd be better
+face-to-face.
+
+1378
+01:26:55,413 --> 01:26:56,870
+Then go see him.
+
+1379
+01:26:58,182 --> 01:27:00,034
+I don't know
+that he'd want that.
+
+1380
+01:27:01,098 --> 01:27:03,090
+Well, there's only one way
+to find out.
+
+1381
+01:27:04,845 --> 01:27:06,258
+I don't know.
+
+1382
+01:27:08,549 --> 01:27:12,992
+Look, if it's important to you,
+isn't it worth it?
+
+1383
+01:27:20,926 --> 01:27:22,976
+Yeah, a window seat's fine.
+
+1384
+01:27:23,631 --> 01:27:25,490
+Are you sure there's not
+anything else leaving today?
+
+1385
+01:27:27,154 --> 01:27:28,139
+Two hours?
+
+1386
+01:27:28,697 --> 01:27:30,349
+No, no.
+I can make that.
+
+1387
+01:28:11,806 --> 01:28:12,618
+Hi.
+
+1388
+01:28:13,678 --> 01:28:14,428
+Hi.
+
+1389
+01:28:16,200 --> 01:28:18,053
+I don't know if this is
+the right place or not.
+
+1390
+01:28:18,053 --> 01:28:19,606
+I'm looking for Chris.
+
+1391
+01:28:19,867 --> 01:28:21,067
+Are you his sister?
+
+1392
+01:28:21,511 --> 01:28:22,841
+You must be Megan.
+
+1393
+01:28:23,054 --> 01:28:24,213
+Yeah.
+
+1394
+01:28:24,213 --> 01:28:25,755
+He went down
+to the beach.
+
+1395
+01:28:26,491 --> 01:28:27,466
+Thanks.
+
+1396
+01:28:50,633 --> 01:28:52,334
+You didn't get enough
+of the beach?
+
+1397
+01:28:54,801 --> 01:28:56,365
+I figured
+you'd come here.
+
+1398
+01:28:56,700 --> 01:28:59,009
+I called around, trying to find
+your sister's address.
+
+1399
+01:28:59,613 --> 01:29:04,875
+I to called your neighbor's you 
+Landlord and eventually I've figure it out
+
+1400
+01:29:04,875 --> 01:29:08,797
+you listed your parents as
+ your emergency contact at work.
+
+1401
+01:29:09,369 --> 01:29:12,620
+Your parents were suspicious
+about a random girl calling.
+
+1402
+01:29:12,958 --> 01:29:14,996
+They finally told me
+where you were,
+
+1403
+01:29:15,372 --> 01:29:16,949
+and I got a flight here.
+
+1404
+01:29:19,599 --> 01:29:21,874
+How'd you know I'd go
+to my sister's place?
+
+1405
+01:29:23,212 --> 01:29:25,630
+You said you come here
+to clear your head.
+
+1406
+01:29:29,121 --> 01:29:31,696
+So, quit your job.
+
+1407
+01:29:33,727 --> 01:29:35,005
+It was time.
+
+1408
+01:29:37,623 --> 01:29:40,213
+I was thinking
+of quitting, too.
+
+1409
+01:29:40,749 --> 01:29:41,828
+Why?
+
+1410
+01:29:42,170 --> 01:29:45,290
+It might be awkward,
+working with Mark.
+
+1411
+01:29:49,287 --> 01:29:51,889
+I liked
+who he pretended to be.
+
+1412
+01:29:51,889 --> 01:29:55,390
+I kept convincing myself
+that's what I wanted.
+
+1413
+01:29:55,835 --> 01:29:59,468
+I finally realized
+you were right about Mark
+
+1414
+01:29:59,747 --> 01:30:01,958
+and also about me.
+
+1415
+01:30:03,417 --> 01:30:07,336
+I was changing who I should be
+just to try and please everyone.
+
+1416
+01:30:08,233 --> 01:30:14,752
+You made me realize that,
+even if I didn't want to.
+
+1417
+01:30:16,789 --> 01:30:18,359
+You're a better influence
+in my life
+
+1418
+01:30:18,359 --> 01:30:20,967
+than Mark
+or anyone could be.
+
+1419
+01:30:24,147 --> 01:30:25,807
+I only regret...
+
+1420
+01:30:27,308 --> 01:30:29,101
+Well, I have two regrets.
+
+1421
+01:30:29,882 --> 01:30:31,100
+What?
+
+1422
+01:30:32,773 --> 01:30:36,150
+One, I was doing
+all the wrong things.
+
+1423
+01:30:36,150 --> 01:30:38,582
+I might have opened your eyes
+to the Christ,
+
+1424
+01:30:38,582 --> 01:30:42,413
+but you opened mine
+how much He really matters.
+
+1425
+01:30:45,231 --> 01:30:52,639
+And two, that I might have
+missed my chance to be with you.
+
+1426
+01:31:03,002 --> 01:31:05,272
+You only have one regret.
+
+1427
+01:31:25,733 --> 01:31:28,639
+So... what's next?
+
+1428
+01:31:30,148 --> 01:31:31,328
+How about dinner?
+
+1429
+01:31:32,033 --> 01:31:33,994
+I know
+this great sushi place.
+
+1430
+01:31:34,197 --> 01:31:35,106
+No!
+
+1431
+01:31:35,328 --> 01:31:37,451
+I've had as much fish
+as I can stand.
+
+1432
+01:31:37,451 --> 01:31:39,832
+Come on. I'll take
+the seaweed off for you.
+
+1433
+01:31:39,615 --> 01:31:43,857
+Legendas por: Lucile_7

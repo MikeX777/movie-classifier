@@ -1,0 +1,4573 @@
+1
+00:00:05,296 --> 00:00:08,550
+[man narrating] <i>On a warm California day</i>
+<i>at Pixar Animation Studios...</i>
+
+2
+00:00:10,885 --> 00:00:13,221
+<i>a familiar face has arrived
+for a morning meeting.</i>
+
+3
+00:00:14,556 --> 00:00:16,367
+Let's go sit. Come on.
+We'll talk about the day.
+
+4
+00:00:16,391 --> 00:00:18,226
+- Hello. Nice to see you.
+- How are you?
+
+5
+00:00:18,309 --> 00:00:19,936
+- Come sit next to me.
+- I know...
+
+6
+00:00:20,020 --> 00:00:22,814
+[narrator] <i>Bob Iger is the CEO</i>
+<i>of The Walt Disney Company,</i>
+
+7
+00:00:23,440 --> 00:00:24,649
+<i>which owns Pixar.</i>
+
+8
+00:00:25,859 --> 00:00:27,485
+<i>And these meetings,</i>
+
+9
+00:00:27,569 --> 00:00:30,864
+<i>the kind where he gets to talk ideas
+with his creative people...</i>
+
+10
+00:00:32,073 --> 00:00:33,158
+<i>are the kind he loves.</i>
+
+11
+00:00:33,241 --> 00:00:36,202
+Well, I get to draw in the story.
+[chuckling] At least let me do that.
+
+12
+00:00:37,495 --> 00:00:40,123
+<i>There are always new things
+on the horizon to talk about.</i>
+
+13
+00:00:40,206 --> 00:00:42,417
+<i>New concepts, new technology.</i>
+
+14
+00:00:42,500 --> 00:00:43,793
+Wow, it reached the Philippines.
+
+15
+00:00:43,877 --> 00:00:45,170
+<i>New possibilities.</i>
+
+16
+00:00:45,920 --> 00:00:48,757
+I mean, the stories, by nature,
+are so hard to crack.
+
+17
+00:00:49,716 --> 00:00:51,343
+<i>And you never know when an old story</i>
+
+18
+00:00:51,426 --> 00:00:55,013
+<i>about his days in charge
+of programming the Olympics on ABC</i>
+
+19
+00:00:55,096 --> 00:00:57,307
+<i>might be good for a laugh as well.</i>
+
+20
+00:00:57,807 --> 00:00:59,392
+Everything starts to melt.
+
+21
+00:01:00,185 --> 00:01:02,228
+The bobsled run is melting.
+
+22
+00:01:02,312 --> 00:01:06,191
+And I've got nothing to put on, except
+maybe Sweden versus Romania in hockey.
+
+23
+00:01:06,274 --> 00:01:07,442
+[people chuckle]
+
+24
+00:01:07,525 --> 00:01:08,565
+[narrator] <i>But ultimately,</i>
+
+25
+00:01:09,027 --> 00:01:12,572
+<i>he's always sure to remind his colleagues
+of their greatest objective.</i>
+
+26
+00:01:12,864 --> 00:01:16,117
+A lot of what we do, what we make,
+is to inspire audiences,
+
+27
+00:01:16,659 --> 00:01:21,539
+but it's just as valuable to us
+and as fulfilling to us
+
+28
+00:01:21,623 --> 00:01:23,625
+when we inspire the people
+who work for us too.
+
+29
+00:01:23,708 --> 00:01:24,876
+[male Pixar employee] Yeah.
+
+30
+00:01:24,959 --> 00:01:27,587
+[Iger] First of all,
+I get motivated by great creativity.
+
+31
+00:01:27,671 --> 00:01:29,130
+- That's...
+- [chuckling]
+
+32
+00:01:29,214 --> 00:01:32,384
+It's, you know, so much a part
+of what we do as a company.
+
+33
+00:01:32,842 --> 00:01:38,598
+I get motivated by working
+with an incredibly large and diverse group
+
+34
+00:01:38,682 --> 00:01:40,767
+of extremely talented people
+
+35
+00:01:40,850 --> 00:01:43,561
+that come to work every day
+with a passion for what they do.
+
+36
+00:01:45,271 --> 00:01:46,523
+[narrator] <i>On any given day,</i>
+
+37
+00:01:47,065 --> 00:01:48,566
+<i>in so many different places...</i>
+
+38
+00:01:49,943 --> 00:01:52,946
+<i>you'll find countless ways
+that people at Disney,</i>
+
+39
+00:01:53,029 --> 00:01:54,698
+<i>the cast members as they're called...</i>
+
+40
+00:01:55,865 --> 00:01:57,826
+<i>contribute to a common mission.</i>
+
+41
+00:01:58,451 --> 00:02:01,496
+[Ranft] The collaboration
+is where it's most exciting.
+
+42
+00:02:01,579 --> 00:02:03,379
+[Mylniczenko]
+We're very compassionate people.
+
+43
+00:02:03,415 --> 00:02:05,542
+You want to be able to solve problems.
+
+44
+00:02:05,959 --> 00:02:08,712
+[Roberts] I got in the habit
+to be optimistic.
+
+45
+00:02:08,795 --> 00:02:11,923
+[Goldberg] I never thought
+I'd be good enough to work at Disney.
+
+46
+00:02:12,007 --> 00:02:14,968
+[Lee] Every year for my birthday,
+I would ask to go to Disneyland.
+
+47
+00:02:15,427 --> 00:02:17,095
+[Gonzales] It was that idea of adventure.
+
+48
+00:02:18,346 --> 00:02:21,346
+[Baker] <i>Star Wars</i> was something that
+I never thought I would ever get to do.
+
+49
+00:02:22,267 --> 00:02:25,395
+[Meinerding] It is a joy that
+we get to work on stuff that we all love.
+
+50
+00:02:25,729 --> 00:02:27,230
+[Girdich] I can create something
+
+51
+00:02:27,313 --> 00:02:29,691
+that I never thought could exist
+in the physical world.
+
+52
+00:02:30,150 --> 00:02:31,877
+[Magudulela] I still get chills
+when I'm... [chuckles] singing.
+
+53
+00:02:31,901 --> 00:02:33,611
+I feel like we're giving them a gift.
+
+54
+00:02:34,612 --> 00:02:36,612
+[narrator]
+<i>These are the stories of what they do...</i>
+
+55
+00:02:37,782 --> 00:02:39,242
+<i>and what it means to them.</i>
+
+56
+00:02:40,994 --> 00:02:44,039
+<i>This is </i>One Day at Disney<i>.</i>
+
+57
+00:03:03,141 --> 00:03:06,353
+<i>Walt Disney,
+the name so ingrained in the culture</i>
+
+58
+00:03:06,436 --> 00:03:08,855
+<i>it's almost easy to forget
+it once belonged to a man...</i>
+
+59
+00:03:11,107 --> 00:03:13,902
+<i>who in the 1920s began a company founded,</i>
+
+60
+00:03:13,985 --> 00:03:15,278
+<i>more than anything else...</i>
+
+61
+00:03:16,404 --> 00:03:18,031
+<i>on the power of imagination.</i>
+
+62
+00:03:22,869 --> 00:03:25,497
+[Iger] Anytime a child goes
+to his or her first movie
+
+63
+00:03:25,580 --> 00:03:27,165
+it's a memorable experience.
+
+64
+00:03:28,249 --> 00:03:32,128
+In my particular case, my grandparents
+took me to see <i>Cinderella</i>,
+
+65
+00:03:32,629 --> 00:03:35,090
+when, I believe, I was four years old.
+
+66
+00:03:35,173 --> 00:03:39,552
+In Brooklyn, New York,
+seeing a classic Disney film,
+
+67
+00:03:39,636 --> 00:03:42,764
+I think, was maybe fortuitous
+
+68
+00:03:42,847 --> 00:03:44,849
+because it stuck with me my whole life.
+
+69
+00:03:45,725 --> 00:03:48,812
+[Brown] <i>Iger is one of millions</i>
+<i>who can tell that kind of story.</i>
+
+70
+00:03:50,605 --> 00:03:52,357
+<i>But across every generation,</i>
+
+71
+00:03:52,440 --> 00:03:55,944
+<i>Walt Disney's original passion has endured
+at the company's heart...</i>
+
+72
+00:03:57,070 --> 00:03:58,321
+<i>animation.</i>
+
+73
+00:04:02,242 --> 00:04:05,161
+[Goldberg] I'm one of the guys
+who gets to draw Mickey.
+
+74
+00:04:07,038 --> 00:04:12,377
+I take pride in the fact
+that the studio trusts me enough.
+
+75
+00:04:13,628 --> 00:04:17,173
+It's kind of like being handed
+the keys to the castle.
+
+76
+00:04:18,633 --> 00:04:23,138
+I remember the first time
+that I drew Mickey in a public forum,
+
+77
+00:04:23,221 --> 00:04:26,683
+Roy Disney, Walt's nephew, was with us.
+
+78
+00:04:26,766 --> 00:04:31,563
+And I'm thinking to myself, "Oh, my God,
+[chuckling] I better not screw this up."
+
+79
+00:04:33,314 --> 00:04:37,902
+When I was very young,
+the first Disney movie I saw was <i>Dumbo</i>.
+
+80
+00:04:40,530 --> 00:04:43,241
+I was just absolutely struck...
+
+81
+00:04:44,367 --> 00:04:49,247
+by how wonderful animation looked
+and made me feel.
+
+82
+00:04:50,540 --> 00:04:53,418
+It's life, pushed. [chuckles]
+
+83
+00:04:53,501 --> 00:04:57,589
+It's making something larger than life.
+
+84
+00:04:59,966 --> 00:05:01,718
+I was a very focused kid.
+
+85
+00:05:01,801 --> 00:05:05,889
+You know, knowing at a very early age
+what I wanted to do.
+
+86
+00:05:07,140 --> 00:05:09,142
+I've made my key positions,
+
+87
+00:05:09,642 --> 00:05:16,316
+and now I'm putting the positions
+in between to help flesh out the movement.
+
+88
+00:05:17,025 --> 00:05:19,736
+When I started making my Super 8 films,
+
+89
+00:05:19,819 --> 00:05:23,823
+my parents would willingly
+give over the dining room table,
+
+90
+00:05:23,907 --> 00:05:27,660
+and I would lay out all my cels,
+drying, you know, [chuckles]
+
+91
+00:05:27,744 --> 00:05:31,748
+and the living room would become
+where I would shoot the stuff
+
+92
+00:05:31,831 --> 00:05:33,500
+on my downshooter.
+
+93
+00:05:33,583 --> 00:05:35,460
+Put a new sheet of paper down.
+
+94
+00:05:37,003 --> 00:05:41,174
+I never thought that I'd be good enough
+to work at Disney.
+
+95
+00:05:43,426 --> 00:05:48,056
+Back in 1974,
+I applied to their training program.
+
+96
+00:05:48,598 --> 00:05:50,308
+And the response was,
+
+97
+00:05:50,392 --> 00:05:53,561
+"Well, you didn't make it, Eric.
+You're not good enough."
+
+98
+00:05:55,855 --> 00:06:00,777
+In the late '80s, in London,
+I was running my own animation studio.
+
+99
+00:06:01,486 --> 00:06:04,948
+It was a very successful
+commercials company.
+
+100
+00:06:05,949 --> 00:06:10,412
+But I was getting very stressed out
+working on commercials.
+
+101
+00:06:10,995 --> 00:06:15,792
+I go to an animation festival
+in Los Angeles, bringing my reel,
+
+102
+00:06:15,875 --> 00:06:18,920
+and there are a couple
+of Disney guys there.
+
+103
+00:06:20,213 --> 00:06:22,507
+One was Charlie Fink,
+
+104
+00:06:23,383 --> 00:06:25,802
+who just kept calling me once a month.
+
+105
+00:06:25,885 --> 00:06:29,431
+"You wanna jump ship yet, huh?
+You wanna join Disney's yet, huh?"
+
+106
+00:06:30,557 --> 00:06:32,642
+Charlie finally dropped the bombshell.
+
+107
+00:06:32,726 --> 00:06:36,604
+He said, "They're thinking of doing
+this film <i>Aladdin</i>.
+
+108
+00:06:36,688 --> 00:06:39,691
+And they're thinking
+of getting Robin Williams."
+
+109
+00:06:40,525 --> 00:06:43,611
+I just thought,
+"Okay, if I don't do this now,
+
+110
+00:06:43,695 --> 00:06:45,864
+I'm gonna miss the crest of a wave."
+
+111
+00:06:50,326 --> 00:06:51,786
+My first week at Disney,
+
+112
+00:06:51,870 --> 00:06:56,332
+and I'm starting to draw
+developmental sketches of the Genie.
+
+113
+00:06:56,416 --> 00:06:57,751
+And here we are.
+
+114
+00:06:59,336 --> 00:07:04,174
+If you look at Mickey,
+he's got this organic way of being drawn
+
+115
+00:07:04,257 --> 00:07:06,634
+where one line leads to the next.
+
+116
+00:07:06,718 --> 00:07:08,470
+Same thing with the Genie.
+
+117
+00:07:08,553 --> 00:07:11,222
+You know, you've got all these lines
+
+118
+00:07:11,306 --> 00:07:15,018
+that kind of add up to something whole.
+
+119
+00:07:15,101 --> 00:07:20,190
+So, I started doing Robin William-esque
+Genies in my designs.
+
+120
+00:07:21,441 --> 00:07:22,942
+John and Ron said,
+
+121
+00:07:23,026 --> 00:07:28,406
+"Why don't you take a couple
+of Robin's bits off his comedy records
+
+122
+00:07:28,823 --> 00:07:30,825
+and animate a Genie to them?"
+
+123
+00:07:30,909 --> 00:07:32,053
+But first, before we do the play,
+
+124
+00:07:32,077 --> 00:07:34,388
+I'd like to talk about
+the very serious subject of schizophrenia.
+
+125
+00:07:34,412 --> 00:07:35,681
+- No, he doesn't.
+- Shut up! Let him talk!
+
+126
+00:07:35,705 --> 00:07:36,706
+[audience laughs]
+
+127
+00:07:37,582 --> 00:07:41,127
+[Goldberg] And I have to say,
+it's one of the great joys of my life
+
+128
+00:07:41,836 --> 00:07:43,546
+to have made Robin Williams laugh.
+
+129
+00:07:43,630 --> 00:07:46,216
+[screams]
+
+130
+00:07:46,299 --> 00:07:47,550
+- Oy!
+- [bones crack]
+
+131
+00:07:48,134 --> 00:07:52,889
+Ten thousand years
+will give you such a crick in the neck!
+
+132
+00:07:53,848 --> 00:07:55,534
+[Goldberg] I was in the right place
+at the right time.
+
+133
+00:07:55,558 --> 00:07:57,852
+Animation, all of a sudden, is hip again.
+
+134
+00:07:58,728 --> 00:08:04,275
+<i>Aladdin</i> was getting towards that peak
+of what people call the Renaissance.
+
+135
+00:08:05,318 --> 00:08:06,444
+Welcome to my wall.
+
+136
+00:08:06,528 --> 00:08:08,113
+[chuckles]
+
+137
+00:08:08,196 --> 00:08:11,408
+The Shanghai assignment was great.
+
+138
+00:08:12,117 --> 00:08:16,121
+They wanted to decorate a restaurant
+in Shanghai Disneyland,
+
+139
+00:08:16,621 --> 00:08:20,041
+à la Hirschfeld/Sardi's.
+
+140
+00:08:20,125 --> 00:08:23,920
+I even got to do modern characters
+like Anna and Elsa.
+
+141
+00:08:24,004 --> 00:08:28,466
+Whenever I have to draw characters
+from the Disney canon,
+
+142
+00:08:28,550 --> 00:08:32,053
+I always feel all those people
+who created those characters
+
+143
+00:08:32,137 --> 00:08:34,806
+looking over my shoulder saying,
+"Do it right."
+
+144
+00:08:34,889 --> 00:08:35,890
+[chuckles]
+
+145
+00:08:36,141 --> 00:08:41,688
+Often, they would straddle two drawings
+like this with Gaston and LeFou.
+
+146
+00:08:41,771 --> 00:08:47,068
+Every one of these movies has a theme
+and they're universal.
+
+147
+00:08:47,152 --> 00:08:51,364
+How many people of our generation
+grew up dealing with death
+
+148
+00:08:51,448 --> 00:08:53,700
+because they saw Bambi's mother die?
+
+149
+00:08:53,783 --> 00:08:55,285
+[calling] Mother?
+
+150
+00:08:55,910 --> 00:08:57,829
+♪ <i>I've got no strings</i>
+<i>To hold me do...</i> ♪
+
+151
+00:08:57,912 --> 00:08:59,056
+[Goldberg] With <i>Pinocchio</i>, it's,
+
+152
+00:08:59,080 --> 00:09:01,416
+"Always let your conscience
+be your guide."
+
+153
+00:09:02,834 --> 00:09:06,296
+In the case of <i>Aladdin</i>,
+the theme was, "Be yourself."
+
+154
+00:09:07,547 --> 00:09:10,633
+And even though, yes,
+they do deal with serious subjects,
+
+155
+00:09:11,301 --> 00:09:15,472
+you always walk out of a Disney film
+delighted and feeling like...
+
+156
+00:09:16,681 --> 00:09:17,766
+"Yeah, that was great.
+
+157
+00:09:18,975 --> 00:09:20,393
+I think I'm gonna see it again."
+
+158
+00:09:20,477 --> 00:09:21,644
+[chuckles]
+
+159
+00:09:26,441 --> 00:09:28,777
+Walt Disney's name is the company's name.
+
+160
+00:09:29,152 --> 00:09:31,571
+I'm reminded every day
+that I come to work,
+
+161
+00:09:31,654 --> 00:09:35,533
+when I drive onto the Disney lot,
+of the company's heritage.
+
+162
+00:09:36,242 --> 00:09:39,996
+I never lose sight of not only
+the significance of that
+
+163
+00:09:40,080 --> 00:09:42,332
+but of just how fortunate
+I consider myself.
+
+164
+00:09:43,500 --> 00:09:46,753
+Now we want you to share with us
+our latest and greatest dream.
+
+165
+00:09:48,421 --> 00:09:50,173
+That's it. Right here.
+
+166
+00:09:51,174 --> 00:09:52,175
+Disneyland.
+
+167
+00:09:54,386 --> 00:09:57,389
+[Brown] <i>When Walt Disney</i>
+<i>built Disneyland in the 1950s,</i>
+
+168
+00:09:58,098 --> 00:10:01,101
+<i>the park was designed
+to inspire a timeless sense of adventure</i>
+
+169
+00:10:01,643 --> 00:10:03,561
+<i>for visitors of all ages.</i>
+
+170
+00:10:04,145 --> 00:10:05,438
+Look it. I got something for ya.
+
+171
+00:10:07,273 --> 00:10:09,710
+- You're gonna pin that onto your shirt.
+- Oh, you wanna wear that?
+
+172
+00:10:09,734 --> 00:10:12,755
+- Wow. You're gonna wear it on your shirt?
+- [Gonzales] That's a conductor badge.
+
+173
+00:10:12,779 --> 00:10:17,492
+Ours is not just a mode of transportation,
+as I don't like to think of it that way.
+
+174
+00:10:17,575 --> 00:10:19,119
+Come on in, guys. Welcome aboard.
+
+175
+00:10:20,704 --> 00:10:26,334
+Here at Disneyland,
+we try to recreate that idea of traveling
+
+176
+00:10:26,418 --> 00:10:28,503
+to get to somewhere new,
+somewhere exciting.
+
+177
+00:10:29,796 --> 00:10:31,172
+Just the sound of that whistle.
+
+178
+00:10:31,256 --> 00:10:34,134
+[train whistle blowing]
+
+179
+00:10:34,968 --> 00:10:36,469
+[train bell ringing]
+
+180
+00:10:36,553 --> 00:10:38,138
+The wood burner.
+
+181
+00:10:38,722 --> 00:10:40,724
+Big plume of smoke
+coming out through the top.
+
+182
+00:10:41,975 --> 00:10:44,269
+It never gets old.
+It will never get old for me.
+
+183
+00:10:44,894 --> 00:10:47,856
+You hop on that train set, and boom,
+
+184
+00:10:47,939 --> 00:10:50,275
+and you just automatically
+go right back in time.
+
+185
+00:10:52,444 --> 00:10:55,321
+It was that old idea of adventure.
+
+186
+00:10:57,741 --> 00:11:00,201
+That's one of my favorite parts
+of the job, actually.
+
+187
+00:11:02,996 --> 00:11:04,998
+Welcome to Disneyland Railroad roundhouse.
+
+188
+00:11:05,081 --> 00:11:07,375
+We have four different sets of tracks.
+
+189
+00:11:07,459 --> 00:11:09,794
+We're standing in front
+of locomotive number four.
+
+190
+00:11:09,878 --> 00:11:14,049
+This locomotive was built in 1925
+by the Baldwin Locomotive Works company.
+
+191
+00:11:14,132 --> 00:11:17,510
+And it was brought here
+to Disneyland in 1958
+
+192
+00:11:17,594 --> 00:11:19,679
+and put on the line in 1959.
+
+193
+00:11:21,306 --> 00:11:24,517
+Part of our rite of passage
+when we first joined the railroad
+
+194
+00:11:24,601 --> 00:11:25,977
+is working night shifts.
+
+195
+00:11:26,353 --> 00:11:31,024
+At the end of the night, we'll have to
+polish any of the brass that you see here.
+
+196
+00:11:39,282 --> 00:11:42,744
+When I was two years old,
+probably one of my earliest memories,
+
+197
+00:11:43,328 --> 00:11:46,456
+my grandfather bought me
+a train set for Christmas.
+
+198
+00:11:47,874 --> 00:11:51,336
+And, of course,
+me being the little sneaky kid that I was,
+
+199
+00:11:51,419 --> 00:11:53,046
+I found it in the closet.
+
+200
+00:11:54,547 --> 00:11:58,802
+And I remember staring at that train set
+for almost a month straight.
+
+201
+00:12:01,805 --> 00:12:04,125
+And, finally, Christmas came,
+and you know, I opened it up,
+
+202
+00:12:04,182 --> 00:12:06,893
+"Oh, surprise, surprise.
+There's a train set."
+
+203
+00:12:08,353 --> 00:12:09,813
+I still have it to this day.
+
+204
+00:12:10,355 --> 00:12:12,065
+In high school, I used to sneak out...
+
+205
+00:12:13,525 --> 00:12:16,528
+get on the Green Line, go to the Blue Line
+and go to Union Station
+
+206
+00:12:16,611 --> 00:12:19,239
+and just study and do my homework
+in the terminal.
+
+207
+00:12:20,031 --> 00:12:22,325
+Used to just sit there
+and kinda take it in.
+
+208
+00:12:22,409 --> 00:12:25,203
+Think about the heyday in the '40s.
+
+209
+00:12:26,579 --> 00:12:29,582
+And the steam engines that were
+coming in and out of that station.
+
+210
+00:12:30,750 --> 00:12:32,377
+All aboard!
+
+211
+00:12:33,712 --> 00:12:36,631
+[Gonzales] Through college,
+I was working on cars
+
+212
+00:12:37,048 --> 00:12:40,176
+and taking apart motors
+and anything I could get my hands on.
+
+213
+00:12:40,552 --> 00:12:43,888
+Naturally, I came here
+when I was going to college,
+
+214
+00:12:44,389 --> 00:12:47,434
+looking to even get a glimpse
+of the steam engines.
+
+215
+00:12:48,351 --> 00:12:51,271
+Now I get to run them
+which is a dream come true.
+
+216
+00:12:54,607 --> 00:12:57,402
+People often say
+it all started with a mouse,
+
+217
+00:12:58,111 --> 00:13:00,155
+but I firmly believe
+it all started with a train.
+
+218
+00:13:01,448 --> 00:13:06,244
+Walt was coming out to Los Angeles,
+and that's where he drew up Mickey Mouse.
+
+219
+00:13:06,327 --> 00:13:08,371
+It was on a train that he did that.
+
+220
+00:13:10,165 --> 00:13:12,959
+Often, he would come out
+from his apartment
+
+221
+00:13:13,043 --> 00:13:15,170
+that's right here on Main Street,
+
+222
+00:13:15,253 --> 00:13:17,672
+hop on a locomotive and take it away.
+
+223
+00:13:17,756 --> 00:13:20,884
+Some people didn't even know
+they were being pulled by Walt Disney.
+
+224
+00:13:20,967 --> 00:13:23,928
+He was just, you know,
+a big kid playing with his toys.
+
+225
+00:13:24,596 --> 00:13:26,931
+[train whistle blowing]
+
+226
+00:13:30,268 --> 00:13:31,478
+Good morning.
+
+227
+00:13:31,561 --> 00:13:34,022
+It's unbelievable what I get to do,
+
+228
+00:13:34,105 --> 00:13:37,525
+be it I'm sitting inside the cab
+of a locomotive.
+
+229
+00:13:37,609 --> 00:13:42,614
+It's also the people, not only
+my coworkers that I get to work with,
+
+230
+00:13:42,697 --> 00:13:46,034
+which are like-minded
+and they're a lot of fun to work with,
+
+231
+00:13:46,117 --> 00:13:47,577
+but also the guests.
+
+232
+00:13:47,660 --> 00:13:51,331
+- Make sure you visit Mickey Mouse's house.
+- Okay.
+
+233
+00:13:51,414 --> 00:13:54,793
+It's satisfying everything I ever thought
+I would wanna do in life.
+
+234
+00:13:57,295 --> 00:13:58,463
+It's pretty neat.
+
+235
+00:14:06,304 --> 00:14:09,683
+I wanted to be
+a television news anchorman.
+
+236
+00:14:09,766 --> 00:14:13,103
+Twenty-five thousand tickets
+were sold in advance for the concert
+
+237
+00:14:13,186 --> 00:14:17,273
+which will feature the Grateful Dead,
+the Allman Brothers and The Band...
+
+238
+00:14:17,357 --> 00:14:19,693
+I aspired to be Walter Cronkite.
+
+239
+00:14:19,776 --> 00:14:23,363
+I discovered early on that the likelihood
+of my being Walter Cronkite...
+
+240
+00:14:23,446 --> 00:14:26,032
+[chuckling] was pretty, pretty low.
+
+241
+00:14:26,116 --> 00:14:28,952
+And so I redirected
+and ended up in production.
+
+242
+00:14:36,001 --> 00:14:37,669
+[Brown] <i>These days in New York City...</i>
+
+243
+00:14:38,670 --> 00:14:40,922
+<i>one of Iger's colleagues
+who fulfilled her dream</i>
+
+244
+00:14:41,006 --> 00:14:42,590
+<i>of getting in front of the camera...</i>
+
+245
+00:14:43,508 --> 00:14:44,819
+- Morning.
+- Good morning, Richie.
+
+246
+00:14:44,843 --> 00:14:47,683
+- Good morning, Ms. Roberts.
+- You're on your best behavior, aren't you?
+
+247
+00:14:48,138 --> 00:14:50,640
+<i>...wakes up long before dawn
+to be ready for work.</i>
+
+248
+00:14:52,851 --> 00:14:54,352
+[Roberts] I love this job.
+
+249
+00:14:54,436 --> 00:14:56,312
+- What's up, Elvis?
+- Good morning.
+
+250
+00:14:56,396 --> 00:14:59,024
+I love saying, "Good morning, America."
+
+251
+00:14:59,107 --> 00:15:04,237
+Think about that. I get to set the tone.
+We get to set the tone for America.
+
+252
+00:15:05,488 --> 00:15:06,489
+All right.
+
+253
+00:15:07,949 --> 00:15:10,952
+The hours, as you saw, going to bed early.
+
+254
+00:15:11,036 --> 00:15:14,581
+I'm a sports hound and have to go to bed
+early and miss some of the late games.
+
+255
+00:15:14,664 --> 00:15:16,416
+Ah. It's a small sacrifice.
+
+256
+00:15:17,042 --> 00:15:18,460
+It's gonna be a magical day.
+
+257
+00:15:18,543 --> 00:15:20,754
+Sal. Getting ready.
+
+258
+00:15:22,005 --> 00:15:23,923
+- This is teamwork here.
+- What up, troops?
+
+259
+00:15:24,007 --> 00:15:25,401
+- Good morning, Robin.
+- Oh, my God.
+
+260
+00:15:25,425 --> 00:15:27,927
+I mean, I wish the camera
+could go all around to see
+
+261
+00:15:28,011 --> 00:15:31,097
+what it takes to put on a show
+like<i> Good Morning America</i>.
+
+262
+00:15:31,181 --> 00:15:33,183
+- What's up, people?
+- Good morning.
+
+263
+00:15:33,266 --> 00:15:35,268
+Teamwork, discipline, determination.
+
+264
+00:15:36,227 --> 00:15:39,356
+I took that with me from playing sports.
+
+265
+00:15:39,439 --> 00:15:41,649
+This is my glam fam.
+
+266
+00:15:41,733 --> 00:15:45,987
+This is Elena, Petula, D'Andre.
+
+267
+00:15:46,071 --> 00:15:47,989
+It helped that I worked at ESPN,
+
+268
+00:15:48,573 --> 00:15:50,033
+that I had this love for sports.
+
+269
+00:15:50,825 --> 00:15:52,494
+Sports, knew it cold.
+
+270
+00:15:53,286 --> 00:15:56,247
+I never worked a day in my life at ESPN.
+Shh, don't tell anybody that.
+
+271
+00:15:56,706 --> 00:16:00,919
+We're leading with the terrifying story,
+it's the Denver story...
+
+272
+00:16:01,002 --> 00:16:03,922
+Coming here to ABC,
+I loved that it pushed me.
+
+273
+00:16:04,005 --> 00:16:07,050
+I know. I got an e-mail during the show,
+and it was really good.
+
+274
+00:16:07,133 --> 00:16:09,302
+My knees were knocking under that desk
+
+275
+00:16:09,386 --> 00:16:12,305
+when I was sitting next to Diane Sawyer
+for the first time.
+
+276
+00:16:12,389 --> 00:16:17,102
+But then the athlete in me came through
+in realizing that I had done my homework.
+
+277
+00:16:18,770 --> 00:16:20,563
+[whispering]
+George Stephanopoulos. George.
+
+278
+00:16:20,647 --> 00:16:22,482
+I had earned the right to be there.
+
+279
+00:16:22,565 --> 00:16:25,527
+And I'm so grateful for the support staff
+that I had to help me.
+
+280
+00:16:26,319 --> 00:16:28,363
+- <i>One Day at Disney.</i>
+- Hi, guys.
+
+281
+00:16:28,446 --> 00:16:29,447
+[chuckles]
+
+282
+00:16:29,531 --> 00:16:32,367
+Optimism is a muscle
+that gets stronger with use.
+
+283
+00:16:32,450 --> 00:16:35,787
+I got in the habit at an early age
+to be optimistic.
+
+284
+00:16:36,371 --> 00:16:38,373
+[director] Five, four, three...
+
+285
+00:16:39,082 --> 00:16:42,252
+I almost feel like
+we are a Disney attraction.
+
+286
+00:16:42,961 --> 00:16:45,839
+Like, people really look forward
+to seeing us.
+
+287
+00:16:46,506 --> 00:16:50,010
+The news is very serious. The information
+that we're conveying is very serious,
+
+288
+00:16:50,093 --> 00:16:52,971
+but there's also a component
+of our program
+
+289
+00:16:53,054 --> 00:16:54,734
+where you can spend time
+with the audience.
+
+290
+00:16:54,806 --> 00:16:57,475
+- [crowd] Good morning!
+- How are you?
+
+291
+00:16:57,559 --> 00:17:00,812
+They've come from all over, not only
+the country but all over the world.
+
+292
+00:17:00,895 --> 00:17:03,773
+- Just got off the airplane.
+- Just got off the airplane?
+
+293
+00:17:03,857 --> 00:17:06,776
+And, boy, are my arms...
+And, boy, are my arms tired?
+
+294
+00:17:07,861 --> 00:17:09,779
+I draw energy from them.
+
+295
+00:17:09,863 --> 00:17:12,407
+- Nice to have you all here.
+- Thank you.
+
+296
+00:17:12,490 --> 00:17:14,492
+I'm curious. Curiosity.
+
+297
+00:17:15,452 --> 00:17:17,328
+I never... I never lose sight of that.
+
+298
+00:17:17,412 --> 00:17:20,373
+I'm always... I'm thirsty for knowledge.
+
+299
+00:17:21,416 --> 00:17:23,877
+[Brown] <i>So, every story is a chance</i>
+<i>to learn something new</i>
+
+300
+00:17:24,627 --> 00:17:27,005
+<i>and the best ones
+offer the chance for even more...</i>
+
+301
+00:17:28,673 --> 00:17:31,301
+<i>like the call she got
+from Washington in 2012.</i>
+
+302
+00:17:33,053 --> 00:17:36,056
+There's word on the street
+that President... then President Obama...
+
+303
+00:17:36,139 --> 00:17:39,225
+Was going to change his position
+on marriage equality.
+
+304
+00:17:41,227 --> 00:17:43,730
+I was picked to do the interview.
+
+305
+00:17:44,272 --> 00:17:47,152
+So, I sit down across from the President
+of the United States of America,
+
+306
+00:17:47,192 --> 00:17:49,611
+and I say to him, "Have you changed...
+
+307
+00:17:49,694 --> 00:17:53,365
+Mr. President, have you changed
+your position on marriage equality?"
+
+308
+00:17:54,532 --> 00:17:58,620
+It is important for me
+to go ahead and affirm that
+
+309
+00:17:58,703 --> 00:18:01,581
+I think same-sex couples
+should be able to get married.
+
+310
+00:18:01,664 --> 00:18:06,252
+It was a very special moment
+to know that you are part of history,
+
+311
+00:18:06,753 --> 00:18:08,588
+so I'm feeling pretty good about myself.
+
+312
+00:18:08,672 --> 00:18:11,341
+We have a producer over to the side
+who has little blue cards
+
+313
+00:18:11,424 --> 00:18:14,928
+with little, you know, time cues
+and little notes and everything.
+
+314
+00:18:15,011 --> 00:18:16,638
+Did you discuss this with...
+
+315
+00:18:16,721 --> 00:18:19,057
+I think she's gonna say,
+"You rock! You're the best!"
+
+316
+00:18:19,724 --> 00:18:22,519
+It said, "Lipstick on teeth."
+So, when I said the statem...
+
+317
+00:18:22,602 --> 00:18:25,522
+When he made the statement,
+I had lipstick on my teeth,
+
+318
+00:18:25,605 --> 00:18:28,650
+which made me think of my mother's saying,
+"When you strut, you stumble."
+
+319
+00:18:28,733 --> 00:18:31,069
+'Cause I thought I was all that.
+I got the big get.
+
+320
+00:18:31,152 --> 00:18:34,280
+Got the big interview.
+"Slow your roll, Robin."
+
+321
+00:18:35,865 --> 00:18:38,827
+[Brown] <i>The truth was that there was more</i>
+<i>on Robin's mind that day anyway.</i>
+
+322
+00:18:40,995 --> 00:18:43,373
+<i>After overcoming breast cancer
+years earlier,</i>
+
+323
+00:18:44,082 --> 00:18:47,335
+<i>she'd just been told that she had
+a rare and serious blood disorder.</i>
+
+324
+00:18:48,878 --> 00:18:51,715
+I had... [clicks tongue] Wow.
+
+325
+00:18:54,884 --> 00:18:58,179
+I was at the doctor.
+No one knew that I was there.
+
+326
+00:18:58,263 --> 00:19:01,599
+This was before I did the interview.
+It was a day before.
+
+327
+00:19:03,435 --> 00:19:05,895
+So, after a long, long exam,
+
+328
+00:19:05,979 --> 00:19:08,398
+basically, a doctor said,
+
+329
+00:19:08,481 --> 00:19:10,859
+"You're gonna die in a year or two."
+
+330
+00:19:12,777 --> 00:19:15,256
+So when I'm sitting across from him
+and he's making this statement,
+
+331
+00:19:15,280 --> 00:19:17,032
+and it's making national news,
+
+332
+00:19:17,115 --> 00:19:22,787
+my mind is racing, "Am I going
+to even be around long enough to benefit,
+
+333
+00:19:22,871 --> 00:19:25,540
+as a gay woman, what this man just said?"
+
+334
+00:19:25,623 --> 00:19:30,003
+These two lines here,
+so it makes it easier to draw blood
+
+335
+00:19:30,837 --> 00:19:35,091
+and also to administer medication
+like the chemo that I'm about to have.
+
+336
+00:19:36,051 --> 00:19:37,886
+[Brown] <i>She decided to film her battle</i>
+
+337
+00:19:38,595 --> 00:19:42,182
+<i>and bring millions of ABC viewers
+on the journey alongside her.</i>
+
+338
+00:19:43,558 --> 00:19:47,729
+The fact that I was out of work
+for five, six months,
+
+339
+00:19:47,812 --> 00:19:53,318
+when you get a call from the very top
+of the company where you're working,
+
+340
+00:19:53,401 --> 00:19:56,821
+and Bob Iger was one of the first calls
+that I received
+
+341
+00:19:56,905 --> 00:20:02,202
+and had his full support, did not have to
+worry about my job or anything like that.
+
+342
+00:20:02,285 --> 00:20:06,164
+And I thought about people who go through
+something like this, who have to worry.
+
+343
+00:20:06,247 --> 00:20:09,000
+- Going home now!
+- [people cheering]
+
+344
+00:20:09,959 --> 00:20:12,039
+It's tough enough
+you're just fighting for your life.
+
+345
+00:20:13,421 --> 00:20:15,799
+[Brown] <i>Hope in the face of adversity.</i>
+
+346
+00:20:15,882 --> 00:20:18,259
+<i>A theme right out of a Disney movie,</i>
+
+347
+00:20:18,343 --> 00:20:20,845
+<i>and the moral of the story
+that Robin Roberts lived.</i>
+
+348
+00:20:22,889 --> 00:20:26,685
+Everybody's got something.
+Everybody's got something.
+
+349
+00:20:26,768 --> 00:20:29,437
+My mother used to say that
+to us all the time
+
+350
+00:20:29,521 --> 00:20:31,314
+when we were like, "Woe is me. Woe is me."
+
+351
+00:20:31,398 --> 00:20:33,566
+She was like,
+"Honey, everybody's got something."
+
+352
+00:20:34,234 --> 00:20:38,947
+Something that can be seen as a roadblock,
+I used as a hurdle.
+
+353
+00:20:39,030 --> 00:20:43,243
+Yes, you are. That's what I love
+about the morning, you never know.
+
+354
+00:20:47,038 --> 00:20:48,540
+[applause]
+
+355
+00:20:48,623 --> 00:20:50,792
+I didn't go through all this
+just to hang around.
+
+356
+00:20:50,875 --> 00:20:52,127
+A minute 30.
+
+357
+00:20:52,210 --> 00:20:55,630
+That's why I say I'm a thriver,
+not a survivor.
+
+358
+00:20:57,257 --> 00:20:59,968
+[male announcer] I would like
+to thank Robin Roberts for being here.
+
+359
+00:21:00,051 --> 00:21:03,555
+[audience cheering, applause]
+
+360
+00:21:07,684 --> 00:21:10,145
+I was at <i>ABC Sports</i> for 13 years.
+
+361
+00:21:11,604 --> 00:21:15,984
+When I moved from sports to entertainment,
+
+362
+00:21:16,651 --> 00:21:19,362
+you know, they were both similar in that
+
+363
+00:21:19,446 --> 00:21:21,948
+the most important thing
+about entertainment,
+
+364
+00:21:22,032 --> 00:21:25,285
+whether it was ABC or anywhere,
+was essentially telling a great story.
+
+365
+00:21:27,787 --> 00:21:31,291
+[Brown] <i>After a long rise up the ranks</i>
+<i>of ABC and then Disney...</i>
+
+366
+00:21:33,251 --> 00:21:37,088
+<i>Bob Iger was promoted to CEO
+of the company in 2005.</i>
+
+367
+00:21:38,173 --> 00:21:42,844
+If you look at Disney's storytelling,
+the quality of optimism exists
+
+368
+00:21:42,927 --> 00:21:45,805
+in almost every major story
+that's been told by this company.
+
+369
+00:21:48,641 --> 00:21:51,644
+<i>One of the artists tasked
+with bringing these stories to life</i>
+
+370
+00:21:51,728 --> 00:21:53,855
+<i>is Pixar's Jerome Ranft.</i>
+
+371
+00:21:55,357 --> 00:21:57,859
+<i>While Pixar is known
+for computer animation...</i>
+
+372
+00:21:59,652 --> 00:22:03,156
+<i>every day at its headquarters,
+Jerome does things the old-fashioned way,</i>
+
+373
+00:22:04,115 --> 00:22:05,200
+<i>with his hands.</i>
+
+374
+00:22:06,785 --> 00:22:10,955
+It's subconscious and innate.
+I just love to make stuff.
+
+375
+00:22:16,086 --> 00:22:18,963
+Being a sculptor just fulfilled that need.
+
+376
+00:22:20,507 --> 00:22:24,052
+I almost feel like it found me,
+like, I had this desire.
+
+377
+00:22:25,470 --> 00:22:29,391
+And I took my first sculpting class
+when I got into college.
+
+378
+00:22:30,183 --> 00:22:33,311
+The first project
+was a life-sized self-portrait.
+
+379
+00:22:34,312 --> 00:22:37,857
+And as soon as I finished that,
+I was like, "This is what I'm gonna do."
+
+380
+00:22:39,693 --> 00:22:41,796
+[Brown] <i>Jerome's passion</i>
+<i>has brought to life characters</i>
+
+381
+00:22:41,820 --> 00:22:44,030
+<i>such as Mike and Sully from</i> Monsters, Inc.
+
+382
+00:22:45,115 --> 00:22:47,242
+<i>And even a fish called Nemo.</i>
+
+383
+00:22:48,952 --> 00:22:52,706
+I usually get brought on
+when they wanna start fleshing out
+
+384
+00:22:52,789 --> 00:22:55,375
+what these characters
+will look like three-dimensionally.
+
+385
+00:22:55,917 --> 00:23:00,463
+And mostly what I do
+is pre-visualize 3-D design
+
+386
+00:23:00,547 --> 00:23:03,299
+before they spend the time and money
+to develop it in a computer.
+
+387
+00:23:03,383 --> 00:23:04,676
+This one.
+
+388
+00:23:04,759 --> 00:23:06,678
+You're part of that group of people
+
+389
+00:23:06,761 --> 00:23:10,432
+trying to solve aesthetic problems
+and make aesthetic decisions
+
+390
+00:23:10,515 --> 00:23:13,852
+that help make these things
+become finished projects.
+
+391
+00:23:15,145 --> 00:23:18,231
+I think Waternoose
+from<i> Monsters, Incorporated...</i>
+
+392
+00:23:18,314 --> 00:23:19,941
+I was very happy with that.
+
+393
+00:23:20,650 --> 00:23:24,029
+It was very, very complicated.
+Very, very challenging piece.
+
+394
+00:23:24,863 --> 00:23:27,157
+I'm never asked
+to do the same thing twice.
+
+395
+00:23:27,240 --> 00:23:32,662
+I've done three <i>Cars</i> films
+and not one of them was like the other.
+
+396
+00:23:33,621 --> 00:23:38,168
+This was during the production of <i>Cars 3</i>
+early, early, early on.
+
+397
+00:23:39,127 --> 00:23:43,131
+At one point McQueen
+was gonna try to be in disguise,
+
+398
+00:23:43,214 --> 00:23:47,844
+so whatever disguise we did
+had to fit over this sort of chassis.
+
+399
+00:23:48,470 --> 00:23:50,347
+And this was the disguise.
+
+400
+00:23:50,430 --> 00:23:51,639
+This story point changed
+
+401
+00:23:51,723 --> 00:23:55,477
+and this whole exercise
+of making this sculpture became moot,
+
+402
+00:23:55,560 --> 00:23:59,147
+but, at the time,
+this was what this was being used for.
+
+403
+00:24:00,065 --> 00:24:02,275
+It's not so much pride.
+I feel humble, the fact
+
+404
+00:24:02,359 --> 00:24:05,945
+that this character's that's owned
+by the world now, by you know...
+
+405
+00:24:06,029 --> 00:24:08,782
+Millions of children
+have grown up with this character.
+
+406
+00:24:08,865 --> 00:24:10,825
+At one point, he was a drawing,
+
+407
+00:24:11,284 --> 00:24:14,037
+and it went in through my eyes
+and out through my hands.
+
+408
+00:24:15,413 --> 00:24:18,333
+My brother was working at Disney
+when I was in junior high school,
+
+409
+00:24:18,416 --> 00:24:23,088
+so I used to... I remember going
+and visiting him at the Disney lot
+
+410
+00:24:23,171 --> 00:24:26,758
+and being completely blown away
+by these projects.
+
+411
+00:24:26,841 --> 00:24:30,637
+He says, "You heard him, code red.
+Repeat, we are at code red!"
+
+412
+00:24:31,513 --> 00:24:35,266
+[Brown] <i>Jerome's brother, Joe,</i>
+<i>was a legendary Disney and Pixar animator,</i>
+
+413
+00:24:36,142 --> 00:24:39,229
+<i>who worked for decades
+on the company's biggest movies</i>
+
+414
+00:24:39,312 --> 00:24:40,980
+<i>including some with his brother.</i>
+
+415
+00:24:41,898 --> 00:24:47,821
+Being able to work with him on any project
+was, sort of, a dream come true.
+
+416
+00:24:47,904 --> 00:24:50,365
+...see it, and he's like, "Ahhh!"
+and he starts...
+
+417
+00:24:50,448 --> 00:24:53,284
+I didn't realize how special it was
+until he had passed.
+
+418
+00:24:55,662 --> 00:24:58,331
+[Brown] <i>Joe died</i>
+<i>in a car accident in 2005.</i>
+
+419
+00:24:59,708 --> 00:25:01,543
+<i>He was just 45 years old.</i>
+
+420
+00:25:02,460 --> 00:25:05,880
+When he first passed away
+and I walked into this building,
+
+421
+00:25:06,381 --> 00:25:09,342
+it was really hard, and I was questioning
+whether I could do it.
+
+422
+00:25:14,180 --> 00:25:15,473
+He wouldn't have wanted that.
+
+423
+00:25:16,391 --> 00:25:21,938
+I have my own career and my own
+set of standards that I do this work to,
+
+424
+00:25:22,022 --> 00:25:26,818
+and I think that's what my parents
+taught us both.
+
+425
+00:25:28,987 --> 00:25:32,949
+He influenced me in ways
+I'm still sort of figuring out.
+
+426
+00:25:34,367 --> 00:25:37,454
+I just miss him. I wish he was here.
+
+427
+00:25:40,999 --> 00:25:44,336
+[Brown] <i>Jerome's continued to grow</i>
+<i>his family's legacy at Disney...</i>
+
+428
+00:25:45,420 --> 00:25:49,174
+<i>but there are fewer and fewer sculptors
+working in animation today.</i>
+
+429
+00:25:50,467 --> 00:25:54,012
+The role I've played here is changing.
+
+430
+00:25:54,721 --> 00:25:55,889
+In the early days,
+
+431
+00:25:56,848 --> 00:26:00,643
+the digital modelers they had here
+came from a computer background,
+
+432
+00:26:00,727 --> 00:26:04,689
+and now they're training artists
+to use the tool of the computer.
+
+433
+00:26:04,773 --> 00:26:08,651
+And there's incredibly talented
+digital modelers
+
+434
+00:26:08,735 --> 00:26:11,029
+out there in the world
+and especially here.
+
+435
+00:26:12,989 --> 00:26:14,574
+I wanna be a better sculptor.
+
+436
+00:26:15,408 --> 00:26:18,244
+That's never gonna... That...
+How can I even put it?
+
+437
+00:26:18,328 --> 00:26:22,123
+The impulse to be better at what I do
+is never ever gonna go away.
+
+438
+00:26:26,419 --> 00:26:28,171
+What this company is, more than anything,
+
+439
+00:26:28,254 --> 00:26:30,799
+aside from a collection
+of many talented people
+
+440
+00:26:30,882 --> 00:26:32,592
+and the legacy of Walt Disney,
+
+441
+00:26:32,676 --> 00:26:34,844
+is a... is a great partnership...
+
+442
+00:26:37,263 --> 00:26:39,599
+between artists and technologists.
+
+443
+00:26:40,517 --> 00:26:44,270
+Jake definitely has his own personality
+and you can't help but love him.
+
+444
+00:26:44,354 --> 00:26:48,024
+When you get to meet him, and see him,
+and he's happy to see you,
+
+445
+00:26:48,108 --> 00:26:49,484
+it's a great feeling.
+
+446
+00:26:52,362 --> 00:26:56,366
+He's a maintenance droid.
+He loves his job. He's very dedicated.
+
+447
+00:26:57,325 --> 00:27:00,203
+Jake doesn't talk,
+so he's more like R2-D2.
+
+448
+00:27:00,286 --> 00:27:03,623
+He uses sounds and colors
+and lights to communicate.
+
+449
+00:27:04,082 --> 00:27:05,250
+He's got an eye.
+
+450
+00:27:07,711 --> 00:27:11,631
+Yellow, he's happy. Blue, he's sad.
+Red, he's angry.
+
+451
+00:27:11,715 --> 00:27:13,758
+Gray is, "Please, leave me alone."
+
+452
+00:27:13,842 --> 00:27:15,760
+[laughs]
+
+453
+00:27:15,844 --> 00:27:17,929
+So, how are you feeling
+about the design, Tanner?
+
+454
+00:27:18,013 --> 00:27:19,973
+[Brown] <i>Ashley Girdich works</i>
+<i>in California...</i>
+
+455
+00:27:20,056 --> 00:27:21,975
+It's looking pretty good.
+Ready for the field.
+
+456
+00:27:22,058 --> 00:27:23,703
+Okay. Is there anything
+we can do while we're...
+
+457
+00:27:23,727 --> 00:27:26,896
+<i>as a member of Walt Disney
+Imagineering Research and Development...</i>
+
+458
+00:27:28,815 --> 00:27:31,901
+<i>where she takes her knowledge of
+technology to create extraordinary ways</i>
+
+459
+00:27:31,985 --> 00:27:34,904
+<i>for guests to interact
+with the best Disney stories.</i>
+
+460
+00:27:36,197 --> 00:27:38,408
+The day that he went live outdoors,
+
+461
+00:27:38,491 --> 00:27:41,745
+I was jumping, screaming, laughing.
+
+462
+00:27:43,496 --> 00:27:46,332
+Having a character roaming around freely,
+
+463
+00:27:46,416 --> 00:27:47,792
+people were blown away.
+
+464
+00:27:48,543 --> 00:27:51,129
+Everyone was trying to find
+how he was being controlled.
+
+465
+00:27:51,963 --> 00:27:54,799
+He was his own character,
+without a puppeteer in the background.
+
+466
+00:27:56,426 --> 00:27:59,804
+I think the unreasonable ideas are
+the ones we get the most excited about.
+
+467
+00:28:00,722 --> 00:28:03,850
+Things that we think
+are impossible or outlandish,
+
+468
+00:28:04,559 --> 00:28:06,394
+we do whatever we can to make that happen.
+
+469
+00:28:06,478 --> 00:28:10,732
+All of the operations partners I've
+talked to, that is a good time for them...
+
+470
+00:28:10,815 --> 00:28:14,569
+I think one of the biggest challenges
+is the reputation this company has.
+
+471
+00:28:15,362 --> 00:28:16,780
+You've gotta be top of your game.
+
+472
+00:28:18,156 --> 00:28:21,451
+We don't just go out and build a robot
+and say, "Now, what can you do with it?"
+
+473
+00:28:21,534 --> 00:28:24,579
+I take a character and say,
+"Can I make this character come to life?"
+
+474
+00:28:24,662 --> 00:28:25,497
+[people chattering]
+
+475
+00:28:25,580 --> 00:28:27,380
+- [Girdich] Come in the front.
+- [droid beeps]
+
+476
+00:28:27,665 --> 00:28:30,126
+When we were play-testing
+Jake in the park,
+
+477
+00:28:30,210 --> 00:28:33,838
+we had a couple of children
+who would put their hands on his shoulder
+
+478
+00:28:33,922 --> 00:28:35,674
+and just walk right alongside him.
+
+479
+00:28:37,842 --> 00:28:41,221
+They see him as their friend
+and immediately take to him.
+
+480
+00:28:41,846 --> 00:28:44,182
+Kids would come up
+and just give him a hug.
+
+481
+00:28:44,265 --> 00:28:48,019
+Sit, wrap their arms around him.
+They would give him a kiss.
+
+482
+00:28:48,812 --> 00:28:50,623
+- [child] Hold me!
+- [Girdich] And you realize the power
+
+483
+00:28:50,647 --> 00:28:52,899
+that these characters have
+to inspire wonder.
+
+484
+00:28:52,982 --> 00:28:53,983
+Hi.
+
+485
+00:28:55,318 --> 00:28:56,611
+- [chuckles]
+- [droid beeping]
+
+486
+00:28:59,239 --> 00:29:00,824
+We're constantly updating him.
+
+487
+00:29:00,907 --> 00:29:04,411
+And right now, what we're trying to do
+is refactor some of his code
+
+488
+00:29:04,494 --> 00:29:07,372
+so that he can work a little bit better
+than he has in the past.
+
+489
+00:29:08,957 --> 00:29:11,251
+More responsive, more reliable.
+
+490
+00:29:11,334 --> 00:29:13,420
+I want him to last forever.
+
+491
+00:29:14,713 --> 00:29:18,133
+You have to be resilient to try
+and introduce new things into the park
+
+492
+00:29:18,216 --> 00:29:20,677
+and find ways to solve challenges.
+
+493
+00:29:22,846 --> 00:29:27,934
+We would love to have our characters speak
+what we call natural language processing.
+
+494
+00:29:28,018 --> 00:29:30,937
+In the technology terms,
+it's still very difficult,
+
+495
+00:29:31,021 --> 00:29:33,857
+and especially
+in a theme park environment.
+
+496
+00:29:35,191 --> 00:29:36,735
+Very interesting challenge.
+
+497
+00:29:38,236 --> 00:29:39,404
+So, we'll see, we'll see.
+
+498
+00:29:39,487 --> 00:29:40,822
+[chuckles] We're working on it.
+
+499
+00:29:43,158 --> 00:29:46,578
+My dream would be
+to reintroduce some of our characters
+
+500
+00:29:46,661 --> 00:29:49,164
+the way they are on the screen,
+straight into our parks.
+
+501
+00:29:49,956 --> 00:29:52,250
+Dreams are incredibly important, I think,
+
+502
+00:29:52,334 --> 00:29:55,462
+because they can unify us
+to go after something
+
+503
+00:29:55,545 --> 00:29:58,423
+that, alone,
+we might have not been able to do.
+
+504
+00:29:58,506 --> 00:30:01,551
+Living out your dreams
+in the way that our guests do in the park
+
+505
+00:30:01,634 --> 00:30:03,636
+really is a different way of saying,
+
+506
+00:30:03,720 --> 00:30:07,474
+"I can create something I never thought
+could exist in the physical world."
+
+507
+00:30:07,557 --> 00:30:09,160
+[woman] Ellen,
+you're not seeing the droid.
+
+508
+00:30:09,184 --> 00:30:11,537
+[Girdich] When you think about
+what the outcome is of your work,
+
+509
+00:30:11,561 --> 00:30:14,606
+it's millions of faces smiling.
+
+510
+00:30:14,689 --> 00:30:16,107
+I love this guy.
+
+511
+00:30:16,191 --> 00:30:17,911
+It's a great reason
+to get up every morning.
+
+512
+00:30:26,493 --> 00:30:29,412
+Usually when I'm just drawing,
+
+513
+00:30:29,496 --> 00:30:31,956
+it really comes from a feeling inside.
+
+514
+00:30:32,040 --> 00:30:34,167
+It kinda just flows out of my hand.
+
+515
+00:30:34,250 --> 00:30:36,795
+It's an emotion that I'm trying
+to put down on paper.
+
+516
+00:30:39,464 --> 00:30:43,093
+Some of the favorite things
+that I like to draw is my nephews.
+
+517
+00:30:43,176 --> 00:30:46,513
+I have all these great memories with them
+and experiences with them.
+
+518
+00:30:46,888 --> 00:30:49,557
+I hear them laugh,
+and I hear how they play with each other.
+
+519
+00:30:49,641 --> 00:30:52,185
+And that's kind of where my hand goes.
+
+520
+00:30:53,353 --> 00:30:57,065
+My parents came from Taiwan.
+My dad came here first in his early 20s,
+
+521
+00:30:57,148 --> 00:30:59,651
+on a business trip,
+and he fell in love with the country.
+
+522
+00:30:59,734 --> 00:31:02,987
+And so, he went back to Taiwan,
+and then brought me and my mom.
+
+523
+00:31:03,988 --> 00:31:06,449
+I definitely grew up as a Disney child.
+
+524
+00:31:06,533 --> 00:31:09,953
+I remember having one Disney book,
+and it was in Chinese,
+
+525
+00:31:10,036 --> 00:31:13,164
+but it was all Disney characters,
+and my mom would read that to me.
+
+526
+00:31:13,248 --> 00:31:16,001
+And so even though
+we didn't really recognize the reading,
+
+527
+00:31:16,084 --> 00:31:18,336
+like the pictures told the story.
+
+528
+00:31:18,420 --> 00:31:20,839
+And so we always had
+a fondness for images.
+
+529
+00:31:23,800 --> 00:31:28,930
+I started working in animation,
+and I was actually at a fork in the road
+
+530
+00:31:29,014 --> 00:31:31,933
+because I was thinking maybe
+I would go into teaching
+
+531
+00:31:32,017 --> 00:31:33,435
+because I love working with kids,
+
+532
+00:31:33,518 --> 00:31:36,354
+and I thought it would be great
+to bring art into education.
+
+533
+00:31:36,438 --> 00:31:39,065
+But as I was preparing for school,
+
+534
+00:31:39,149 --> 00:31:42,527
+I also just applied all over,
+Disney included.
+
+535
+00:31:42,610 --> 00:31:47,365
+And I remember I got accepted
+to all the schools I applied for,
+
+536
+00:31:47,449 --> 00:31:51,327
+but then I got a call from Disney,
+and it was just no question.
+
+537
+00:31:51,411 --> 00:31:54,456
+Like, I was... I wanted to work at Disney.
+
+538
+00:31:54,873 --> 00:31:57,542
+As a senior illustration manager here,
+
+539
+00:31:57,625 --> 00:32:02,297
+I work with a team of artists
+and provide them art direction,
+
+540
+00:32:02,380 --> 00:32:04,549
+make sure everything's in line.
+
+541
+00:32:04,632 --> 00:32:06,843
+We take the art direction of the film,
+
+542
+00:32:06,926 --> 00:32:12,182
+and we create a style of our own
+for the books.
+
+543
+00:32:12,265 --> 00:32:15,894
+The first picture book
+that I worked on here was <i>Sofia the First.</i>
+
+544
+00:32:15,977 --> 00:32:18,521
+I really like this book
+because I got to add,
+
+545
+00:32:18,605 --> 00:32:22,734
+like, little flourish designs throughout
+the book to wrap around the text.
+
+546
+00:32:22,817 --> 00:32:26,529
+And it was really fun to be able
+to add the little hearts on the I's.
+
+547
+00:32:26,613 --> 00:32:28,740
+And it felt more personal.
+
+548
+00:32:28,823 --> 00:32:31,659
+It's something that I think,
+as a child, I would have done too.
+
+549
+00:32:34,412 --> 00:32:38,458
+I work with the most creative people
+that I know.
+
+550
+00:32:38,541 --> 00:32:41,169
+So, we have the <i>Frozen</i> middle grade cover.
+
+551
+00:32:41,252 --> 00:32:45,173
+And then, Winnie and I have been talking
+about special effects.
+
+552
+00:32:46,341 --> 00:32:47,801
+When a film is in production,
+
+553
+00:32:47,884 --> 00:32:50,887
+we start illustrating the books
+that go along with the films.
+
+554
+00:32:51,471 --> 00:32:55,725
+We're thinking, like, a burgundy color
+that will match Anna's lining.
+
+555
+00:32:55,809 --> 00:33:00,605
+So, it's got a very <i>Frozen 2</i> color,
+so all the palettes are cohesive.
+
+556
+00:33:00,689 --> 00:33:02,857
+There's books that retell the film,
+
+557
+00:33:02,941 --> 00:33:05,527
+and then there's also books
+that are extension stories.
+
+558
+00:33:05,610 --> 00:33:09,072
+And as a manager,
+I guide the team of artists
+
+559
+00:33:09,155 --> 00:33:12,575
+so that they can illustrate a book
+that looks cohesive,
+
+560
+00:33:12,659 --> 00:33:14,494
+even though
+there are multiple hands on it.
+
+561
+00:33:14,577 --> 00:33:17,956
+So, this is for the <i>Toy Story 4</i>
+extension book. And...
+
+562
+00:33:18,039 --> 00:33:21,167
+One of the things that I really like
+working on is extension stories
+
+563
+00:33:21,251 --> 00:33:24,629
+because you get to extend
+the life of these characters
+
+564
+00:33:24,713 --> 00:33:27,132
+that you fall in love with
+when you watch the movie.
+
+565
+00:33:28,008 --> 00:33:30,635
+Especially, like, when I was younger,
+and I would watch this film,
+
+566
+00:33:30,719 --> 00:33:33,680
+and I would always wonder,
+"Oh, what happens after they get married?"
+
+567
+00:33:33,763 --> 00:33:36,016
+Or "What happens
+after this adventure's over?"
+
+568
+00:33:36,641 --> 00:33:41,187
+We get this foundation to work with,
+but we get to take in so many directions.
+
+569
+00:33:41,271 --> 00:33:42,522
+Yeah, the book is really fun.
+
+570
+00:33:42,605 --> 00:33:47,027
+And it takes place in a carnival setting,
+so it's actually really appropriate.
+
+571
+00:33:47,110 --> 00:33:48,653
+I think these extension stories
+
+572
+00:33:48,737 --> 00:33:52,198
+develop this new type of relationship
+I have with the characters.
+
+573
+00:33:52,282 --> 00:33:56,161
+You experience them even in a closer way
+
+574
+00:33:56,244 --> 00:33:59,122
+because we get to tell,
+like, what happens next.
+
+575
+00:33:59,205 --> 00:34:02,834
+I'm helping Jeff with the <i>Frozen 2</i> covers.
+
+576
+00:34:02,917 --> 00:34:08,381
+One of my favorite parts of the job is
+we get to collaborate with the filmmakers.
+
+577
+00:34:09,549 --> 00:34:12,135
+They're the ones that create
+this world and these people.
+
+578
+00:34:12,218 --> 00:34:17,599
+And to have this firsthand explanation
+of all this knowledge
+
+579
+00:34:17,682 --> 00:34:21,436
+is what helps us
+make our books so wonderful.
+
+580
+00:34:21,519 --> 00:34:25,899
+And we had decided on a cool silver ink,
+so it'll be shimmery.
+
+581
+00:34:25,982 --> 00:34:27,734
+And so it will stand out from the page.
+
+582
+00:34:27,817 --> 00:34:31,196
+You have everything working
+in a more analogous color scheme,
+
+583
+00:34:31,279 --> 00:34:33,323
+which is a more limited scheme,
+
+584
+00:34:33,406 --> 00:34:36,034
+but it's much more harmonious
+to the environment.
+
+585
+00:34:36,117 --> 00:34:39,120
+You immediately recognize them
+as Anna and Elsa.
+
+586
+00:34:39,204 --> 00:34:42,665
+I think it channels the <i>Frozen</i> aesthetic
+quite a bit.
+
+587
+00:34:45,377 --> 00:34:49,589
+So another one of my favorite books
+was <i>Three Little Words</i>.
+
+588
+00:34:49,673 --> 00:34:54,719
+I really love the message of this book,
+and it's to just keep swimming.
+
+589
+00:34:54,803 --> 00:34:57,639
+I think it's a great, positive message
+for little kids,
+
+590
+00:34:57,722 --> 00:35:00,517
+and it's also something
+that I tell myself every day.
+
+591
+00:35:01,893 --> 00:35:04,979
+What I love about art is
+it forces me to find my voice.
+
+592
+00:35:05,563 --> 00:35:08,441
+It allows me a way to express myself.
+
+593
+00:35:08,525 --> 00:35:10,527
+And I've learned to love myself
+
+594
+00:35:10,610 --> 00:35:14,447
+because I learned that everyone
+expresses themselves differently.
+
+595
+00:35:17,367 --> 00:35:19,577
+[Brown] <i>For the artists, and the audience,</i>
+
+596
+00:35:20,453 --> 00:35:23,623
+<i>Disney creations are ways to connect
+with the magic of stories.</i>
+
+597
+00:35:25,750 --> 00:35:27,794
+<i>And for the man who oversees it all,</i>
+
+598
+00:35:28,461 --> 00:35:31,297
+<i>there's nothing more satisfying
+than seeing the biggest,</i>
+
+599
+00:35:31,381 --> 00:35:35,719
+<i>most ambitious creations come to life
+in almost unfathomable ways.</i>
+
+600
+00:35:37,429 --> 00:35:41,433
+[Iger] When you can not only experience
+the story but live with the story...
+
+601
+00:35:42,767 --> 00:35:45,603
+that's a very, very powerful experience
+to have.
+
+602
+00:35:53,945 --> 00:35:57,449
+<i>And it immediately thrilled visitors
+when it opened the summer of 2019</i>
+
+603
+00:35:57,532 --> 00:36:00,577
+<i>at both Disneyland and Disney World.</i>
+
+604
+00:36:01,828 --> 00:36:03,389
+[Baker]
+Grand openings are always hard for me
+
+605
+00:36:03,413 --> 00:36:07,417
+because you're giving a huge piece of your
+heart to the world for the first time.
+
+606
+00:36:08,293 --> 00:36:12,464
+It's hard to turn it over that first time
+and to see how the world's gonna react
+
+607
+00:36:12,547 --> 00:36:14,187
+because you don't know till they come in.
+
+608
+00:36:16,259 --> 00:36:20,221
+The fans of <i>Star Wars</i> have been
+building <i>Star Wars</i> for 45 years now.
+
+609
+00:36:21,639 --> 00:36:24,184
+There's people that live and breathe
+<i>Star Wars</i> every day,
+
+610
+00:36:24,267 --> 00:36:26,186
+and this land that we've built
+
+611
+00:36:26,269 --> 00:36:30,148
+now gives them a place
+to live their <i>Star Wars</i> story.
+
+612
+00:36:32,525 --> 00:36:36,571
+I feel we owe them, to give them the best
+possible experience they can have.
+
+613
+00:36:36,654 --> 00:36:39,574
+'Cause this is something that, you know,
+
+614
+00:36:39,657 --> 00:36:41,951
+they've waited their entire lives
+to see this.
+
+615
+00:36:44,245 --> 00:36:46,539
+[Brown] <i>And so,</i>
+<i>as Disney planned Galaxy's Edge,</i>
+
+616
+00:36:46,623 --> 00:36:48,833
+<i>Eric Baker traveled around the world...</i>
+
+617
+00:36:50,085 --> 00:36:51,378
+<i>hunting and collecting props</i>
+
+618
+00:36:51,461 --> 00:36:54,631
+<i>that would convince the most</i>
+<i>knowledgeable</i> Star Wars <i>fanatics...</i>
+
+619
+00:36:56,216 --> 00:36:59,344
+<i>that every detail in the park
+was just right.</i>
+
+620
+00:37:03,264 --> 00:37:06,309
+[Baker] They're getting the thrill
+of a totally immersive world
+
+621
+00:37:06,393 --> 00:37:08,436
+that they're experiencing
+for the first time.
+
+622
+00:37:08,978 --> 00:37:12,357
+This is the first time that we're really
+putting it in front of guests' faces.
+
+623
+00:37:13,775 --> 00:37:16,277
+I mean, to be able to go 360
+around something
+
+624
+00:37:16,361 --> 00:37:19,698
+and really look at it and study it,
+"There's that and there's that."
+
+625
+00:37:19,781 --> 00:37:23,702
+And seeing all these pieces they've seen
+in the films for years and years.
+
+626
+00:37:24,494 --> 00:37:27,914
+I mean, there's nothing like seeing
+the reaction on the guest's face
+
+627
+00:37:27,997 --> 00:37:30,875
+the very first time that they walk
+into anything that we've done.
+
+628
+00:37:30,959 --> 00:37:36,631
+It makes every minute of blood, sweat
+and tears we put into this worth it.
+
+629
+00:37:38,550 --> 00:37:40,135
+Um... Sorry.
+
+630
+00:37:40,218 --> 00:37:42,929
+[chuckles] I get choked up.
+I'm sorry. I'm emotional.
+
+631
+00:37:47,058 --> 00:37:48,810
+I mean, just in this little shop alone,
+
+632
+00:37:48,893 --> 00:37:53,148
+um, there's over 63 cages
+hanging from the ceiling.
+
+633
+00:37:53,231 --> 00:37:55,358
+And all these cages
+are made out of different things.
+
+634
+00:37:55,442 --> 00:37:59,529
+I mean, some of them, actually, are made
+out of studio lights from film sets.
+
+635
+00:38:00,196 --> 00:38:02,157
+It's an incredible, beautiful mess.
+
+636
+00:38:03,533 --> 00:38:06,244
+I grew up in a very small town
+in North Georgia.
+
+637
+00:38:06,703 --> 00:38:09,998
+We didn't even have a theater. You had
+to go to the next town to go to a movie,
+
+638
+00:38:10,081 --> 00:38:12,042
+so if you went to a movie,
+it was a special event.
+
+639
+00:38:12,125 --> 00:38:15,170
+I didn't see <i>Star Wars</i> till it had been
+in the theater for about a year.
+
+640
+00:38:15,253 --> 00:38:18,214
+I finally got my parents to take me,
+and it had changed my life.
+
+641
+00:38:18,298 --> 00:38:19,799
+I didn't know what I wanted to do,
+
+642
+00:38:19,883 --> 00:38:22,093
+but I knew I wanted to be
+in the entertainment industry.
+
+643
+00:38:25,722 --> 00:38:27,599
+Funny enough, I was at a party one night,
+
+644
+00:38:27,682 --> 00:38:31,770
+and there was a prop master
+from a TV show who showed up at the party
+
+645
+00:38:31,853 --> 00:38:34,230
+and saw some of the stuff
+that I had built around my house.
+
+646
+00:38:34,314 --> 00:38:38,109
+And asked me if I was interested
+in being a prop fabricator.
+
+647
+00:38:39,319 --> 00:38:41,339
+Going from film into the real world
+was building stuff
+
+648
+00:38:41,363 --> 00:38:44,616
+that's gonna last
+for the guests to enjoy every day.
+
+649
+00:38:44,699 --> 00:38:47,595
+When you build it for a film set, it's
+something that has to last one or two days
+
+650
+00:38:47,619 --> 00:38:48,912
+and then it gets thrown out.
+
+651
+00:38:49,537 --> 00:38:52,749
+When we were in England, we would go
+to aircraft scrapyards and stuff
+
+652
+00:38:52,832 --> 00:38:54,959
+because we were actually shopping
+for aircraft parts
+
+653
+00:38:55,043 --> 00:38:57,003
+to match stuff that was used in the films.
+
+654
+00:38:57,087 --> 00:38:59,756
+And suddenly, there's a 747
+sitting in a cow pasture
+
+655
+00:38:59,839 --> 00:39:01,383
+that they're tearing the parts off of.
+
+656
+00:39:01,466 --> 00:39:05,178
+And you would go in and say,
+"I'll take all 57 miles of cable
+
+657
+00:39:05,261 --> 00:39:08,556
+and that seat and that seat
+and that control panel." [chuckles]
+
+658
+00:39:10,892 --> 00:39:12,453
+When a stormtrooper takes off his helmet,
+
+659
+00:39:12,477 --> 00:39:15,730
+does he hang it on a coat rack,
+or does he have a stand he puts it on?
+
+660
+00:39:15,814 --> 00:39:18,483
+Part of the fun for us was coming up
+with these things
+
+661
+00:39:18,566 --> 00:39:20,151
+that hadn't been seen on camera,
+
+662
+00:39:20,985 --> 00:39:24,072
+and getting to add to this lore
+that we've loved our whole lives.
+
+663
+00:39:25,573 --> 00:39:28,076
+My grandson thinks I'm famous now.
+[laughs]
+
+664
+00:39:28,451 --> 00:39:32,789
+He's like, "You're famous."
+I'm like, "No, I'm not. Not really.
+
+665
+00:39:32,872 --> 00:39:34,708
+I just make this stuff, you know."
+
+666
+00:39:37,502 --> 00:39:40,463
+I told my wife the bucket list
+is checked off now,
+
+667
+00:39:40,547 --> 00:39:41,881
+to work on <i>Star Wars</i>. [chuckles]
+
+668
+00:39:41,965 --> 00:39:43,800
+I'm getting chills talking about it.
+
+669
+00:39:52,517 --> 00:39:54,978
+[Iger] If Walt could see
+the company today,
+
+670
+00:39:55,687 --> 00:39:59,566
+I believe that
+he would be extremely proud of,
+
+671
+00:39:59,649 --> 00:40:03,319
+not only the fact
+that his legacy is still alive
+
+672
+00:40:03,403 --> 00:40:06,906
+and that the values that he infused
+in his stories still exist,
+
+673
+00:40:07,782 --> 00:40:10,910
+but that we've, in many respects,
+followed his footsteps,
+
+674
+00:40:10,994 --> 00:40:14,914
+which is to keep taking risks and chances
+and exploring new ground.
+
+675
+00:40:17,542 --> 00:40:19,210
+[Brown] <i>The company covered new ground</i>
+
+676
+00:40:19,294 --> 00:40:22,839
+<i>when Disney's Animal Kingdom
+opened in Orlando in 1998.</i>
+
+677
+00:40:24,758 --> 00:40:27,260
+<i>Today, the park is thriving
+as much as ever...</i>
+
+678
+00:40:28,720 --> 00:40:32,015
+<i>thanks to a special brand of TLC
+behind the scenes.</i>
+
+679
+00:40:33,892 --> 00:40:36,561
+[Mylniczenko]
+Peri is a prehensile-tailed porcupine.
+
+680
+00:40:36,644 --> 00:40:40,690
+She's been trained to allow us
+to do ultrasounds on her.
+
+681
+00:40:41,483 --> 00:40:46,654
+Giving us an opportunity to track
+her pregnancy from conception until birth.
+
+682
+00:40:47,822 --> 00:40:50,742
+That way we could tell that she
+was healthy, that the baby was healthy.
+
+683
+00:40:53,828 --> 00:40:56,831
+So, when there's a fetus,
+it makes it a lot easier to see.
+
+684
+00:40:56,915 --> 00:41:00,627
+And right now, we're just been able
+to see her urinary bladder.
+
+685
+00:41:00,710 --> 00:41:03,088
+And then you can see a hint
+of her uterus popping in.
+
+686
+00:41:03,171 --> 00:41:04,839
+Now we're just doing checkups on her,
+
+687
+00:41:04,923 --> 00:41:08,551
+but we're also going to be preparing
+for a second pregnancy.
+
+688
+00:41:17,227 --> 00:41:19,437
+Ever since I've been a small child,
+
+689
+00:41:19,521 --> 00:41:22,857
+I've just tried to help animals
+and help heal them.
+
+690
+00:41:22,941 --> 00:41:26,611
+And so that's just been
+an innate part of my growing up.
+
+691
+00:41:31,408 --> 00:41:32,742
+So far...
+
+692
+00:41:34,744 --> 00:41:35,787
+There we go.
+
+693
+00:41:38,164 --> 00:41:40,959
+I came here for a visit
+during a vet conference,
+
+694
+00:41:41,042 --> 00:41:43,712
+and I was just impressed.
+
+695
+00:41:43,795 --> 00:41:45,338
+I loved the facilities.
+
+696
+00:41:45,422 --> 00:41:49,551
+I loved the opportunity
+to care for the animals as well.
+
+697
+00:41:49,634 --> 00:41:54,681
+As I got to know all of the veterinarians,
+I just thought it was an amazing team.
+
+698
+00:41:55,557 --> 00:41:59,644
+And because of all of that,
+I was really enticed to come here.
+
+699
+00:42:01,229 --> 00:42:03,231
+I think that's what I love most.
+
+700
+00:42:03,314 --> 00:42:07,694
+We have a diversity of animals,
+both terrestrial and aquatic.
+
+701
+00:42:07,777 --> 00:42:09,362
+It allows people to really get close.
+
+702
+00:42:09,446 --> 00:42:12,282
+It allows people
+to understand the animals,
+
+703
+00:42:12,365 --> 00:42:16,494
+and it gives them an opportunity
+to care and bond with those animals.
+
+704
+00:42:17,537 --> 00:42:20,665
+We have folks that come up here regularly
+
+705
+00:42:20,749 --> 00:42:24,127
+that... know all of the different animals.
+
+706
+00:42:24,210 --> 00:42:29,049
+Like the gorillas. There are some people
+that know all of the gorillas by name.
+
+707
+00:42:29,507 --> 00:42:31,509
+And the guests will just visit them,
+
+708
+00:42:31,593 --> 00:42:34,429
+which is a unique opportunity.
+
+709
+00:42:36,389 --> 00:42:39,809
+We do routine examinations
+on many of our animals.
+
+710
+00:42:39,893 --> 00:42:42,520
+And today we did an examination
+on a southern stingray.
+
+711
+00:42:43,229 --> 00:42:46,024
+- ...at 950, so we got a good mark on her.
+- Perfect.
+
+712
+00:42:46,107 --> 00:42:49,986
+This is a female that's been with us.
+Her name is Dexy.
+
+713
+00:42:52,405 --> 00:42:54,199
+PH is 8.6.
+
+714
+00:42:54,783 --> 00:42:57,494
+So, right now we're measuring
+the oxygen level
+
+715
+00:42:57,577 --> 00:43:01,373
+of the... area that she's in.
+
+716
+00:43:01,456 --> 00:43:03,583
+Today she's getting her routine exam.
+
+717
+00:43:03,667 --> 00:43:06,211
+And so, because of that,
+we need to do a little bit more.
+
+718
+00:43:06,294 --> 00:43:08,338
+Let's go ahead and look at her gills.
+
+719
+00:43:11,424 --> 00:43:15,095
+So, her cardiac contractions are great.
+Her rhythm and rate are great.
+
+720
+00:43:15,178 --> 00:43:16,930
+So, I have no concerns right now.
+
+721
+00:43:17,013 --> 00:43:18,973
+We took an ultrasound as well,
+
+722
+00:43:19,057 --> 00:43:22,268
+which gives me an excellent view
+of all of her organs
+
+723
+00:43:22,352 --> 00:43:25,480
+so I can determine health of her,
+you know, from the inside.
+
+724
+00:43:25,563 --> 00:43:27,440
+Yeah, it feels like it's actually healed.
+
+725
+00:43:27,899 --> 00:43:31,986
+A typical day can mean anything
+from doing a pregnancy exam on a scorpion,
+
+726
+00:43:32,445 --> 00:43:36,408
+to a bird gets an injury
+in one of our aviaries.
+
+727
+00:43:37,867 --> 00:43:39,703
+You do have to get quite creative.
+
+728
+00:43:40,412 --> 00:43:42,455
+Every day we have to figure out
+
+729
+00:43:42,539 --> 00:43:46,793
+how to put a bandage on an animal
+that wouldn't normally have a bandage.
+
+730
+00:43:46,876 --> 00:43:49,713
+So, how would you put a bandage on a fish?
+
+731
+00:43:49,796 --> 00:43:53,550
+Or a very tiny bird that has a broken leg?
+How do you fix that broken leg?
+
+732
+00:43:53,633 --> 00:43:57,971
+And so you come up with toothpicks
+and tape, sometimes, to make splints.
+
+733
+00:44:01,224 --> 00:44:04,978
+And then the conservation piece.
+Disney really cares about conservation.
+
+734
+00:44:05,645 --> 00:44:09,733
+All of us have an opportunity to work
+with conservation that Disney supports.
+
+735
+00:44:10,358 --> 00:44:13,862
+I'm particularly interested
+in working with gorillas
+
+736
+00:44:13,945 --> 00:44:18,491
+in the Democratic Republic of Congo,
+with a program called GRACE.
+
+737
+00:44:18,575 --> 00:44:22,495
+And that's the Gorilla Rehabilitation
+and Conservation Education Center
+
+738
+00:44:22,579 --> 00:44:25,498
+that cares for orphaned gorillas.
+
+739
+00:44:26,166 --> 00:44:30,211
+We can then have those gorillas
+rehabilitated,
+
+740
+00:44:30,295 --> 00:44:33,173
+and then placed
+into a family group of gorillas,
+
+741
+00:44:33,256 --> 00:44:34,591
+with the ultimate goal
+
+742
+00:44:34,674 --> 00:44:37,052
+of reintroducing them
+to a safe environment.
+
+743
+00:44:38,887 --> 00:44:40,531
+- [Mylniczenko] What do you think?
+- [keeper] Probably.
+
+744
+00:44:40,555 --> 00:44:43,183
+- [Mylniczenko] Okay.
+- [keeper] I could leave it right there.
+
+745
+00:44:43,266 --> 00:44:45,810
+- Does that work?
+- [Mylniczenko] That can work.
+
+746
+00:44:45,894 --> 00:44:50,148
+All of our animals have bitey parts
+and scratchy parts. [chuckles]
+
+747
+00:44:50,231 --> 00:44:55,153
+Yeah, there are times when you just need
+to make sure you understand the animal.
+
+748
+00:44:55,236 --> 00:44:58,281
+But we also have keeper staff
+that really know the animals well
+
+749
+00:44:58,365 --> 00:45:00,867
+and can help us with safety issues.
+
+750
+00:45:00,950 --> 00:45:02,327
+Oh, yeah.
+
+751
+00:45:04,454 --> 00:45:05,455
+Good job.
+
+752
+00:45:05,538 --> 00:45:06,831
+They choose. Right?
+
+753
+00:45:06,915 --> 00:45:09,793
+They can make the decisions
+to come and participate if their...
+
+754
+00:45:09,876 --> 00:45:12,921
+With their medical care
+or they can choose to go.
+
+755
+00:45:13,963 --> 00:45:14,964
+Hey, girl.
+
+756
+00:45:15,965 --> 00:45:17,943
+- [Mylniczenko] What a good job.
+- [keeper] Good girl. That's very nice.
+
+757
+00:45:17,967 --> 00:45:22,931
+Sometimes what we do is really amazing.
+We get to see animals through birth.
+
+758
+00:45:23,014 --> 00:45:25,725
+- [Mylniczenko] What a good girl.
+- [keeper] Good girl. Good girl.
+
+759
+00:45:28,687 --> 00:45:30,522
+She's doing such a good job.
+
+760
+00:45:30,605 --> 00:45:35,402
+We get to see them overcome issues,
+and those are amazing things.
+
+761
+00:45:36,695 --> 00:45:39,572
+Being a veterinarian is probably one of,
+
+762
+00:45:39,656 --> 00:45:41,574
+in my opinion, [chuckles]
+
+763
+00:45:41,658 --> 00:45:43,910
+the most rewarding jobs you can have.
+
+764
+00:45:43,993 --> 00:45:47,372
+Sweetie. It's just for you. I know.
+It's just for you. Yummies.
+
+765
+00:45:47,455 --> 00:45:49,457
+[Iger] We're all, in many ways, in the...
+
+766
+00:45:49,541 --> 00:45:52,210
+Not only in the same business
+but doing the same thing,
+
+767
+00:45:52,293 --> 00:45:54,587
+which is trying to reach people
+all over the world
+
+768
+00:45:54,671 --> 00:45:57,257
+in very compelling ways,
+trying to touch people's hearts.
+
+769
+00:46:00,635 --> 00:46:02,262
+[Brown] <i>In Madrid, Spain,</i>
+
+770
+00:46:02,345 --> 00:46:05,098
+<i>they'll try to reach people's hearts today
+with two performances</i>
+
+771
+00:46:05,181 --> 00:46:08,351
+<i>of the widely-beloved stage version</i>
+<i>of </i>The Lion King<i>...</i>
+
+772
+00:46:09,310 --> 00:46:11,271
+[trills tongue]
+
+773
+00:46:11,354 --> 00:46:14,232
+<i>propelled by the gifts
+of some amazing performers.</i>
+
+774
+00:46:14,315 --> 00:46:19,112
+Every start of the show gives me
+a different vibe, a different energy.
+
+775
+00:46:19,195 --> 00:46:21,865
+- Testing, testing, testing, testing.
+- All good.
+
+776
+00:46:21,948 --> 00:46:24,826
+That first call means a lot
+
+777
+00:46:24,909 --> 00:46:28,329
+'cause you find
+the public members screaming.
+
+778
+00:46:28,413 --> 00:46:31,624
+[audience cheering, applause]
+
+779
+00:46:32,208 --> 00:46:36,254
+But the minute you start that call,
+it's like total <i>silencio.</i> And then, boom.
+
+780
+00:46:36,338 --> 00:46:37,839
+[applauding continues]
+
+781
+00:46:37,922 --> 00:46:39,466
+I have their eyes on me.
+
+782
+00:46:42,552 --> 00:46:48,558
+[singing in Zulu]
+
+783
+00:46:48,641 --> 00:46:52,645
+[background singers singing in Zulu]
+
+784
+00:46:54,773 --> 00:46:56,773
+I still get chills when I'm...
+[chuckling] singing.
+
+785
+00:46:58,276 --> 00:46:59,986
+Especially the first song.
+
+786
+00:47:00,070 --> 00:47:03,239
+I just don't get over with
+that first song, "The Circle of Life."
+
+787
+00:47:03,323 --> 00:47:05,742
+[continues singing in Zulu]
+
+788
+00:47:06,284 --> 00:47:10,455
+I look at individuals amongst the public.
+
+789
+00:47:10,538 --> 00:47:14,584
+And the connection I feel with their eyes,
+even better when they are crying.
+
+790
+00:47:14,668 --> 00:47:15,794
+I'm like, "Oof."
+
+791
+00:47:15,877 --> 00:47:16,878
+[chuckles]
+
+792
+00:47:16,961 --> 00:47:17,962
+"I feel you."
+
+793
+00:47:19,047 --> 00:47:22,050
+I'm really proud.
+It's a very special role.
+
+794
+00:47:22,133 --> 00:47:25,595
+I feel honored that I was trusted.
+
+795
+00:47:27,681 --> 00:47:31,059
+[Brown] <i>Zama's journey to Madrid</i>
+<i>began years ago in South Africa...</i>
+
+796
+00:47:33,019 --> 00:47:36,231
+<i>where she grew up dreaming
+bigger and bigger with every song.</i>
+
+797
+00:47:37,357 --> 00:47:40,193
+[Magudulela] I think I was about five.
+I actually composed a song.
+
+798
+00:47:40,276 --> 00:47:41,996
+That's how much I knew
+that I loved singing.
+
+799
+00:47:42,028 --> 00:47:45,657
+And then, of course, at nine years, that's
+when I'm like, "I think I love singing."
+
+800
+00:47:45,740 --> 00:47:49,411
+'Cause I ended up copying my friend
+who sang better than me at that point.
+
+801
+00:47:49,494 --> 00:47:53,790
+She can sing, I can try and sing too.
+I'm going to be competitive.
+
+802
+00:47:53,873 --> 00:47:56,751
+I just sang and sang until I upstaged her.
+
+803
+00:47:56,835 --> 00:47:58,253
+[laughs]
+
+804
+00:47:59,921 --> 00:48:03,591
+[Brown] <i>Zama eventually traveled to London</i>
+<i>to support her friend at a casting call.</i>
+
+805
+00:48:05,593 --> 00:48:08,638
+<i>She caught the eye of the director,
+who asked if she could sing.</i>
+
+806
+00:48:09,597 --> 00:48:12,517
+[Magudulela] My first audition
+was not good.
+
+807
+00:48:13,685 --> 00:48:17,731
+At that point I just finished
+my first musical in South Africa.
+
+808
+00:48:18,898 --> 00:48:22,318
+There was a long queue, and I asked
+people, "Okay, what is this queue for?"
+
+809
+00:48:22,402 --> 00:48:24,946
+"It's, like, auditions, <i>Lion King</i>."
+I'm like, "What is that?"
+
+810
+00:48:27,574 --> 00:48:31,536
+I went to the movie store,
+bought myself that DVD.
+
+811
+00:48:34,039 --> 00:48:38,084
+I thought, "If I do <i>The Lion King</i>,
+am I gonna be a cartoon?" [chuckles]
+
+812
+00:48:38,460 --> 00:48:41,254
+[Brown] <i>Four days later,</i>
+<i>she was offered the part of Rafiki...</i>
+
+813
+00:48:42,714 --> 00:48:45,258
+<i>despite having
+no acting experience at all.</i>
+
+814
+00:48:45,717 --> 00:48:49,971
+I do have moments
+where I'm actually meditating.
+
+815
+00:48:50,180 --> 00:48:51,014
+[chuckles]
+
+816
+00:48:51,097 --> 00:48:52,307
+I close my eyes.
+
+817
+00:48:52,390 --> 00:48:53,600
+[chuckles]
+
+818
+00:48:53,683 --> 00:48:55,560
+- Clearing the mind.
+- You know?
+
+819
+00:48:56,102 --> 00:48:58,772
+I'm glad and grateful
+that I've been part of this journey.
+
+820
+00:48:59,606 --> 00:49:00,940
+<i>Soy listo!</i>
+
+821
+00:49:01,024 --> 00:49:05,445
+Being around this show teaches me
+every day to be a better person.
+
+822
+00:49:05,528 --> 00:49:11,910
+[singing in Zulu]
+
+823
+00:49:11,993 --> 00:49:14,329
+I mean, all the songs for me are special.
+
+824
+00:49:14,412 --> 00:49:16,289
+They tell a certain story.
+
+825
+00:49:16,373 --> 00:49:21,920
+And... for me, "The Circle of Life,"
+I just connect with it.
+
+826
+00:49:22,003 --> 00:49:24,506
+♪ <i>It's the circle of life</i> ♪
+
+827
+00:49:24,589 --> 00:49:26,841
+It's like, "Wow,
+we're so connected on this earth."
+
+828
+00:49:28,510 --> 00:49:30,261
+We need each other.
+
+829
+00:49:32,889 --> 00:49:35,100
+Ooh... [sighs]
+It's just too much. It's deep.
+
+830
+00:49:35,183 --> 00:49:36,183
+[chuckles]
+
+831
+00:49:36,226 --> 00:49:39,020
+[singing in Spanish]
+
+832
+00:49:39,104 --> 00:49:43,274
+I just connect with it
+as when I came on this earth.
+
+833
+00:49:43,358 --> 00:49:46,444
+How my family was happy.
+
+834
+00:49:46,528 --> 00:49:48,822
+And what dramas or what problems
+we've been through.
+
+835
+00:49:48,905 --> 00:49:51,825
+[continues singing in Spanish]
+
+836
+00:49:53,326 --> 00:49:54,869
+My parents are no longer there.
+
+837
+00:49:56,871 --> 00:50:01,543
+I always feel they are still with me
+when I'm delivering this song.
+
+838
+00:50:02,419 --> 00:50:04,212
+Because, really,
+when I talk to that Mufasa,
+
+839
+00:50:04,295 --> 00:50:07,298
+I'm not talking to Mufasa,
+I'm talking to my parents.
+
+840
+00:50:08,967 --> 00:50:11,136
+That's why I'm grateful
+to be part of this journey
+
+841
+00:50:11,219 --> 00:50:13,888
+because, really,
+I've changed so many people's lives.
+
+842
+00:50:13,972 --> 00:50:17,475
+You know, knowing that there could be
+people who are coming here sad.
+
+843
+00:50:20,020 --> 00:50:21,896
+When we perform, then they leave happy.
+
+844
+00:50:22,313 --> 00:50:26,192
+It's an amazing reaction.
+I feel like we're giving them a gift.
+
+845
+00:50:26,693 --> 00:50:30,321
+It just makes me [chuckles] feel blessed.
+
+846
+00:50:44,836 --> 00:50:47,714
+[Iger] The Walt Disney Company
+is almost a hundred years old.
+
+847
+00:50:49,132 --> 00:50:52,052
+And it's pretty extraordinary
+when you think about a company
+
+848
+00:50:52,135 --> 00:50:54,429
+that's been around as long as ours
+
+849
+00:50:54,512 --> 00:50:58,224
+that is still extremely relevant
+in the world, that, in many respects,
+
+850
+00:50:58,308 --> 00:51:01,311
+doesn't look anything like the world
+that existed back in 1923
+
+851
+00:51:01,394 --> 00:51:04,481
+when Walt and his brother Roy
+started the company.
+
+852
+00:51:07,400 --> 00:51:10,987
+[Brown] <i>Another company that's withstood</i>
+<i>the test of time is Marvel,</i>
+
+853
+00:51:11,738 --> 00:51:15,450
+<i>which Bob Iger added
+to Disney's portfolio in 2009.</i>
+
+854
+00:51:19,579 --> 00:51:23,333
+<i>Just like Bob Iger,
+Ryan Meinerding works in Los Angeles.</i>
+
+855
+00:51:24,709 --> 00:51:26,378
+<i>He got his start on </i>Iron Man...
+
+856
+00:51:27,545 --> 00:51:31,299
+<i>and has since risen to the head
+of Visual Development at Marvel Studios.</i>
+
+857
+00:51:33,385 --> 00:51:35,095
+<i>Ryan creates the first visuals</i>
+
+858
+00:51:35,178 --> 00:51:37,889
+<i>that ultimately inspire
+the characters' costumes.</i>
+
+859
+00:51:39,265 --> 00:51:44,020
+One of the reasons I love movies is going
+on that journey the hero's going on
+
+860
+00:51:44,104 --> 00:51:46,523
+and trying to create the visual
+for that character
+
+861
+00:51:46,606 --> 00:51:49,025
+that's going to lock in
+the audience's empathy
+
+862
+00:51:49,109 --> 00:51:51,361
+and take them forward
+through the journey of the film
+
+863
+00:51:51,444 --> 00:51:54,364
+is something that I, you know,
+I'm always going to pick the heroes.
+
+864
+00:51:56,866 --> 00:52:00,662
+Marvel superheroes are powerful, not only
+because they literally have powers
+
+865
+00:52:00,745 --> 00:52:02,706
+but also because they have lots of flaws.
+
+866
+00:52:03,206 --> 00:52:06,835
+Spider-Man and Peter Parker are relatable
+because he has real-world problems.
+
+867
+00:52:06,918 --> 00:52:09,254
+He, you know,
+has problems with girlfriends.
+
+868
+00:52:09,337 --> 00:52:12,215
+He has problems with his Aunt May.
+He has problems in school.
+
+869
+00:52:13,591 --> 00:52:16,761
+I pitched the idea of having
+Spider-Man's eyes be emotive.
+
+870
+00:52:17,262 --> 00:52:19,472
+They would move
+and essentially be able to understand
+
+871
+00:52:19,556 --> 00:52:22,225
+what Peter is thinking
+under the suit through his eyes.
+
+872
+00:52:22,308 --> 00:52:24,853
+And that was one of the things
+that I'm most proud about,
+
+873
+00:52:24,936 --> 00:52:26,730
+having solved here at Marvel.
+
+874
+00:52:27,856 --> 00:52:29,917
+That's one of the best parts
+of working on this job too
+
+875
+00:52:29,941 --> 00:52:32,193
+is just working from those great icons.
+
+876
+00:52:32,527 --> 00:52:36,990
+I was trying to think of different ways
+for Thanos to attack Doctor Strange.
+
+877
+00:52:37,073 --> 00:52:40,452
+I was thinking,
+maybe he could destroy planets or...
+
+878
+00:52:40,535 --> 00:52:43,955
+A lot of us that work here in the Visual
+Development department are fans.
+
+879
+00:52:44,372 --> 00:52:47,250
+And just make it come through
+like portals or comets or whatever.
+
+880
+00:52:47,334 --> 00:52:48,835
+Just raining down on Doctor Strange.
+
+881
+00:52:48,918 --> 00:52:51,689
+[Meinerding] A lot of what the characters
+are about are sort of ingrained in us.
+
+882
+00:52:51,713 --> 00:52:55,133
+Being passionate about finding
+new ways of representing them
+
+883
+00:52:55,216 --> 00:52:57,969
+- in a storytelling context...
+- I think they're really great.
+
+884
+00:52:58,053 --> 00:52:59,721
+...just keeps driving me forward.
+
+885
+00:53:00,263 --> 00:53:02,283
+If I could talk to
+the 13-year-old version of myself
+
+886
+00:53:02,307 --> 00:53:06,394
+and tell him what I'm working on today,
+I don't think that he would believe me.
+
+887
+00:53:07,103 --> 00:53:10,607
+Having worked on a character
+like Captain America or Iron Man...
+
+888
+00:53:11,608 --> 00:53:12,692
+people love them.
+
+889
+00:53:12,776 --> 00:53:15,904
+And if you do justice by that character,
+
+890
+00:53:15,987 --> 00:53:18,782
+people will continue to love them,
+and I'm excited by that.
+
+891
+00:53:19,407 --> 00:53:21,385
+I loved these characters
+from when I was very young.
+
+892
+00:53:21,409 --> 00:53:25,246
+I started buying comics,
+probably when I was ten or 11.
+
+893
+00:53:26,581 --> 00:53:30,335
+And then all through the '90s, I was
+reading comics when I was a teenager.
+
+894
+00:53:30,418 --> 00:53:33,254
+So, I started pretty, pretty young
+with the characters
+
+895
+00:53:33,338 --> 00:53:37,008
+and I've, sort of, been fortunate enough
+to end up with a job
+
+896
+00:53:37,092 --> 00:53:41,721
+that really allows me
+to play into my fanboy tendencies.
+
+897
+00:53:42,681 --> 00:53:46,393
+It used to be that a person like me
+would be doing pencil drawings
+
+898
+00:53:46,476 --> 00:53:48,716
+that would need to be approved
+before something got made.
+
+899
+00:53:48,770 --> 00:53:50,772
+[Stegon] The final pose
+that we're interested in,
+
+900
+00:53:50,855 --> 00:53:54,651
+some of the initial pose wasn't dy...
+Quite dynamic enough.
+
+901
+00:53:54,734 --> 00:53:57,487
+He feels too stiff.
+Maybe he doesn't feel menacing enough.
+
+902
+00:53:57,570 --> 00:54:01,157
+Because he's a very powerful character,
+so he needs to feel powerful.
+
+903
+00:54:01,700 --> 00:54:05,370
+It's using computers
+and being able to get high resolution,
+
+904
+00:54:05,453 --> 00:54:06,705
+more finished images.
+
+905
+00:54:06,788 --> 00:54:08,468
+We're able to actually
+accomplish something
+
+906
+00:54:08,498 --> 00:54:12,002
+that's as close
+to the finished thing as possible.
+
+907
+00:54:12,335 --> 00:54:15,505
+All together, it probably took
+about 30 or 40 versions.
+
+908
+00:54:15,588 --> 00:54:17,799
+And the main purpose of that
+was to, essentially,
+
+909
+00:54:17,882 --> 00:54:21,011
+put it into a 3-D maquette,
+that was gonna be 3-D printed,
+
+910
+00:54:21,094 --> 00:54:24,055
+as a final sign-off
+for the directors and the producers
+
+911
+00:54:24,139 --> 00:54:26,808
+to see the character,
+and you know, be able to walk around it.
+
+912
+00:54:27,392 --> 00:54:32,480
+We're working on around three films a year
+and adding more projects to that as we go.
+
+913
+00:54:33,273 --> 00:54:35,191
+Finding ways of accomplishing that,
+
+914
+00:54:35,275 --> 00:54:38,445
+both from an artistic standpoint
+of actually solving problems,
+
+915
+00:54:38,528 --> 00:54:39,738
+design problems, artistically,
+
+916
+00:54:39,821 --> 00:54:45,452
+also working with my team to art direct
+and help them solve problems as well.
+
+917
+00:54:45,535 --> 00:54:48,455
+And working with visual effects
+and the costume departments
+
+918
+00:54:48,538 --> 00:54:54,127
+to really take our designs and help them
+get resolved in a really amazing way
+
+919
+00:54:54,210 --> 00:54:57,547
+is enough to keep me busy
+through the whole week
+
+920
+00:54:57,630 --> 00:54:59,190
+and into the weekends and... [chuckles]
+
+921
+00:55:00,300 --> 00:55:04,179
+As an artist, there's also just a sense of
+wanting to do better than the last time.
+
+922
+00:55:05,263 --> 00:55:07,015
+Every artist wants to keep growing.
+
+923
+00:55:08,308 --> 00:55:11,186
+We're always having new chances
+to reinterpret the characters.
+
+924
+00:55:11,269 --> 00:55:12,896
+We're having new places for them to go
+
+925
+00:55:12,979 --> 00:55:15,565
+with the stories the filmmakers
+are coming up with.
+
+926
+00:55:15,648 --> 00:55:19,361
+And we're really getting the chance
+to push ourselves.
+
+927
+00:55:19,861 --> 00:55:23,782
+This is the Captain America hero costume
+from <i>Captain America: The First Avenger</i>.
+
+928
+00:55:23,865 --> 00:55:26,868
+It's, sort of,
+his culmination in that film
+
+929
+00:55:26,951 --> 00:55:30,663
+for blending,
+being a symbol and being a soldier.
+
+930
+00:55:31,414 --> 00:55:35,418
+It was also the first time I was trying
+to incorporate the stripes as straps,
+
+931
+00:55:35,502 --> 00:55:38,296
+turning them in, pulling them off of it,
+just being on the costume.
+
+932
+00:55:38,380 --> 00:55:41,508
+And turning them into something that
+was part of the utility of the costume.
+
+933
+00:55:43,051 --> 00:55:46,805
+So, to transition from the World War II
+aesthetic to the end of Cap's journey,
+
+934
+00:55:46,888 --> 00:55:50,308
+so he's already had, I don't know,
+probably six costumes
+
+935
+00:55:50,392 --> 00:55:54,062
+in between this and <i>The First Avenger</i>
+costume and this one.
+
+936
+00:55:54,145 --> 00:55:57,732
+One of the challenges we had on this suit
+was really making these scales work.
+
+937
+00:55:58,316 --> 00:56:00,985
+A lot of my job
+is hopefully inspiring people,
+
+938
+00:56:01,069 --> 00:56:03,446
+but it's also just letting people
+solve problems.
+
+939
+00:56:04,364 --> 00:56:09,536
+We did a whole bunch of iterations where
+it would look perfectly fine in the front.
+
+940
+00:56:09,619 --> 00:56:12,706
+But the moment that, you know,
+you would go into a three-quarter view,
+
+941
+00:56:12,789 --> 00:56:16,084
+those lines started to diminish
+and not look as great.
+
+942
+00:56:16,167 --> 00:56:20,922
+One of the things as an artist is failure
+comes as a fear with every brushstroke.
+
+943
+00:56:21,381 --> 00:56:23,341
+- Yeah, straight lines on a compound curve.
+- Yep.
+
+944
+00:56:23,383 --> 00:56:24,259
+[both laugh]
+
+945
+00:56:24,342 --> 00:56:26,654
+You're starting from a blank page
+and you're building it up.
+
+946
+00:56:26,678 --> 00:56:30,807
+And a lot of times, you'll take a misstep.
+You'll go the wrong direction...
+
+947
+00:56:30,890 --> 00:56:32,642
+There's, like, an odd banding shape.
+
+948
+00:56:33,643 --> 00:56:34,954
+[Meinerding]
+...and have to course correct.
+
+949
+00:56:34,978 --> 00:56:39,190
+So, I sort of deal with failure
+at every moment, I feel, of every day.
+
+950
+00:56:39,274 --> 00:56:41,836
+When you see it on screen you just say,
+"Oh, cool, he's wearing the scales."
+
+951
+00:56:41,860 --> 00:56:44,839
+But the amount of engineering and artistry
+that goes into making these things
+
+952
+00:56:44,863 --> 00:56:46,448
+really come to fruition is incredible.
+
+953
+00:56:46,531 --> 00:56:48,450
+I had hoped it would look very good,
+
+954
+00:56:48,533 --> 00:56:50,785
+and it turned out better
+than I could have ever expected.
+
+955
+00:56:51,453 --> 00:56:54,497
+Every part of this ride has felt like,
+
+956
+00:56:54,581 --> 00:56:57,375
+it can't get bigger,
+it can't get more amazing.
+
+957
+00:56:57,459 --> 00:57:01,963
+And somehow the filmmakers and
+Marvel Studios make it all come together
+
+958
+00:57:02,047 --> 00:57:04,341
+into something that's even bigger
+than what came before.
+
+959
+00:57:05,884 --> 00:57:09,471
+It's nostalgia for me. It's really weird,
+the characters hold a lot of nostalgia
+
+960
+00:57:09,554 --> 00:57:11,514
+because I love them
+from when I was younger.
+
+961
+00:57:11,598 --> 00:57:16,061
+And now I've been working at Marvel
+for a little beyond 13 years,
+
+962
+00:57:16,144 --> 00:57:18,813
+and those memories are, you know,
+
+963
+00:57:18,897 --> 00:57:20,617
+things I'll cherish
+for the rest of my life.
+
+964
+00:57:26,654 --> 00:57:28,823
+[Brown] <i>Every day, across the world,</i>
+
+965
+00:57:28,907 --> 00:57:32,994
+<i>in theme parks and studios,
+on stages and sets,</i>
+
+966
+00:57:33,078 --> 00:57:37,082
+<i>the people of the Walt Disney Company
+are all part of the same idea</i>
+
+967
+00:57:37,165 --> 00:57:40,585
+<i>that's guided the company
+since Walt himself dreamed it up.</i>
+
+968
+00:57:40,794 --> 00:57:41,628
+[chuckles]
+
+969
+00:57:41,711 --> 00:57:43,672
+<i>- They're telling stories.
+- Soy listo!</i>
+
+970
+00:57:43,755 --> 00:57:45,548
+<i>They're inspiring people.</i>
+
+971
+00:57:45,632 --> 00:57:47,676
+<i>And they're proving over and over again,</i>
+
+972
+00:57:48,343 --> 00:57:51,763
+<i>the power of their imagination.</i>
+
+973
+00:57:51,846 --> 00:57:57,644
+I'm the same guy that I was when
+I graduated from Ithaca College in 1973...
+
+974
+00:57:58,728 --> 00:58:01,523
+that went to see <i>Cinderella</i>
+with my grandparents.
+
+975
+00:58:02,565 --> 00:58:03,608
+I love a great story.
+
+976
+00:58:04,818 --> 00:58:06,695
+I also happen to love what I do.
+
+977
+00:58:07,987 --> 00:58:11,032
+I just... Look, I get motivated
+by the fact The Walt Disney Company
+
+978
+00:58:11,116 --> 00:58:14,411
+occupies such a special place
+in the world.
+
+979
+00:58:14,494 --> 00:58:18,373
+We primarily, in our storytelling,
+manufacture happiness,
+
+980
+00:58:18,456 --> 00:58:19,916
+is the way I like to describe it.
+
+981
+00:58:21,501 --> 00:58:22,836
+That's pretty motivating.
+
+982
+00:58:22,860 --> 00:58:25,860
+<font color="#ffff00">Subtitles Diego Moraes(oakislandtk)</font>
+<font color="#ffff00">www.opensubtitles.org</font>

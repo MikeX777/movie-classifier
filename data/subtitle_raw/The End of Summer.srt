@@ -1,0 +1,5001 @@
+1
+00:00:01,171 --> 00:00:07,350
+1961 Arts Festival Entry
+
+2
+00:00:22,150 --> 00:00:29,011
+A Takarazuka Pictures Production
+
+3
+00:00:32,120 --> 00:00:39,084
+The End of Summer
+
+4
+00:00:42,215 --> 00:00:44,616
+Produced by Sanezumi Fujimoto...
+
+5
+00:00:44,774 --> 00:00:47,175
+...Masakatsu Kaneko,
+and Tadahiro Teramoto
+
+6
+00:00:47,732 --> 00:00:50,133
+Screenplay by Kogo Noda...
+
+7
+00:00:50,313 --> 00:00:52,714
+...and Yasujiro Ozu
+
+8
+00:00:53,069 --> 00:00:55,470
+Cinematography by Asakazu Nakai
+
+9
+00:00:55,626 --> 00:00:58,027
+Art Direction by
+Tomoo Shimogawara
+
+10
+00:00:58,327 --> 00:01:00,728
+Original Music by Toshiro Mayuzumi
+
+11
+00:01:00,830 --> 00:01:03,191
+Sound by Koichi Nakagawa
+and Hisashi Shimonaga
+
+12
+00:01:03,467 --> 00:01:05,868
+Film Editing by Koichi Iwashita
+
+13
+00:01:06,088 --> 00:01:08,489
+Assistant Director Jyukichi Takemae
+
+14
+00:01:08,828 --> 00:01:10,456
+Production Design by Okamura
+Tamondo
+
+15
+00:01:10,704 --> 00:01:12,332
+Set Decoration by Kitagawa
+
+16
+00:01:12,578 --> 00:01:15,013
+The Cast
+
+17
+00:01:15,274 --> 00:01:18,244
+Setsuko Hara
+
+18
+00:01:18,518 --> 00:01:21,488
+Yoko Tsukasa
+Michiyo Aramata
+
+19
+00:01:21,979 --> 00:01:24,949
+Keiju Kobayashi
+
+20
+00:01:25,167 --> 00:01:28,137
+Akira Takarada
+Daisuke Kato
+
+21
+00:01:28,746 --> 00:01:31,716
+Reiko Dan
+Yumi Shirakawa
+
+22
+00:01:31,982 --> 00:01:34,952
+Kyu Sazanka
+Yu Fujiki
+
+23
+00:01:35,583 --> 00:01:38,553
+Haruko Sugimura
+Yuko Mochizuki
+
+24
+00:01:38,748 --> 00:01:41,718
+Chieko Naniwa
+Chishu Ryu
+
+25
+00:01:42,077 --> 00:01:43,932
+Haruko Togo
+Michiyo Tamaki
+
+26
+00:01:44,073 --> 00:01:45,994
+Masahiko Shimazu
+Tatsuo Endo
+
+27
+00:01:46,104 --> 00:01:47,969
+Tomoo Uchida
+Kyoji Hayakawa
+
+28
+00:02:02,107 --> 00:02:04,235
+Hisaya Morishige
+
+29
+00:02:04,343 --> 00:02:06,471
+Ganjiro Nakamura
+
+30
+00:02:07,413 --> 00:02:14,377
+Directed by Yasujiro Ozu
+
+31
+00:02:24,581 --> 00:02:27,551
+The City of Osaka
+
+32
+00:02:49,522 --> 00:02:52,651
+So meticulous.
+Let me see that.
+
+33
+00:02:57,396 --> 00:02:59,763
+Hey, does my eye look strange today?
+
+34
+00:03:01,900 --> 00:03:03,391
+Looks the same to me.
+
+35
+00:03:08,375 --> 00:03:09,822
+Someone got you a nice gift.
+
+36
+00:03:11,223 --> 00:03:12,452
+I bought it myself.
+
+37
+00:03:14,881 --> 00:03:16,406
+He's here.
+
+38
+00:03:17,990 --> 00:03:21,017
+- Welcome.
+- Good evening.
+
+39
+00:03:23,462 --> 00:03:25,192
+You came alone?
+
+40
+00:03:25,598 --> 00:03:28,227
+She'll be here soon.
+I told her to come at seven.
+
+41
+00:03:28,845 --> 00:03:31,144
+I'll have a whiskey on the rocks.
+
+42
+00:03:36,642 --> 00:03:39,737
+She said she had to deliver a
+painting before coming here.
+
+43
+00:03:40,313 --> 00:03:41,747
+I see.
+
+44
+00:03:42,114 --> 00:03:46,916
+Listen. You say she's a real catch.
+I hope you know what I'm looking for.
+
+45
+00:03:47,119 --> 00:03:48,314
+Oh, I'm well aware.
+
+46
+00:03:49,222 --> 00:03:50,918
+Your late wife was very pretty...
+
+47
+00:03:51,123 --> 00:03:53,251
+...and when we went
+to Arima this past spring....
+
+48
+00:03:53,459 --> 00:03:56,258
+No need to mention that.
+
+49
+00:03:57,131 --> 00:03:59,726
+There's a slight catch though.
+
+50
+00:04:01,001 --> 00:04:02,594
+What's that?
+
+51
+00:04:03,065 --> 00:04:05,694
+She had a son with her late husband.
+
+52
+00:04:06,307 --> 00:04:08,435
+I don't mind.
+I'm in the same situation.
+
+53
+00:04:09,376 --> 00:04:11,345
+What did her former husband do?
+
+54
+00:04:11,712 --> 00:04:14,739
+- He taught at Osaka University.
+- A professor, huh?
+
+55
+00:04:15,620 --> 00:04:17,521
+He didn't run a sake brewery?
+
+56
+00:04:17,822 --> 00:04:19,791
+He said the family
+business wasn't for him.
+
+57
+00:04:22,460 --> 00:04:23,689
+A professor's widow....
+
+58
+00:04:25,096 --> 00:04:26,621
+A member of the intelligentsia.
+
+59
+00:04:31,236 --> 00:04:33,330
+She should be here any minute.
+
+60
+00:04:33,538 --> 00:04:36,372
+Wouldn't it be better if I
+wasn't sitting here?
+
+61
+00:04:36,808 --> 00:04:39,403
+- Oh?
+- I'll stay out of sight for now.
+
+62
+00:04:39,611 --> 00:04:42,103
+When she arrives, I'll act
+like I ran into you by chance.
+
+63
+00:04:42,313 --> 00:04:45,477
+- Where will you be?
+- Just right over there. Okay?
+
+64
+00:04:47,785 --> 00:04:49,981
+- It's a great idea.
+- Hey, Mr. Isomura.
+
+65
+00:04:51,568 --> 00:04:53,196
+If you like her, give me a signal.
+
+66
+00:04:53,648 --> 00:04:55,480
+Okay, I'll rub my nose.
+
+67
+00:04:58,696 --> 00:05:00,255
+Here you go.
+
+68
+00:05:03,568 --> 00:05:04,797
+Where did he go?
+
+69
+00:05:06,704 --> 00:05:09,868
+- What's all this about signals?
+- We were just talking baseball.
+
+70
+00:05:12,010 --> 00:05:13,308
+Right over here.
+
+71
+00:05:15,413 --> 00:05:17,644
+- Welcome.
+- Sorry to keep you waiting.
+
+72
+00:05:17,882 --> 00:05:19,612
+Please have a seat.
+
+73
+00:05:25,290 --> 00:05:26,383
+Would you like anything?
+
+74
+00:05:27,058 --> 00:05:28,549
+I'm fine, thank you.
+
+75
+00:05:30,295 --> 00:05:33,197
+- Maybe later.
+- Enjoy your stay.
+
+76
+00:05:37,101 --> 00:05:39,400
+Thanks for coming out here tonight.
+
+77
+00:05:40,071 --> 00:05:43,564
+Not at all.
+What did you wish to discuss?
+
+78
+00:05:44,542 --> 00:05:48,172
+Well, I haven't seen you in ages, and
+the anniversary of Mother's death is soon.
+
+79
+00:05:48,413 --> 00:05:51,645
+I just wanted to catch up.
+Hello there.
+
+80
+00:05:56,554 --> 00:05:59,353
+- Hello, Kitagawa.
+- It's been awhile.
+
+81
+00:06:01,426 --> 00:06:03,088
+Yeah, not since Rokko.
+
+82
+00:06:04,796 --> 00:06:07,129
+Please, have a seat. Please.
+
+83
+00:06:08,866 --> 00:06:10,232
+Just for a little while, then.
+
+84
+00:06:13,571 --> 00:06:15,597
+- Who's this?
+- She's from my wife's family.
+
+85
+00:06:15,807 --> 00:06:17,400
+- The Kohayagawas.
+- I see.
+
+86
+00:06:17,675 --> 00:06:20,440
+I've heard about your family.
+From around Midosuji right?
+
+87
+00:06:22,247 --> 00:06:24,614
+I work at my friend's art gallery.
+
+88
+00:06:24,983 --> 00:06:27,418
+I see. That's great.
+
+89
+00:06:28,620 --> 00:06:30,589
+Here's my card.
+
+90
+00:06:30,888 --> 00:06:33,687
+I run a small steel mill
+over by Sakaigawa.
+
+91
+00:06:34,493 --> 00:06:36,587
+Mr. Isomura has always helped me out.
+
+92
+00:06:38,164 --> 00:06:39,530
+It's very nice to meet you.
+
+93
+00:06:46,439 --> 00:06:49,307
+Your job seems very elegant.
+
+94
+00:06:51,244 --> 00:06:52,687
+I suppose so....
+
+95
+00:06:54,413 --> 00:06:56,712
+Do you have any paintings of
+oxen at your gallery?
+
+96
+00:06:58,017 --> 00:07:00,612
+- Sorry?
+- You know, cows.
+
+97
+00:07:01,420 --> 00:07:05,357
+I collect cow related things.
+You see, I was born in the year of the ox.
+
+98
+00:07:06,492 --> 00:07:07,687
+This is a cow too.
+
+99
+00:07:08,961 --> 00:07:12,159
+If you had a cow painting lying around,
+I'd love to take a look at it.
+
+100
+00:07:13,065 --> 00:07:16,661
+A Japanese painting?
+Or perhaps a different style?
+
+101
+00:07:17,903 --> 00:07:20,600
+What do you think?
+Should I leave it up to her?
+
+102
+00:07:20,840 --> 00:07:23,605
+- Good idea.
+- I'll leave it up to you.
+
+103
+00:07:24,543 --> 00:07:26,011
+I'll look for one.
+
+104
+00:07:27,680 --> 00:07:30,047
+I think that Noriko may be visiting today.
+
+105
+00:07:30,616 --> 00:07:32,744
+Please excuse me while I use the phone.
+
+106
+00:07:37,757 --> 00:07:39,020
+Is there a phone?
+
+107
+00:07:44,897 --> 00:07:47,890
+- What do you think?
+- Looks good. Very good.
+
+108
+00:07:48,134 --> 00:07:50,365
+- Wonderful.
+- She's great.
+
+109
+00:07:51,304 --> 00:07:54,138
+You do know my tastes.
+She's the right age too.
+
+110
+00:07:55,875 --> 00:07:58,242
+- Hey, I'm counting on you.
+- Oh?
+
+111
+00:07:58,911 --> 00:08:02,279
+We should grab dinner.
+First, let's have a drink. Hey.
+
+112
+00:08:03,082 --> 00:08:05,984
+Gin fizz sounds good right?
+Three gin fizzes.
+
+113
+00:08:10,756 --> 00:08:15,023
+- This is great. This is better than great.
+- Glad to hear it.
+
+114
+00:08:18,364 --> 00:08:20,924
+This calls for a celebration. A toast.
+
+115
+00:08:40,519 --> 00:08:41,987
+I'm home.
+
+116
+00:08:43,222 --> 00:08:45,418
+- Welcome back.
+- Hi.
+
+117
+00:08:46,492 --> 00:08:48,427
+I'm sorry I kept you waiting.
+
+118
+00:08:51,831 --> 00:08:54,699
+I was invited out,
+but I declined and hurried home.
+
+119
+00:08:59,105 --> 00:09:01,836
+Does this look correct?
+Try again.
+
+120
+00:09:02,441 --> 00:09:05,570
+This goes here, right?
+So this won't work this way.
+
+121
+00:09:08,080 --> 00:09:09,275
+Think it over.
+
+122
+00:09:13,786 --> 00:09:15,755
+What did you want to discuss?
+
+123
+00:09:17,223 --> 00:09:18,851
+Well?
+
+124
+00:09:25,164 --> 00:09:28,396
+I was told to meet with
+a prospective husband again.
+
+125
+00:09:29,101 --> 00:09:31,570
+Again? You're so popular.
+
+126
+00:09:33,072 --> 00:09:36,338
+Not like that one. This one is serious.
+
+127
+00:09:36,976 --> 00:09:38,877
+Even Fumiko is encouraging me.
+
+128
+00:09:40,613 --> 00:09:41,581
+What's he like?
+
+129
+00:09:42,014 --> 00:09:44,176
+His father is the president of a bank...
+
+130
+00:09:44,884 --> 00:09:47,581
+...but he works for a beer company.
+
+131
+00:09:47,787 --> 00:09:49,756
+Sounds good.
+
+132
+00:09:51,724 --> 00:09:56,662
+- It's not that easy. I'm stuck.
+- What do you mean?
+
+133
+00:09:59,231 --> 00:10:01,530
+I don't really want to get married yet.
+
+134
+00:10:02,368 --> 00:10:04,769
+You'll have to eventually though.
+
+135
+00:10:05,438 --> 00:10:09,307
+- Why don't you meet him, at least?
+- But....
+
+136
+00:10:10,242 --> 00:10:11,938
+If you don't like him, just say no.
+
+137
+00:10:12,845 --> 00:10:17,078
+Neither Father nor Fumiko will force you
+into something that you don't want to do.
+
+138
+00:10:17,850 --> 00:10:19,716
+- You think so?
+- Of course.
+
+139
+00:10:21,654 --> 00:10:24,317
+The thing is,
+the store isn't doing so well...
+
+140
+00:10:25,024 --> 00:10:27,050
+...so Father really wants me to marry him.
+
+141
+00:10:28,127 --> 00:10:29,652
+I understand.
+
+142
+00:10:33,399 --> 00:10:35,197
+I have to go.
+
+143
+00:10:35,601 --> 00:10:37,763
+Is it that late?
+If you hurry you can...
+
+144
+00:10:38,571 --> 00:10:40,904
+...catch the train that
+leaves at 16 past the hour.
+
+145
+00:10:42,775 --> 00:10:44,835
+I'll come again some other time.
+
+146
+00:10:46,345 --> 00:10:48,405
+Thanks for talking to me, Noriko.
+
+147
+00:10:49,081 --> 00:10:50,208
+You're welcome, anytime.
+
+148
+00:10:51,250 --> 00:10:52,411
+Oh, I bought some sweets.
+
+149
+00:10:52,885 --> 00:10:54,581
+I'll have some the next time I visit.
+
+150
+00:10:57,656 --> 00:11:00,319
+- See you later, Minoru.
+- Goodbye.
+
+151
+00:11:04,463 --> 00:11:05,726
+You should hurry.
+
+152
+00:11:07,132 --> 00:11:08,430
+I'll see you later.
+
+153
+00:11:09,768 --> 00:11:11,600
+Take care.
+
+154
+00:11:12,671 --> 00:11:14,230
+Bye.
+
+155
+00:11:42,835 --> 00:11:46,931
+I heard that Okaden is going to
+merge with Katsura Masamune.
+
+156
+00:11:47,640 --> 00:11:50,576
+Oh? I heard that rumor.
+
+157
+00:11:51,744 --> 00:11:53,042
+Who'd you hear the news from?
+
+158
+00:11:53,779 --> 00:11:54,974
+Do you know Kaneko?
+
+159
+00:11:55,614 --> 00:11:57,845
+- From Katsura Masamune.
+- Yeah, I know him.
+
+160
+00:11:58,450 --> 00:12:00,578
+I ran into him yesterday,
+and he mentioned it.
+
+161
+00:12:01,120 --> 00:12:03,851
+So I got him drunk to get some details.
+
+162
+00:12:07,293 --> 00:12:09,592
+Hello? Yes, he's here.
+
+163
+00:12:10,396 --> 00:12:11,762
+It's your wife, sir.
+
+164
+00:12:18,221 --> 00:12:20,349
+- Any response from Mr. Yamayoshi?
+- Not yet.
+
+165
+00:12:22,007 --> 00:12:23,976
+Hello? Hello?
+
+166
+00:12:24,910 --> 00:12:27,470
+Yeah, it's me.
+What do you need?
+
+167
+00:12:28,013 --> 00:12:30,312
+My uncle from Osaka just arrived.
+
+168
+00:12:32,284 --> 00:12:34,412
+If you have some time,
+I wanted you to stop by.
+
+169
+00:12:35,754 --> 00:12:36,813
+Okay, see you then.
+
+170
+00:12:46,165 --> 00:12:48,361
+- He said he'll be right over.
+- I see.
+
+171
+00:12:50,102 --> 00:12:52,128
+So, how do they feel about the situation?
+
+172
+00:12:52,805 --> 00:12:54,797
+He met her 2 or 3 days ago.
+
+173
+00:12:55,240 --> 00:12:57,266
+- Seemed very interested.
+- I see.
+
+174
+00:12:58,077 --> 00:12:59,477
+What has Akiko said?
+
+175
+00:13:01,981 --> 00:13:05,611
+Well, I haven't explained it to Akiko yet.
+
+176
+00:13:07,419 --> 00:13:10,218
+So Akiko met her prospective
+husband without even knowing it?
+
+177
+00:13:10,856 --> 00:13:14,020
+- That's right.
+- That's not going to work.
+
+178
+00:13:14,827 --> 00:13:17,695
+Do you think Akiko will like him?
+
+179
+00:13:18,797 --> 00:13:20,663
+I think it's a pretty good match.
+
+180
+00:13:21,834 --> 00:13:22,927
+What do you think?
+
+181
+00:13:24,803 --> 00:13:27,204
+Hopefully she'll find him attractive.
+
+182
+00:13:28,207 --> 00:13:31,234
+Thing is, he's not a scholar like Koichi.
+
+183
+00:13:31,977 --> 00:13:33,707
+I'm worried about that.
+
+184
+00:13:34,680 --> 00:13:35,807
+He runs a steel mill.
+
+185
+00:13:36,315 --> 00:13:38,409
+That might not bother her too much.
+
+186
+00:13:39,151 --> 00:13:40,642
+Agreed.
+
+187
+00:13:41,120 --> 00:13:42,520
+That's for her to decide.
+
+188
+00:13:45,024 --> 00:13:46,617
+He's home.
+
+189
+00:13:49,862 --> 00:13:50,955
+Welcome.
+
+190
+00:13:54,366 --> 00:13:56,835
+- It's good to see you again.
+- Good to see you.
+
+191
+00:13:57,469 --> 00:13:58,437
+It's been awhile.
+
+192
+00:13:58,671 --> 00:14:01,436
+Yanosuke has a
+prospective husband for Akiko.
+
+193
+00:14:01,807 --> 00:14:05,835
+- I see.
+- I think it's a good opportunity.
+
+194
+00:14:07,513 --> 00:14:09,106
+I see.
+
+195
+00:14:09,715 --> 00:14:11,616
+We've also got Noriko to deal with.
+
+196
+00:14:12,484 --> 00:14:15,147
+If they both got married,
+it would be ideal.
+
+197
+00:14:15,988 --> 00:14:16,956
+Indeed.
+
+198
+00:14:18,290 --> 00:14:22,352
+- See how Akiko feels about this.
+- And you, Father?
+
+199
+00:14:23,829 --> 00:14:25,661
+Well, I'll certainly encourage her...
+
+200
+00:14:26,498 --> 00:14:27,625
+...but do talk to her.
+
+201
+00:14:28,233 --> 00:14:31,294
+- Where are you off to?
+- I forgot an errand.
+
+202
+00:14:31,570 --> 00:14:33,436
+If you're going out, I'll tag along.
+
+203
+00:14:33,672 --> 00:14:36,369
+Don't bother. Relax and stay awhile.
+
+204
+00:14:40,612 --> 00:14:42,240
+I guess he's busy too.
+
+205
+00:14:42,981 --> 00:14:46,110
+I don't know what he's up to,
+but he's been going out often lately.
+
+206
+00:14:46,552 --> 00:14:49,283
+I see. It's good to see him
+up and about.
+
+207
+00:14:49,988 --> 00:14:52,548
+Did Noriko decide
+to meet with her suitor?
+
+208
+00:14:52,958 --> 00:14:54,483
+Yes, over at the New Osaka Hotel.
+
+209
+00:14:56,061 --> 00:14:58,394
+That's good news. I'm glad to hear it.
+
+210
+00:15:01,333 --> 00:15:02,767
+It's going to be a scorcher.
+
+211
+00:15:18,217 --> 00:15:21,449
+Yes. Yes. Where?
+
+212
+00:15:24,857 --> 00:15:27,952
+From six, right? I'll go.
+I'll invite her too.
+
+213
+00:15:41,423 --> 00:15:43,415
+Are you free tonight?
+
+214
+00:15:44,026 --> 00:15:45,756
+I am. Why?
+
+215
+00:15:46,695 --> 00:15:50,257
+Mr. Teramoto is leaving
+in the next 2 or 3 days.
+
+216
+00:15:52,034 --> 00:15:56,836
+- For Sapporo?
+- Yeah, so everyone's going out tonight.
+
+217
+00:15:57,673 --> 00:15:59,869
+I see. So it's finalized now.
+
+218
+00:16:04,613 --> 00:16:06,343
+I see.
+
+219
+00:16:11,153 --> 00:16:12,451
+So he's leaving....
+
+220
+00:16:51,160 --> 00:16:52,890
+Cheers.
+
+221
+00:16:54,730 --> 00:16:56,699
+- To your health.
+- And happiness.
+
+222
+00:16:57,700 --> 00:16:59,464
+Thank you, everybody.
+
+223
+00:17:05,874 --> 00:17:08,469
+- So you're really going, eh?
+- Do you get a raise?
+
+224
+00:17:09,478 --> 00:17:10,605
+Nothing big.
+
+225
+00:17:11,113 --> 00:17:13,673
+You'd be surprised how little
+teaching assistants make.
+
+226
+00:17:13,949 --> 00:17:16,214
+But you could become an
+assistant professor.
+
+227
+00:17:16,819 --> 00:17:18,117
+Not much better.
+
+228
+00:17:18,921 --> 00:17:21,891
+Anyway, you should all
+come up to ski sometime.
+
+229
+00:17:23,058 --> 00:17:25,618
+I want to, but the train fare
+to Sapporo is so expensive.
+
+230
+00:17:27,196 --> 00:17:29,995
+In honor of you, we'll at
+least make it to Mount Ibuki.
+
+231
+00:17:31,300 --> 00:17:32,700
+<i>How can I say it?</i>
+
+232
+00:17:33,068 --> 00:17:34,730
+<i>You do not know</i>
+<i>How my love for you burns within me</i>
+
+233
+00:17:34,937 --> 00:17:36,906
+<i>Like the blazes of wormwood on Ibuki</i>
+
+234
+00:17:38,641 --> 00:17:40,803
+Are you flirting with us now?
+
+235
+00:18:43,572 --> 00:18:44,938
+That was fun.
+
+236
+00:18:45,908 --> 00:18:48,434
+Hanging out with everybody
+makes it hard to leave.
+
+237
+00:18:50,612 --> 00:18:52,638
+How long are you going to be gone?
+
+238
+00:18:54,083 --> 00:18:57,850
+They told me 4 or 5 years,
+but who knows.
+
+239
+00:18:58,854 --> 00:19:01,085
+If you can, you should
+come visit me sometime.
+
+240
+00:19:03,959 --> 00:19:05,552
+I'm serious.
+
+241
+00:19:07,696 --> 00:19:10,461
+Tonight was fun. It made me happy.
+
+242
+00:19:11,667 --> 00:19:13,363
+I'll write you some letters.
+
+243
+00:19:14,103 --> 00:19:15,264
+I hope you'll do the same.
+
+244
+00:19:16,105 --> 00:19:18,438
+- I will.
+- I'm serious.
+
+245
+00:19:20,409 --> 00:19:21,707
+What a fun night.
+
+246
+00:19:22,611 --> 00:19:23,909
+I don't want to leave.
+
+247
+00:19:57,146 --> 00:19:58,739
+<i>Add these up.</i>
+
+248
+00:20:16,064 --> 00:20:17,999
+The total is 33,455 yen.
+
+249
+00:20:19,401 --> 00:20:21,563
+- And you?
+- The same.
+
+250
+00:20:21,804 --> 00:20:24,865
+- How much?
+- 33,455 yen.
+
+251
+00:20:26,175 --> 00:20:28,940
+33,455 yen.
+
+252
+00:20:30,145 --> 00:20:32,341
+It's even worse than I thought.
+
+253
+00:20:33,115 --> 00:20:37,177
+There's nothing we can do. Smaller
+companies can't compete these days.
+
+254
+00:20:37,686 --> 00:20:40,087
+- You think?
+- Let me see the sales slip.
+
+255
+00:20:40,289 --> 00:20:42,190
+- This one?
+- No, the earlier one.
+
+256
+00:20:46,428 --> 00:20:47,487
+This is the one.
+
+257
+00:20:56,405 --> 00:20:58,965
+How's it going? Mighty hot today.
+
+258
+00:21:02,077 --> 00:21:03,511
+Where is Hisao?
+
+259
+00:21:03,946 --> 00:21:05,574
+He left a minute ago.
+
+260
+00:21:05,914 --> 00:21:06,882
+Know where he went?
+
+261
+00:21:07,382 --> 00:21:10,978
+- To Katsura Masamune.
+- I see. I'll go over there too.
+
+262
+00:21:13,922 --> 00:21:15,185
+Take care.
+
+263
+00:21:22,698 --> 00:21:24,667
+He's been going out a lot lately.
+
+264
+00:21:25,634 --> 00:21:27,933
+He does leave often.
+One wonders where he goes.
+
+265
+00:21:29,304 --> 00:21:30,738
+Hey, listen.
+
+266
+00:21:45,721 --> 00:21:49,453
+You know how he's been
+going out? I think it's a bit fishy.
+
+267
+00:21:49,858 --> 00:21:53,260
+His family is worried about him too.
+So I want you to go....
+
+268
+00:21:53,695 --> 00:21:56,164
+- To his home?
+- No, no. Just follow him.
+
+269
+00:21:56,765 --> 00:21:59,826
+- Right now?
+- Yes, I want you to see where he goes.
+
+270
+00:23:45,273 --> 00:23:48,710
+- Hey, Roku!
+- Hello.
+
+271
+00:23:48,910 --> 00:23:51,072
+Where are you off to?
+Come join me for a minute.
+
+272
+00:24:03,058 --> 00:24:05,926
+Have a seat. Sit.
+
+273
+00:24:06,261 --> 00:24:08,162
+Thank you.
+Excuse me.
+
+274
+00:24:11,767 --> 00:24:13,668
+You want anything?
+
+275
+00:24:15,070 --> 00:24:17,699
+- Anything's fine.
+<i>- Shiratama</i> sound good?
+
+276
+00:24:18,874 --> 00:24:20,103
+Sounds great.
+
+277
+00:24:21,476 --> 00:24:23,638
+Add a <i>shiratama</i> to my order.
+
+278
+00:24:25,480 --> 00:24:28,575
+Quite a coincidence, running into you.
+
+279
+00:24:30,552 --> 00:24:32,077
+I'm out collecting some debts.
+
+280
+00:24:32,788 --> 00:24:35,348
+I see. A hard worker.
+
+281
+00:24:39,795 --> 00:24:41,263
+It's hot today.
+
+282
+00:24:42,130 --> 00:24:45,191
+Yes, the summer refuses to end.
+
+283
+00:24:48,303 --> 00:24:49,862
+Where are you headed?
+
+284
+00:24:50,806 --> 00:24:52,399
+Who are you collecting from today?
+
+285
+00:24:53,642 --> 00:24:55,474
+Oh, here and there....
+
+286
+00:24:57,546 --> 00:24:58,980
+Hey....
+
+287
+00:24:59,714 --> 00:25:02,206
+- Do you have any cigarettes?
+- Yes.
+
+288
+00:25:02,451 --> 00:25:04,283
+- Let me have one.
+- Please.
+
+289
+00:25:07,022 --> 00:25:08,388
+"Peace," huh?
+
+290
+00:25:09,424 --> 00:25:10,949
+You're smoking the good stuff.
+
+291
+00:25:12,360 --> 00:25:13,794
+Sorry.
+
+292
+00:25:14,162 --> 00:25:15,721
+Listen....
+
+293
+00:25:18,066 --> 00:25:20,592
+- I already know.
+- What do you mean?
+
+294
+00:25:21,036 --> 00:25:22,504
+Don't worry.
+
+295
+00:25:23,171 --> 00:25:24,696
+Hey....
+
+296
+00:25:26,274 --> 00:25:27,606
+Hisao sent you, didn't he?
+
+297
+00:25:28,043 --> 00:25:31,309
+No, sir, not at all.
+That's not the case at all.
+
+298
+00:25:31,713 --> 00:25:33,272
+I see.
+
+299
+00:25:34,483 --> 00:25:35,883
+So who asked you to do it?
+
+300
+00:25:37,419 --> 00:25:38,819
+The debts.
+
+301
+00:25:39,154 --> 00:25:42,784
+Oh, the debts. I'm never told to do it.
+I just get up and go.
+
+302
+00:25:43,959 --> 00:25:46,155
+I see. That's very impressive.
+
+303
+00:25:47,062 --> 00:25:48,621
+Hey, is that <i>shiratama</i> ready yet?
+
+304
+00:25:49,064 --> 00:25:52,228
+He's busy. He has to collect debts all day.
+
+305
+00:25:52,501 --> 00:25:55,403
+- Hurry, will you?
+- Coming right up, sir.
+
+306
+00:26:00,408 --> 00:26:02,309
+You really are a hard worker, Roku.
+
+307
+00:26:31,673 --> 00:26:33,232
+Anybody home?
+
+308
+00:26:38,880 --> 00:26:40,143
+Hello there.
+
+309
+00:26:40,582 --> 00:26:43,984
+How good of you to visit, despite the heat.
+Please, come in.
+
+310
+00:26:45,554 --> 00:26:46,817
+Don't mind if I do.
+
+311
+00:26:47,789 --> 00:26:49,018
+By all means.
+
+312
+00:26:55,730 --> 00:26:58,359
+- It's so hot this year.
+- I'll say.
+
+313
+00:27:01,603 --> 00:27:03,435
+Is the store busy these days?
+
+314
+00:27:04,072 --> 00:27:06,667
+Actually, this is the slowest time of year.
+
+315
+00:27:07,576 --> 00:27:10,045
+Sake shops can't make
+money without new rice crops.
+
+316
+00:27:15,650 --> 00:27:18,552
+- Something funny happened just now.
+- What's that?
+
+317
+00:27:20,422 --> 00:27:22,789
+Our store manager was following me.
+
+318
+00:27:24,292 --> 00:27:28,559
+- Why?
+- I've been coming here recently, right?
+
+319
+00:27:29,664 --> 00:27:31,394
+My family's worried about me.
+
+320
+00:27:38,406 --> 00:27:39,999
+So, just now...
+
+321
+00:27:40,375 --> 00:27:42,674
+...I pulled the manager into a nearby cafe.
+
+322
+00:27:43,278 --> 00:27:46,077
+He had "Peace" cigarettes
+on him, so I took one...
+
+323
+00:27:46,648 --> 00:27:48,378
+...but he was so nervous...
+
+324
+00:27:48,583 --> 00:27:51,075
+...that he ended up paying for
+the <i>shiratama</i> I got him.
+
+325
+00:27:52,487 --> 00:27:54,547
+Is that so? Good for you.
+
+326
+00:28:01,229 --> 00:28:04,358
+- Did you want sugar in your barley tea?
+- Don't worry about it.
+
+327
+00:28:16,478 --> 00:28:19,346
+- Strange, isn't it?
+- What is?
+
+328
+00:28:19,914 --> 00:28:23,715
+If I hadn't taken that exact train
+on that day in Mukoumachi...
+
+329
+00:28:23,918 --> 00:28:25,284
+...I wouldn't have seen you.
+
+330
+00:28:25,887 --> 00:28:29,153
+It's true. That's destiny for you.
+
+331
+00:28:30,125 --> 00:28:33,152
+Yes, destiny is a strange thing.
+
+332
+00:28:33,728 --> 00:28:37,688
+- It's been 19 years.
+- And of all places.
+
+333
+00:28:38,533 --> 00:28:40,434
+We've both changed so much.
+
+334
+00:28:41,136 --> 00:28:43,162
+On the way home from
+a bicycle race, no less.
+
+335
+00:28:46,107 --> 00:28:47,939
+Like life and the flow of water....
+
+336
+00:28:48,143 --> 00:28:51,705
+Indeed. The world has changed
+so much around us.
+
+337
+00:28:51,980 --> 00:28:55,007
+- It's not much of a world anymore.
+- I miss the old days.
+
+338
+00:28:55,684 --> 00:28:59,348
+- Remember the cafe at Uji?
+- Yes. Hanayashiki.
+
+339
+00:29:00,455 --> 00:29:01,616
+We used to go there often.
+
+340
+00:29:02,357 --> 00:29:06,658
+It was such fun to have you
+take me out on long vacations.
+
+341
+00:29:09,264 --> 00:29:10,698
+Yes, going to see the snow...
+
+342
+00:29:11,800 --> 00:29:13,098
+...chasing fireflies....
+
+343
+00:29:14,402 --> 00:29:16,962
+Do you remember that night,
+when the moon was beautiful?
+
+344
+00:29:18,106 --> 00:29:19,438
+How could I forget?
+
+345
+00:29:19,741 --> 00:29:21,972
+It's the night
+you turned me into a woman.
+
+346
+00:29:22,844 --> 00:29:25,905
+- We've known each other forever.
+- Indeed.
+
+347
+00:29:27,215 --> 00:29:29,582
+Yuriko is going to turn 21.
+
+348
+00:29:29,951 --> 00:29:31,078
+How times flies.
+
+349
+00:29:31,720 --> 00:29:34,019
+We should go visit Uji again.
+Just the two of us.
+
+350
+00:29:34,222 --> 00:29:36,248
+Sounds good. I'd be delighted.
+
+351
+00:29:37,158 --> 00:29:38,956
+- Care for some sake?
+- Sounds good.
+
+352
+00:30:07,088 --> 00:30:09,387
+- I'm home.
+- Welcome back.
+
+353
+00:30:11,326 --> 00:30:12,487
+Your father is here.
+
+354
+00:30:13,762 --> 00:30:15,196
+Oh yeah?
+
+355
+00:30:25,168 --> 00:30:26,966
+Welcome back.
+
+356
+00:30:28,605 --> 00:30:30,972
+Hi, Father. When did you get here?
+
+357
+00:30:31,441 --> 00:30:33,034
+Have a seat.
+
+358
+00:30:33,576 --> 00:30:37,672
+I have to leave again. I forgot something.
+But stay awhile.
+
+359
+00:30:38,148 --> 00:30:40,117
+You're going out again?
+
+360
+00:30:40,750 --> 00:30:42,616
+Yep. I'll see you later. Bye.
+
+361
+00:30:43,953 --> 00:30:45,319
+Bye.
+
+362
+00:30:50,460 --> 00:30:53,828
+Father, when are you going to get me
+that mink stole you promised me?
+
+363
+00:30:54,297 --> 00:30:57,096
+Oh, that thing?
+It's still too hot for a scarf.
+
+364
+00:30:57,867 --> 00:30:59,859
+Well if I don't start asking now....
+
+365
+00:31:00,303 --> 00:31:01,931
+Oh I know, I know.
+
+366
+00:31:07,443 --> 00:31:08,775
+That girl is full of energy.
+
+367
+00:31:36,206 --> 00:31:39,040
+Oh, hello.
+Nice to see you.
+
+368
+00:31:41,010 --> 00:31:42,569
+Good afternoon.
+
+369
+00:31:43,613 --> 00:31:45,741
+Yuriko, George is waiting for you.
+
+370
+00:31:47,584 --> 00:31:49,314
+Hurry up now.
+
+371
+00:31:54,724 --> 00:31:56,215
+I'm going, Mother.
+
+372
+00:31:59,529 --> 00:32:00,622
+Don't stay out too late.
+
+373
+00:32:24,153 --> 00:32:28,557
+- Who was that?
+- An American. He works in Kobe.
+
+374
+00:32:29,525 --> 00:32:30,993
+That's who she dates?
+
+375
+00:32:32,228 --> 00:32:36,495
+She's a typist. Sometimes she
+brings home strange things.
+
+376
+00:32:37,033 --> 00:32:39,559
+I see. It's not a big deal?
+
+377
+00:32:42,238 --> 00:32:45,538
+Things are different from
+when we were young.
+
+378
+00:32:45,842 --> 00:32:47,743
+These days, kids take care of themselves.
+
+379
+00:32:48,278 --> 00:32:50,873
+Try one of these black things.
+
+380
+00:32:52,181 --> 00:32:54,741
+- What is it?
+- Yuriko brought it home.
+
+381
+00:32:55,518 --> 00:32:57,146
+She said they're shark eggs.
+
+382
+00:33:01,057 --> 00:33:02,320
+Shark eggs, huh?
+
+383
+00:33:03,493 --> 00:33:05,257
+Pretty small for a shark.
+
+384
+00:33:05,528 --> 00:33:06,621
+I think so too.
+
+385
+00:33:07,030 --> 00:33:10,159
+Take those home, if you like.
+We have plenty more.
+
+386
+00:33:10,633 --> 00:33:12,067
+Thanks.
+
+387
+00:33:15,972 --> 00:33:17,440
+Tastes good.
+
+388
+00:33:20,076 --> 00:33:21,271
+Let's have a drink.
+
+389
+00:33:21,477 --> 00:33:22,604
+Thank you.
+
+390
+00:33:52,208 --> 00:33:53,574
+So what did you do?
+
+391
+00:33:53,976 --> 00:33:55,103
+Not to worry.
+
+392
+00:33:55,812 --> 00:33:58,611
+He thought he had lost me,
+but I followed him the whole time.
+
+393
+00:33:58,915 --> 00:34:00,144
+Where did he go?
+
+394
+00:34:00,450 --> 00:34:02,919
+It looked like an inn.
+The lanterns said "Sasaki."
+
+395
+00:34:03,119 --> 00:34:04,678
+- Sasaki?
+- You know them?
+
+396
+00:34:04,887 --> 00:34:07,288
+Continue your story.
+What was the woman like?
+
+397
+00:34:07,690 --> 00:34:11,024
+She was slender, maybe
+in her early forties.
+
+398
+00:34:11,961 --> 00:34:14,123
+A bit older, no? 47 or 48.
+
+399
+00:34:14,731 --> 00:34:16,222
+- You know her?
+- Never mind.
+
+400
+00:34:18,067 --> 00:34:21,231
+I hoped their relationship would be
+another casualty of the war.
+
+401
+00:34:21,604 --> 00:34:22,572
+Tell me more.
+
+402
+00:34:23,005 --> 00:34:26,498
+Mr. Yamaguchi.... Did he have a
+daughter with that woman?
+
+403
+00:34:26,709 --> 00:34:28,701
+- A daughter?
+- Twenty-one years old, very pretty.
+
+404
+00:34:28,911 --> 00:34:31,608
+- No.
+- But she was calling him "Father."
+
+405
+00:34:32,181 --> 00:34:35,151
+He's the only one who believes
+that she is his daughter.
+
+406
+00:34:35,451 --> 00:34:36,419
+Anything else?
+
+407
+00:34:36,619 --> 00:34:40,989
+I heard a <i>shamisen</i> playing for about 30
+minutes, accompanied by his singing.
+
+408
+00:34:41,457 --> 00:34:43,153
+He was singing a <i>nagauta.</i>
+
+409
+00:34:43,526 --> 00:34:46,018
+No, no. That's a <i>hauta</i>, not a <i>nagauta.</i>
+
+410
+00:34:49,866 --> 00:34:51,994
+- That song, right?
+- Yes, that's the one.
+
+411
+00:34:52,301 --> 00:34:53,462
+I knew it.
+
+412
+00:34:54,270 --> 00:34:55,704
+That's all he ever sings.
+
+413
+00:34:56,239 --> 00:34:57,298
+Who is that woman?
+
+414
+00:34:57,707 --> 00:34:58,834
+- From Gion?
+- Nope.
+
+415
+00:34:59,075 --> 00:35:00,634
+- From Minami?
+- She's not a Geisha.
+
+416
+00:35:00,843 --> 00:35:02,675
+- She's an old flame.
+- An old flame?
+
+417
+00:35:04,180 --> 00:35:06,240
+Mr. Kohayagawa used to
+be a carefree man.
+
+418
+00:35:06,949 --> 00:35:09,509
+Even his parents had to
+deal with that woman.
+
+419
+00:35:10,553 --> 00:35:11,919
+I see.
+
+420
+00:35:12,121 --> 00:35:16,559
+Just when I thought things were calming
+down, we've got another headache.
+
+421
+00:35:42,685 --> 00:35:45,154
+- I'm putting your clothes here.
+<i>- Thanks.</i>
+
+422
+00:36:11,848 --> 00:36:13,407
+Welcome back.
+
+423
+00:36:15,518 --> 00:36:16,781
+What is it you need?
+
+424
+00:36:17,019 --> 00:36:18,453
+The postcard from Mr. Yamayoshi.
+
+425
+00:36:22,792 --> 00:36:23,816
+Here it is.
+
+426
+00:36:25,761 --> 00:36:27,559
+Hey, Father's at it again.
+
+427
+00:36:28,231 --> 00:36:30,894
+She supposedly lives in Kyoto.
+
+428
+00:36:32,768 --> 00:36:34,327
+Where in Kyoto?
+
+429
+00:36:34,871 --> 00:36:36,897
+- She's called Sasaki.
+- Sasaki?
+
+430
+00:36:37,273 --> 00:36:38,866
+Tsune Sasaki.
+
+431
+00:36:42,845 --> 00:36:45,405
+She's the woman that Father
+used to see in Osaka.
+
+432
+00:36:46,549 --> 00:36:48,814
+- That's the one.
+- I see.
+
+433
+00:36:49,685 --> 00:36:51,586
+I was still young back then...
+
+434
+00:36:52,021 --> 00:36:55,185
+...but I remember her bringing
+Father home late at night...
+
+435
+00:36:55,725 --> 00:36:57,489
+...and Mother crying because of it.
+
+436
+00:36:58,094 --> 00:36:59,426
+Yeah. That's her.
+
+437
+00:36:59,962 --> 00:37:01,328
+The old flame is flaring up.
+
+438
+00:37:01,864 --> 00:37:05,892
+I wish Father would act
+appropriately for his age.
+
+439
+00:37:07,703 --> 00:37:09,763
+I wonder if he even
+worries about the store.
+
+440
+00:37:12,074 --> 00:37:15,374
+Now I wish he was just wasting his
+money at the bicycle races.
+
+441
+00:37:16,712 --> 00:37:18,010
+One thing after another.
+
+442
+00:37:18,447 --> 00:37:19,574
+Unbelievable.
+
+443
+00:37:21,183 --> 00:37:24,483
+Just be sure that you don't
+interrogate Father over this.
+
+444
+00:37:25,021 --> 00:37:27,957
+- Why not?
+- Well, of course it's better to keep quiet...
+
+445
+00:37:28,157 --> 00:37:30,956
+- ...unless it comes up.
+- No, I'm going to speak to him.
+
+446
+00:37:31,193 --> 00:37:33,389
+No, no. He's an old man.
+
+447
+00:37:34,530 --> 00:37:36,692
+Well, then he should act like one.
+
+448
+00:37:37,400 --> 00:37:39,995
+You know how he is.
+
+449
+00:37:41,470 --> 00:37:43,769
+What are you saying?
+
+450
+00:37:44,407 --> 00:37:46,672
+Is that an excuse
+to do as you please?
+
+451
+00:37:47,143 --> 00:37:48,304
+That's not what I mean.
+
+452
+00:37:48,744 --> 00:37:52,203
+But at this point, Father's
+personality isn't going to change.
+
+453
+00:37:52,982 --> 00:37:54,450
+I'll yell at him until it does.
+
+454
+00:37:55,051 --> 00:37:57,213
+Don't bother. You'll just
+make a mess of things.
+
+455
+00:38:04,894 --> 00:38:06,260
+That was a good bath.
+
+456
+00:38:10,600 --> 00:38:12,660
+Hey, listen to this.
+
+457
+00:38:14,670 --> 00:38:16,502
+I was thinking while taking a bath...
+
+458
+00:38:16,706 --> 00:38:19,073
+...that for the anniversary of
+your mother's death...
+
+459
+00:38:19,275 --> 00:38:23,235
+...we should stop by her grave, and then
+have lunch over at Arashiyama.
+
+460
+00:38:23,546 --> 00:38:25,310
+We did the formal ceremony last year.
+
+461
+00:38:26,082 --> 00:38:27,983
+Yes, that sounds good.
+
+462
+00:38:28,684 --> 00:38:31,279
+Mother really liked Arashiyama.
+What do you think?
+
+463
+00:38:33,222 --> 00:38:34,713
+Arashiyama in Kyoto, right?
+
+464
+00:38:35,424 --> 00:38:36,551
+Of course it's in Kyoto.
+
+465
+00:38:37,460 --> 00:38:40,919
+Mother liked Kyoto, but you
+really seem to love it there.
+
+466
+00:38:41,731 --> 00:38:42,699
+What do you mean?
+
+467
+00:38:43,199 --> 00:38:46,636
+You seem to be going there often. Is
+something captivating your attention?
+
+468
+00:38:47,203 --> 00:38:48,603
+What?
+
+469
+00:38:51,774 --> 00:38:53,970
+- Listen--
+- Be quiet. I said be quiet!
+
+470
+00:38:56,078 --> 00:38:57,410
+Father...
+
+471
+00:38:57,613 --> 00:39:00,845
+...are you going to do the same thing
+that made Mother cry so long ago?
+
+472
+00:39:02,852 --> 00:39:05,185
+What? What do you mean?
+
+473
+00:39:05,388 --> 00:39:07,084
+I already know everything.
+
+474
+00:39:07,957 --> 00:39:08,925
+Know what?
+
+475
+00:39:09,892 --> 00:39:12,020
+Why can't we go to Arashiyama?
+
+476
+00:39:13,562 --> 00:39:15,463
+Who knows what you
+mean by "Arashiyama."
+
+477
+00:39:16,265 --> 00:39:18,757
+Hey. Hey, look at me.
+
+478
+00:39:19,869 --> 00:39:22,737
+You two suspect me of doing something?
+
+479
+00:39:23,839 --> 00:39:26,866
+- Right?
+- No, not at all.
+
+480
+00:39:29,111 --> 00:39:31,637
+Having Roku follow after me?
+
+481
+00:39:32,682 --> 00:39:35,049
+Is there something that you
+wouldn't want him to see?
+
+482
+00:39:35,584 --> 00:39:36,950
+What?
+
+483
+00:39:38,054 --> 00:39:41,513
+The reason I've been
+going to Kyoto often...
+
+484
+00:39:42,425 --> 00:39:46,624
+...is to discuss the store's affairs
+with an old friend of mine.
+
+485
+00:39:46,996 --> 00:39:47,964
+Watch what you say.
+
+486
+00:39:48,631 --> 00:39:50,429
+Who's this old friend?
+Give me a name.
+
+487
+00:39:50,966 --> 00:39:53,458
+Let me guess. Is it Sasaki?
+
+488
+00:39:54,470 --> 00:39:56,803
+No. It's Yamada.
+
+489
+00:39:58,140 --> 00:40:00,609
+- You know.
+- Never heard of him.
+
+490
+00:40:01,110 --> 00:40:02,339
+That's your problem.
+
+491
+00:40:03,779 --> 00:40:08,183
+I've asked him for various favors
+concerning the store.
+
+492
+00:40:09,285 --> 00:40:11,254
+Since you can't seem to keep it in order.
+
+493
+00:40:12,288 --> 00:40:13,950
+- Well, then....
+- That's enough.
+
+494
+00:40:14,156 --> 00:40:15,488
+No, it's not. Be quiet.
+
+495
+00:40:16,125 --> 00:40:17,616
+- Tell me, Father....
+- What?
+
+496
+00:40:17,827 --> 00:40:19,955
+Are you really worried about the store?
+
+497
+00:40:20,730 --> 00:40:22,596
+- Of course!
+- If it's that serious...
+
+498
+00:40:22,798 --> 00:40:24,494
+...why don't you go over there again?
+
+499
+00:40:25,000 --> 00:40:27,026
+- What?
+- Hurry up and get ready.
+
+500
+00:40:28,037 --> 00:40:31,974
+There's no need to go today.
+I spoke with him yesterday.
+
+501
+00:40:32,808 --> 00:40:35,243
+No, these things should be
+taken care of immediately.
+
+502
+00:40:35,511 --> 00:40:37,002
+You should leave right away.
+
+503
+00:40:38,647 --> 00:40:40,206
+Not today.
+
+504
+00:40:41,217 --> 00:40:42,549
+I've already taken my bath.
+
+505
+00:40:43,252 --> 00:40:44,720
+I'll prepare another.
+
+506
+00:41:12,648 --> 00:41:13,707
+Go ahead, Father.
+
+507
+00:41:15,818 --> 00:41:18,447
+Go and ask for his help.
+
+508
+00:41:20,456 --> 00:41:23,290
+So you guys don't believe me, huh?
+
+509
+00:41:24,326 --> 00:41:25,294
+Fine, I'll go!
+
+510
+00:41:27,263 --> 00:41:30,199
+If you're so suspicious...
+
+511
+00:41:30,666 --> 00:41:33,727
+...be sure to have Roku follow me!
+Ridiculous!
+
+512
+00:41:44,513 --> 00:41:47,005
+It's sad that you can't trust your father.
+
+513
+00:41:52,221 --> 00:41:53,553
+Hey, I'm going.
+
+514
+00:41:54,190 --> 00:41:55,715
+Be sure to follow me!
+
+515
+00:41:56,659 --> 00:41:58,059
+Make sure to see where I go!
+
+516
+00:42:09,471 --> 00:42:12,373
+I'm leaving! Let's go!
+
+517
+00:42:15,911 --> 00:42:17,903
+Here I go! Watch me!
+
+518
+00:42:22,885 --> 00:42:24,945
+Fools. This is nonsense.
+
+519
+00:42:29,892 --> 00:42:32,555
+Should we let him go?
+Will he be okay?
+
+520
+00:42:32,862 --> 00:42:35,491
+He'll be fine. He didn't
+even take his wallet.
+
+521
+00:42:36,165 --> 00:42:38,396
+He'll wander around the
+block and come home.
+
+522
+00:42:38,968 --> 00:42:40,368
+You think?
+
+523
+00:42:41,270 --> 00:42:44,672
+- I hope so....
+- He needs the exercise.
+
+524
+00:43:18,507 --> 00:43:19,839
+You're in the way.
+
+525
+00:43:35,424 --> 00:43:39,555
+Mother, is that man really my father?
+
+526
+00:43:41,730 --> 00:43:44,564
+- Why do you ask?
+- I was just thinking...
+
+527
+00:43:45,367 --> 00:43:48,394
+...when I was small, wasn't
+it somebody else?
+
+528
+00:43:49,171 --> 00:43:52,869
+I feel like I called him "Father" as well.
+
+529
+00:43:53,442 --> 00:43:54,432
+Is that so?
+
+530
+00:43:56,078 --> 00:43:57,444
+Perhaps.
+
+531
+00:43:58,847 --> 00:44:01,373
+So which one is my real father?
+
+532
+00:44:02,284 --> 00:44:03,775
+Why does it matter?
+
+533
+00:44:04,987 --> 00:44:06,546
+It's up to you.
+
+534
+00:44:07,756 --> 00:44:09,315
+You don't know?
+
+535
+00:44:10,159 --> 00:44:12,993
+I mean, I guess I don't mind either one.
+
+536
+00:44:13,595 --> 00:44:15,461
+I was born and here I am.
+
+537
+00:44:16,265 --> 00:44:17,790
+That's all that matters.
+
+538
+00:44:18,701 --> 00:44:21,569
+Yes, that's right.
+Think of it that way.
+
+539
+00:44:25,808 --> 00:44:27,709
+- Hey.
+- What?
+
+540
+00:44:28,310 --> 00:44:30,973
+Is this father rich?
+
+541
+00:44:31,747 --> 00:44:34,911
+I'm sure he is. He owns a sake brewery.
+
+542
+00:44:36,151 --> 00:44:39,610
+I see. He still hasn't
+gotten me the mink stole.
+
+543
+00:44:41,223 --> 00:44:42,521
+It's in the way that you ask.
+
+544
+00:44:43,826 --> 00:44:45,158
+It's all in how you ask.
+
+545
+00:44:46,862 --> 00:44:51,732
+I see. Well he's certainly my father until
+he gets me that mink stole.
+
+546
+00:44:52,668 --> 00:44:54,500
+That sounds good.
+
+547
+00:44:58,273 --> 00:45:00,504
+I'm here. I came back.
+
+548
+00:45:04,477 --> 00:45:06,105
+Well, hello.
+
+549
+00:45:06,479 --> 00:45:07,606
+Hi, Father.
+
+550
+00:45:09,349 --> 00:45:10,339
+Cleaning the floors?
+
+551
+00:45:11,818 --> 00:45:13,013
+Staying at home today, eh?
+
+552
+00:45:16,356 --> 00:45:19,326
+Here, let me do that.
+I'm part of the family, after all.
+
+553
+00:45:23,263 --> 00:45:26,529
+Father, you have to take off your
+<i>tabi</i> if you're going to do that.
+
+554
+00:45:27,233 --> 00:45:29,896
+You're right. Very observant.
+
+555
+00:45:31,371 --> 00:45:35,502
+I forgot my wallet at home, so I
+was wandering around broke.
+
+556
+00:45:36,009 --> 00:45:39,207
+The cigarette shop lent me 1,000 yen.
+
+557
+00:45:39,646 --> 00:45:40,944
+I'll get you some <i>shiratama.</i>
+
+558
+00:45:41,514 --> 00:45:43,244
+I don't want any <i>shiratama.</i>
+
+559
+00:45:43,716 --> 00:45:44,684
+Father...
+
+560
+00:45:45,585 --> 00:45:47,213
+...won't you buy me that mink stole?
+
+561
+00:45:47,921 --> 00:45:48,945
+I'll get it for you.
+
+562
+00:46:06,806 --> 00:46:08,738
+You're good at that, Father.
+
+563
+00:47:30,356 --> 00:47:31,380
+Hello.
+
+564
+00:47:32,759 --> 00:47:34,955
+Good to see you.
+
+565
+00:47:35,662 --> 00:47:37,631
+I'm sorry about the other night.
+
+566
+00:47:37,830 --> 00:47:40,129
+Don't worry about it.
+
+567
+00:47:42,769 --> 00:47:46,672
+Were you able to find
+any ox paintings?
+
+568
+00:47:46,873 --> 00:47:48,273
+I'm still trying....
+
+569
+00:47:48,741 --> 00:47:51,074
+He's quite amusing, isn't he?
+
+570
+00:47:54,047 --> 00:47:56,073
+He's an interesting fellow.
+
+571
+00:47:59,085 --> 00:48:00,610
+Did Fumiko speak with you?
+
+572
+00:48:03,156 --> 00:48:05,284
+I see. What do you think?
+
+573
+00:48:07,126 --> 00:48:12,463
+It's very sudden.
+I would like some time to think it over.
+
+574
+00:48:12,665 --> 00:48:17,433
+Yes, certainly. Please do.
+
+575
+00:48:17,637 --> 00:48:20,664
+Your father is very worried about you.
+
+576
+00:48:21,074 --> 00:48:23,305
+I'm sorry to trouble everyone.
+
+577
+00:48:23,643 --> 00:48:25,305
+Not at all.
+
+578
+00:48:26,012 --> 00:48:29,449
+Would you like to meet with him again?
+
+579
+00:48:29,849 --> 00:48:33,945
+He would really like to.
+What do you think?
+
+580
+00:48:34,287 --> 00:48:39,453
+He was disheartened
+after you left early the other day.
+
+581
+00:48:48,334 --> 00:48:51,498
+I hear that you're going to Arashiyama
+for Mother's memorial service.
+
+582
+00:48:53,439 --> 00:48:54,998
+Yes, that's what I heard.
+
+583
+00:48:55,208 --> 00:48:57,404
+You're going, right?
+
+584
+00:48:57,877 --> 00:49:02,110
+It should be beautiful there
+at this time of year.
+
+585
+00:49:54,534 --> 00:49:56,594
+Pass that to me.
+
+586
+00:49:59,506 --> 00:50:01,668
+- Hisao?
+- Oh, I'm fine, thank you.
+
+587
+00:50:01,875 --> 00:50:05,744
+- You don't drink much?
+- Beer fills me up rather quickly.
+
+588
+00:50:08,615 --> 00:50:13,383
+Say, brother, I'm surprised
+at how fast the moss grew.
+
+589
+00:50:14,521 --> 00:50:15,489
+The moss?
+
+590
+00:50:16,023 --> 00:50:18,356
+The gravestone was covered with moss.
+
+591
+00:50:19,092 --> 00:50:21,027
+Indeed it was.
+
+592
+00:50:21,228 --> 00:50:23,754
+They do say "until the moss grows."
+It was rather quick.
+
+593
+00:50:23,964 --> 00:50:26,160
+Time flies, doesn't it?
+
+594
+00:50:26,366 --> 00:50:31,600
+It's already been six years since
+Koichi died and Akiko became a widow.
+
+595
+00:50:34,274 --> 00:50:35,537
+Where is Akiko?
+
+596
+00:50:37,609 --> 00:50:39,413
+She went out with Noriko.
+
+597
+00:50:39,827 --> 00:50:41,377
+I see.
+
+598
+00:50:44,885 --> 00:50:46,547
+About Akiko....
+
+599
+00:50:46,753 --> 00:50:48,984
+Her suitor seems very interested.
+
+600
+00:50:49,189 --> 00:50:51,818
+He has two children.
+
+601
+00:50:52,025 --> 00:50:53,857
+A girl and a younger boy.
+
+602
+00:50:54,061 --> 00:50:56,826
+He's glad that Akiko also has a child.
+
+603
+00:50:57,197 --> 00:51:00,099
+That's good. What do you think?
+
+604
+00:51:01,301 --> 00:51:02,894
+That's good to hear.
+
+605
+00:51:03,103 --> 00:51:06,596
+The issue is how Akiko
+feels about the situation.
+
+606
+00:51:07,074 --> 00:51:10,340
+You know,
+feelings can't determine everything.
+
+607
+00:51:10,544 --> 00:51:14,311
+Akiko is still young.
+She has a future.
+
+608
+00:51:14,514 --> 00:51:17,541
+Is she going to stay single forever?
+
+609
+00:51:17,751 --> 00:51:18,946
+That would be unfortunate.
+
+610
+00:51:19,619 --> 00:51:21,212
+I suppose so.
+
+611
+00:51:21,421 --> 00:51:25,552
+Akiko is one thing, but how
+is Noriko feeling about her situation?
+
+612
+00:51:25,759 --> 00:51:28,024
+She's already met her suitor.
+
+613
+00:51:28,261 --> 00:51:30,992
+Fumiko, have you asked her?
+
+614
+00:51:31,465 --> 00:51:34,526
+Yes, I did speak with her.
+
+615
+00:51:35,302 --> 00:51:36,429
+What did she say?
+
+616
+00:51:37,204 --> 00:51:39,105
+She was being rather ambiguous.
+
+617
+00:51:40,107 --> 00:51:41,632
+She's still unsure.
+
+618
+00:51:43,543 --> 00:51:44,875
+I see.
+
+619
+00:51:45,078 --> 00:51:47,479
+She needs to decide soon.
+
+620
+00:51:47,681 --> 00:51:51,777
+I think it's a great match.
+Especially if her suitor is interested.
+
+621
+00:51:52,419 --> 00:51:55,981
+I agree, but my wife says that
+you must not rush into these things.
+
+622
+00:51:56,189 --> 00:51:58,124
+No, she should hurry.
+
+623
+00:51:58,325 --> 00:52:02,194
+Don't you think so, Fumiko?
+
+624
+00:52:02,396 --> 00:52:03,887
+Brother?
+
+625
+00:52:05,665 --> 00:52:08,658
+Well, I suppose it can't hurt.
+
+626
+00:52:09,669 --> 00:52:12,764
+With so many captains,
+this ship will end up in the mountains.
+
+627
+00:52:12,973 --> 00:52:16,410
+You all need to listen to how she feels.
+
+628
+00:52:16,610 --> 00:52:21,310
+Father, don't you need to go
+somewhere now that we're in Kyoto?
+
+629
+00:52:22,516 --> 00:52:23,484
+Excuse me?
+
+630
+00:52:30,724 --> 00:52:33,159
+- Another?
+- Thank you.
+
+631
+00:52:47,240 --> 00:52:51,200
+There they are.
+
+632
+00:53:03,723 --> 00:53:05,988
+Really? And then what?
+
+633
+00:53:06,193 --> 00:53:09,652
+He ate everything
+that they put in front of him.
+
+634
+00:53:09,863 --> 00:53:14,028
+Then he loosened his belt!
+He ate so much.
+
+635
+00:53:14,234 --> 00:53:16,135
+He must have been famished.
+
+636
+00:53:16,570 --> 00:53:18,198
+I suppose.
+
+637
+00:53:18,405 --> 00:53:22,809
+After the dinner at the hotel,
+we were walking through Nakanoshima--
+
+638
+00:53:23,009 --> 00:53:25,604
+You two were alone?
+
+639
+00:53:25,812 --> 00:53:28,805
+Yes, everyone insisted.
+
+640
+00:53:29,282 --> 00:53:31,376
+I see. What happened?
+
+641
+00:53:31,585 --> 00:53:35,249
+He asked me
+if I disliked Western cuisine.
+
+642
+00:53:35,455 --> 00:53:37,185
+So I said, "What about you?"
+
+643
+00:53:37,390 --> 00:53:42,556
+And after eating all that food,
+he said that he isn't too fond of it!
+
+644
+00:53:42,762 --> 00:53:44,162
+Such a peculiar man!
+
+645
+00:53:44,664 --> 00:53:46,724
+He sounds entertaining.
+
+646
+00:53:46,933 --> 00:53:48,162
+What happened next?
+
+647
+00:53:48,568 --> 00:53:52,801
+He saw that nobody was around,
+so he grabbed my hand and squeezed it.
+
+648
+00:53:54,641 --> 00:53:56,269
+And what did you do?
+
+649
+00:53:56,476 --> 00:53:59,674
+- I squeezed right back.
+- And then?
+
+650
+00:53:59,880 --> 00:54:04,409
+He said that my hand
+was cold and wouldn't let go.
+
+651
+00:54:04,618 --> 00:54:06,610
+His hand was warm.
+
+652
+00:54:06,953 --> 00:54:10,913
+But when we were near other people,
+he would try to let go in a hurry.
+
+653
+00:54:11,124 --> 00:54:14,253
+So I wouldn't let go
+of his hand on purpose.
+
+654
+00:54:14,561 --> 00:54:15,620
+And then?
+
+655
+00:54:15,829 --> 00:54:20,062
+Oh, Akiko, you're making me
+do all the talking!
+
+656
+00:54:20,267 --> 00:54:22,293
+How are things?
+
+657
+00:54:22,769 --> 00:54:23,964
+What do you mean?
+
+658
+00:54:24,171 --> 00:54:26,140
+The suitor that Uncle Yanosuke set up.
+
+659
+00:54:27,674 --> 00:54:29,700
+Oh, I'm already an old lady....
+
+660
+00:54:30,010 --> 00:54:31,808
+That'll be 100 yen.
+
+661
+00:54:32,345 --> 00:54:33,540
+What?
+
+662
+00:54:33,747 --> 00:54:38,208
+You promised me that you'd give me
+100 yen each time you called yourself old.
+
+663
+00:54:38,418 --> 00:54:40,353
+Oh, you're right!
+
+664
+00:54:42,923 --> 00:54:44,915
+- Here you go, 100 yen.
+- Why, thank you.
+
+665
+00:54:46,593 --> 00:54:48,824
+Masao, be careful.
+
+666
+00:54:54,968 --> 00:54:58,564
+Minoru, please keep an eye on him.
+
+667
+00:55:04,911 --> 00:55:08,313
+So how do you feel about your proposal?
+
+668
+00:55:08,682 --> 00:55:10,480
+I mean, I'm just....
+
+669
+00:55:13,653 --> 00:55:16,020
+I haven't said anything yet!
+
+670
+00:55:16,223 --> 00:55:19,250
+I jumped the gun.
+
+671
+00:55:22,362 --> 00:55:25,196
+Such gorgeous weather.
+
+672
+00:55:43,717 --> 00:55:46,653
+Today was quite fun indeed.
+
+673
+00:55:46,853 --> 00:55:48,879
+It's nice to go on excursions like that.
+
+674
+00:55:49,089 --> 00:55:51,684
+- Yes, we should do it more often.
+- Certainly.
+
+675
+00:55:51,891 --> 00:55:54,258
+It was such a nice day too.
+
+676
+00:55:55,362 --> 00:55:59,390
+Yes, it was. Don't you agree, Fumiko?
+
+677
+00:56:01,034 --> 00:56:03,868
+Yes, but I feel bad for Father.
+
+678
+00:56:04,671 --> 00:56:07,436
+- Why?
+- We made it all the way to Kyoto.
+
+679
+00:56:07,641 --> 00:56:10,736
+This again? You're so stubborn.
+
+680
+00:56:12,412 --> 00:56:14,574
+Father, would you like to get some rest?
+
+681
+00:56:14,814 --> 00:56:17,579
+Sounds like a good idea.
+
+682
+00:56:17,784 --> 00:56:20,253
+The time is right.
+
+683
+00:56:20,954 --> 00:56:22,923
+Noriko, please help him.
+
+684
+00:56:23,123 --> 00:56:26,491
+Good night.
+
+685
+00:56:32,365 --> 00:56:36,803
+Did you have to bring it up?
+He was in such a good mood.
+
+686
+00:56:37,237 --> 00:56:40,435
+It's better that I said something.
+I should have said more.
+
+687
+00:56:42,509 --> 00:56:44,944
+I should probably leave as well.
+
+688
+00:56:46,846 --> 00:56:47,973
+It's still early.
+
+689
+00:56:48,181 --> 00:56:50,047
+Yes, but....
+
+690
+00:56:50,250 --> 00:56:53,482
+Minoru, we should get going.
+
+691
+00:56:57,824 --> 00:56:59,452
+We're going, dear.
+
+692
+00:57:01,328 --> 00:57:02,921
+You should stay a while.
+
+693
+00:57:03,129 --> 00:57:05,155
+Oh, I know, but....
+
+694
+00:57:06,199 --> 00:57:07,167
+It's Father!
+
+695
+00:57:07,367 --> 00:57:09,927
+- What?
+- He's collapsed!
+
+696
+00:57:23,216 --> 00:57:24,275
+Father?
+
+697
+00:57:25,985 --> 00:57:28,648
+- Father!
+- Father.
+
+698
+00:57:28,855 --> 00:57:31,222
+Noriko, call a doctor.
+
+699
+00:57:32,692 --> 00:57:33,955
+Father.
+
+700
+00:57:48,041 --> 00:57:51,307
+Hello, 30-1051, please.
+
+701
+00:58:01,771 --> 00:58:05,139
+Hello, 30-1051, please.
+
+702
+00:58:53,556 --> 00:58:54,854
+How does he look?
+
+703
+00:58:56,159 --> 00:58:59,391
+He should be okay,
+barring another attack.
+
+704
+00:58:59,595 --> 00:59:01,461
+You know, he's rather old though.
+
+705
+00:59:42,405 --> 00:59:44,067
+Hello, Aunt Teruko.
+
+706
+00:59:47,610 --> 00:59:50,580
+- What happened?
+- What's going on?
+
+707
+00:59:50,813 --> 00:59:52,509
+He looked fine this afternoon.
+
+708
+00:59:53,683 --> 00:59:55,584
+We came home,
+and all of a sudden....
+
+709
+00:59:55,785 --> 00:59:57,151
+How does he look?
+
+710
+00:59:57,353 --> 00:59:58,878
+It was a heart attack.
+
+711
+00:59:59,088 --> 01:00:02,320
+The doctor said he should be okay
+if nothing worsens overnight.
+
+712
+01:00:02,525 --> 01:00:03,823
+I see.
+
+713
+01:00:04,026 --> 01:00:05,722
+Have you told everyone?
+
+714
+01:00:05,928 --> 01:00:08,022
+Yes, I sent out a telegram.
+
+715
+01:00:08,231 --> 01:00:10,791
+I see. Let's go see him.
+
+716
+01:01:29,812 --> 01:01:31,007
+It was so sudden.
+
+717
+01:01:31,213 --> 01:01:32,681
+Very much so.
+
+718
+01:01:32,882 --> 01:01:35,681
+I wasn't expecting it.
+
+719
+01:01:35,885 --> 01:01:38,411
+Did he have heart problems before?
+
+720
+01:01:38,621 --> 01:01:41,455
+No, a bad liver.
+
+721
+01:01:42,725 --> 01:01:44,785
+Who is the man who just arrived?
+
+722
+01:01:44,994 --> 01:01:46,758
+His younger brother.
+
+723
+01:01:47,129 --> 01:01:50,190
+- From Nagoya?
+- No, he's from Tokyo.
+
+724
+01:01:50,399 --> 01:01:54,461
+The woman who came here earlier today
+is from Nagoya. She's his younger sister.
+
+725
+01:01:54,870 --> 01:01:56,532
+So she's the older sister of the....
+
+726
+01:01:56,739 --> 01:01:59,299
+No, no. Listen up.
+
+727
+01:01:59,508 --> 01:02:03,843
+The woman from Nagoya and the wife
+of the gentleman from Osaka--
+
+728
+01:02:04,046 --> 01:02:05,537
+Wait, now I'm confused.
+
+729
+01:02:05,781 --> 01:02:11,015
+Okay, the wife of the man
+from Osaka is Mr. Kohayagawa's--
+
+730
+01:02:11,220 --> 01:02:12,620
+He was an orphan, you know.
+
+731
+01:02:12,822 --> 01:02:16,520
+Is his dead wife's younger sister.
+
+732
+01:02:16,859 --> 01:02:18,623
+I see.
+
+733
+01:02:18,861 --> 01:02:20,056
+Very complicated.
+
+734
+01:02:20,262 --> 01:02:23,027
+The Kohayagawa family
+is complicated indeed.
+
+735
+01:02:38,381 --> 01:02:42,148
+Auntie, you must be tired.
+Would you care to rest?
+
+736
+01:02:42,852 --> 01:02:45,344
+Oh, no. I'm fine.
+
+737
+01:02:45,554 --> 01:02:46,522
+What about you?
+
+738
+01:02:47,189 --> 01:02:49,090
+I'm fine.
+
+739
+01:02:50,359 --> 01:02:53,887
+Are you sure? You must be exhausted
+from riding the train all night.
+
+740
+01:02:54,096 --> 01:02:56,725
+No, I'm fine.
+
+741
+01:02:57,800 --> 01:02:59,860
+Have you been busy lately?
+
+742
+01:03:00,069 --> 01:03:02,732
+Yes, relatively.
+
+743
+01:03:02,938 --> 01:03:03,997
+And you?
+
+744
+01:03:04,206 --> 01:03:07,802
+Busy as usual.
+
+745
+01:03:10,279 --> 01:03:11,247
+How's he doing?
+
+746
+01:03:11,847 --> 01:03:14,942
+He's sound asleep for now.
+
+747
+01:03:15,518 --> 01:03:18,010
+That's a good sign.
+
+748
+01:03:18,387 --> 01:03:19,946
+He needs to recover.
+
+749
+01:03:21,090 --> 01:03:24,583
+This must be difficult for you, Hisao.
+
+750
+01:03:25,161 --> 01:03:26,356
+Such a critical time.
+
+751
+01:03:27,263 --> 01:03:30,722
+Yes, it's hard.
+
+752
+01:03:31,400 --> 01:03:35,201
+I think he's through the worst of it.
+
+753
+01:03:35,404 --> 01:03:36,963
+He seems to be stable.
+
+754
+01:03:37,373 --> 01:03:39,103
+Yes.
+
+755
+01:03:39,642 --> 01:03:42,271
+I hope so.
+
+756
+01:03:43,779 --> 01:03:44,940
+It's already 5.
+
+757
+01:03:45,347 --> 01:03:50,684
+If he's okay,
+I'd like to return to Nagoya.
+
+758
+01:03:51,053 --> 01:03:52,885
+I left things unattended.
+
+759
+01:03:53,422 --> 01:03:55,982
+Same here.
+
+760
+01:03:56,192 --> 01:03:58,218
+- Are you busy?
+- Yes.
+
+761
+01:03:58,427 --> 01:04:00,623
+I have a large meeting to attend.
+
+762
+01:04:00,830 --> 01:04:02,321
+You too, Auntie?
+
+763
+01:04:02,531 --> 01:04:04,227
+Yes.
+
+764
+01:04:04,467 --> 01:04:07,437
+I suppose I could stay...
+
+765
+01:04:08,370 --> 01:04:10,339
+...but we're building a new factory.
+
+766
+01:04:10,840 --> 01:04:14,140
+I do wish that both of you would stay.
+
+767
+01:04:14,343 --> 01:04:16,812
+Everything's up in the air right now.
+
+768
+01:04:17,012 --> 01:04:21,177
+Yes, I agree. You never know....
+
+769
+01:04:27,356 --> 01:04:29,154
+What's wrong?
+
+770
+01:04:29,358 --> 01:04:31,259
+What is it?
+
+771
+01:04:35,164 --> 01:04:36,792
+Father!
+
+772
+01:04:44,306 --> 01:04:45,740
+Father?
+
+773
+01:04:45,941 --> 01:04:46,965
+Are you okay?
+
+774
+01:04:47,176 --> 01:04:49,111
+Should you be up?
+
+775
+01:04:51,881 --> 01:04:54,646
+I slept quite well.
+
+776
+01:04:54,850 --> 01:04:56,148
+I have to use the bathroom.
+
+777
+01:05:21,210 --> 01:05:22,371
+What happened?
+
+778
+01:05:22,578 --> 01:05:23,944
+Is he all right?
+
+779
+01:05:24,146 --> 01:05:26,445
+I tried to stop him.
+
+780
+01:05:31,053 --> 01:05:32,487
+Well, this is a good sign.
+
+781
+01:05:44,800 --> 01:05:47,269
+I'm so glad that he's okay.
+
+782
+01:05:48,404 --> 01:05:49,667
+I'm so relieved.
+
+783
+01:06:46,795 --> 01:06:49,458
+Father has all of his energy back.
+
+784
+01:06:49,665 --> 01:06:50,633
+Yes.
+
+785
+01:06:50,833 --> 01:06:53,928
+I can't believe how worried we were.
+
+786
+01:07:07,750 --> 01:07:11,278
+You throw like a girl, Grandpa!
+
+787
+01:07:11,487 --> 01:07:13,922
+Just give me one more chance!
+
+788
+01:07:16,158 --> 01:07:17,387
+Where is Minoru?
+
+789
+01:07:17,593 --> 01:07:19,585
+- On a hiking trip.
+- Where to?
+
+790
+01:07:19,795 --> 01:07:20,854
+Mount Rokko.
+
+791
+01:07:21,063 --> 01:07:23,794
+I wish I could spend my Sunday
+doing that.
+
+792
+01:07:23,999 --> 01:07:27,492
+He invited me, but I didn't want
+to ruin the kid's fun...
+
+793
+01:07:27,703 --> 01:07:29,035
+...being so....
+
+794
+01:07:30,272 --> 01:07:32,798
+- What?
+- One hundred yen.
+
+795
+01:07:33,008 --> 01:07:34,203
+I didn't say it.
+
+796
+01:07:34,410 --> 01:07:35,969
+Oh, come on!
+
+797
+01:07:47,589 --> 01:07:48,921
+Would you like some help?
+
+798
+01:07:49,124 --> 01:07:51,559
+No, this is the last of it.
+
+799
+01:07:51,760 --> 01:07:54,730
+Can you hand that to me?
+
+800
+01:07:54,930 --> 01:07:56,660
+This?
+
+801
+01:08:01,437 --> 01:08:04,134
+Even on a Sunday,
+Hisao is quite busy.
+
+802
+01:08:04,339 --> 01:08:06,467
+Yes, with this and that.
+
+803
+01:08:06,675 --> 01:08:11,136
+He says that smaller companies
+just can't make it these days.
+
+804
+01:08:11,346 --> 01:08:13,838
+But Father is against a merger.
+
+805
+01:08:14,049 --> 01:08:15,711
+It must be difficult.
+
+806
+01:08:16,151 --> 01:08:19,883
+Okaden was in a similar situation.
+I'm sure we'll follow suit eventually.
+
+807
+01:08:20,089 --> 01:08:23,150
+It's hard to beat big companies.
+
+808
+01:08:24,460 --> 01:08:31,424
+He wants to hold off while Father is still
+healthy, but who knows what will happen.
+
+809
+01:08:36,472 --> 01:08:39,840
+That was fun.
+Great exercise.
+
+810
+01:08:40,375 --> 01:08:43,834
+It's good to see you so energized.
+
+811
+01:08:44,046 --> 01:08:47,676
+Yes, I had everybody terribly worried.
+
+812
+01:08:47,883 --> 01:08:50,114
+But I'm fine now.
+
+813
+01:08:50,886 --> 01:08:52,354
+See?
+
+814
+01:08:54,056 --> 01:08:55,581
+Father.
+
+815
+01:08:55,791 --> 01:08:56,884
+What is it?
+
+816
+01:08:57,192 --> 01:08:59,388
+I wanted to apologize.
+
+817
+01:08:59,595 --> 01:09:04,124
+- About what?
+- I was being very hard on you.
+
+818
+01:09:04,333 --> 01:09:07,303
+Don't worry about it.
+
+819
+01:09:07,536 --> 01:09:08,629
+I'm used to it.
+
+820
+01:09:08,937 --> 01:09:10,872
+Don't say that.
+
+821
+01:09:11,073 --> 01:09:15,306
+I would have been
+devastated if you had died.
+
+822
+01:09:16,445 --> 01:09:19,313
+Don't be silly.
+I won't die so easily.
+
+823
+01:09:19,515 --> 01:09:25,045
+I have too many things to think about,
+including Akiko and Noriko's situation.
+
+824
+01:09:25,254 --> 01:09:27,450
+I'm sorry...
+
+825
+01:09:27,656 --> 01:09:28,988
+...to have worried you.
+
+826
+01:09:29,191 --> 01:09:32,286
+Still undecided, eh?
+
+827
+01:09:33,061 --> 01:09:35,155
+Oh, can you sew this?
+
+828
+01:09:47,242 --> 01:09:48,870
+Are you tired, Grandpa?
+
+829
+01:09:49,077 --> 01:09:52,275
+- Not at all.
+- Then let's play hide-and-seek!
+
+830
+01:09:52,481 --> 01:09:53,540
+Hide-and-seek, eh?
+
+831
+01:09:53,749 --> 01:09:56,116
+- Okay, wait one minute.
+- Oh, hurry up.
+
+832
+01:09:56,318 --> 01:09:57,308
+One second.
+
+833
+01:09:57,519 --> 01:09:59,613
+Hurry!
+
+834
+01:10:01,190 --> 01:10:03,625
+<i>Hurry!</i>
+
+835
+01:10:10,866 --> 01:10:12,664
+Am I intruding?
+
+836
+01:10:16,338 --> 01:10:18,136
+What are you doing?
+
+837
+01:10:18,540 --> 01:10:20,031
+Writing a letter.
+
+838
+01:10:20,375 --> 01:10:21,343
+To whom?
+
+839
+01:10:23,412 --> 01:10:24,710
+I can't say.
+
+840
+01:10:33,055 --> 01:10:34,546
+I know.
+
+841
+01:10:34,756 --> 01:10:36,054
+What?
+
+842
+01:10:36,258 --> 01:10:38,056
+To whom you're sending it.
+
+843
+01:10:38,861 --> 01:10:40,887
+It's to the man who eats a lot.
+
+844
+01:10:41,830 --> 01:10:43,128
+No, no.
+
+845
+01:10:43,632 --> 01:10:46,124
+How are things going with him?
+
+846
+01:10:46,335 --> 01:10:49,897
+Nothing new.
+I'm supposed to give him a response.
+
+847
+01:10:50,539 --> 01:10:52,337
+What do you think?
+
+848
+01:10:53,976 --> 01:10:56,036
+I don't have a single reason
+to decline.
+
+849
+01:10:56,645 --> 01:10:58,170
+Then you should just do it.
+
+850
+01:10:58,780 --> 01:11:01,682
+That's easy for you to say.
+
+851
+01:11:02,017 --> 01:11:05,647
+Why? He seemed like a nice person.
+
+852
+01:11:06,121 --> 01:11:12,254
+If I did marry him, I know that
+everyone would be relieved.
+
+853
+01:11:12,461 --> 01:11:14,054
+But I can't.
+
+854
+01:11:14,930 --> 01:11:18,025
+You're in love with someone, aren't you?
+
+855
+01:11:22,070 --> 01:11:25,700
+Yes, you are. I knew it.
+
+856
+01:11:31,380 --> 01:11:33,576
+Who is he?
+
+857
+01:11:36,885 --> 01:11:38,854
+What is he like?
+
+858
+01:11:39,688 --> 01:11:44,217
+Remember when I went skiing at
+Mount Ibuki with Takako and the others?
+
+859
+01:11:44,426 --> 01:11:46,520
+Is that the one?
+
+860
+01:11:46,728 --> 01:11:50,062
+I think I met him
+at the Hankyu department store. Right?
+
+861
+01:11:51,867 --> 01:11:53,995
+That's him, isn't it?
+
+862
+01:11:55,604 --> 01:11:57,300
+Have you been meeting with him?
+
+863
+01:11:59,308 --> 01:12:00,537
+No, he lives in Sapporo.
+
+864
+01:12:00,742 --> 01:12:04,440
+Sapporo?
+That's quite far.
+
+865
+01:12:04,746 --> 01:12:07,978
+So that letter is for him?
+
+866
+01:12:08,216 --> 01:12:09,616
+I'm just replying.
+
+867
+01:12:09,818 --> 01:12:11,912
+Oh, sure, sure.
+
+868
+01:12:14,957 --> 01:12:16,448
+Just a reply.
+
+869
+01:12:17,993 --> 01:12:22,260
+I don't know how Father
+and the others feel...
+
+870
+01:12:22,464 --> 01:12:25,593
+...but the important thing
+is to marry without regret.
+
+871
+01:12:25,801 --> 01:12:28,100
+You're the one who has to live with it.
+
+872
+01:12:29,204 --> 01:12:31,503
+That's what I think too.
+
+873
+01:12:32,140 --> 01:12:35,474
+Anyone would find it
+to be a difficult decision.
+
+874
+01:12:36,078 --> 01:12:37,944
+Is that including you?
+
+875
+01:12:38,313 --> 01:12:41,579
+I was happy. I had no regrets.
+
+876
+01:12:41,783 --> 01:12:46,778
+Despite all the worrying everyone does
+on my behalf, I'm still quite happy.
+
+877
+01:12:47,189 --> 01:12:50,591
+So are you planning
+on staying single forever?
+
+878
+01:12:51,660 --> 01:12:53,390
+I'm still considering...
+
+879
+01:12:53,595 --> 01:12:56,793
+...whether or not I can maintain this life.
+
+880
+01:13:07,373 --> 01:13:08,534
+Grandpa, you're it!
+
+881
+01:13:08,741 --> 01:13:11,472
+Oh, no! Again?
+
+882
+01:13:12,111 --> 01:13:14,546
+I'm pretty tired now.
+I think it's time to quit.
+
+883
+01:13:14,747 --> 01:13:16,340
+Oh, come on!
+
+884
+01:13:16,749 --> 01:13:20,413
+I just remembered
+that I had an errand to run.
+
+885
+01:13:20,620 --> 01:13:23,180
+No, you're it!
+Close your eyes!
+
+886
+01:13:23,890 --> 01:13:27,156
+Okay, I give up. This is it though.
+
+887
+01:13:28,361 --> 01:13:30,489
+You better not peek!
+
+888
+01:13:37,036 --> 01:13:39,403
+You're peeking!
+
+889
+01:13:40,139 --> 01:13:41,732
+Okay, okay.
+
+890
+01:13:41,941 --> 01:13:43,933
+Face that way.
+
+891
+01:14:16,909 --> 01:14:18,400
+What are you doing?
+
+892
+01:14:19,412 --> 01:14:22,143
+Hide-and-seek. I'm it.
+
+893
+01:14:22,548 --> 01:14:25,279
+Are you ready?
+
+894
+01:14:51,243 --> 01:14:54,179
+Are you ready?
+
+895
+01:15:04,623 --> 01:15:07,821
+Are you ready?
+
+896
+01:15:19,271 --> 01:15:22,173
+Are you ready?
+
+897
+01:15:24,110 --> 01:15:26,602
+<i>I'm ready!</i>
+
+898
+01:15:31,144 --> 01:15:34,342
+<i>Are you ready?</i>
+
+899
+01:15:36,322 --> 01:15:39,053
+<i>I'm ready!</i>
+
+900
+01:15:43,529 --> 01:15:46,124
+<i>Are you ready?</i>
+
+901
+01:15:46,332 --> 01:15:48,927
+<i>I'm ready!</i>
+
+902
+01:15:52,071 --> 01:15:54,472
+Are you ready?
+
+903
+01:15:54,673 --> 01:15:57,074
+<i>I'm ready!</i>
+
+904
+01:15:57,343 --> 01:15:59,710
+Are you ready?
+
+905
+01:15:59,912 --> 01:16:01,813
+<i>I'm ready!</i>
+
+906
+01:16:03,182 --> 01:16:06,084
+Are you ready?
+
+907
+01:16:06,485 --> 01:16:09,284
+I'm ready!
+
+908
+01:16:16,328 --> 01:16:18,820
+I'm ready!
+
+909
+01:16:21,267 --> 01:16:23,566
+I'm ready!
+
+910
+01:16:32,812 --> 01:16:36,715
+I don't know how young people
+feel about things these days...
+
+911
+01:16:36,916 --> 01:16:42,116
+...but I think it's stifling to live
+with someone who has no character.
+
+912
+01:16:42,321 --> 01:16:44,881
+In my case, as an example...
+
+913
+01:16:45,091 --> 01:16:49,620
+...if a man was a little wild before I
+married him, I wouldn't be too bothered...
+
+914
+01:16:49,829 --> 01:16:52,924
+...but I would never marry
+a man who lacks character.
+
+915
+01:16:53,132 --> 01:16:55,567
+You can alter behavior,
+but you can't alter character.
+
+916
+01:16:57,403 --> 01:16:59,565
+You're right.
+
+917
+01:17:05,077 --> 01:17:06,306
+What is it?
+
+918
+01:17:09,348 --> 01:17:10,372
+Where's Grandpa?
+
+919
+01:17:10,783 --> 01:17:11,876
+I don't know.
+
+920
+01:17:12,084 --> 01:17:14,315
+You haven't seen him?
+
+921
+01:17:15,888 --> 01:17:16,878
+What are you doing?
+
+922
+01:17:17,089 --> 01:17:19,524
+Hide-and-seek.
+Grandpa didn't come this way?
+
+923
+01:17:19,725 --> 01:17:21,455
+Nope.
+
+924
+01:17:21,660 --> 01:17:24,095
+I wonder where he went.
+I can't find him anywhere.
+
+925
+01:17:24,296 --> 01:17:26,060
+Oh, yeah?
+
+926
+01:17:26,398 --> 01:17:27,661
+Hey!
+
+927
+01:17:28,701 --> 01:17:31,796
+There's Grandpa!
+
+928
+01:18:55,854 --> 01:18:58,119
+Well, that's too bad.
+
+929
+01:18:58,324 --> 01:19:00,088
+Should've bet on the other one.
+
+930
+01:19:00,559 --> 01:19:04,655
+Yes. I was thinking
+that it might be a 3-2 finish.
+
+931
+01:19:06,131 --> 01:19:08,760
+Well, that's that.
+
+932
+01:19:17,443 --> 01:19:19,912
+Regret won't get us anywhere.
+
+933
+01:19:20,112 --> 01:19:23,480
+Shall we go to Osaka to eat?
+How does <i>udonsuki</i> sound?
+
+934
+01:19:23,682 --> 01:19:26,982
+Let's go home to take
+a bath and have a drink.
+
+935
+01:19:27,186 --> 01:19:29,621
+No, no. Let's go to Osaka.
+
+936
+01:19:30,589 --> 01:19:32,455
+To Osaka!
+
+937
+01:20:16,902 --> 01:20:18,666
+She's taking forever!
+
+938
+01:20:18,871 --> 01:20:20,840
+Yes, she is.
+
+939
+01:20:21,707 --> 01:20:23,471
+Is that all you have to say?
+
+940
+01:20:23,676 --> 01:20:25,440
+I wonder what happened.
+
+941
+01:20:27,246 --> 01:20:28,942
+"I wonder what happened."
+
+942
+01:20:29,148 --> 01:20:32,050
+That's what I want to ask you.
+
+943
+01:20:32,918 --> 01:20:34,181
+What happened indeed.
+
+944
+01:20:35,688 --> 01:20:37,748
+I wonder why she's late.
+
+945
+01:20:37,956 --> 01:20:40,482
+She said that she would try to come.
+
+946
+01:20:41,260 --> 01:20:44,992
+Try? Why didn't you say so earlier?
+
+947
+01:20:45,197 --> 01:20:47,223
+She said, "I'll try"?
+
+948
+01:20:47,433 --> 01:20:51,131
+Aren't we being a bit ambiguous?
+
+949
+01:20:51,337 --> 01:20:53,329
+Don't you think so?
+
+950
+01:20:55,341 --> 01:20:57,742
+First of all, this is something...
+
+951
+01:20:57,943 --> 01:21:00,037
+...that you brought upon me, am I right?
+
+952
+01:21:00,279 --> 01:21:01,269
+That's right.
+
+953
+01:21:01,480 --> 01:21:04,882
+Then why don't you show
+some responsibility, huh?
+
+954
+01:21:05,884 --> 01:21:09,286
+I wish I hadn't met her,
+if this was the case.
+
+955
+01:21:09,488 --> 01:21:12,686
+Why did you introduce us
+in the first place?
+
+956
+01:21:12,891 --> 01:21:16,623
+A man falling in....
+
+957
+01:21:18,864 --> 01:21:24,326
+A man falling in love with a woman
+at first sight is serious stuff, you know?
+
+958
+01:21:24,536 --> 01:21:26,334
+Am I right?
+
+959
+01:21:26,538 --> 01:21:27,665
+Well?
+
+960
+01:21:27,873 --> 01:21:31,810
+Am I talking nonsense here?
+Am I wrong?
+
+961
+01:21:32,911 --> 01:21:35,073
+This stinks.
+
+962
+01:21:35,280 --> 01:21:36,908
+Let's get a drink somewhere else.
+
+963
+01:21:37,316 --> 01:21:38,511
+Well, wait....
+
+964
+01:21:38,717 --> 01:21:41,687
+Let's wait a bit longer.
+She said she had the cow painting.
+
+965
+01:21:42,755 --> 01:21:46,590
+A bit longer?
+We've already waited for 2 hours!
+
+966
+01:21:46,792 --> 01:21:47,885
+Painting be damned.
+
+967
+01:21:48,360 --> 01:21:50,852
+- Let's go.
+- One more drink.
+
+968
+01:21:51,063 --> 01:21:55,057
+No, no. I'm full of alcohol already.
+
+969
+01:21:57,870 --> 01:22:01,136
+"I'll try to."
+Give me a break.
+
+970
+01:22:01,507 --> 01:22:03,772
+She's not coming.
+
+971
+01:22:04,042 --> 01:22:06,170
+This is terrible.
+
+972
+01:22:18,490 --> 01:22:20,982
+Look on the bright side.
+
+973
+01:22:21,193 --> 01:22:23,219
+It means he's healthy.
+
+974
+01:22:23,762 --> 01:22:25,230
+I suppose.
+
+975
+01:22:25,431 --> 01:22:29,425
+I just wish he'd say something
+to us before disappearing.
+
+976
+01:22:29,802 --> 01:22:31,134
+That's true.
+
+977
+01:22:31,336 --> 01:22:35,068
+He's a merry fellow, that's for sure.
+
+978
+01:22:35,274 --> 01:22:39,507
+This morning he claimed that
+he had knocked on the gates of heaven.
+
+979
+01:22:39,711 --> 01:22:41,612
+What shall we do with him...?
+
+980
+01:22:44,249 --> 01:22:45,774
+The phone's ringing.
+
+981
+01:22:57,629 --> 01:23:00,121
+Hello. Yes, this is she.
+
+982
+01:23:04,937 --> 01:23:06,371
+What was that?
+
+983
+01:23:09,741 --> 01:23:11,334
+We'll be right over.
+
+984
+01:23:13,645 --> 01:23:15,705
+Noriko!
+
+985
+01:23:18,183 --> 01:23:19,151
+Who was that?
+
+986
+01:23:19,351 --> 01:23:22,321
+- Father is ill.
+- Who called?
+
+987
+01:23:22,588 --> 01:23:27,117
+The Sasakis in Kyoto. They said to
+rush over. It was a young woman's voice.
+
+988
+01:23:27,326 --> 01:23:28,350
+What could it be?
+
+989
+01:23:28,560 --> 01:23:31,928
+I'm not sure, but she said
+Father had collapsed again.
+
+990
+01:23:32,264 --> 01:23:33,926
+Sounds serious.
+
+991
+01:23:34,600 --> 01:23:36,193
+We must go.
+
+992
+01:23:36,401 --> 01:23:37,369
+Who called?
+
+993
+01:23:37,569 --> 01:23:41,336
+Father is ill again. Get ready
+and head over there with your brother.
+
+994
+01:23:41,540 --> 01:23:43,634
+Let's go.
+
+995
+01:24:46,872 --> 01:24:49,364
+They're taking so long.
+
+996
+01:24:49,908 --> 01:24:53,003
+They should be here soon.
+
+997
+01:24:53,612 --> 01:24:54,978
+You know...
+
+998
+01:24:55,180 --> 01:24:57,513
+...I really lost out today.
+
+999
+01:24:57,716 --> 01:24:58,684
+How's that?
+
+1000
+01:24:58,884 --> 01:25:02,116
+My mink stole is gone.
+
+1001
+01:25:02,588 --> 01:25:06,787
+Had I known, I would have
+had him buy it for me sooner.
+
+1002
+01:25:07,025 --> 01:25:09,620
+I saw a gorgeous one in Kawaramachi.
+
+1003
+01:25:10,963 --> 01:25:14,092
+Have George buy one for you.
+
+1004
+01:25:14,299 --> 01:25:16,029
+George can't afford it.
+
+1005
+01:25:16,234 --> 01:25:19,466
+The best he can do is a purse.
+
+1006
+01:25:21,740 --> 01:25:23,641
+Someone's here.
+
+1007
+01:25:26,578 --> 01:25:28,638
+Good evening.
+
+1008
+01:25:28,847 --> 01:25:31,976
+- Hello, Yuri.
+- Hello.
+
+1009
+01:25:32,184 --> 01:25:33,880
+Oh, it's just George.
+
+1010
+01:25:34,086 --> 01:25:36,317
+It's not George.
+Tonight it's Harry.
+
+1011
+01:25:36,521 --> 01:25:37,682
+I'll see you later.
+
+1012
+01:25:37,889 --> 01:25:40,620
+Come home early tonight.
+
+1013
+01:25:40,826 --> 01:25:44,058
+I suppose you promised him
+you'd go out.
+
+1014
+01:25:44,963 --> 01:25:46,727
+I'll be home early.
+
+1015
+01:26:07,953 --> 01:26:10,184
+Bye, Mother.
+
+1016
+01:26:12,124 --> 01:26:13,717
+Hello.
+
+1017
+01:26:48,760 --> 01:26:52,026
+What a day it was....
+
+1018
+01:26:53,098 --> 01:26:57,399
+We shouldn't have gone out today.
+
+1019
+01:26:58,603 --> 01:27:02,301
+I guess today wasn't
+as good a day as you thought it'd be.
+
+1020
+01:27:07,846 --> 01:27:10,372
+So unfortunate....
+
+1021
+01:27:11,650 --> 01:27:14,745
+And it was so hot.
+
+1022
+01:27:20,125 --> 01:27:22,094
+Is anybody home?
+
+1023
+01:27:22,461 --> 01:27:23,986
+Is anybody home?
+
+1024
+01:27:42,129 --> 01:27:43,757
+Good evening.
+
+1025
+01:27:45,599 --> 01:27:47,864
+My name is Kohayagawa.
+
+1026
+01:27:49,003 --> 01:27:52,269
+Please, do come inside.
+
+1027
+01:27:53,908 --> 01:27:56,139
+How is he doing?
+
+1028
+01:27:58,612 --> 01:28:00,513
+Please come in.
+
+1029
+01:28:45,192 --> 01:28:48,458
+It happened so suddenly.
+
+1030
+01:28:49,430 --> 01:28:51,763
+The time was 8:23.
+
+1031
+01:28:59,874 --> 01:29:02,844
+He looks so peaceful.
+
+1032
+01:29:10,050 --> 01:29:16,718
+I'm not sure what time he came over,
+but we went out together.
+
+1033
+01:29:16,924 --> 01:29:21,521
+He insisted on going to Osaka,
+but I managed to convince him otherwise.
+
+1034
+01:29:21,729 --> 01:29:26,133
+I was washing my hands over there,
+and he was sitting over here...
+
+1035
+01:29:26,333 --> 01:29:30,498
+...and I thought he looked rather ill,
+when he suddenly grabbed his chest.
+
+1036
+01:29:30,871 --> 01:29:32,464
+I see.
+
+1037
+01:29:32,840 --> 01:29:36,140
+I had a doctor come right away...
+
+1038
+01:29:37,478 --> 01:29:39,743
+...but it was too late.
+
+1039
+01:29:41,215 --> 01:29:43,081
+I see.
+
+1040
+01:29:45,553 --> 01:29:48,580
+He was in such pain.
+
+1041
+01:29:48,956 --> 01:29:50,652
+I see.
+
+1042
+01:29:51,225 --> 01:29:53,558
+Did he have any final words?
+
+1043
+01:29:55,162 --> 01:29:58,394
+"Is this it? Is this really it?"
+
+1044
+01:29:58,632 --> 01:30:00,726
+He said that twice.
+
+1045
+01:30:05,005 --> 01:30:06,371
+I see.
+
+1046
+01:30:06,740 --> 01:30:09,676
+It was so sudden.
+
+1047
+01:30:11,178 --> 01:30:14,080
+Life is so fragile.
+
+1048
+01:31:05,099 --> 01:31:09,594
+Do you think there are more
+crows than usual today?
+
+1049
+01:31:11,739 --> 01:31:13,173
+Yes, there are.
+
+1050
+01:31:13,374 --> 01:31:14,967
+Think someone died?
+
+1051
+01:31:15,175 --> 01:31:17,838
+Perhaps.
+
+1052
+01:31:19,079 --> 01:31:22,516
+But there's no smoke coming from
+the chimney of the crematorium.
+
+1053
+01:31:24,418 --> 01:31:26,751
+Yes, you're right.
+
+1054
+01:32:10,731 --> 01:32:12,700
+Are you tired, Fumiko?
+
+1055
+01:32:14,234 --> 01:32:16,635
+No, not too tired.
+
+1056
+01:32:17,805 --> 01:32:20,138
+You have much to deal with
+as well, Hisao.
+
+1057
+01:32:23,143 --> 01:32:25,112
+What is the company going to do?
+
+1058
+01:32:25,312 --> 01:32:28,976
+I've been thinking it over,
+but it just makes my head hurt.
+
+1059
+01:32:29,183 --> 01:32:30,913
+A merger?
+
+1060
+01:32:31,552 --> 01:32:33,817
+I think it may be inevitable.
+
+1061
+01:32:35,723 --> 01:32:37,919
+What can you do...?
+
+1062
+01:32:40,227 --> 01:32:42,628
+Father was worried about it.
+
+1063
+01:32:42,830 --> 01:32:46,358
+I think the best thing would be
+to merge with a large company...
+
+1064
+01:32:46,567 --> 01:32:50,026
+...and continue to work under them.
+
+1065
+01:32:50,504 --> 01:32:53,474
+A salaried man, eh?
+
+1066
+01:32:54,174 --> 01:32:56,075
+Yes, it's an option.
+
+1067
+01:32:56,643 --> 01:32:59,875
+Father was always so undependable...
+
+1068
+01:33:00,080 --> 01:33:03,539
+...but it seems
+that he was the only thing...
+
+1069
+01:33:03,751 --> 01:33:07,085
+...keeping the Kohayagawas afloat.
+
+1070
+01:33:23,804 --> 01:33:26,330
+I feel bad for Hisao.
+
+1071
+01:33:27,074 --> 01:33:29,100
+I was really hoping...
+
+1072
+01:33:29,309 --> 01:33:31,972
+...that Father would be with us
+until you were married.
+
+1073
+01:33:32,646 --> 01:33:36,742
+I was up all night
+thinking about what to do...
+
+1074
+01:33:36,950 --> 01:33:41,479
+...and I think that I should do
+what makes me happy.
+
+1075
+01:33:42,422 --> 01:33:44,618
+What are you saying?
+
+1076
+01:33:45,092 --> 01:33:52,056
+With Father dead, I feel like I should marry
+the suitor that everyone picked for me.
+
+1077
+01:33:53,066 --> 01:33:55,661
+But I don't think I could live with that.
+
+1078
+01:33:57,971 --> 01:34:02,500
+Doing that might be beneficial
+to the Kohayagawa household...
+
+1079
+01:34:02,709 --> 01:34:08,910
+...but I think I'll regret it
+if I'm not honest about my feelings.
+
+1080
+01:34:09,116 --> 01:34:11,244
+It's a hard decision.
+
+1081
+01:34:11,451 --> 01:34:14,114
+What are you going to do?
+
+1082
+01:34:14,788 --> 01:34:15,915
+I think....
+
+1083
+01:34:16,323 --> 01:34:17,484
+Yes?
+
+1084
+01:34:18,025 --> 01:34:20,017
+I think I should go to Sapporo.
+
+1085
+01:34:20,794 --> 01:34:22,524
+I see.
+
+1086
+01:34:22,729 --> 01:34:26,632
+I personally thought
+that it would be best to do so.
+
+1087
+01:34:26,834 --> 01:34:30,601
+Really?
+
+1088
+01:34:32,840 --> 01:34:37,301
+You're young. I want you
+to be as happy as possible.
+
+1089
+01:34:57,664 --> 01:35:00,327
+- Have you checked the calendar?
+- Yes.
+
+1090
+01:35:00,534 --> 01:35:03,732
+Then let's make the funeral
+the day after tomorrow. The obituary?
+
+1091
+01:35:03,937 --> 01:35:05,565
+It'll be in tomorrow's paper.
+
+1092
+01:35:05,772 --> 01:35:09,072
+I see. So that's done.
+
+1093
+01:35:09,276 --> 01:35:11,541
+Oh, what about lunch?
+
+1094
+01:35:11,745 --> 01:35:14,271
+Yes, I called about that too.
+
+1095
+01:35:14,481 --> 01:35:15,642
+Should we get cars?
+
+1096
+01:35:15,849 --> 01:35:19,149
+It's across the river,
+so we'd have to make a detour.
+
+1097
+01:35:19,353 --> 01:35:22,380
+It's close enough to walk.
+You can accompany them.
+
+1098
+01:35:23,657 --> 01:35:24,750
+Eight people, right?
+
+1099
+01:35:24,958 --> 01:35:26,358
+No, it's nine.
+
+1100
+01:35:26,560 --> 01:35:28,552
+Hey, it's the madam from Nagoya.
+
+1101
+01:35:31,498 --> 01:35:34,696
+Hello, ma'am.
+Right over there, please.
+
+1102
+01:35:34,902 --> 01:35:37,201
+Thank you.
+
+1103
+01:35:43,744 --> 01:35:45,542
+Auntie.
+
+1104
+01:35:45,746 --> 01:35:47,374
+Please....
+
+1105
+01:35:49,349 --> 01:35:51,511
+This is quite a shock.
+
+1106
+01:35:51,718 --> 01:35:54,119
+What happened?
+
+1107
+01:35:54,321 --> 01:35:55,755
+Was it his heart?
+
+1108
+01:35:57,090 --> 01:35:59,059
+Yes, it was very sudden.
+
+1109
+01:35:59,726 --> 01:36:02,855
+I suppose it's better than being
+bedridden, just wasting away.
+
+1110
+01:36:03,196 --> 01:36:04,630
+Yes, that's true.
+
+1111
+01:36:06,033 --> 01:36:09,197
+So he had no final words?
+
+1112
+01:36:10,570 --> 01:36:11,560
+He said:
+
+1113
+01:36:11,772 --> 01:36:16,710
+"Is this it? Is this really it?"
+
+1114
+01:36:18,645 --> 01:36:19,908
+That's all?
+
+1115
+01:36:21,848 --> 01:36:24,079
+How happy-go-lucky.
+
+1116
+01:36:24,284 --> 01:36:28,722
+After doing as he pleased for
+all those years, that's all he had to say?
+
+1117
+01:36:28,922 --> 01:36:31,357
+What a silly man.
+
+1118
+01:36:31,992 --> 01:36:36,987
+I'm sure he wanted to go on like that
+forever, but you can't be too greedy.
+
+1119
+01:36:37,931 --> 01:36:39,923
+Yes, I've heard that before.
+
+1120
+01:36:40,834 --> 01:36:42,996
+Oh, hello.
+
+1121
+01:36:43,837 --> 01:36:45,703
+Hello.
+
+1122
+01:36:46,039 --> 01:36:50,977
+We humans can't come to terms
+with death until it's too late.
+
+1123
+01:36:51,178 --> 01:36:54,740
+Even people like my brother
+who did as he pleased.
+
+1124
+01:36:54,948 --> 01:36:57,076
+On his deathbed,
+even Toyotomi Hideyoshi said:
+
+1125
+01:36:57,284 --> 01:37:01,312
+"It's as if my glorious life
+was but a dream within a dream."
+
+1126
+01:37:01,521 --> 01:37:03,149
+Indeed he did.
+
+1127
+01:37:03,824 --> 01:37:05,156
+Where's your uncle from Tokyo?
+
+1128
+01:37:06,460 --> 01:37:08,258
+I haven't seen him.
+
+1129
+01:37:08,462 --> 01:37:11,455
+He must be very busy.
+
+1130
+01:37:12,532 --> 01:37:18,836
+If this was the case, he should have just
+died when we were all gathered earlier.
+
+1131
+01:37:19,673 --> 01:37:23,508
+He did as he pleased his whole life,
+sold the family heirlooms...
+
+1132
+01:37:23,744 --> 01:37:28,682
+...spent all of his money, and angered me
+with his irresponsibility...
+
+1133
+01:37:28,882 --> 01:37:33,445
+...but he was also quite happy.
+It's a rarity these days.
+
+1134
+01:37:34,087 --> 01:37:36,647
+Not that it matters much...
+
+1135
+01:37:36,923 --> 01:37:39,688
+...once you're dead.
+
+1136
+01:39:36,409 --> 01:39:37,900
+Hey, look.
+
+1137
+01:39:38,111 --> 01:39:40,307
+Somebody did die.
+
+1138
+01:39:40,514 --> 01:39:42,073
+There's smoke now.
+
+1139
+01:39:43,583 --> 01:39:45,950
+Indeed there is.
+
+1140
+01:40:02,435 --> 01:40:05,769
+It's not a big deal if an elderly person
+were to have died...
+
+1141
+01:40:05,972 --> 01:40:09,374
+...but it would be tragic
+if it were somebody young.
+
+1142
+01:40:09,576 --> 01:40:13,240
+Yes, but no matter how many die...
+
+1143
+01:40:13,446 --> 01:40:18,180
+...new lives will be born
+to take their place.
+
+1144
+01:40:18,652 --> 01:40:20,780
+You're right.
+
+1145
+01:40:20,987 --> 01:40:23,286
+It's the cycle of life.
+
+1146
+01:41:13,940 --> 01:41:18,071
+It'll be lonely here without you.
+
+1147
+01:41:18,511 --> 01:41:20,207
+Sister...
+
+1148
+01:41:20,413 --> 01:41:23,941
+...once I go to Sapporo,
+I want you to visit.
+
+1149
+01:41:24,150 --> 01:41:25,550
+I would like to see you.
+
+1150
+01:41:25,752 --> 01:41:28,517
+Of course I'll come visit.
+
+1151
+01:41:28,722 --> 01:41:30,418
+It's so far....
+
+1152
+01:41:31,958 --> 01:41:35,554
+What are you going to do now?
+
+1153
+01:41:36,196 --> 01:41:37,994
+Me?
+
+1154
+01:41:38,198 --> 01:41:41,293
+I'm happy as I am.
+
+1155
+01:41:41,501 --> 01:41:47,304
+Minoru's still growing up.
+I think this would be best for him.
+
+1156
+01:41:47,941 --> 01:41:49,910
+That sounds like something you'd say.
+
+1157
+01:41:51,311 --> 01:41:54,179
+I don't know about that.
+
+1158
+01:41:55,348 --> 01:41:59,581
+Let's catch up.
+We shouldn't be too late.

@@ -1,0 +1,2049 @@
+1
+00:00:05,038 --> 00:00:07,973
+<i>Welcome to Disneyland, U.S.A.</i>
+
+2
+00:00:09,276 --> 00:00:12,643
+<i>This was all a Disney dream</i>
+<i>a dozen years ago.</i>
+
+3
+00:00:12,713 --> 00:00:15,773
+<i>A far off project</i>
+<i>that was totally unproved.</i>
+
+4
+00:00:15,849 --> 00:00:18,044
+<i>Today, 60 million people</i>
+
+5
+00:00:18,118 --> 00:00:20,643
+<i>have come here</i>
+<i>from every state in America.</i>
+
+6
+00:00:20,721 --> 00:00:24,122
+<i>And from almost every nation</i>
+<i>around the world.</i>
+
+7
+00:00:24,197 --> 00:00:26,386
+<i>In Town Square on Main Street,</i>
+
+8
+00:00:26,460 --> 00:00:29,156
+<i>many have paused to read</i>
+<i>the dedication plaque</i>
+
+9
+00:00:29,229 --> 00:00:32,130
+<i>that symbolizes</i>
+<i>the warm and friendly spirit</i>
+
+10
+00:00:32,199 --> 00:00:34,167
+<i>of Walt Disney's Magic Kingdom.</i>
+
+11
+00:00:34,234 --> 00:00:37,533
+<i>"To all who come to</i>
+<i>this happy place, welcome.</i>
+
+12
+00:00:37,604 --> 00:00:40,505
+<i>"Disneyland is your land.</i>
+
+13
+00:00:40,574 --> 00:00:44,101
+<i>"Here, age relives</i>
+<i>fond memories of the past.</i>
+
+14
+00:00:44,178 --> 00:00:47,375
+<i>"And here youth may savor</i>
+<i>the challenge and promise</i>
+
+15
+00:00:47,447 --> 00:00:49,506
+<i>"of the future.</i>
+
+16
+00:00:49,583 --> 00:00:53,644
+<i>"Disneyland is dedicated</i>
+<i>to the ideals, the dreams</i>
+
+17
+00:00:53,720 --> 00:00:57,349
+<i>"and the hard facts</i>
+<i>that have created America.</i>
+
+18
+00:00:57,424 --> 00:01:01,326
+<i>"With the hope that it will be</i>
+<i>a source ofjoy and inspiration</i>
+
+19
+00:01:01,395 --> 00:01:03,124
+<i>"to all the world."</i>
+
+20
+00:01:04,431 --> 00:01:06,991
+<i>Disneyland grew out of</i>
+<i>Walt Disney's own feeling</i>
+
+21
+00:01:07,067 --> 00:01:09,160
+<i>that an amusement park</i>
+<i>should offer more</i>
+
+22
+00:01:09,236 --> 00:01:11,033
+<i>to the entire family.</i>
+
+23
+00:01:12,139 --> 00:01:14,539
+<i>Here was no mere amusement park.</i>
+
+24
+00:01:14,608 --> 00:01:17,372
+<i>Here was a whole new concept</i>
+<i>in entertainment,</i>
+
+25
+00:01:17,444 --> 00:01:21,778
+<i>where parents and children</i>
+<i>could have fun, together.</i>
+
+26
+00:01:24,785 --> 00:01:27,379
+<i>The touchstone of Disneyland's success</i>
+
+27
+00:01:27,454 --> 00:01:29,388
+<i>has been its concern for people.</i>
+
+28
+00:01:30,057 --> 00:01:31,820
+<i>A wholehearted dedication</i>
+
+29
+00:01:31,892 --> 00:01:35,521
+<i>to the happiness of the people</i>
+<i>who visit here.</i>
+
+30
+00:01:35,596 --> 00:01:37,496
+<i>Today, Disneyland has established</i>
+
+31
+00:01:37,564 --> 00:01:41,295
+<i>standards of performance unsurpassed</i>
+<i>in all the world.</i>
+
+32
+00:01:42,436 --> 00:01:44,301
+<i>Yet in the planning and building,</i>
+
+33
+00:01:44,371 --> 00:01:46,805
+<i>there were no standards to follow.</i>
+
+34
+00:01:46,873 --> 00:01:49,774
+<i>Whatever worked became the code.</i>
+
+35
+00:01:49,843 --> 00:01:52,334
+<i>Whatever failed</i>
+<i>to meet the public need</i>
+
+36
+00:01:52,412 --> 00:01:56,075
+<i>was changed, replaced</i>
+<i>by a better idea.</i>
+
+37
+00:01:57,784 --> 00:02:01,276
+<i>People and vehicles are constantly</i>
+<i>in motion at Disneyland.</i>
+
+38
+00:02:01,355 --> 00:02:03,846
+<i>Here, people travel aboard</i>
+<i>almost every method</i>
+
+39
+00:02:03,924 --> 00:02:06,484
+<i>of transportation</i>
+<i>man has ever designed.</i>
+
+40
+00:02:07,628 --> 00:02:09,061
+<i>Provocative, new ideas</i>
+
+41
+00:02:09,129 --> 00:02:12,155
+<i>like the first monorail system</i>
+<i>in the Western hemisphere,</i>
+
+42
+00:02:12,232 --> 00:02:16,100
+<i>have demonstrated their potential</i>
+<i>in this practical proving ground.</i>
+
+43
+00:02:17,004 --> 00:02:20,565
+<i>Disneyland vehicles have carried</i>
+<i>340 million passengers</i>
+
+44
+00:02:20,641 --> 00:02:22,700
+<i>in comfort and speed,</i>
+
+45
+00:02:22,776 --> 00:02:25,244
+<i>and have traveled</i>
+<i>more than 19 million miles</i>
+
+46
+00:02:25,312 --> 00:02:27,109
+<i>in unequaled safety.</i>
+
+47
+00:02:28,615 --> 00:02:30,378
+<i>To plan Disneyland, Walt Disney</i>
+
+48
+00:02:30,450 --> 00:02:32,850
+<i>long ago established</i>
+<i>a design organization</i>
+
+49
+00:02:32,919 --> 00:02:35,888
+<i>called WED Enterprises.</i>
+
+50
+00:02:35,956 --> 00:02:39,221
+<i>Today, the staff at WED</i>
+<i>includes designers, architects</i>
+
+51
+00:02:39,293 --> 00:02:42,524
+<i>and engineers skilled in the Disney way,</i>
+
+52
+00:02:42,596 --> 00:02:44,791
+<i>and also fine craftsmen and technicians</i>
+
+53
+00:02:44,865 --> 00:02:48,232
+<i>skilled in the arts of the space age.</i>
+
+54
+00:02:51,772 --> 00:02:54,832
+<i>What WED does</i>
+<i>is called imagineering.</i>
+
+55
+00:02:55,208 --> 00:02:59,144
+<i>A blending of creative imagination</i>
+<i>with technical know-how.</i>
+
+56
+00:03:00,147 --> 00:03:03,742
+<i>The talents of WED have gone</i>
+<i>to work outside Disneyland too.</i>
+
+57
+00:03:04,251 --> 00:03:06,242
+<i>At the New York World's Fair,</i>
+
+58
+00:03:06,320 --> 00:03:08,379
+<i>four of the most popular attractions</i>
+
+59
+00:03:08,455 --> 00:03:10,923
+<i>were Disney shows</i>
+<i>and corporate exhibits</i>
+
+60
+00:03:10,991 --> 00:03:13,459
+<i>that skillfully</i>
+<i>welcomed and entertained</i>
+
+61
+00:03:13,527 --> 00:03:17,588
+<i>more than 150,000 people every day.</i>
+
+62
+00:03:25,339 --> 00:03:28,274
+<i>Tribute to the achievements</i>
+<i>of the Disney design staff</i>
+
+63
+00:03:28,342 --> 00:03:30,310
+<i>has been paid by</i>
+<i>many highly respected</i>
+
+64
+00:03:30,377 --> 00:03:34,313
+<i>planners and builders.</i>
+<i>Among them, James W. Rouse,</i>
+
+65
+00:03:34,381 --> 00:03:36,872
+<i>developer of the new town of Columbia.</i>
+
+66
+00:03:36,950 --> 00:03:38,747
+<i>In his keynote speech</i>
+
+67
+00:03:38,819 --> 00:03:41,219
+<i>before the 1963</i>
+<i>Urban Design Conference</i>
+
+68
+00:03:41,288 --> 00:03:45,918
+<i>of Harvard University,</i>
+<i>Mr. Rouse said in part,</i>
+
+69
+00:03:45,992 --> 00:03:48,085
+<i>"I hold a view that</i>
+<i>may be somewhat shocking</i>
+
+70
+00:03:48,161 --> 00:03:50,789
+<i>"to an audience</i>
+<i>as sophisticated as this:</i>
+
+71
+00:03:50,864 --> 00:03:52,957
+<i>"That the greatest piece</i>
+<i>of urban design</i>
+
+72
+00:03:53,033 --> 00:03:55,831
+<i>"in the United States today</i>
+<i>is Disneyland.</i>
+
+73
+00:03:55,902 --> 00:03:58,996
+<i>"If you think about Disneyland</i>
+<i>and think of its performance</i>
+
+74
+00:03:59,072 --> 00:04:02,337
+<i>"in relation to its purpose,</i>
+<i>its meaning to people,</i>
+
+75
+00:04:02,409 --> 00:04:05,173
+<i>"more than that, its meaning</i>
+<i>to the process of development,</i>
+
+76
+00:04:05,245 --> 00:04:08,408
+<i>"you will find it the outstanding</i>
+<i>piece of urban design</i>
+
+77
+00:04:08,482 --> 00:04:10,746
+<i>"in the United States.</i>
+
+78
+00:04:10,817 --> 00:04:13,615
+<i>"It took an area of activity,</i>
+<i>the amusement park,</i>
+
+79
+00:04:13,687 --> 00:04:16,986
+<i>"and lifted it to a standard</i>
+<i>so high in its performance,</i>
+
+80
+00:04:17,057 --> 00:04:20,652
+<i>"in its respect for people,</i>
+<i>in its functioning for people,</i>
+
+81
+00:04:20,727 --> 00:04:25,187
+<i>"that it really has become</i>
+<i>a brand new thing.</i>
+
+82
+00:04:25,265 --> 00:04:28,393
+<i>"It fulfills all the functions</i>
+<i>it set out to accomplish.</i>
+
+83
+00:04:28,468 --> 00:04:31,164
+<i>"Unselfconsciously, usefully,</i>
+
+84
+00:04:31,238 --> 00:04:34,833
+<i>"and profitably to</i>
+<i>its owners and developers.</i>
+
+85
+00:04:34,908 --> 00:04:36,705
+<i>"I find more to learn</i>
+<i>in the standards</i>
+
+86
+00:04:36,777 --> 00:04:39,007
+<i>"that have been set</i>
+<i>and in the goals</i>
+
+87
+00:04:39,079 --> 00:04:42,276
+<i>"that have been achieved in</i>
+<i>the development of Disneyland,</i>
+
+88
+00:04:42,349 --> 00:04:45,512
+<i>"than in any other single piece</i>
+<i>of physical development</i>
+
+89
+00:04:45,585 --> 00:04:48,076
+<i>"in the country."</i>
+
+90
+00:04:50,524 --> 00:04:54,927
+<i>Yesterday, Disneyland and</i>
+<i>the New York World's Fair.</i>
+
+91
+00:04:55,796 --> 00:04:58,993
+<i>Tomorrow, a project so vast</i>
+
+92
+00:04:59,065 --> 00:05:03,900
+<i>it has already been called</i>
+<i>a whole new Disney World.</i>
+
+93
+00:05:05,505 --> 00:05:07,905
+<i>And now, here is Walt Disney.</i>
+
+94
+00:05:07,974 --> 00:05:11,239
+Welcome to a little bit
+of Florida here in California.
+
+95
+00:05:11,311 --> 00:05:13,370
+This is where the early planning
+
+96
+00:05:13,447 --> 00:05:15,745
+is taking place for our so-called
+
+97
+00:05:15,816 --> 00:05:18,114
+Disney World project.
+
+98
+00:05:18,185 --> 00:05:21,348
+Now the purpose of this film
+is to bring you up to date
+
+99
+00:05:21,421 --> 00:05:24,117
+about some of the plans
+for Disney World.
+
+100
+00:05:24,191 --> 00:05:27,024
+But before I go into
+any of the details,
+
+101
+00:05:27,093 --> 00:05:29,027
+I want to say just a word
+
+102
+00:05:29,095 --> 00:05:31,996
+about the site of our Florida project.
+
+103
+00:05:32,065 --> 00:05:33,760
+As you can see on this map,
+
+104
+00:05:33,834 --> 00:05:36,268
+we have a perfect location
+in Florida.
+
+105
+00:05:36,336 --> 00:05:38,531
+Almost in the very center
+of the state.
+
+106
+00:05:38,605 --> 00:05:40,573
+In fact, we selected this site
+
+107
+00:05:40,640 --> 00:05:43,302
+because it's so easy for
+tourists and Florida residents
+
+108
+00:05:43,376 --> 00:05:45,606
+to get here by automobile.
+
+109
+00:05:45,679 --> 00:05:48,443
+Now in larger scale on this map,
+
+110
+00:05:48,515 --> 00:05:50,608
+our Florida land is located
+
+111
+00:05:50,684 --> 00:05:54,211
+partly in Orange County
+and Osceola County,
+
+112
+00:05:54,287 --> 00:05:58,348
+between the cities
+of Orlando and Kissimmee.
+
+113
+00:05:58,425 --> 00:06:02,361
+And the important thing is
+that the Disney World is located
+
+114
+00:06:02,429 --> 00:06:04,920
+just a few miles
+from the crossing point
+
+115
+00:06:04,998 --> 00:06:09,025
+of Interstate 4
+and Sunshine State Parkway.
+
+116
+00:06:09,102 --> 00:06:10,967
+Florida's major highways
+
+117
+00:06:11,037 --> 00:06:13,028
+carrying motorists east and west,
+
+118
+00:06:13,106 --> 00:06:16,769
+north and south,
+to the center of the state.
+
+119
+00:06:16,843 --> 00:06:18,970
+The sketches and plans
+you will see today
+
+120
+00:06:19,045 --> 00:06:21,172
+are simply a starting point.
+
+121
+00:06:21,248 --> 00:06:24,615
+Our first overall thinking
+about Disney World.
+
+122
+00:06:24,684 --> 00:06:27,551
+Everything in this room
+may change time and time again,
+
+123
+00:06:27,621 --> 00:06:29,486
+as we move ahead.
+
+124
+00:06:29,556 --> 00:06:34,152
+But the basic philosophy of what
+we're planning for Disney World
+
+125
+00:06:34,227 --> 00:06:37,993
+is going to remain very much
+as it is right now.
+
+126
+00:06:42,369 --> 00:06:44,360
+We know what our goals are.
+
+127
+00:06:44,437 --> 00:06:47,031
+We know what we hope
+to accomplish.
+
+128
+00:06:47,107 --> 00:06:48,699
+And believe me,
+
+129
+00:06:48,775 --> 00:06:51,107
+it's the most exciting
+and challenging assignment
+
+130
+00:06:51,177 --> 00:06:54,442
+we've ever tackled
+at Walt Disney Productions.
+
+131
+00:06:54,514 --> 00:06:56,448
+Today, I want to share with you
+
+132
+00:06:56,516 --> 00:06:59,349
+some of our ideas for Disney World.
+
+133
+00:06:59,419 --> 00:07:02,786
+Now the prologue to this film
+told you some of the philosophy
+
+134
+00:07:02,856 --> 00:07:06,656
+that made Disneyland
+in California what it is today.
+
+135
+00:07:06,726 --> 00:07:09,354
+Of course, there'll be
+another amusement theme park
+
+136
+00:07:09,429 --> 00:07:12,626
+in Florida, similar to the one in California.
+
+137
+00:07:12,699 --> 00:07:14,997
+We're now developing a master plan
+
+138
+00:07:15,068 --> 00:07:18,094
+that encompasses the theme park
+and all the facilities around it
+
+139
+00:07:18,171 --> 00:07:20,105
+that will serve the tourists.
+
+140
+00:07:20,173 --> 00:07:24,769
+Hotels, motels and a variety
+of recreation activities.
+
+141
+00:07:24,844 --> 00:07:27,244
+In fact, just this little area alone
+
+142
+00:07:27,314 --> 00:07:30,715
+is five times the size
+of Disneyland in California.
+
+143
+00:07:37,691 --> 00:07:39,784
+But as you can see
+on this master plan,
+
+144
+00:07:39,859 --> 00:07:42,419
+the theme park and all
+the other tourist facilities
+
+145
+00:07:42,495 --> 00:07:46,659
+fill just one small area
+of our enormous Florida project.
+
+146
+00:07:46,733 --> 00:07:51,568
+According to this scale,
+I am six miles tall.
+
+147
+00:07:51,638 --> 00:07:56,132
+Now it's 12 miles
+from here, up to here,
+
+148
+00:07:56,209 --> 00:08:01,738
+and the whole area
+encompasses 27,400 acres.
+
+149
+00:08:01,815 --> 00:08:04,750
+That is 43 square miles.
+
+150
+00:08:04,818 --> 00:08:08,379
+Twice the size
+of the island of Manhattan.
+
+151
+00:08:08,455 --> 00:08:10,719
+Now the area
+we propose to develop
+
+152
+00:08:10,790 --> 00:08:13,315
+is between the Reedy Creek swamp
+
+153
+00:08:13,393 --> 00:08:16,328
+and the Bonnet Creek Swamp.
+
+154
+00:08:16,396 --> 00:08:18,330
+So one thing we don't need
+
+155
+00:08:18,398 --> 00:08:20,923
+is a fence to protect us
+from trespassers.
+
+156
+00:08:21,001 --> 00:08:23,094
+Here in Florida
+we have something special
+
+157
+00:08:23,169 --> 00:08:25,103
+we never enjoyed at Disneyland:
+
+158
+00:08:25,171 --> 00:08:27,105
+The blessing of size.
+
+159
+00:08:27,173 --> 00:08:30,540
+There's enough land here
+to hold all the ideas and plans
+
+160
+00:08:30,610 --> 00:08:32,544
+we could possibly imagine.
+
+161
+00:08:32,612 --> 00:08:36,309
+Right now, our plans include
+an airport of the future,
+
+162
+00:08:36,383 --> 00:08:39,113
+down here in Osceola County.
+
+163
+00:08:39,185 --> 00:08:41,779
+An entrance complex where all visitors
+
+164
+00:08:41,855 --> 00:08:44,221
+will enter Disney World.
+
+165
+00:08:44,290 --> 00:08:49,284
+An industrial park area
+covering about 1,000 acres,
+
+166
+00:08:49,362 --> 00:08:51,626
+and of course, the theme park area
+
+167
+00:08:51,698 --> 00:08:53,859
+way up here.
+
+168
+00:08:53,933 --> 00:08:56,424
+And all these varied activities
+
+169
+00:08:56,503 --> 00:08:59,267
+around the Disney World
+will be tied together
+
+170
+00:08:59,339 --> 00:09:01,967
+by a high speed rapid transit system
+
+171
+00:09:02,042 --> 00:09:06,445
+running almost the full length
+of the property.
+
+172
+00:09:06,513 --> 00:09:10,415
+But the most exciting,
+and by far the most important
+
+173
+00:09:10,483 --> 00:09:12,747
+part of our Florida project,
+
+174
+00:09:12,819 --> 00:09:16,380
+in fact, the heart of everything
+we'll be doing in Disney World,
+
+175
+00:09:16,456 --> 00:09:20,483
+will be our experimental
+prototype city of tomorrow.
+
+176
+00:09:22,529 --> 00:09:25,191
+We call it EPCOT.
+
+177
+00:09:25,265 --> 00:09:27,893
+Spelled E-P-C-O-T.
+
+178
+00:09:27,967 --> 00:09:32,495
+Experimental Prototype
+Community of Tomorrow.
+
+179
+00:09:32,572 --> 00:09:34,938
+Here it is, in larger scale.
+
+180
+00:09:40,146 --> 00:09:42,580
+EPCOT will take its cue
+
+181
+00:09:42,649 --> 00:09:45,447
+from the new ideas
+and new technologies
+
+182
+00:09:45,518 --> 00:09:48,112
+that are now emerging
+from the creative centers
+
+183
+00:09:48,188 --> 00:09:50,088
+of American industry.
+
+184
+00:09:50,156 --> 00:09:52,454
+It will be a community of tomorrow
+
+185
+00:09:52,525 --> 00:09:56,052
+that will never be completed,
+but will always be introducing
+
+186
+00:09:56,129 --> 00:10:00,862
+and testing and demonstrating
+new materials and new systems.
+
+187
+00:10:00,934 --> 00:10:03,801
+EPCOT will always be
+a showcase to the world
+
+188
+00:10:03,870 --> 00:10:06,566
+for the ingenuity and imagination
+
+189
+00:10:06,639 --> 00:10:08,573
+of American free enterprise.
+
+190
+00:10:08,641 --> 00:10:10,575
+I don't believe there's a challenge
+
+191
+00:10:10,643 --> 00:10:12,736
+anywhere in the world
+that's more important
+
+192
+00:10:12,812 --> 00:10:15,246
+to people everywhere,
+than finding solutions
+
+193
+00:10:15,315 --> 00:10:17,840
+to the problems of our cities.
+
+194
+00:10:17,917 --> 00:10:20,215
+But where do we begin?
+
+195
+00:10:20,286 --> 00:10:24,586
+How do we start answering
+this great challenge?
+
+196
+00:10:24,657 --> 00:10:29,458
+We're convinced we must start
+with the public need.
+
+197
+00:10:29,529 --> 00:10:33,898
+And the need is not just
+for curing the old ills of old cities.
+
+198
+00:10:33,967 --> 00:10:36,902
+We think the need is
+for starting from scratch
+
+199
+00:10:36,970 --> 00:10:41,737
+on virgin land and building
+a special kind of new community.
+
+200
+00:10:41,808 --> 00:10:43,742
+So that's what EPCOT is.
+
+201
+00:10:43,810 --> 00:10:46,608
+An experimental prototype community
+
+202
+00:10:46,679 --> 00:10:49,671
+that will always be
+in a state of becoming.
+
+203
+00:10:49,749 --> 00:10:53,617
+It will never cease to be
+a living blueprint of the future.
+
+204
+00:10:53,686 --> 00:10:55,483
+Where people actually live a life
+
+205
+00:10:55,555 --> 00:10:58,251
+they can't find anywhere else in the world.
+
+206
+00:10:58,324 --> 00:11:00,952
+Everything at EPCOT will be dedicated
+
+207
+00:11:01,027 --> 00:11:05,589
+to the happiness of the people
+who live, work and play here,
+
+208
+00:11:05,665 --> 00:11:07,792
+and those who come here
+from all around the world
+
+209
+00:11:07,867 --> 00:11:10,358
+to visit our living showcase.
+
+210
+00:11:10,436 --> 00:11:12,666
+We don't presume
+to know all the answers.
+
+211
+00:11:12,739 --> 00:11:15,299
+In fact, we're counting
+on the cooperation
+
+212
+00:11:15,375 --> 00:11:18,401
+of American industry to provide
+their very best thinking
+
+213
+00:11:18,478 --> 00:11:20,571
+during the planning and the creation
+
+214
+00:11:20,647 --> 00:11:24,105
+of our experimental prototype
+community of tomorrow.
+
+215
+00:11:24,184 --> 00:11:26,482
+And most important of all,
+
+216
+00:11:26,553 --> 00:11:29,044
+when EPCOT has become a reality,
+
+217
+00:11:29,122 --> 00:11:31,147
+and we find the need
+for technologies
+
+218
+00:11:31,224 --> 00:11:33,351
+that don't even exist today,
+
+219
+00:11:33,426 --> 00:11:37,226
+it's our hope that EPCOT
+will stimulate American industry
+
+220
+00:11:37,297 --> 00:11:41,290
+to develop new solutions that
+will meet the needs of people
+
+221
+00:11:41,367 --> 00:11:44,666
+expressed right here
+in this experimental community.
+
+222
+00:11:45,605 --> 00:11:48,506
+Well, that's our basic
+philosophy for EPCOT.
+
+223
+00:11:48,808 --> 00:11:50,503
+By now, I'm sure you're wondering
+
+224
+00:11:50,577 --> 00:11:53,671
+how people will actually
+live and work and move around
+
+225
+00:11:53,746 --> 00:11:55,737
+in our community of tomorrow.
+
+226
+00:11:55,815 --> 00:11:58,340
+So in the next few minutes,
+we'll go into detail
+
+227
+00:11:58,418 --> 00:12:01,615
+about some of our preliminary
+sketches and layouts.
+
+228
+00:12:01,688 --> 00:12:03,883
+"Remember those," I said earlier.
+
+229
+00:12:03,957 --> 00:12:05,891
+"This is just the beginning."
+
+230
+00:12:05,959 --> 00:12:09,019
+With that thought in mind,
+let's have a look.
+
+231
+00:12:10,930 --> 00:12:13,421
+<i> No city of today</i>
+<i>will serve as the guide</i>
+
+232
+00:12:13,499 --> 00:12:16,161
+<i>for the city of tomorrow.</i>
+
+233
+00:12:16,236 --> 00:12:18,534
+<i>EPCOT will be</i>
+<i>a planned environment,</i>
+
+234
+00:12:18,605 --> 00:12:22,268
+<i>demonstrating to the world</i>
+<i>what American communities</i>
+
+235
+00:12:22,342 --> 00:12:26,005
+<i>can accomplish through proper</i>
+<i>control of planning and design.</i>
+
+236
+00:12:27,113 --> 00:12:29,673
+<i>EPCOT begins with an idea</i>
+<i>new among cities</i>
+
+237
+00:12:29,749 --> 00:12:32,377
+<i>built since the birth of the automobile.</i>
+
+238
+00:12:32,785 --> 00:12:35,583
+<i>We call it "the radial plan."</i>
+
+239
+00:12:35,755 --> 00:12:37,780
+<i>Picture a wheel.</i>
+
+240
+00:12:37,857 --> 00:12:39,552
+<i>Like the spokes of the wheel,</i>
+
+241
+00:12:39,626 --> 00:12:42,595
+<i>the city fans out</i>
+<i>along a series of radials</i>
+
+242
+00:12:42,662 --> 00:12:45,790
+<i>from a bustling hub</i>
+<i>at the center of EPCOT.</i>
+
+243
+00:12:45,865 --> 00:12:48,231
+<i>A network</i>
+<i>of transportation systems</i>
+
+244
+00:12:48,301 --> 00:12:50,667
+<i>radiate from this central hub,</i>
+
+245
+00:12:50,737 --> 00:12:53,763
+<i>carrying people to and from</i>
+<i>the heart of the city.</i>
+
+246
+00:12:54,707 --> 00:12:58,370
+<i>These transportation systems</i>
+<i>circulate to and through</i>
+
+247
+00:12:58,444 --> 00:13:03,438
+<i>four primary spheres of activity</i>
+<i>surrounding the central core.</i>
+
+248
+00:13:03,516 --> 00:13:07,077
+<i>First, the area</i>
+<i>of business and commerce.</i>
+
+249
+00:13:08,421 --> 00:13:12,016
+<i>Next, the high density</i>
+<i>apartment housing.</i>
+
+250
+00:13:12,091 --> 00:13:15,925
+<i>Then, the broad green belt</i>
+<i>and recreation lands.</i>
+
+251
+00:13:15,995 --> 00:13:17,587
+<i>And finally,</i>
+
+252
+00:13:17,664 --> 00:13:21,725
+<i>the low density neighborhood</i>
+<i>residential streets.</i>
+
+253
+00:13:23,169 --> 00:13:25,763
+<i>EPCOT's dynamic urban center</i>
+
+254
+00:13:25,838 --> 00:13:28,534
+<i>will offer the excitement</i>
+<i>and variety of activities</i>
+
+255
+00:13:28,608 --> 00:13:30,701
+<i>found only in metropolitan cities.</i>
+
+256
+00:13:30,777 --> 00:13:34,440
+<i>Cultural, social, business</i>
+<i>and entertainment.</i>
+
+257
+00:13:35,481 --> 00:13:38,109
+<i>Among its major features will be:</i>
+
+258
+00:13:38,184 --> 00:13:41,312
+<i>A cosmopolitan hotel</i>
+<i>and convention center,</i>
+
+259
+00:13:41,387 --> 00:13:43,719
+<i>towering 30 or more stories.</i>
+
+260
+00:13:44,958 --> 00:13:48,018
+<i>Shopping areas, where stores</i>
+<i>and whole streets</i>
+
+261
+00:13:48,094 --> 00:13:52,656
+<i>recreate the character</i>
+<i>and adventure of places round the world.</i>
+
+262
+00:13:53,333 --> 00:13:56,393
+<i>Theaters for dramatic</i>
+<i>and musical productions.</i>
+
+263
+00:13:56,469 --> 00:13:59,802
+<i>Restaurants and a variety</i>
+<i>of nightlife attractions.</i>
+
+264
+00:14:00,773 --> 00:14:03,367
+<i>And a wide range</i>
+<i>of office buildings.</i>
+
+265
+00:14:03,443 --> 00:14:06,901
+<i>Some containing services</i>
+<i>required by EPCOT's residents,</i>
+
+266
+00:14:06,980 --> 00:14:09,312
+<i>but most of them designed especially</i>
+
+267
+00:14:09,382 --> 00:14:13,409
+<i>to suit the local and regional</i>
+<i>needs of major corporations.</i>
+
+268
+00:14:15,221 --> 00:14:16,813
+<i>But most important,</i>
+
+269
+00:14:16,889 --> 00:14:20,416
+<i>this entire 50 acres</i>
+<i>of city streets and buildings</i>
+
+270
+00:14:20,493 --> 00:14:23,223
+<i>will be completely enclosed.</i>
+
+271
+00:14:23,963 --> 00:14:26,431
+<i>In this climate-controlled environment,</i>
+
+272
+00:14:26,499 --> 00:14:29,991
+<i>shoppers and theatergoers and</i>
+<i>people just out for a stroll</i>
+
+273
+00:14:30,069 --> 00:14:33,163
+<i>will enjoy ideal weather conditions.</i>
+
+274
+00:14:33,239 --> 00:14:35,104
+<i>Protected day and night</i>
+
+275
+00:14:35,174 --> 00:14:39,235
+<i>from rain, heat and cold and humidity.</i>
+
+276
+00:14:41,314 --> 00:14:43,782
+<i>Here, the pedestrian will be king.</i>
+
+277
+00:14:44,317 --> 00:14:48,845
+<i>Free to walk and browse</i>
+<i>without fear of motorized vehicles.</i>
+
+278
+00:14:48,921 --> 00:14:52,152
+<i>Only electric powered vehicles</i>
+<i>will travel above the streets</i>
+
+279
+00:14:52,225 --> 00:14:54,523
+<i>of EPCOT's central city.</i>
+
+280
+00:14:57,330 --> 00:15:00,857
+<i>This towering hotel</i>
+<i>is the visual center of EPCOT.</i>
+
+281
+00:15:00,933 --> 00:15:03,834
+<i>The shining jewel</i>
+<i>at the center of the city.</i>
+
+282
+00:15:04,270 --> 00:15:06,602
+<i>It will offer tourists</i>
+<i>and vacationers not only</i>
+
+283
+00:15:06,672 --> 00:15:09,539
+<i>the most modern guest rooms</i>
+<i>and convention facilities,</i>
+
+284
+00:15:10,176 --> 00:15:13,612
+<i>but also a seven-acre recreation deck,</i>
+
+285
+00:15:13,679 --> 00:15:17,672
+<i>located high above the pedestrian</i>
+<i>and shopping areas of the city.</i>
+
+286
+00:15:20,053 --> 00:15:23,216
+<i>But hidden from view,</i>
+<i>directly beneath the hotel</i>
+
+287
+00:15:23,289 --> 00:15:25,553
+<i>is another kind of vital center.</i>
+
+288
+00:15:25,625 --> 00:15:28,219
+<i>EPCOT'S transportation lobby.</i>
+
+289
+00:15:28,761 --> 00:15:31,355
+<i>Although out of sight to hotel guests,</i>
+
+290
+00:15:31,431 --> 00:15:34,298
+<i>this transportation terminal</i>
+<i>will play a key role</i>
+
+291
+00:15:34,367 --> 00:15:36,665
+<i>in the city of tomorrow's</i>
+<i>ability to meet the needs</i>
+
+292
+00:15:36,736 --> 00:15:38,897
+<i>of both visitor and resident.</i>
+
+293
+00:15:40,573 --> 00:15:43,906
+<i>Two separate but interconnecting</i>
+<i>transit systems will move people</i>
+
+294
+00:15:43,976 --> 00:15:47,844
+<i>into and out of EPCOT</i>
+<i>in speed, safety and comfort</i>
+
+295
+00:15:47,914 --> 00:15:50,542
+<i>through this central terminal.</i>
+
+296
+00:15:50,616 --> 00:15:52,982
+<i>Both are electrically powered.</i>
+
+297
+00:15:53,052 --> 00:15:57,455
+<i>The high speed monorail for rapid transit</i>
+<i>over longer distances,</i>
+
+298
+00:15:57,523 --> 00:15:59,548
+<i>and a concept new to the American city</i>
+
+299
+00:15:59,625 --> 00:16:04,494
+<i>for shorter travel distances,</i>
+<i>the WEDWAY People Mover.</i>
+
+300
+00:16:05,198 --> 00:16:08,190
+<i>Automobiles and trucks</i>
+<i>will not be barred from EPCOT.</i>
+
+301
+00:16:08,267 --> 00:16:10,827
+<i>In fact, a vast armada of vehicles</i>
+
+302
+00:16:10,903 --> 00:16:13,701
+<i>will continuously flow through</i>
+<i>the heart of the community</i>
+
+303
+00:16:13,773 --> 00:16:16,241
+<i>traveling below the pedestrian level</i>
+
+304
+00:16:16,309 --> 00:16:19,836
+<i>on roadways reserved</i>
+<i>for specific types of vehicles.</i>
+
+305
+00:16:21,114 --> 00:16:24,515
+<i>Let's look at another view</i>
+<i>of EPCOT's transportation hub,</i>
+
+306
+00:16:24,584 --> 00:16:27,109
+<i>and see how traffic flows</i>
+<i>through the heart of the city</i>
+
+307
+00:16:27,186 --> 00:16:29,677
+<i>on three separate levels.</i>
+
+308
+00:16:29,755 --> 00:16:31,950
+<i>At the bottom of the stack</i>
+<i>is the truck route,</i>
+
+309
+00:16:32,024 --> 00:16:36,188
+<i>reserved for supply vehicles.</i>
+<i>Trucks will have easy access</i>
+
+310
+00:16:36,262 --> 00:16:38,423
+<i>to all loading docks</i>
+<i>and service elevators</i>
+
+311
+00:16:38,498 --> 00:16:40,728
+<i>for the delivery of commercial goods.</i>
+
+312
+00:16:41,167 --> 00:16:43,397
+<i>The middle level</i>
+<i>is the automobile thruway,</i>
+
+313
+00:16:43,469 --> 00:16:45,664
+<i>exclusively for cars.</i>
+
+314
+00:16:45,738 --> 00:16:48,138
+<i>Adjacent to the roadway</i>
+<i>are parking areas</i>
+
+315
+00:16:48,207 --> 00:16:50,869
+<i>for the convenience of hotel guests.</i>
+
+316
+00:16:50,943 --> 00:16:53,343
+<i>For the motorist just driving through,</i>
+
+317
+00:16:53,412 --> 00:16:56,779
+<i>no stoplight will ever slow</i>
+<i>the constant flow of traffic</i>
+
+318
+00:16:56,849 --> 00:16:59,010
+<i>through the center of EPCOT.</i>
+
+319
+00:17:00,920 --> 00:17:04,378
+<i>But automobiles and freeways</i>
+<i>will not be EPCOT's major way</i>
+
+320
+00:17:04,457 --> 00:17:06,448
+<i>of entering and leaving the city.</i>
+
+321
+00:17:07,426 --> 00:17:09,792
+<i>The transportation heartbeat of EPCOT</i>
+
+322
+00:17:10,096 --> 00:17:12,656
+<i>will be the two electric powered systems:</i>
+
+323
+00:17:12,732 --> 00:17:15,326
+<i>Monorail and WEDWAY,</i>
+
+324
+00:17:15,401 --> 00:17:19,633
+<i>that radiate to and from</i>
+<i>the transportation lobby.</i>
+
+325
+00:17:19,739 --> 00:17:22,537
+<i>And the key system</i>
+<i>in this coordinated network</i>
+
+326
+00:17:22,608 --> 00:17:25,076
+<i>will be the WEDWAY People Mover.</i>
+
+327
+00:17:26,612 --> 00:17:31,049
+<i>The first People Mover installation is</i>
+<i>already in daily operation at Disneyland.</i>
+
+328
+00:17:31,517 --> 00:17:34,953
+<i>On peak days, it carries</i>
+<i>nearly 40,000 passengers.</i>
+
+329
+00:17:37,423 --> 00:17:41,826
+<i>The cars you see here are approximately</i>
+<i>5/8ths scale, considerably smaller</i>
+
+330
+00:17:41,894 --> 00:17:44,692
+<i>than full size passenger cars</i>
+<i>would be for city use.</i>
+
+331
+00:17:46,299 --> 00:17:47,994
+<i>EPCOT's People Mover is a silent,</i>
+
+332
+00:17:48,067 --> 00:17:51,503
+<i>all electric system</i>
+<i>that never stops running.</i>
+
+333
+00:18:05,885 --> 00:18:08,285
+<i>These cars continue to move</i>
+<i>even while passengers</i>
+
+334
+00:18:08,354 --> 00:18:11,084
+<i>are disembarking or stepping aboard.</i>
+
+335
+00:18:19,298 --> 00:18:22,495
+<i>Power is supplied from a series</i>
+<i>of motors embedded in the track,</i>
+
+336
+00:18:22,568 --> 00:18:25,435
+<i>completely independent of the cars.</i>
+
+337
+00:18:25,504 --> 00:18:27,631
+<i>No single car can ever break down,</i>
+
+338
+00:18:27,707 --> 00:18:31,040
+<i>and cause a rush hour</i>
+<i>traffic jam in EPCOT.</i>
+
+339
+00:18:31,577 --> 00:18:34,045
+<i>Because the cars run continuously,</i>
+
+340
+00:18:34,113 --> 00:18:37,571
+<i>there will be no waiting in stations</i>
+<i>for a WEDWAY People Mover.</i>
+
+341
+00:18:37,650 --> 00:18:40,551
+<i>The next car is always ready.</i>
+
+342
+00:18:46,058 --> 00:18:48,458
+<i>Now let's go back to</i>
+<i>the transportation lobby,</i>
+
+343
+00:18:48,527 --> 00:18:51,052
+<i>and see how the WEDWAY</i>
+<i>will travel along one radial</i>
+
+344
+00:18:51,130 --> 00:18:53,030
+<i>between the center of EPCOT,</i>
+
+345
+00:18:53,099 --> 00:18:55,533
+<i>and a typical residential area.</i>
+
+346
+00:18:55,601 --> 00:18:57,626
+<i>Leaving the transportation lobby,</i>
+
+347
+00:18:57,703 --> 00:19:01,195
+<i>the WEDWAY trains travel</i>
+<i>above the downtown streets.</i>
+
+348
+00:19:05,411 --> 00:19:07,003
+<i>Within minutes,</i>
+
+349
+00:19:07,079 --> 00:19:09,013
+<i>the WEDWAYpasses through</i>
+<i>the first station.</i>
+
+350
+00:19:10,016 --> 00:19:10,948
+<i>Many people who work</i>
+
+351
+00:19:11,017 --> 00:19:13,679
+<i>in the offices and stores</i>
+<i>of EPCOT city center</i>
+
+352
+00:19:13,753 --> 00:19:16,745
+<i>board the WEDWAY here</i>
+<i>for their trip home.</i>
+
+353
+00:19:16,822 --> 00:19:19,256
+<i>Some people leave</i>
+<i>the WEDWAY here, too.</i>
+
+354
+00:19:19,325 --> 00:19:21,793
+<i>They live in EPCOT's</i>
+<i>high density apartments,</i>
+
+355
+00:19:21,861 --> 00:19:24,796
+<i>surrounding the metropolitan center.</i>
+
+356
+00:19:25,665 --> 00:19:27,462
+<i>Most passengers who ride the WEDWAY</i>
+
+357
+00:19:27,533 --> 00:19:30,434
+<i>live beyond the apartments and</i>
+<i>stay aboard the People Mover</i>
+
+358
+00:19:30,503 --> 00:19:34,496
+<i>as it crosses EPCOT's</i>
+<i>sheltering green belt.</i>
+
+359
+00:19:35,508 --> 00:19:38,170
+<i>EPCOT's green belt is more</i>
+<i>than just a broad expanse</i>
+
+360
+00:19:38,244 --> 00:19:41,407
+<i>of beautiful lawns</i>
+<i>and walks and trees.</i>
+
+361
+00:19:41,480 --> 00:19:44,677
+<i>Here too are the community's</i>
+<i>varied recreational facilities.</i>
+
+362
+00:19:44,750 --> 00:19:46,877
+<i>Its playgrounds for children,</i>
+
+363
+00:19:46,952 --> 00:19:50,319
+<i>its churches and its schools.</i>
+
+364
+00:19:50,389 --> 00:19:52,914
+<i>Beyond the green belt are</i>
+<i>EPCOT's neighborhood areas</i>
+
+365
+00:19:52,992 --> 00:19:54,926
+<i>of single family homes.</i>
+
+366
+00:19:55,394 --> 00:19:57,726
+<i>This is one radial neighborhood.</i>
+
+367
+00:19:58,264 --> 00:20:02,792
+<i>Here, and throughout the community,</i>
+<i>residents returning from work or shopping</i>
+
+368
+00:20:02,868 --> 00:20:06,861
+<i>will disembark from the WEDWAY</i>
+<i>at stations located just a few steps</i>
+
+369
+00:20:06,939 --> 00:20:09,703
+<i>from where they live.</i>
+
+370
+00:20:09,775 --> 00:20:12,107
+<i>The homes are located</i>
+<i>in a wide green area</i>
+
+371
+00:20:12,178 --> 00:20:15,341
+<i>that provides light recreation</i>
+<i>activities for adults,</i>
+
+372
+00:20:15,414 --> 00:20:18,747
+<i>and play areas for children.</i>
+
+373
+00:20:19,218 --> 00:20:20,810
+<i>Circulating through this area</i>
+
+374
+00:20:20,886 --> 00:20:23,081
+<i>are footpaths reserved for pedestrians,</i>
+
+375
+00:20:23,155 --> 00:20:25,680
+<i>electric carts and bicycles.</i>
+
+376
+00:20:26,225 --> 00:20:28,750
+<i>Children going to and from</i>
+<i>schools and playgrounds</i>
+
+377
+00:20:28,828 --> 00:20:30,762
+<i>will use these paths.</i>
+
+378
+00:20:30,930 --> 00:20:35,162
+<i>Always completely safe and separated</i>
+<i>from the automobile.</i>
+
+379
+00:20:36,602 --> 00:20:39,093
+<i>The resident leaving home</i>
+<i>in his automobile</i>
+
+380
+00:20:39,171 --> 00:20:42,800
+<i>will drive down a street</i>
+<i>reserved for motor vehicles.</i>
+
+381
+00:20:42,875 --> 00:20:47,141
+<i>He then enters a one-way road</i>
+<i>that circles the city center.</i>
+
+382
+00:20:47,213 --> 00:20:49,875
+<i>This road carries the motorist</i>
+<i>onto the main thruway,</i>
+
+383
+00:20:49,949 --> 00:20:52,975
+<i>connecting EPCOT with</i>
+<i>other points in Disney World</i>
+
+384
+00:20:53,052 --> 00:20:57,352
+<i>and with Florida's nearby</i>
+<i>network of major highways.</i>
+
+385
+00:20:57,656 --> 00:21:00,386
+<i>But most EPCOT residents</i>
+<i>will drive their automobiles</i>
+
+386
+00:21:00,459 --> 00:21:03,087
+<i>only on weekend pleasure trips.</i>
+
+387
+00:21:03,162 --> 00:21:06,689
+<i>From all over the community,</i>
+<i>residents going to theirjobs</i>
+
+388
+00:21:06,766 --> 00:21:09,860
+<i>converge by WEDWAY on the center city.</i>
+
+389
+00:21:09,935 --> 00:21:13,837
+<i>Many work downtown in offices,</i>
+<i>stores and shops.</i>
+
+390
+00:21:14,173 --> 00:21:17,973
+<i>But most employees go beyond</i>
+<i>the city core to theirjobs.</i>
+
+391
+00:21:19,545 --> 00:21:23,276
+<i>From the transportation lobby,</i>
+<i>monorail trains carry employees</i>
+
+392
+00:21:23,349 --> 00:21:25,249
+<i>either to the theme park,</i>
+
+393
+00:21:25,785 --> 00:21:29,084
+<i>or to EPCOT's 1,000-acre industrial park.</i>
+
+394
+00:21:31,424 --> 00:21:34,552
+<i>At this central station</i>
+<i>in the industrial complex</i>
+
+395
+00:21:34,627 --> 00:21:36,788
+<i>passengers disembark from the monorail</i>
+
+396
+00:21:36,862 --> 00:21:42,061
+<i>and again board WEDWAY cars</i>
+<i>that radiate to each facility.</i>
+
+397
+00:21:42,134 --> 00:21:44,864
+<i>This industrial complex</i>
+<i>will provide employment</i>
+
+398
+00:21:44,937 --> 00:21:47,531
+<i>for many people who live in EPCOT.</i>
+
+399
+00:21:47,606 --> 00:21:50,905
+<i>But it will mean much more,</i>
+<i>not only for this community</i>
+
+400
+00:21:50,976 --> 00:21:53,501
+<i>but also for American industry.</i>
+
+401
+00:21:55,381 --> 00:21:58,441
+<i>Here, the Disney staff will</i>
+<i>work with individual companies</i>
+
+402
+00:21:58,517 --> 00:22:02,453
+<i>to create a showcase of industry at work.</i>
+
+403
+00:22:05,024 --> 00:22:07,424
+<i>In attractive park-like settings,</i>
+
+404
+00:22:07,493 --> 00:22:10,985
+<i>the six million people</i>
+<i>who visit Disney World each year</i>
+
+405
+00:22:11,063 --> 00:22:14,658
+<i>will look behind the scenes</i>
+<i>at experimental prototype plants,</i>
+
+406
+00:22:14,733 --> 00:22:16,997
+<i>research and development laboratories,</i>
+
+407
+00:22:17,069 --> 00:22:20,596
+<i>and computer centers</i>
+<i>for major corporations.</i>
+
+408
+00:22:21,574 --> 00:22:23,269
+<i>So this is EPCOT,</i>
+
+409
+00:22:23,342 --> 00:22:25,469
+<i>the heart of Disney World.</i>
+
+410
+00:22:26,212 --> 00:22:27,941
+<i>In other parts of the country,</i>
+
+411
+00:22:28,013 --> 00:22:29,947
+<i>a community the size of this prototype</i>
+
+412
+00:22:30,015 --> 00:22:32,540
+<i>could become part</i>
+<i>of an entire city complex,</i>
+
+413
+00:22:32,618 --> 00:22:34,882
+<i>composed of many such communities,</i>
+
+414
+00:22:34,954 --> 00:22:38,515
+<i>planned and built a few miles apart.</i>
+
+415
+00:22:38,591 --> 00:22:41,651
+<i>In Disney World, about 20,000 people</i>
+
+416
+00:22:41,727 --> 00:22:43,922
+<i>will actually live in EPCOT.</i>
+
+417
+00:22:43,996 --> 00:22:45,623
+<i>Their homes will be built in ways</i>
+
+418
+00:22:45,698 --> 00:22:47,598
+<i>that permit ease of change,</i>
+
+419
+00:22:47,666 --> 00:22:51,261
+<i>so that new products may</i>
+<i>continuously be demonstrated.</i>
+
+420
+00:22:51,337 --> 00:22:53,931
+<i>Their schools will welcome new ideas,</i>
+
+421
+00:22:54,006 --> 00:22:56,497
+<i>so that everyone who grows up in EPCOT</i>
+
+422
+00:22:56,575 --> 00:22:59,806
+<i>will have skills in pace</i>
+<i>with today's world.</i>
+
+423
+00:22:59,879 --> 00:23:01,972
+<i>EPCOT will be a working community,</i>
+
+424
+00:23:02,047 --> 00:23:06,313
+<i>with employment for all.</i>
+<i>And everyone who lives here</i>
+
+425
+00:23:06,385 --> 00:23:09,548
+<i>will have a responsibility</i>
+<i>to help keep this community</i>
+
+426
+00:23:09,622 --> 00:23:13,149
+<i>an exciting, living blueprint of the future.</i>
+
+427
+00:23:13,225 --> 00:23:16,592
+<i>And now, here again,</i>
+<i>is Walt Disney.</i>
+
+428
+00:23:17,630 --> 00:23:20,463
+That's the starting point
+for our experimental prototype
+
+429
+00:23:20,533 --> 00:23:22,524
+community of tomorrow.
+
+430
+00:23:22,601 --> 00:23:26,401
+Now, where do we go from these
+preliminary plans and sketches?
+
+431
+00:23:26,472 --> 00:23:29,908
+Well, a project like this
+is so vast in scope
+
+432
+00:23:29,975 --> 00:23:33,502
+that no one company alone
+can make it a reality.
+
+433
+00:23:33,579 --> 00:23:36,639
+But if we can bring together
+the technical know-how
+
+434
+00:23:36,715 --> 00:23:39,809
+of American industry
+and the creative imagination
+
+435
+00:23:39,885 --> 00:23:41,853
+of the Disney organization,
+
+436
+00:23:41,921 --> 00:23:45,550
+I'm confident we can create
+right here in Disney World
+
+437
+00:23:45,624 --> 00:23:47,615
+a showcase to the world
+
+438
+00:23:47,693 --> 00:23:50,491
+of the American free enterprise system.
+
+439
+00:23:50,563 --> 00:23:52,724
+I believe we can build a community
+
+440
+00:23:52,798 --> 00:23:54,732
+that more people will talk about
+
+441
+00:23:54,800 --> 00:23:59,430
+and come to look at
+than any other area in the world.
+
+442
+00:23:59,505 --> 00:24:01,735
+And with your cooperation,
+
+443
+00:24:01,807 --> 00:24:06,073
+I'm sure this experimental
+prototype community of tomorrow
+
+444
+00:24:06,145 --> 00:24:09,137
+can influence the future of city living
+
+445
+00:24:09,214 --> 00:24:13,617
+for generations to come.
+It's an exciting challenge.
+
+446
+00:24:13,686 --> 00:24:15,745
+A once in a lifetime opportunity
+
+447
+00:24:15,821 --> 00:24:18,585
+for everyone who participates.
+
+448
+00:24:18,657 --> 00:24:22,115
+Speaking for myself and
+the entire Disney organization,
+
+449
+00:24:22,995 --> 00:24:24,826
+we're ready to go right now.

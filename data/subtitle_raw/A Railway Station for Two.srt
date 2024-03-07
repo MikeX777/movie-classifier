@@ -1,0 +1,3863 @@
+1
+00:00:01,920 --> 00:00:11,795
+MOSFILM
+
+2
+00:00:34,800 --> 00:00:36,677
+- Golyabkin!
+- Here!
+
+3
+00:00:36,960 --> 00:00:39,030
+- Blokhin!
+- Here!
+
+4
+00:00:39,400 --> 00:00:40,719
+- Ivanov!
+- Here!
+
+5
+00:00:41,560 --> 00:00:43,437
+- Fomichyov!
+- Here!
+
+6
+00:00:44,000 --> 00:00:45,877
+- Goryshkin!
+- Here!
+
+7
+00:00:46,640 --> 00:00:48,517
+- Borovsky!
+- Here!
+
+8
+00:00:48,800 --> 00:00:50,119
+- Kukunin!
+- Here!
+
+9
+00:00:50,560 --> 00:00:52,118
+- Alimov!
+- Here!
+
+10
+00:00:52,400 --> 00:00:54,038
+- Ryabinin!
+- Here!
+
+11
+00:00:55,720 --> 00:01:00,350
+The roll call of Section 2 done.
+No one absent without leave.
+
+12
+00:01:00,800 --> 00:01:03,678
+The roll call of Section 3 done.
+No one absent without leave.
+
+13
+00:01:03,960 --> 00:01:07,032
+The roll call of Section 4 done.
+No one absent without leave.
+
+14
+00:01:07,320 --> 00:01:09,834
+- Take them to the barracks.
+- Yes, sir!
+
+15
+00:01:10,320 --> 00:01:11,309
+Section!
+
+16
+00:01:11,800 --> 00:01:15,588
+Left turn! Quick march!
+
+17
+00:01:16,680 --> 00:01:20,275
+Ryabinin, stay behind.
+Come here.
+
+18
+00:01:26,640 --> 00:01:28,517
+You're lucky, your wife's here.
+
+19
+00:01:30,000 --> 00:01:31,877
+- Why?
+- She wants a visit with you.
+
+20
+00:01:32,160 --> 00:01:34,674
+I didn't ask her to. I don't want
+this visit.
+
+21
+00:01:34,920 --> 00:01:40,119
+She took a train, then a plane,
+then a 24-hour bumpy truck ride.
+
+22
+00:01:40,400 --> 00:01:41,879
+I don't care, I'm not going.
+
+23
+00:01:42,160 --> 00:01:44,594
+You will go without convoy.
+I trust you.
+
+24
+00:01:45,080 --> 00:01:46,354
+Where to?
+
+25
+00:01:46,640 --> 00:01:50,110
+She's taken a room in the village.
+Here, the address.
+
+26
+00:01:50,400 --> 00:01:52,277
+You drop by Ivan Gerasimovich
+
+27
+00:01:53,160 --> 00:01:55,355
+and pick up the accordion he fixed.
+
+28
+00:01:55,800 --> 00:01:59,873
+You're a musician, this is your
+department. Check if he fixed it right.
+
+29
+00:02:00,160 --> 00:02:02,037
+- Yes, sir.
+- That's better.
+
+30
+00:02:02,320 --> 00:02:07,030
+You can't refuse to go
+to pick up the accordion.
+
+31
+00:02:07,800 --> 00:02:11,031
+But mind you, Ryabinin,
+at 8 sharp you are to stand in line.
+
+32
+00:02:11,480 --> 00:02:17,430
+Your leave is until the morning roll
+call. Tardiness will mean an escape.
+
+33
+00:03:00,720 --> 00:03:02,199
+How far is the village?
+
+34
+00:03:02,480 --> 00:03:04,869
+Not far, about nine or ten kilometers.
+
+35
+00:03:05,160 --> 00:03:08,596
+And don't think of bringing in booze,
+a knife or money. I'll find it anyway.
+
+36
+00:03:08,920 --> 00:03:10,353
+I know.
+
+37
+00:03:13,920 --> 00:03:17,435
+Your pass is good until 8 a.m.
+Be here on the dot.
+
+38
+00:03:17,720 --> 00:03:21,190
+If you're late, it'll mean an escape.
+You'll do an additional time. Go!
+
+39
+00:04:04,720 --> 00:04:06,790
+LUDMILA GURCHENKO
+
+40
+00:04:07,080 --> 00:04:12,279
+OLEG BASSILASHVILI
+
+41
+00:04:15,920 --> 00:04:19,595
+in an ELDAR RYAZANOV film
+
+42
+00:04:24,320 --> 00:04:29,519
+A RAILWAY STATION FOR TWO
+
+43
+00:04:35,160 --> 00:04:39,870
+Written by Emil BRAGINSKY
+Eldar RYAZANOV
+
+44
+00:04:40,400 --> 00:04:44,279
+Director of Photography
+Vadim ALISSOV
+
+45
+00:04:44,720 --> 00:04:48,679
+Production Designer
+Alexander BORISOV
+
+46
+00:04:49,240 --> 00:04:52,596
+Music by
+Andrei PETROV
+
+47
+00:05:00,720 --> 00:05:05,032
+Song Lyrics by Eldar RYAZANOV
+
+48
+00:05:09,920 --> 00:05:17,429
+English Subtitles by
+T. Kameneva
+
+49
+00:05:31,160 --> 00:05:33,196
+Cast:
+
+50
+00:05:36,800 --> 00:05:40,509
+Andrei - Nikita MIKHALKOV
+
+51
+00:05:41,000 --> 00:05:44,675
+Uncle Misha - Nonna MORDYUKOVA
+
+52
+00:05:45,080 --> 00:05:47,196
+Nikolasha - Mikhail KONONOV
+
+53
+00:05:47,480 --> 00:05:51,871
+Yulia - Anastasia VOZNESENSKAYA
+Marina - Tatiana DOGILEVA
+
+54
+00:05:55,480 --> 00:06:00,793
+Violetta - Olga VOLKOVA
+Shurik - Alexander SHIRVINDT
+
+55
+00:06:01,080 --> 00:06:04,595
+Lyuda - Raissa ETUSH
+Melon vendor - Temur YUNGUSOV
+
+56
+00:06:19,480 --> 00:06:23,109
+Attention, passengers! Our train
+arrives in the city of Zastupinsk.
+
+57
+00:06:23,400 --> 00:06:25,960
+The stop duration is twenty minutes.
+
+58
+00:07:15,160 --> 00:07:16,878
+Yura, reserve a seat for me.
+
+59
+00:07:20,720 --> 00:07:22,278
+What will they give us to eat?
+
+60
+00:07:23,160 --> 00:07:24,593
+Pass me the salt, please.
+
+61
+00:07:26,720 --> 00:07:29,871
+Good afternoon, comrades!
+Bon appetite!
+
+62
+00:07:30,160 --> 00:07:33,038
+- Miss!
+- Just a minute.
+
+63
+00:07:34,720 --> 00:07:36,278
+Can you come to me?
+
+64
+00:07:36,560 --> 00:07:38,790
+- We have no mineral water.
+- What about green salad?
+
+65
+00:07:39,160 --> 00:07:41,037
+It's not included in the lunch of
+the day.
+
+66
+00:07:41,320 --> 00:07:42,878
+Please, bring me some diet food.
+
+67
+00:07:43,480 --> 00:07:44,959
+May I have a fork?
+
+68
+00:07:45,240 --> 00:07:47,435
+Please, some diet food.
+
+69
+00:07:47,720 --> 00:07:51,190
+Your train will leave
+before they prepare your diet food.
+
+70
+00:07:51,480 --> 00:07:54,278
+If you got an ulcer, you'd better eat
+at home, not at a restaurant.
+
+71
+00:07:55,560 --> 00:07:58,597
+Just the sight of this food
+may provoke ulcer.
+
+72
+00:07:58,920 --> 00:08:03,038
+Prepare 1 ruble 20 kopecks for
+the lunch. Exact change if possible.
+
+73
+00:08:03,320 --> 00:08:06,039
+- Can I have a beer?
+- We don't have beer.
+
+74
+00:08:06,320 --> 00:08:07,673
+I can't eat this.
+
+75
+00:08:08,720 --> 00:08:10,790
+Miss, here's 1 ruble 20 kopecks.
+
+76
+00:08:12,720 --> 00:08:14,438
+Take the money, please.
+
+77
+00:08:15,920 --> 00:08:17,797
+What about the money?
+
+78
+00:08:18,080 --> 00:08:21,516
+For this lunch you should pay to us.
+The money's on the table.
+
+79
+00:08:23,640 --> 00:08:25,198
+Who took the money?
+
+80
+00:08:26,240 --> 00:08:29,198
+In your line of work
+you should first take the money.
+
+81
+00:08:29,480 --> 00:08:33,871
+All right. Who took the money?
+Comrades! Girls! Thanks.
+
+82
+00:08:34,160 --> 00:08:37,789
+One has already left.
+One left without paying, girls.
+
+83
+00:08:39,920 --> 00:08:41,797
+Please, pay for your lunch.
+
+84
+00:08:42,400 --> 00:08:47,474
+Just imagine, thatjerk with
+a fat mug... Where're you going?
+
+85
+00:08:47,720 --> 00:08:51,030
+I didn't eat anything. My lunch
+is over there, I didn't touch it.
+
+86
+00:08:51,320 --> 00:08:53,880
+How can I know whether you ate it
+or not. One ruble 20 kopecks, please.
+
+87
+00:08:54,160 --> 00:08:58,676
+I never touched it. I wouldn't eat it!
+Someone already ate it.
+
+88
+00:09:00,080 --> 00:09:02,799
+Come on, stop your tricks.
+Pay me 1 ruble 20 kopecks.
+
+89
+00:09:03,080 --> 00:09:06,436
+I didn't eat and I'm not going to pay.
+I'll late for the train. Let me go.
+
+90
+00:09:06,720 --> 00:09:10,110
+We don't earn enough
+to pay for all of you!
+
+91
+00:09:10,400 --> 00:09:15,030
+Come on, you restaurant waitresses
+can pay for everybody.
+
+92
+00:09:16,160 --> 00:09:17,798
+I'm late for my train!
+
+93
+00:09:18,920 --> 00:09:22,674
+- Call the police! Jerk!
+- Fine, go call the police.
+
+94
+00:09:24,080 --> 00:09:27,197
+You may the whole police department.
+I didn't eat and I'm not going to pay!
+
+95
+00:09:27,480 --> 00:09:29,789
+- You will!
+- You'll see.
+
+96
+00:09:30,080 --> 00:09:32,196
+- Some dude!
+- Call the police!
+
+97
+00:09:32,480 --> 00:09:33,435
+City slicker!
+
+98
+00:09:35,160 --> 00:09:37,196
+Nikolasha! This one won't pay.
+
+99
+00:09:37,640 --> 00:09:41,792
+I'm not going to pay, I didn't eat.
+This is a matter of principle.
+
+100
+00:09:42,080 --> 00:09:44,799
+This man asked for diet food.
+
+101
+00:09:45,080 --> 00:09:48,789
+I said we don't have time.
+Then he ate the lunch of the day...
+
+102
+00:09:49,320 --> 00:09:50,878
+We'll investigate, comrades.
+
+103
+00:09:51,320 --> 00:09:54,198
+What do you mean, investigate?
+Are you going to examine my stomach?
+
+104
+00:09:54,480 --> 00:09:57,597
+- He ate it and won't pay!
+- I didn't eat. Aren't you ashamed?
+
+105
+00:09:58,320 --> 00:10:02,791
+We'll draw up a report of
+what you ate for 1 ruble 20 kopecks...
+
+106
+00:10:03,080 --> 00:10:06,959
+I didn't eat, and she says I did.
+It's a matter of principle, you know.
+
+107
+00:10:07,240 --> 00:10:12,360
+I didn't eat. While you make up
+your report, my train will leave.
+
+108
+00:10:12,640 --> 00:10:14,949
+Don't worry, I do it very quickly.
+
+109
+00:10:15,320 --> 00:10:17,515
+- Which train is yours?
+- To Dushanbe.
+
+110
+00:10:17,800 --> 00:10:22,032
+His train has already left. It serves
+him right for being miserly.
+
+111
+00:10:22,480 --> 00:10:23,879
+Wait!
+
+112
+00:10:25,720 --> 00:10:27,039
+He missed it!
+
+113
+00:10:28,560 --> 00:10:30,278
+His train went choo-choo!
+
+114
+00:10:30,920 --> 00:10:32,672
+Stop the train!
+
+115
+00:10:39,320 --> 00:10:43,791
+Now we got him! I'll have
+my ruble and twenty kopecks.
+
+116
+00:10:44,400 --> 00:10:46,038
+Nikolasha, follow me!
+
+117
+00:10:49,720 --> 00:10:53,952
+By how you sweep
+people judge about our city.
+
+118
+00:10:54,240 --> 00:10:55,434
+I'm a deputy stationmaster.
+
+119
+00:10:55,720 --> 00:11:00,794
+You see, she insists I pay
+for the lunch I didn't eat.
+
+120
+00:11:01,080 --> 00:11:04,629
+It's a matter of principle, you see?
+You can't eat at that restaurant.
+
+121
+00:11:04,920 --> 00:11:08,799
+I don't go to restaurants,
+my wife is a great cook.
+
+122
+00:11:09,080 --> 00:11:11,036
+Restaurants are not under my
+jurisdiction.
+
+123
+00:11:11,320 --> 00:11:15,950
+Because of her I missed my train.
+I need to go to Griboyedov.
+
+124
+00:11:17,080 --> 00:11:20,117
+My dear passenger, one should be
+more careful while traveling.
+
+125
+00:11:20,400 --> 00:11:24,359
+The railway means punctuality,
+comfort and cleanliness.
+
+126
+00:11:24,640 --> 00:11:28,792
+The next train that goes through
+Griboyedov is the Frunze one.
+
+127
+00:11:29,080 --> 00:11:30,798
+It will be here at 20:46.
+
+128
+00:11:31,080 --> 00:11:33,116
+But my ticket is in the train.
+
+129
+00:11:33,400 --> 00:11:36,039
+Will you pay 1 ruble 20 kopecks
+or shall we draw up a report?
+
+130
+00:11:36,320 --> 00:11:41,189
+He looks like a decent man,
+and won't pay for his lunch.
+
+131
+00:11:41,480 --> 00:11:45,268
+I see. Nikolasha, deal with it.
+Vera, how about "Borzhomi"?
+
+132
+00:11:45,800 --> 00:11:48,109
+Everything's all right, I got five
+bottles for you.
+
+133
+00:11:48,400 --> 00:11:52,188
+As for your ticket, come to me 15
+minutes before the train's departure.
+
+134
+00:11:52,480 --> 00:11:54,789
+We'll think of something, we'll take
+care of you.
+
+135
+00:11:55,080 --> 00:11:58,117
+And if he doesn't pay,
+we're going to take care of him!
+
+136
+00:12:05,640 --> 00:12:08,279
+You'd better pay, filing a report
+will cost you much more.
+
+137
+00:12:15,640 --> 00:12:21,590
+Here's three rubles for what
+I haven't eaten. Keep the change.
+
+138
+00:12:22,480 --> 00:12:25,199
+- No, I don't need your change.
+- That'll be your tip.
+
+139
+00:12:25,480 --> 00:12:27,277
+What if I never take tips?
+
+140
+00:12:27,560 --> 00:12:30,199
+I didn't know that.
+Perhaps you never short-change either?
+
+141
+00:12:30,480 --> 00:12:31,799
+Perhaps.
+
+142
+00:12:33,480 --> 00:12:39,271
+Lieutenant, you'll be my witness
+that I gave him his lousy change.
+
+143
+00:12:40,480 --> 00:12:43,358
+There. We're quits.
+
+144
+00:12:49,800 --> 00:12:51,677
+Hi, Petya!
+
+145
+00:13:01,640 --> 00:13:02,959
+Bitch!
+
+146
+00:13:11,080 --> 00:13:14,629
+Will you be so kind to tell me,
+if it's not too much trouble to you,
+
+147
+00:13:14,920 --> 00:13:17,593
+which tables you're not serving,
+so that I know where to sit.
+
+148
+00:13:18,400 --> 00:13:19,799
+Thank you very much.
+
+149
+00:13:21,320 --> 00:13:23,880
+Lyuda, take care of that comrade.
+
+150
+00:13:25,240 --> 00:13:27,515
+But first make him pay.
+
+151
+00:13:27,800 --> 00:13:30,678
+Take care of the comrade herself,
+Shurik is here to see me.
+
+152
+00:13:30,960 --> 00:13:34,794
+Hi, Shurik!
+Shurik, will you sing for us tonight?
+
+153
+00:13:36,320 --> 00:13:37,958
+I've prepared a new song.
+
+154
+00:13:38,240 --> 00:13:40,196
+Terrific! I'll look forward to it.
+
+155
+00:13:40,480 --> 00:13:42,630
+Come to your senses!
+
+156
+00:13:42,920 --> 00:13:45,878
+- What? Why?
+- Doing it in broad daylight...
+
+157
+00:13:51,160 --> 00:13:54,436
+You're a shrew. I'll never in my life
+eat anything from your hands.
+
+158
+00:13:55,480 --> 00:13:57,436
+Shurik, did I do anything to him?
+
+159
+00:13:57,720 --> 00:13:59,676
+If I were you, I'd kill him
+with a tray.
+
+160
+00:14:00,080 --> 00:14:06,872
+Attention, students of Zastupinsk
+Pedagogical Institute,
+
+161
+00:14:07,560 --> 00:14:10,677
+you can get your food vouchers
+in Hall No.2.
+
+162
+00:14:11,920 --> 00:14:17,278
+Parents who lost their child in red
+socks, come to the officer on duty.
+
+163
+00:14:18,000 --> 00:14:21,959
+Those who lost a child
+in red socks,
+
+164
+00:14:22,240 --> 00:14:24,515
+come to the officer on duty now!
+
+165
+00:14:25,240 --> 00:14:27,117
+Give me the menu. Now!
+
+166
+00:14:27,920 --> 00:14:29,797
+Oh, where are your principles?
+
+167
+00:14:30,920 --> 00:14:34,037
+What about never eating
+from my hands?
+
+168
+00:14:34,400 --> 00:14:35,628
+The refreshment bar is closed.
+
+169
+00:14:37,920 --> 00:14:39,433
+And you're hungry, aren't you?
+
+170
+00:14:39,720 --> 00:14:41,597
+I'm starving.
+
+171
+00:14:43,720 --> 00:14:46,598
+I didn't eat your ghastly borsht.
+I hope you realize that now?
+
+172
+00:14:47,160 --> 00:14:50,357
+If you didn't eat it, how can
+you know that it's ghastly?
+
+173
+00:14:51,240 --> 00:14:53,879
+I got so tired of you.
+Bring me some diet food.
+
+174
+00:14:55,400 --> 00:14:59,951
+All right, since it's also my fault
+that you got stuck here,
+
+175
+00:15:01,400 --> 00:15:04,790
+I'll serve you
+as a dear guest of our city.
+
+176
+00:15:06,920 --> 00:15:09,957
+You know, we've been instructed
+
+177
+00:15:10,480 --> 00:15:14,871
+to take special care of new arrivals,
+unlike those just passing through,
+
+178
+00:15:15,160 --> 00:15:18,277
+because our restaurant
+is the calling card of our city.
+
+179
+00:15:18,560 --> 00:15:20,437
+From diet food we have only chicken.
+
+180
+00:15:20,720 --> 00:15:24,429
+Great. Please,
+let me pay in advance.
+
+181
+00:15:24,720 --> 00:15:27,109
+- By all means.
+- Because you can't trust me.
+
+182
+00:15:28,640 --> 00:15:31,632
+- And mineral water, please.
+- All right, mineral water.
+
+183
+00:15:31,920 --> 00:15:33,592
+I couldn't feel worse.
+
+184
+00:15:33,920 --> 00:15:36,593
+I doubt that our chicken will lift
+your spirits. Two rubles 78 kopecks.
+
+185
+00:15:36,920 --> 00:15:37,796
+Here.
+
+186
+00:15:38,720 --> 00:15:40,119
+Excuse me.
+
+187
+00:15:42,720 --> 00:15:46,110
+Passenger who lost his ticket
+from Zastupinsk to Lvov,
+
+188
+00:15:46,640 --> 00:15:48,517
+please come to the information office.
+
+189
+00:15:48,800 --> 00:15:50,950
+Sima, the cutlets are burning!
+
+190
+00:15:53,920 --> 00:15:55,035
+Shurik!
+
+191
+00:15:57,160 --> 00:16:01,358
+- Some music for our guest, Shurik.
+- Got it. Here it comes!
+
+192
+00:16:22,720 --> 00:16:23,630
+Bon appetite!
+
+193
+00:16:23,920 --> 00:16:25,797
+I'm stuck here thanks to you.
+
+194
+00:16:26,400 --> 00:16:29,597
+I wish your restaurant had burned, and
+your station and your chicken, too!
+
+195
+00:16:32,000 --> 00:16:33,274
+Damn it!
+
+196
+00:16:33,560 --> 00:16:35,516
+- Is it stringy?
+- Yes.
+
+197
+00:16:36,400 --> 00:16:39,358
+This chicken worked as a waitress in
+your restaurant when it was alive.
+
+198
+00:16:39,640 --> 00:16:42,518
+- I see. It is as ghastly.
+- You're absolutely right.
+
+199
+00:16:43,920 --> 00:16:46,434
+You have a band playing at night?
+
+200
+00:16:46,720 --> 00:16:48,597
+Sure. And it's very loud.
+
+201
+00:16:53,320 --> 00:16:57,199
+Did all your things go choo-choo
+to Griboyedov without you?
+
+202
+00:16:58,800 --> 00:17:00,677
+No, all my things are with me.
+
+203
+00:17:02,000 --> 00:17:06,039
+I planned to stay there only two days.
+Now I've lost one thanks to you.
+
+204
+00:17:08,240 --> 00:17:11,789
+You can't even imagine
+how important is that day to me.
+
+205
+00:17:17,560 --> 00:17:19,437
+What's your name, Miss?
+
+206
+00:17:20,000 --> 00:17:23,197
+Just Miss. Just Miss.
+
+207
+00:17:24,640 --> 00:17:27,518
+An inaccessible miss,
+especially for transit passengers.
+
+208
+00:17:30,080 --> 00:17:32,514
+I'm not going to storm
+that inaccessible fortress.
+
+209
+00:17:32,800 --> 00:17:34,677
+Don't try to kid me. You're all alike.
+
+210
+00:17:38,000 --> 00:17:44,872
+What we were like when we just
+started,
+
+211
+00:17:47,400 --> 00:17:51,791
+We're not the same, we've lost our
+drive...
+
+212
+00:17:53,000 --> 00:17:55,878
+Vera, I almost forgot.
+Run to the drugstore,
+
+213
+00:17:56,160 --> 00:17:58,196
+they got Yugoslavian shampoo.
+
+214
+00:17:58,720 --> 00:18:03,510
+The blue one. It makes
+hair grow like crazy.
+
+215
+00:18:03,800 --> 00:18:05,677
+I took ten bottles.
+
+216
+00:18:06,160 --> 00:18:07,354
+What a fool.
+
+217
+00:18:07,800 --> 00:18:11,349
+If the investigator calls,
+don't tell him where I am.
+
+218
+00:18:11,800 --> 00:18:14,109
+Invent something, but make him
+believe you.
+
+219
+00:18:14,920 --> 00:18:17,354
+I'll be back in Moscow Monday morning.
+
+220
+00:18:18,000 --> 00:18:21,356
+What do I care about
+when they deliver the fencing?
+
+221
+00:18:22,320 --> 00:18:23,673
+Stop eavesdropping.
+
+222
+00:18:25,080 --> 00:18:29,437
+I wasn't speaking to you. There's
+one here, so disgusting.
+
+223
+00:18:30,920 --> 00:18:32,433
+How do you feel?
+
+224
+00:18:32,720 --> 00:18:36,190
+I won't be living in that dacha.
+Now I'll live behind another fence.
+
+225
+00:18:37,320 --> 00:18:41,598
+Call my father in Griboyedov, tell
+him I'll be there tomorrow morning.
+
+226
+00:18:42,560 --> 00:18:44,357
+Don't worry about me.
+
+227
+00:18:46,560 --> 00:18:48,198
+Sure, I'm great.
+
+228
+00:18:49,720 --> 00:18:51,119
+Kiss you.
+
+229
+00:18:54,320 --> 00:18:57,437
+What do you need so much shampoo for?
+For lacing your customers' soup?
+
+230
+00:18:57,920 --> 00:18:59,592
+Good heavens... real barbarians!
+
+231
+00:18:59,920 --> 00:19:01,797
+For you I'd do it with pleasure.
+
+232
+00:19:03,400 --> 00:19:09,032
+Attention, delegates who have come
+to the zoological conference.
+
+233
+00:19:09,560 --> 00:19:11,949
+The conference has been canceled.
+
+234
+00:19:12,320 --> 00:19:16,791
+You can get return tickets
+at Ticket Office Number 2.
+
+235
+00:19:20,240 --> 00:19:24,119
+Gentleman in a checkered jacket,
+remove your dog from track three!
+
+236
+00:19:24,720 --> 00:19:28,190
+I repeat, gentleman
+in a checkered jacket!
+
+237
+00:19:28,640 --> 00:19:31,200
+Remove your dog
+from track three!
+
+238
+00:19:31,560 --> 00:19:34,199
+- Did you see my tray?
+- It's in the kitchen, in the corner.
+
+239
+00:19:34,920 --> 00:19:36,194
+All right.
+
+240
+00:19:36,480 --> 00:19:37,959
+Put the knives on the table.
+
+241
+00:19:38,720 --> 00:19:42,030
+- Everything's cold again.
+- They'll eat it, they're in a hurry.
+
+242
+00:19:43,640 --> 00:19:45,596
+All right, we're coming!
+
+243
+00:19:51,920 --> 00:19:54,434
+Vera! My dear! Get ready!
+
+244
+00:19:55,080 --> 00:19:56,798
+I'm here!
+
+245
+00:20:18,720 --> 00:20:21,234
+Come on, move on!
+
+246
+00:20:38,160 --> 00:20:39,593
+Vera!
+
+247
+00:20:42,000 --> 00:20:43,353
+Vera, my dear!
+
+248
+00:20:47,000 --> 00:20:48,194
+Vera!
+
+249
+00:20:48,720 --> 00:20:50,119
+Andrei!
+
+250
+00:20:50,400 --> 00:20:52,595
+Climb over and come here!
+
+251
+00:20:57,360 --> 00:21:00,591
+- Why are you on the Tashkent train?
+- It's summer, we're short of hands.
+
+252
+00:21:01,480 --> 00:21:03,516
+- I missed you so much!
+- Me too!
+
+253
+00:21:07,560 --> 00:21:10,074
+- Shall we go?
+- I can't, too many customers.
+
+254
+00:21:10,320 --> 00:21:12,515
+- Is Lyuda on duty today?
+- Yes.
+
+255
+00:21:12,800 --> 00:21:13,869
+Lyuda, my sweetie!
+
+256
+00:21:14,320 --> 00:21:16,038
+Bon appetite, comrades!
+
+257
+00:21:16,320 --> 00:21:18,629
+Hi! Lyuda, can you...
+
+258
+00:21:18,920 --> 00:21:22,356
+Got it. I'll collect
+from everyone. Thanks!
+
+259
+00:21:22,640 --> 00:21:24,517
+Vera, they may shorten our stop.
+
+260
+00:21:24,800 --> 00:21:26,791
+I just have to put it somewhere...
+
+261
+00:21:27,400 --> 00:21:29,277
+- What's that?
+- Melons.
+
+262
+00:21:29,560 --> 00:21:31,039
+Tchaidzhui melons.
+
+263
+00:21:31,640 --> 00:21:35,110
+They're too heavy to drag them along.
+We have to hide them here.
+
+264
+00:21:37,080 --> 00:21:38,718
+You know how much money they mean?
+
+265
+00:21:39,160 --> 00:21:41,435
+You know? You'll be amazed!
+
+266
+00:21:41,920 --> 00:21:46,357
+Buses are on the square
+in front of the main entrance.
+
+267
+00:21:46,640 --> 00:21:51,794
+Dear artistes of Yerevan
+Drama Theatre!
+
+268
+00:21:52,640 --> 00:21:54,676
+Welcome to our city!
+
+269
+00:21:54,960 --> 00:21:58,669
+The citizens of Zastupinsk
+look forward to your performances.
+
+270
+00:21:59,000 --> 00:22:02,197
+Buses are on the square
+in front of the main entrance.
+
+271
+00:22:06,720 --> 00:22:07,948
+Comrade.
+
+272
+00:22:09,080 --> 00:22:11,674
+- Hello.
+- Hello.
+
+273
+00:22:12,160 --> 00:22:14,799
+- Are you going to sit here long?
+- Till the evening.
+
+274
+00:22:15,080 --> 00:22:16,433
+Can you watch over my suitcases?
+
+275
+00:22:18,480 --> 00:22:19,595
+Why not?
+
+276
+00:22:21,560 --> 00:22:23,039
+You got a passport?
+
+277
+00:22:25,160 --> 00:22:26,036
+Yes.
+
+278
+00:22:26,320 --> 00:22:28,276
+- You have it with you?
+- Yes.
+
+279
+00:22:28,800 --> 00:22:30,153
+Can I see it please?
+
+280
+00:22:33,400 --> 00:22:34,674
+Sure.
+
+281
+00:22:39,800 --> 00:22:42,678
+Look, watch over the suitcases.
+There're Tchaidzhui melons in there.
+
+282
+00:22:42,960 --> 00:22:45,269
+You know how much they cost?
+You'll be amazed!
+
+283
+00:22:45,560 --> 00:22:48,120
+If you watch them well,
+I'll give you one.
+
+284
+00:22:50,080 --> 00:22:55,029
+Hey, what's your name... Give back
+my passport! You have no right!
+
+285
+00:22:55,320 --> 00:23:00,110
+Watch them, man. You'll get back your
+passport in ten minutes. You got it?
+
+286
+00:23:28,800 --> 00:23:31,519
+There's a pine tree on Shishkin's
+painting...
+
+287
+00:23:32,920 --> 00:23:35,798
+What's the matter?
+Nothing works.
+
+288
+00:23:36,080 --> 00:23:41,677
+Allrightie. Hush, hush...
+Let's black it out. Wait.
+
+289
+00:23:46,080 --> 00:23:49,629
+Those cars are so old. I'm going to
+write to the minister. Come on, Vera.
+
+290
+00:23:49,920 --> 00:23:51,512
+I missed you so much!
+
+291
+00:23:54,480 --> 00:23:58,109
+Come on, Vera, do it yourself. It's
+not a restaurant. Self-service here.
+
+292
+00:24:00,920 --> 00:24:05,789
+We had a horrible night. Genka took on
+two men without tickets in Penza.
+
+293
+00:24:06,080 --> 00:24:08,799
+He thought they were sober,
+but they made such a racket!
+
+294
+00:24:09,080 --> 00:24:14,359
+One lay across the car, and here comes
+an inspection. Genka got a toothache.
+
+295
+00:24:14,640 --> 00:24:16,790
+I say to him, "Take a shot of vodka."
+And he says:
+
+296
+00:24:17,080 --> 00:24:18,798
+"A shot of vodka isn't a stop handle:
+Once you take it, you never stop.
+
+297
+00:24:19,080 --> 00:24:20,513
+Why aren't you undressing?
+
+298
+00:24:21,160 --> 00:24:23,116
+I don't feel like it.
+
+299
+00:24:25,720 --> 00:24:28,109
+People don't do it like that,
+all in a hurry.
+
+300
+00:24:28,400 --> 00:24:31,278
+We can't help it, Vera. All our life
+is in a hurry. Come on.
+
+301
+00:24:31,560 --> 00:24:34,632
+What I'm dreaming of is
+for you to come for a whole week.
+
+302
+00:24:34,920 --> 00:24:39,596
+We two could go out, go to the movies,
+like normal people.
+
+303
+00:24:39,920 --> 00:24:43,515
+Is it really my fault, Vera?
+My whole life is on wheels.
+
+304
+00:24:43,920 --> 00:24:45,797
+I know, honey.
+
+305
+00:24:46,080 --> 00:24:50,949
+I'm on wheels, you're with a tray.
+What can we do? Take off your clothes.
+
+306
+00:24:51,240 --> 00:24:56,030
+I can't. I don't know what's
+the matter with me. I just can't.
+
+307
+00:24:57,080 --> 00:24:58,957
+Maybe you don't love me?
+
+308
+00:25:02,160 --> 00:25:03,354
+I do.
+
+309
+00:25:04,000 --> 00:25:06,355
+Vera, don't be a teaser.
+
+310
+00:25:09,320 --> 00:25:13,199
+Come on, take off your clothes,
+please, they'll shorten the stop.
+
+311
+00:25:13,480 --> 00:25:16,358
+I can't do it in a compartment!
+I don't feel like it.
+
+312
+00:25:17,480 --> 00:25:19,630
+Come on, stop it!
+I'm not a boy, am I?
+
+313
+00:25:19,920 --> 00:25:21,638
+I'm not a young girl either.
+
+314
+00:25:21,920 --> 00:25:24,798
+Aren't you ashamed of yourself?
+Why are you being so cruel?
+
+315
+00:25:25,080 --> 00:25:27,958
+I've been suffering since Tashkent.
+Come on, Vera, stop it.
+
+316
+00:25:28,800 --> 00:25:30,597
+I can't and that's it!
+
+317
+00:25:30,920 --> 00:25:33,275
+I want it to be nice!
+
+318
+00:25:34,480 --> 00:25:38,439
+They did shorten it! We couldn't
+have done it anyway. Oh, shit...
+
+319
+00:25:38,720 --> 00:25:41,518
+Stops are shortened.
+No personal life for a man.
+
+320
+00:25:41,800 --> 00:25:45,110
+- Well, I must go.
+- Wait, wait.
+
+321
+00:25:45,480 --> 00:25:47,675
+Let me give you a kiss.
+
+322
+00:25:48,320 --> 00:25:51,790
+Good. See you the day after tomorrow?
+
+323
+00:25:52,080 --> 00:25:53,035
+All right.
+
+324
+00:26:29,480 --> 00:26:31,994
+I'm going to write to the minister!
+
+325
+00:26:33,000 --> 00:26:36,037
+I'll be here the day after tomorrow
+at 12:10, if the train is not late.
+
+326
+00:26:36,560 --> 00:26:38,437
+Get ready, Vera!
+
+327
+00:26:39,320 --> 00:26:43,199
+The Tchaidzhui melons are three
+rubles a kilo, don't forget!
+
+328
+00:26:43,640 --> 00:26:46,029
+What's the matter? We just sat down.
+
+329
+00:26:57,920 --> 00:26:59,592
+He put salt in his borsht and never
+touched it.
+
+330
+00:27:09,560 --> 00:27:11,596
+Your melons are safe and sound.
+
+331
+00:27:14,000 --> 00:27:20,189
+I took this one for guarding them,
+as we have agreed.
+
+332
+00:27:26,240 --> 00:27:28,800
+What are you going to do
+with such a horde of melons?
+
+333
+00:27:30,320 --> 00:27:31,799
+Convert them into money.
+
+334
+00:27:32,160 --> 00:27:33,275
+For three rubles?
+
+335
+00:27:34,080 --> 00:27:35,274
+A kilo.
+
+336
+00:27:40,560 --> 00:27:42,596
+Give me my passport, please.
+
+337
+00:27:50,080 --> 00:27:54,119
+Oh, your passport went choo-choo
+to Moscow.
+
+338
+00:27:55,920 --> 00:27:57,114
+It's not the time forjoking.
+
+339
+00:27:57,400 --> 00:28:00,198
+It's not a joke. Why did you give it
+to him in the first place?
+
+340
+00:28:00,480 --> 00:28:03,950
+A man in a uniform demanded
+my passport. So I gave it to him.
+
+341
+00:28:04,640 --> 00:28:08,110
+You see, when we were in
+a compartment, we had an argument.
+
+342
+00:28:08,400 --> 00:28:10,960
+After that we had no time
+to think about your passport.
+
+343
+00:28:11,240 --> 00:28:15,199
+You have ruined my whole life!
+You, skinny alley cat!
+
+344
+00:28:15,480 --> 00:28:16,799
+Why are you insulting me?
+
+345
+00:28:17,080 --> 00:28:19,958
+And what if your snub-nosed bully
+will hand it over to the police?
+
+346
+00:28:20,240 --> 00:28:23,949
+You're snub-nosed yourself!
+Andrei is a good man.
+
+347
+00:28:24,240 --> 00:28:25,195
+He's a profiteer.
+
+348
+00:28:25,480 --> 00:28:29,632
+Profiteers can be good men, too.
+Petya, take it to the luggage locker.
+
+349
+00:28:29,920 --> 00:28:31,114
+What am I going to do without
+a passport?
+
+350
+00:28:31,400 --> 00:28:33,277
+- Calm down.
+- After all this...
+
+351
+00:28:33,720 --> 00:28:37,599
+Listen to me carefully.
+The day after tomorrow, at 12:10,
+
+352
+00:28:37,920 --> 00:28:42,198
+yes, exactly at 12:10,
+Andrei will deliver your passport.
+
+353
+00:28:42,480 --> 00:28:44,789
+And you'll leave by the train you
+have missed.
+
+354
+00:28:45,080 --> 00:28:46,274
+Once again, I'm sorry.
+
+355
+00:28:46,560 --> 00:28:49,950
+I have to see my father. Maybe
+it will be for the last time.
+
+356
+00:28:50,320 --> 00:28:54,279
+Passenger who lost his ticket,
+come to the information office.
+
+357
+00:28:54,720 --> 00:28:57,792
+Come on, don't panic.
+You can go there today,
+
+358
+00:28:58,080 --> 00:29:01,595
+and on your way back I'll bring
+your passport right to your car.
+
+359
+00:29:02,160 --> 00:29:05,630
+I'll have to go back by plane,
+otherwise I'll be late.
+
+360
+00:29:05,920 --> 00:29:08,957
+No one will fire you
+if you're one day late.
+
+361
+00:29:09,240 --> 00:29:12,869
+You've finished me off. What am I
+to do? I can't wait and I can't go.
+
+362
+00:29:13,400 --> 00:29:16,198
+What ever have you done?
+
+363
+00:29:16,480 --> 00:29:18,596
+Robbed the State Bank of the USSR!
+
+364
+00:29:18,920 --> 00:29:20,876
+Oh God, how clever!
+
+365
+00:29:43,400 --> 00:29:44,435
+Good afternoon.
+
+366
+00:29:45,800 --> 00:29:48,189
+If you could name
+a lucky station for me,
+
+367
+00:29:48,480 --> 00:29:52,029
+I think I would buy a ticket
+and go there for the rest of my life.
+
+368
+00:29:52,920 --> 00:29:55,673
+You drunkards give us no peace.
+
+369
+00:29:55,960 --> 00:29:59,111
+Do you want me to give you a glass
+too? I'm sick and tired of you!
+
+370
+00:29:59,800 --> 00:30:01,153
+Thanks for not hitting me.
+
+371
+00:30:01,440 --> 00:30:02,714
+Raya!
+
+372
+00:30:04,400 --> 00:30:06,675
+Masha, it's me. What's new?
+
+373
+00:30:07,920 --> 00:30:10,354
+Did he work, or was he retired?
+
+374
+00:30:14,560 --> 00:30:16,676
+Did they get the results of forensic
+examination?
+
+375
+00:30:18,800 --> 00:30:21,314
+I'm still having that nightmare
+before my eyes.
+
+376
+00:30:21,560 --> 00:30:24,438
+I'm even glad that it's only me.
+I don't want you to worry.
+
+377
+00:30:26,000 --> 00:30:28,514
+They delivered the fencing?
+Then everything is all right.
+
+378
+00:30:28,800 --> 00:30:31,519
+When are you on the air? Tomorrow?
+Did you call my father?
+
+379
+00:30:32,000 --> 00:30:35,788
+Call him and tell him I'll be there
+the day after tomorrow in the evening.
+
+380
+00:30:36,920 --> 00:30:41,675
+Why, why... Itjust so happened.
+It's a long story.
+
+381
+00:30:42,320 --> 00:30:44,515
+All right. That's my last coin.
+
+382
+00:30:51,080 --> 00:30:52,798
+Will you stop spying on me?
+
+383
+00:30:53,080 --> 00:30:54,798
+I'm not spying, just the other way
+round.
+
+384
+00:30:55,480 --> 00:30:59,189
+I let you down, and I must help you
+somehow, but I... got confused.
+
+385
+00:30:59,480 --> 00:31:01,516
+Have you done something awful?
+
+386
+00:31:01,800 --> 00:31:03,677
+A man died because of me.
+
+387
+00:31:03,960 --> 00:31:06,190
+It was an accident, but I'm to blame.
+
+388
+00:31:10,000 --> 00:31:12,116
+Tell me, how did it happen?
+
+389
+00:31:14,560 --> 00:31:16,790
+Will you please forgive me?
+
+390
+00:31:18,000 --> 00:31:21,037
+I don't even know why I was
+pestering you with that ruble.
+
+391
+00:31:21,480 --> 00:31:24,517
+You can go wild from this work.
+They yell at you, you yell back.
+
+392
+00:31:25,400 --> 00:31:27,277
+They underpay, you short-change.
+
+393
+00:31:27,560 --> 00:31:31,792
+Forget it, you didn't mean it,
+you did it in the heat of the moment.
+
+394
+00:31:32,720 --> 00:31:35,439
+I understand. I hold nothing against
+you.
+
+395
+00:31:36,640 --> 00:31:37,789
+You mean it?
+
+396
+00:31:38,480 --> 00:31:41,358
+Why should I lie to you?
+Goodbye.
+
+397
+00:31:41,640 --> 00:31:43,278
+Sorry again.
+
+398
+00:32:02,720 --> 00:32:05,439
+- The restaurant is full.
+- I want to see Vera, the waitress.
+
+399
+00:32:05,720 --> 00:32:07,597
+Vera? Our Vera? Come in.
+
+400
+00:32:17,480 --> 00:32:20,358
+We no longer live, just ramble
+
+401
+00:32:21,320 --> 00:32:24,039
+Monotonously, like in paradise.
+
+402
+00:32:25,080 --> 00:32:27,878
+Don't ever be afraid to gamble
+
+403
+00:32:28,920 --> 00:32:31,514
+And stake your whole life on dice.
+
+404
+00:32:31,800 --> 00:32:35,588
+How good we were when we just started!
+
+405
+00:32:36,480 --> 00:32:39,790
+We're not the same, we've lost our
+drive.
+
+406
+00:32:40,800 --> 00:32:43,109
+It's never late to go and chance it.
+
+407
+00:32:44,000 --> 00:32:46,594
+Don't be afraid, don't be afraid,
+
+408
+00:32:47,720 --> 00:32:50,518
+Don't be afraid to change your life!
+
+409
+00:32:51,920 --> 00:32:54,354
+What if your hair's touched with
+white,
+
+410
+00:32:55,320 --> 00:32:58,118
+It's never late to choose new roads.
+
+411
+00:32:58,920 --> 00:33:01,878
+To stake it all have no fright,
+
+412
+00:33:02,640 --> 00:33:05,154
+Cast off yourself your past life loads.
+
+413
+00:33:05,480 --> 00:33:09,359
+Going out in a rainy weather,
+
+414
+00:33:10,160 --> 00:33:13,675
+Stir up your spirits and your
+shoulders unbend.
+
+415
+00:33:14,480 --> 00:33:16,869
+Don't be afraid of a new endeavor,
+
+416
+00:33:17,920 --> 00:33:23,950
+And over life, and over life
+Just try to get an upper hand!
+
+417
+00:33:36,400 --> 00:33:39,597
+Believe in chimeras, mystification.
+
+418
+00:33:40,160 --> 00:33:42,879
+Of your belongings you'll need none.
+
+419
+00:33:43,800 --> 00:33:46,792
+Only death's your final destination.
+
+420
+00:33:47,560 --> 00:33:50,199
+Just try to have your life redone!
+
+421
+00:33:50,720 --> 00:33:54,190
+Don't ever hide, have no pity
+
+422
+00:33:55,160 --> 00:33:58,277
+If no trump card there's to throw in.
+
+423
+00:33:59,320 --> 00:34:01,834
+Your own guilt contribute in the kitty.
+
+424
+00:34:02,160 --> 00:34:08,429
+Who never loses, he will never win!
+Who never loses, he will never win!
+
+425
+00:34:28,480 --> 00:34:31,631
+Waiter! Bring more vodka!
+
+426
+00:34:31,920 --> 00:34:33,592
+I'm not a waiter, I'm a girl.
+
+427
+00:34:33,920 --> 00:34:36,115
+I'm telling you as a girl, I haven't
+had enough.
+
+428
+00:34:36,400 --> 00:34:39,631
+And I'm asking you nicely,
+pay up and go home.
+
+429
+00:34:39,920 --> 00:34:42,798
+I don't know anybody but you in this
+city. What am I to do?
+
+430
+00:34:43,080 --> 00:34:46,436
+I visited the monastery, I sat
+at the movies. It's raining outside.
+
+431
+00:34:46,720 --> 00:34:48,790
+They won't let me into the hotel
+without a passport.
+
+432
+00:34:49,080 --> 00:34:51,958
+I understand. I'll think later
+where I can put you up...
+
+433
+00:34:56,320 --> 00:34:59,790
+Let's wish the newlyweds a long and
+happy life. Kiss the bride!
+
+434
+00:35:21,560 --> 00:35:22,879
+Thank you.
+
+435
+00:35:24,000 --> 00:35:25,638
+I remember everything.
+
+436
+00:35:25,920 --> 00:35:30,038
+Please, I'm begging you,
+pay for your dinner and go home.
+
+437
+00:35:30,320 --> 00:35:33,039
+- Waiter...
+- Or I'm going to cry.
+
+438
+00:35:33,560 --> 00:35:36,870
+Don't cry, pal.
+How much do I owe you?
+
+439
+00:35:41,080 --> 00:35:42,672
+You dropped your pencil.
+
+440
+00:35:46,160 --> 00:35:47,354
+Twenty one.
+
+441
+00:35:47,640 --> 00:35:49,949
+Take whatever you need. I trust you.
+
+442
+00:35:52,080 --> 00:35:55,356
+I've served them the main dish.
+Shall I order coffee?
+
+443
+00:35:55,640 --> 00:35:57,949
+Hey, boy, not so loud!
+
+444
+00:35:58,240 --> 00:36:00,959
+- Shall I order coffee?
+- Six teas, fifteen coffees.
+
+445
+00:36:02,080 --> 00:36:03,798
+Stop singing, I said.
+
+446
+00:36:05,920 --> 00:36:07,273
+Hurry up.
+
+447
+00:36:07,560 --> 00:36:10,358
+How much did you take?
+Have an extra five.
+
+448
+00:36:10,640 --> 00:36:12,278
+It's too much. You got a family?
+
+449
+00:36:12,560 --> 00:36:15,438
+I got everything:
+A wife, two kids and a dog.
+
+450
+00:36:15,720 --> 00:36:17,073
+Then I'll take one ruble.
+
+451
+00:36:18,080 --> 00:36:21,959
+One ruble isn't enough. You've got
+an unhealthy job. Take three.
+
+452
+00:36:28,400 --> 00:36:32,188
+All right, I'll take two.
+Easy, easy. Thanks.
+
+453
+00:36:32,480 --> 00:36:35,358
+Here, hide it or you'll lose it.
+
+454
+00:36:36,920 --> 00:36:39,798
+Get up, your family must be worrying.
+You can finish your song at home.
+
+455
+00:36:40,080 --> 00:36:41,433
+Sure, like hell they worry!
+
+456
+00:36:41,720 --> 00:36:44,234
+Come on, boy. Will you find your way?
+
+457
+00:36:44,640 --> 00:36:46,790
+Don't insult me, waiter.
+
+458
+00:36:47,080 --> 00:36:48,115
+Go on, boy.
+
+459
+00:36:48,400 --> 00:36:51,597
+- Switching on cruise control.
+- Yes, switch it on.
+
+460
+00:38:02,800 --> 00:38:06,429
+No, no jellied meat. It will melt.
+I won't get it home intact.
+
+461
+00:38:06,720 --> 00:38:10,599
+I will. Stop grumbling.
+Vera, ciao!
+
+462
+00:38:11,400 --> 00:38:16,269
+Goodbye, Shurik.
+Thank you for the song, dear.
+
+463
+00:38:16,560 --> 00:38:18,437
+The song is as good as the cuisine.
+
+464
+00:38:18,720 --> 00:38:20,438
+That's it.
+
+465
+00:38:22,320 --> 00:38:26,279
+Let's go. I'll have you
+accommodated with all conveniences.
+
+466
+00:38:27,320 --> 00:38:28,196
+I feel so tired.
+
+467
+00:38:28,480 --> 00:38:32,109
+Excuse me, but why did you leave
+Moscow? Are you hiding?
+
+468
+00:38:32,400 --> 00:38:35,198
+My old father, I wanted to see him
+before the trial.
+
+469
+00:38:35,480 --> 00:38:36,799
+Oh, how I'm cursing myself!
+
+470
+00:38:37,080 --> 00:38:40,356
+I wanted to explain it to him.
+I had no right to leave Moscow.
+
+471
+00:38:40,640 --> 00:38:42,039
+What if the investigator calls me up?
+
+472
+00:38:42,320 --> 00:38:45,198
+- Just lie you've lost your passport.
+- I'm not accustomed to it.
+
+473
+00:38:45,480 --> 00:38:49,792
+I signed a recognizance not to leave
+Moscow and lost my passport here.
+
+474
+00:38:50,480 --> 00:38:53,358
+What kind of occupation you got
+that you can do without lying?
+
+475
+00:38:54,080 --> 00:38:57,356
+I'm a pianist.
+In an orchestra.
+
+476
+00:38:58,480 --> 00:39:02,678
+I'm always on the move.
+Tours, concerts, hotels.
+
+477
+00:39:04,160 --> 00:39:07,869
+I'll put you up first class
+and then I'll go home.
+
+478
+00:39:08,560 --> 00:39:11,438
+I'm afraid our ideas of first class
+accommodation are not the same.
+
+479
+00:39:13,840 --> 00:39:18,595
+I hope you won't object to
+the "Intourist" VIP lounge?
+
+480
+00:39:22,480 --> 00:39:23,959
+I haven't seen you for ages.
+
+481
+00:39:24,240 --> 00:39:28,279
+My life is so hectic, I'm getting
+married. So, a lot of complications.
+
+482
+00:39:29,160 --> 00:39:31,355
+The wedding's on Thursday. Will you
+come?
+
+483
+00:39:31,640 --> 00:39:33,631
+If you're inviting me. You made up
+your mind about the bridegroom?
+
+484
+00:39:34,240 --> 00:39:37,198
+- Not yet.
+- How come?
+
+485
+00:39:38,160 --> 00:39:42,517
+Hi. As of today,
+I have two bridegrooms.
+
+486
+00:39:42,840 --> 00:39:44,432
+Yes, two bridegrooms.
+
+487
+00:39:44,720 --> 00:39:48,269
+Yeah. Petka and Mitka.
+Petka is such a... Well, you know.
+
+488
+00:39:48,640 --> 00:39:50,437
+He's a great guy.
+
+489
+00:39:50,720 --> 00:39:53,029
+He makes a lot of money, but he hits
+the bottle.
+
+490
+00:39:53,920 --> 00:39:56,434
+Mitka doesn't drink that much.
+
+491
+00:39:56,720 --> 00:39:58,119
+He's a good guy, too.
+
+492
+00:39:58,440 --> 00:39:59,793
+But he doesn't make that much money
+either.
+
+493
+00:40:00,080 --> 00:40:04,039
+They live in different districts,
+so I applied to different registries.
+
+494
+00:40:04,320 --> 00:40:07,437
+Can you imagine, Vera?
+Two weddings, and both on Thursday.
+
+495
+00:40:09,720 --> 00:40:11,438
+It can happen only in our country!
+
+496
+00:40:11,920 --> 00:40:14,434
+Couldn't you find a non-drinking man?
+
+497
+00:40:14,720 --> 00:40:17,598
+What are you talking about?
+Where can you find them in our days?
+
+498
+00:40:29,000 --> 00:40:32,879
+Marina, we need to put up
+this man for the night.
+
+499
+00:40:33,160 --> 00:40:34,798
+I did him a very bad service.
+
+500
+00:40:35,560 --> 00:40:37,790
+Please, do it for me.
+
+501
+00:40:38,240 --> 00:40:40,800
+I've never asked you for anything
+before.
+
+502
+00:40:41,080 --> 00:40:44,959
+Are you crazy? Only foreigners
+are allowed here.
+
+503
+00:40:45,640 --> 00:40:47,790
+But you got no one here right now.
+
+504
+00:40:48,080 --> 00:40:51,356
+And what if some Dutchman or
+Japanese suddenly arrive? No!
+
+505
+00:40:51,640 --> 00:40:55,030
+He's a pianist, a music competition
+prizewinner.
+
+506
+00:40:55,320 --> 00:40:57,595
+We get those prizewinners a dime
+a dozen in here.
+
+507
+00:40:57,920 --> 00:41:02,516
+But I'm an international prizewinner,
+almost like a Japanese.
+
+508
+00:41:03,440 --> 00:41:05,795
+Do you want me to be fired?
+
+509
+00:41:06,080 --> 00:41:10,039
+If they know I let in here one of
+ours, it'll be a scandal!
+
+510
+00:41:10,320 --> 00:41:16,111
+And what I did to get thatjob,
+I don't even want to remember it. No!
+
+511
+00:41:18,000 --> 00:41:20,798
+Well, there's nothing we can do.
+Goodbye.
+
+512
+00:41:21,800 --> 00:41:24,360
+I'll see you to your bus.
+
+513
+00:41:24,640 --> 00:41:27,029
+All right. And where will you go?
+
+514
+00:41:27,720 --> 00:41:29,039
+I'll stay here.
+
+515
+00:41:29,320 --> 00:41:32,198
+Actually, if we get to think of it,
+all our life is one big waiting-room.
+
+516
+00:41:32,560 --> 00:41:35,120
+Don't be so depressed, you're going
+to be acquitted.
+
+517
+00:41:35,400 --> 00:41:38,198
+Can't I go to your place?
+You could put me up in the hall.
+
+518
+00:41:38,480 --> 00:41:40,357
+Bringing home a man? Are you crazy?
+
+519
+00:41:40,640 --> 00:41:41,868
+Are you married?
+
+520
+00:41:42,160 --> 00:41:45,038
+No, I turned my husband out
+three years ago.
+
+521
+00:41:46,080 --> 00:41:49,436
+I have a son, we live
+with my ex's parents.
+
+522
+00:41:49,720 --> 00:41:53,952
+A fabulous carburetor for a Volga.
+Costs 70 at a store, you get it for 5.
+
+523
+00:41:54,240 --> 00:41:57,869
+- Lay off, boy.
+- Got it.
+
+524
+00:41:58,160 --> 00:42:01,038
+Sorry for you. Living with someone
+else's parents, especially you ex's.
+
+525
+00:42:01,320 --> 00:42:07,668
+Don't be, they're very close to me.
+They're exceptional people.
+
+526
+00:42:08,640 --> 00:42:12,030
+You know, they've taken my side.
+Can you imagine?
+
+527
+00:42:14,000 --> 00:42:15,797
+Wait!
+
+528
+00:42:16,560 --> 00:42:17,675
+Shit!
+
+529
+00:42:21,920 --> 00:42:25,515
+That's what you get when you're being
+kind to people. It was the last bus.
+
+530
+00:42:27,920 --> 00:42:30,798
+- Let me take you home in a taxi.
+- I can go in a taxi myself.
+
+531
+00:42:32,240 --> 00:42:36,028
+But they refuse to go to our place.
+We live on the very outskirts.
+
+532
+00:42:39,080 --> 00:42:41,275
+My father-in-law is a trackman.
+
+533
+00:42:42,560 --> 00:42:44,278
+Will they worry?
+
+534
+00:42:44,560 --> 00:42:46,437
+Of course they will.
+
+535
+00:42:50,320 --> 00:42:53,949
+Well, I'll have to spend the night
+at the station, it can't be helped.
+
+536
+00:42:57,160 --> 00:42:58,434
+Where are you going now?
+
+537
+00:42:58,720 --> 00:43:04,590
+First I'll get in touch with my folks
+on intercom, then I'll see.
+
+538
+00:43:06,080 --> 00:43:08,116
+Perhaps they'll let you in
+the restaurant?
+
+539
+00:43:08,400 --> 00:43:11,278
+No, they seal the restaurant up,
+there're provisions in there.
+
+540
+00:43:11,760 --> 00:43:16,629
+Oh, I forgot the most important thing.
+I forgot to pay you my debt.
+
+541
+00:43:16,920 --> 00:43:18,194
+What for?
+
+542
+00:43:20,480 --> 00:43:22,789
+For the lunch, one ruble 20 kopecks.
+
+543
+00:43:23,080 --> 00:43:25,275
+I think you really didn't eat that
+borsht.
+
+544
+00:43:25,560 --> 00:43:28,632
+- I really didn't eat it.
+- So I'm returning it. Goodbye.
+
+545
+00:43:28,920 --> 00:43:30,114
+Goodbye.
+
+546
+00:44:03,000 --> 00:44:06,788
+Dear passengers, an old woman with
+no documents has been found.
+
+547
+00:44:07,080 --> 00:44:12,438
+Relatives or whoever accompanies her,
+please come to the police office.
+
+548
+00:44:12,720 --> 00:44:18,113
+Dear passengers, an old woman with
+no documents has been found.
+
+549
+00:44:18,640 --> 00:44:24,033
+Relatives or whoever accompanies her,
+please come to the police office.
+
+550
+00:44:25,720 --> 00:44:27,199
+- Damn!
+- Sorry.
+
+551
+00:44:29,080 --> 00:44:30,274
+What?
+
+552
+00:44:37,160 --> 00:44:38,593
+You can sit here.
+
+553
+00:44:40,080 --> 00:44:42,958
+- There's enough room for both.
+- Thank you.
+
+554
+00:44:45,080 --> 00:44:47,514
+I think the owners won't mind.
+
+555
+00:44:51,720 --> 00:44:52,948
+There we go!
+
+556
+00:44:55,920 --> 00:44:57,512
+You can get bruised on this bench.
+
+557
+00:44:57,800 --> 00:45:00,951
+This way, just a little bit.
+I'm sorry. Just like this.
+
+558
+00:45:03,320 --> 00:45:07,199
+I'll move you a bit.
+Sorry. Fine. Thanks.
+
+559
+00:45:08,320 --> 00:45:10,834
+Just a little bit. Good. Thanks.
+
+560
+00:45:11,240 --> 00:45:15,597
+No, I can't do like this.
+I'll move you a bit... Sorry.
+
+561
+00:45:15,920 --> 00:45:20,038
+Just a little bit, or I'll fall down.
+Now it's good.
+
+562
+00:45:26,160 --> 00:45:27,195
+Oh, God!
+
+563
+00:45:29,400 --> 00:45:34,269
+As I think that tomorrow I'll have to
+deal with the melons, I wish to die.
+
+564
+00:45:35,080 --> 00:45:38,197
+- At last our wishes coincided.
+- It's no big deal for you.
+
+565
+00:45:39,000 --> 00:45:44,199
+Everything will be all right with you.
+You'll be playing your piano again.
+
+566
+00:45:45,080 --> 00:45:48,197
+- In a prison amateur contest?
+- Someone will help you out.
+
+567
+00:45:48,480 --> 00:45:49,959
+I'm not a soloist.
+
+568
+00:45:51,120 --> 00:45:54,032
+And not a prizewinner either.
+Just playing to someone's baton.
+
+569
+00:45:54,320 --> 00:45:56,276
+It's better than carrying trays.
+
+570
+00:45:56,800 --> 00:45:59,030
+When I was left alone, with no husband
+
+571
+00:45:59,320 --> 00:46:01,515
+and no profession, with a child on
+my hands...
+
+572
+00:46:02,800 --> 00:46:05,439
+But now it's all right. I work like
+God.
+
+573
+00:46:08,720 --> 00:46:14,670
+You know, when I lie down at night,
+after a hard day's work,
+
+574
+00:46:15,800 --> 00:46:20,430
+everything starts to spin before my
+eyes: Trays, trains,
+
+575
+00:46:21,240 --> 00:46:23,515
+customers, passengers.
+
+576
+00:46:24,080 --> 00:46:26,878
+It's so awful! But I survive.
+
+577
+00:46:30,560 --> 00:46:34,599
+I'm hungry. It smells so good
+from your bag.
+
+578
+00:46:34,920 --> 00:46:38,435
+You know, I haven't had a crumb
+for the whole day.
+
+579
+00:46:38,920 --> 00:46:41,434
+- You know what? Let's eat.
+- All right.
+
+580
+00:46:41,720 --> 00:46:46,669
+Well, let's see what I've got today.
+Give me a hand.
+
+581
+00:46:48,320 --> 00:46:53,394
+What do we waitresses usually get?
+Only garnish.
+
+582
+00:46:53,640 --> 00:46:57,679
+What the customers leave on their
+plates. But we give it to pigs.
+
+583
+00:46:58,400 --> 00:47:01,870
+The kitchen never shares with us.
+They work only for themselves.
+
+584
+00:47:08,240 --> 00:47:10,196
+And when do we have our lucky night?
+
+585
+00:47:10,720 --> 00:47:13,871
+When there's a big party like today's.
+I served a wedding today.
+
+586
+00:47:15,920 --> 00:47:17,638
+I know, I saw it.
+
+587
+00:47:17,920 --> 00:47:20,798
+- Be my guest.
+- Well, I feel...
+
+588
+00:47:21,200 --> 00:47:22,792
+It's the first time I have to eat
+leavings.
+
+589
+00:47:24,400 --> 00:47:25,958
+Don't say that.
+
+590
+00:47:27,920 --> 00:47:30,434
+It's not leavings, it's leftovers.
+
+591
+00:47:30,720 --> 00:47:32,199
+It's a big difference.
+
+592
+00:47:32,480 --> 00:47:35,870
+- You mean no one ate...
+- You're insulting me, client.
+
+593
+00:47:37,720 --> 00:47:39,790
+Well, in my position it's foolish to
+be too fastidious.
+
+594
+00:47:40,080 --> 00:47:41,877
+You're right. Help yourself.
+
+595
+00:47:49,400 --> 00:47:50,674
+Well?
+
+596
+00:47:55,000 --> 00:47:57,958
+- And you say, leavings, scraps...
+- A very tasty wedding.
+
+597
+00:47:59,240 --> 00:48:02,198
+Just a minute. Please.
+
+598
+00:48:03,320 --> 00:48:05,197
+Thank you. What a strange night.
+
+599
+00:48:06,920 --> 00:48:09,798
+It's funny. Who am I at that wedding?
+The bridegroom? A guest?
+
+600
+00:48:10,640 --> 00:48:15,794
+No. I think
+I'm just a sponger.
+
+601
+00:48:17,920 --> 00:48:21,037
+Why?
+You'll be the bride.
+
+602
+00:48:23,000 --> 00:48:26,037
+In that case you're the bridegroom.
+
+603
+00:48:29,000 --> 00:48:30,353
+The bridegroom?!
+
+604
+00:48:32,000 --> 00:48:33,194
+I'm the bridegroom!
+
+605
+00:48:33,480 --> 00:48:37,792
+Why is this unusual reaction?
+I didn't say anything funny.
+
+606
+00:48:40,000 --> 00:48:42,355
+My dear girl, what do you want me
+to put on your plate?
+
+607
+00:48:42,920 --> 00:48:48,790
+Give me, my dear boy, an olive
+and a piece of salami.
+
+608
+00:48:49,080 --> 00:48:51,036
+- There you go.
+- My darling...
+
+609
+00:48:51,640 --> 00:48:55,269
+Here, my baby, some olives,
+and butter, and fish...
+
+610
+00:48:55,560 --> 00:48:56,788
+I want some fish.
+
+611
+00:48:57,080 --> 00:48:59,514
+- There you go, baby.
+- My silly darling.
+
+612
+00:48:59,800 --> 00:49:01,518
+Oh, what idiots we are!
+
+613
+00:49:04,080 --> 00:49:05,115
+Caviar!
+
+614
+00:49:05,400 --> 00:49:08,358
+It was near the bridegroom. He didn't
+eat anything, he just drank.
+
+615
+00:49:08,640 --> 00:49:09,868
+You took it right from the table?
+
+616
+00:49:16,720 --> 00:49:20,599
+My dear friends! To you!
+
+617
+00:49:22,320 --> 00:49:24,834
+Thank you for coming
+to this wonderful wedding!
+
+618
+00:49:25,400 --> 00:49:30,520
+Baby, I didn't know you're
+a drinking man! Get ready!
+
+619
+00:49:32,720 --> 00:49:33,948
+But there're no glasses.
+
+620
+00:49:34,240 --> 00:49:36,196
+Then we'll have to drink from
+the bottle.
+
+621
+00:49:36,480 --> 00:49:38,038
+You first.
+
+622
+00:49:41,720 --> 00:49:44,951
+My dear passengers!
+I wish to drink to you!
+
+623
+00:49:45,800 --> 00:49:51,113
+I hope you'll get your tickets and
+arrive in time at your destination.
+
+624
+00:49:52,080 --> 00:49:53,035
+Good!
+
+625
+00:49:54,320 --> 00:49:56,629
+- Leave something for me.
+- Sure.
+
+626
+00:49:56,920 --> 00:50:00,629
+I also want to propose a toast.
+I wish to drink to you!
+
+627
+00:50:01,320 --> 00:50:03,356
+Because you're not a bad person.
+
+628
+00:50:04,480 --> 00:50:06,630
+Well, you understand everything.
+
+629
+00:50:06,920 --> 00:50:07,955
+Your health!
+
+630
+00:50:09,640 --> 00:50:12,200
+- The champagne is sweet.
+- Freebies are always sweet.
+
+631
+00:50:33,040 --> 00:50:34,519
+How much money was there?
+
+632
+00:50:34,800 --> 00:50:38,588
+Damn your bandit's city!
+Why do I have only bad luck?
+
+633
+00:50:38,920 --> 00:50:41,798
+They've robbed me of 200 rubles,
+just a few kopecks left.
+
+634
+00:50:42,840 --> 00:50:46,196
+I'm in a really bad spot. Being under
+investigation, missing my train!
+
+635
+00:50:46,480 --> 00:50:48,789
+My passport is gone, my money stolen.
+
+636
+00:50:49,080 --> 00:50:50,798
+But I had a ball at the wedding.
+
+637
+00:50:51,080 --> 00:50:54,516
+Take it easy, pianist.
+You can call your wife in Moscow.
+
+638
+00:50:54,800 --> 00:50:57,678
+She'll send you money if she
+hasn't spent it all on fencing.
+
+639
+00:50:57,960 --> 00:51:00,190
+I need a passport to be paid on
+the money order.
+
+640
+00:51:00,480 --> 00:51:03,358
+You'll get your passport tomorrow
+at 12:10, didn't I tell you that?
+
+641
+00:51:03,640 --> 00:51:05,790
+If your conductor hasn't lost it.
+
+642
+00:51:06,080 --> 00:51:11,154
+He won't lose it, he's a businessman.
+He's got brains in his head.
+
+643
+00:51:12,400 --> 00:51:16,188
+Sure, businessmen, business
+contacts, business meetings.
+
+644
+00:51:16,480 --> 00:51:19,631
+I can imagine what kind of a business
+meeting you had in a compartment.
+
+645
+00:51:19,920 --> 00:51:23,276
+Yes, you're right, we had a business
+meeting in a compartment.
+
+646
+00:51:24,480 --> 00:51:26,436
+If you had a business meeting,
+
+647
+00:51:26,720 --> 00:51:29,632
+then we two are just
+frolicking in a bed here.
+
+648
+00:51:29,920 --> 00:51:32,514
+Don't even count on it.
+
+649
+00:51:33,320 --> 00:51:36,437
+You know, I don't squander
+myself on trifles.
+
+650
+00:51:36,720 --> 00:51:42,511
+Sure, melons for three rubles a kilo,
+it's not a trifle.
+
+651
+00:51:42,800 --> 00:51:47,271
+All right, let me explain it to you
+and make everything absolutely clear.
+
+652
+00:51:48,400 --> 00:51:50,914
+I'll get only 50 kopecks from every
+kilo.
+
+653
+00:51:51,400 --> 00:51:54,676
+Andrei gets a ruble and a half,
+and I think it's fair.
+
+654
+00:51:55,320 --> 00:51:58,790
+He buys them in Tashkent
+for 50 kopecks a kilo.
+
+655
+00:51:59,080 --> 00:52:04,518
+The remaining ruble goes to a second-
+hand dealer, because he's a farmer.
+
+656
+00:52:04,800 --> 00:52:10,033
+I've earned myself a radiculutis
+on the apples. I can't move.
+
+657
+00:52:10,320 --> 00:52:13,790
+Uncle Misha, my dear!
+These are Tchaidzhui melons.
+
+658
+00:52:14,080 --> 00:52:15,957
+In this hot weather they'll perish.
+
+659
+00:52:16,240 --> 00:52:17,798
+Why uncle? You're an aunt.
+
+660
+00:52:20,240 --> 00:52:22,356
+Uncle Misha was my late husband.
+
+661
+00:52:24,000 --> 00:52:26,878
+He was in this business, he helped
+people earn a kopeck or two.
+
+662
+00:52:27,160 --> 00:52:28,878
+He was a man of authority.
+
+663
+00:52:29,160 --> 00:52:32,948
+And I sort of
+taken a baton from him.
+
+664
+00:52:35,080 --> 00:52:37,958
+No, 7 is much too much.
+I'll take it for 6 rubles.
+
+665
+00:52:38,240 --> 00:52:40,959
+I've got company. Bring it later.
+
+666
+00:52:43,080 --> 00:52:46,675
+Then... he got under a freighty at night.
+
+667
+00:52:46,960 --> 00:52:50,873
+- Under what?
+- A freight train. He was drunk.
+
+668
+00:52:54,000 --> 00:52:56,195
+Now they call me Uncle Misha.
+
+669
+00:52:56,480 --> 00:52:57,799
+And I'm proud of it.
+
+670
+00:52:58,400 --> 00:53:02,029
+What shall we do with the melons,
+Uncle Misha?
+
+671
+00:53:02,920 --> 00:53:06,196
+Good for you, Vera! I solidarize
+with your concern.
+
+672
+00:53:06,800 --> 00:53:08,791
+We can't leave people without
+vitamins.
+
+673
+00:53:09,080 --> 00:53:12,038
+Now I understand your vocation.
+You take care of people's health.
+
+674
+00:53:14,800 --> 00:53:16,119
+Don't be so sarcastic.
+
+675
+00:53:17,160 --> 00:53:20,118
+We'll have to see yet who takes more
+care of the people, me or them.
+
+676
+00:53:20,400 --> 00:53:21,594
+Who "them"?
+
+677
+00:53:22,560 --> 00:53:25,438
+Have you ever seen the fruits
+they sell at stores?
+
+678
+00:53:25,720 --> 00:53:28,598
+Their fruits and vegetables
+are no good.
+
+679
+00:53:29,160 --> 00:53:33,597
+I feed the people with good produce,
+and what about those state shops?
+
+680
+00:53:34,320 --> 00:53:38,279
+Their watermelons are unripe,
+tomatoes stale, pears wooden.
+
+681
+00:53:38,920 --> 00:53:43,357
+And I nurse each berry
+like a small baby!
+
+682
+00:53:43,640 --> 00:53:44,755
+It's true.
+
+683
+00:53:45,720 --> 00:53:47,597
+Those warehouses don't know how
+to keep produce.
+
+684
+00:53:48,320 --> 00:53:50,629
+Neither fruits, nor vegetables,
+nor berries!
+
+685
+00:53:50,920 --> 00:53:53,434
+And that's so because it belongs to
+nobody!
+
+686
+00:53:56,800 --> 00:53:59,678
+- And who are you?
+- Nobody, I guess.
+
+687
+00:54:00,080 --> 00:54:02,196
+No documents and no money.
+
+688
+00:54:02,560 --> 00:54:04,790
+He's a passenger, left behind his
+train.
+
+689
+00:54:05,800 --> 00:54:08,792
+So let's put
+an Uzbek cap on him,
+
+690
+00:54:09,080 --> 00:54:12,197
+and he'll be selling the melons
+like a farmer from Central Asia.
+
+691
+00:54:12,480 --> 00:54:14,516
+- Selling?
+- Me?
+
+692
+00:54:15,920 --> 00:54:19,276
+What are you talking about? I never
+sold anything and am not going to!
+
+693
+00:54:19,560 --> 00:54:23,269
+It's easy. Just think of how they sell
+at stores and do the other way round.
+
+694
+00:54:24,080 --> 00:54:25,798
+They're rude there, and you smile.
+
+695
+00:54:26,080 --> 00:54:28,275
+They cheat with the weight,
+you give them extra.
+
+696
+00:54:28,560 --> 00:54:29,595
+What?
+
+697
+00:54:29,920 --> 00:54:34,869
+Give them 50 or 100 grams more,
+and the customer will be pleased.
+
+698
+00:54:35,560 --> 00:54:38,632
+- You know, they sell wet vegetables.
+- Why?
+
+699
+00:54:41,320 --> 00:54:45,199
+- Were you just born?
+- Well, he doesn't know life at all.
+
+700
+00:54:45,480 --> 00:54:46,879
+To make them heavier.
+
+701
+00:54:47,160 --> 00:54:49,116
+So that they weigh more, understand?
+
+702
+00:54:49,400 --> 00:54:51,630
+And your melon will be dry and nice.
+
+703
+00:54:51,920 --> 00:54:57,790
+I'll give a call to the manager, so
+that instead of giving you a thrashing
+
+704
+00:54:58,080 --> 00:55:00,196
+he'd give you a robe, a scale...
+
+705
+00:55:00,480 --> 00:55:03,358
+I'm not going to sell them.
+Let Vera do it.
+
+706
+00:55:03,920 --> 00:55:06,639
+I can't show myself at the market
+place, I work in the service sector.
+
+707
+00:55:06,920 --> 00:55:08,273
+And I'm a musician.
+
+708
+00:55:08,560 --> 00:55:10,039
+So you can trade with music.
+
+709
+00:55:10,320 --> 00:55:13,039
+Oh, I forgot, he's an international
+competition prizewinner.
+
+710
+00:55:13,320 --> 00:55:17,791
+I could become one if they
+had sent me there at least once.
+
+711
+00:55:18,160 --> 00:55:20,799
+You can be sure they'll send you
+somewhere at the market.
+
+712
+00:55:21,200 --> 00:55:23,031
+No, I'm not going to trade.
+
+713
+00:55:23,320 --> 00:55:25,515
+Why do you refuse to help me out?
+
+714
+00:55:26,080 --> 00:55:28,435
+I don't want to profiteer and I won't.
+
+715
+00:55:29,400 --> 00:55:33,871
+Oh, that's what you hold us for?
+I'm not a profiteer!
+
+716
+00:55:34,400 --> 00:55:36,675
+We're intermediaries between
+the earth and the people.
+
+717
+00:55:36,960 --> 00:55:40,430
+And you're being entrusted with
+an important, honorable mission.
+
+718
+00:55:40,720 --> 00:55:42,597
+Please spare me!
+
+719
+00:55:43,000 --> 00:55:45,798
+- He's ashamed.
+- Yes, I'm ashamed! And afraid!
+
+720
+00:55:47,160 --> 00:55:51,358
+Fourteen rubles, please.
+The melon's yours, the money's ours.
+
+721
+00:55:52,160 --> 00:55:54,799
+Come, folks! There's nothing phony!
+It's half sugar, half honey!
+
+722
+00:55:55,080 --> 00:55:59,517
+- This one, please.
+- You've chosen a fine melon!
+
+723
+00:55:59,920 --> 00:56:04,789
+Twelve rubles, please.
+Come, folks! There's nothing phony!
+
+724
+00:56:05,640 --> 00:56:07,278
+Buy a melon, please.
+
+725
+00:56:07,560 --> 00:56:09,118
+It melts in your mouth!
+
+726
+00:56:10,920 --> 00:56:12,956
+Please, comrade...
+
+727
+00:56:18,400 --> 00:56:21,039
+- He's got no shame.
+- The intelligentsia.
+
+728
+00:56:21,320 --> 00:56:22,799
+Those parasites give us no peace!
+
+729
+00:56:23,080 --> 00:56:24,798
+I wish you'd choke on your melon!
+
+730
+00:56:25,080 --> 00:56:26,638
+They know no limits!
+
+731
+00:56:26,920 --> 00:56:31,118
+Fifteen rubles for a melon!
+Because of you we can't buy anything.
+
+732
+00:56:31,560 --> 00:56:32,515
+Scavenger!
+
+733
+00:56:32,800 --> 00:56:34,950
+Profiteer!
+
+734
+00:56:35,240 --> 00:56:37,674
+Why it's 3 rubles here and 2.50 over
+there?
+
+735
+00:56:38,560 --> 00:56:40,437
+He doesn't want to work, parasite!
+
+736
+00:56:41,160 --> 00:56:44,277
+He's a sponger,
+just look at his hands.
+
+737
+00:56:44,800 --> 00:56:46,677
+He's never seen a melon plantation
+in his life.
+
+738
+00:56:46,960 --> 00:56:48,439
+It's outrageous!
+
+739
+00:56:48,720 --> 00:56:50,790
+Gorged himself a mug at the expense
+of our temporal difficulties.
+
+740
+00:56:51,080 --> 00:56:55,517
+Why are you attacking the man?
+You don't like it, don't buy it.
+
+741
+00:56:55,800 --> 00:56:57,279
+What's that smell?
+
+742
+00:56:57,560 --> 00:57:02,793
+- It's the Tchaidzui melon.
+- Great. Have one weighed for me.
+
+743
+00:57:03,160 --> 00:57:07,039
+As for the mug, I would advise you
+to look in the mirror more often.
+
+744
+00:57:07,320 --> 00:57:08,799
+What a bitch!
+
+745
+00:57:09,320 --> 00:57:13,598
+They insult us at the shops, you come
+here to get a break, it's the same.
+
+746
+00:57:14,400 --> 00:57:17,437
+That comrade has good melons too,
+only they're bitter.
+
+747
+00:57:17,720 --> 00:57:18,789
+Have you tasted them?
+
+748
+00:57:19,080 --> 00:57:21,878
+I don't need to taste them.
+I know that kind very well.
+
+749
+00:57:23,640 --> 00:57:26,438
+- Have you been inside it?
+- I know that variety.
+
+750
+00:57:26,720 --> 00:57:28,039
+I'll cut it for you to taste.
+
+751
+00:57:28,320 --> 00:57:30,436
+Don't bother. I know it all through.
+
+752
+00:57:30,720 --> 00:57:32,597
+I'll deal with them all.
+
+753
+00:57:32,920 --> 00:57:34,672
+Thanks for coming.
+
+754
+00:57:36,000 --> 00:57:40,516
+I know. She's his woman. Yes.
+
+755
+00:57:42,720 --> 00:57:44,597
+She works for him.
+
+756
+00:57:45,320 --> 00:57:47,197
+Come on. I've never seen him before.
+
+757
+00:57:47,480 --> 00:57:48,629
+They're second-hand dealers.
+
+758
+00:57:48,920 --> 00:57:50,592
+It's the first time I'm seeing him!
+
+759
+00:57:50,880 --> 00:57:52,199
+She's not my woman!
+
+760
+00:57:52,920 --> 00:57:54,433
+I've got a certificate!
+
+761
+00:57:54,720 --> 00:57:56,039
+She's not my woman.
+
+762
+00:57:56,320 --> 00:57:58,834
+A certificate from my own plot,
+that's why I sell cheaper.
+
+763
+00:57:59,080 --> 00:58:02,789
+You're a second-hand dealer yourself!
+You think your tomatoes grow on trees?
+
+764
+00:58:03,080 --> 00:58:05,640
+It's your melons
+that grow on trees!
+
+765
+00:58:07,080 --> 00:58:09,958
+Come on, what's so funny?
+The man's just kidding.
+
+766
+00:58:10,240 --> 00:58:13,357
+You'd better go, baldie,
+and watch your worm-eaten tomatoes.
+
+767
+00:58:13,640 --> 00:58:17,349
+What the hell is going on? You can't
+get away from those city swindlers!
+
+768
+00:58:17,640 --> 00:58:21,349
+- I bet he bought them from conductors.
+- That's why he overprices them!
+
+769
+00:58:21,640 --> 00:58:23,119
+Call the police!
+
+770
+00:58:23,400 --> 00:58:24,799
+I'll be a witness!
+
+771
+00:58:25,080 --> 00:58:28,436
+- No police, friends!
+- He's right.
+
+772
+00:58:28,720 --> 00:58:32,030
+The police are no chums to us. Let's
+just give him a couple of punches.
+
+773
+00:58:34,160 --> 00:58:38,438
+Good people!
+That's my debut at the market place!
+
+774
+00:58:39,000 --> 00:58:42,197
+Perhaps it's not quite a success.
+Please, help me.
+
+775
+00:58:42,480 --> 00:58:44,596
+Help me to get rid of those damned
+melons.
+
+776
+00:58:45,240 --> 00:58:47,879
+Help me,
+buy them by the barrel.
+
+777
+00:58:49,000 --> 00:58:51,514
+I mean, by the bulk, all together.
+
+778
+00:58:52,160 --> 00:58:54,515
+Hurry up, baldie, it's a bargain.
+
+779
+00:58:54,920 --> 00:58:57,639
+I pay a ruble a kilo for the lot.
+
+780
+00:58:57,920 --> 00:59:02,198
+No way. For a ruble a kilo,
+he'll eat them himself, right?
+
+781
+00:59:02,560 --> 00:59:04,630
+For a ruble a kilo, I'll eat them
+myself.
+
+782
+00:59:04,920 --> 00:59:07,115
+All right, one ruble 20 kopecks.
+
+783
+00:59:07,400 --> 00:59:09,356
+No, it's robbery!
+
+784
+00:59:09,640 --> 00:59:11,790
+- One ruble 30 kopecks.
+- No!
+
+785
+00:59:12,080 --> 00:59:13,433
+One ruble 40 kopecks. That's my last
+word.
+
+786
+00:59:13,720 --> 00:59:16,871
+No, I can't, I must return to my boss
+one ruble 50 kopecks.
+
+787
+00:59:17,160 --> 00:59:19,958
+We gave you a good price.
+
+788
+00:59:23,320 --> 00:59:28,519
+You can't lose on it, it's a bargain!
+Don't be stingy, sellers!
+
+789
+00:59:29,160 --> 00:59:34,871
+Oh, what the heck!
+Who wants Tchaidzhui melons?
+
+790
+00:59:35,400 --> 00:59:38,358
+As sweet as honey!
+As smooth as maidens!
+
+791
+00:59:38,920 --> 00:59:40,797
+Come on, buy before they go!
+
+792
+00:59:41,480 --> 00:59:43,789
+Come, folks, there's nothing phony!
+They're half sugar, half honey!
+
+793
+00:59:44,080 --> 00:59:45,957
+One ruble fifty a kilo!
+
+794
+00:59:58,320 --> 00:59:59,355
+Please.
+
+795
+00:59:59,800 --> 01:00:02,598
+- Thank you.
+- You're welcome. Where to?
+
+796
+01:00:02,920 --> 01:00:05,195
+This way. It's not far.
+
+797
+01:00:08,560 --> 01:00:10,790
+It feels so good!
+
+798
+01:00:11,080 --> 01:00:12,513
+Right.
+
+799
+01:00:13,080 --> 01:00:15,435
+After all that smoke and racket at
+the restaurant,
+
+800
+01:00:15,720 --> 01:00:19,030
+I come here at night, get some fresh
+air, and all is gone without a trace.
+
+801
+01:00:19,320 --> 01:00:21,515
+Aren't you afraid to walk alone at
+night?
+
+802
+01:00:21,800 --> 01:00:23,358
+I'm used to it.
+
+803
+01:00:23,640 --> 01:00:26,200
+My friend, Violetta, often comes
+along to visit me.
+
+804
+01:00:26,720 --> 01:00:29,234
+We two walk, with heavy bags,
+
+805
+01:00:29,480 --> 01:00:32,790
+so tired that we can't even talk,
+just chap-chap-chap.
+
+806
+01:00:33,080 --> 01:00:38,200
+And, suddenly, we hear
+a man's cough behind us.
+
+807
+01:00:38,640 --> 01:00:44,431
+And my dear old maid, Violetta,
+immediately became a different person.
+
+808
+01:00:45,000 --> 01:00:49,437
+Now she was walking with no life left
+in her, with her whole body aching...
+
+809
+01:00:59,240 --> 01:01:03,438
+Imagine, she gave him her phone
+number, and waited, with no result.
+
+810
+01:01:04,320 --> 01:01:06,038
+Though it seemed that man was already
+in her pocket.
+
+811
+01:01:06,480 --> 01:01:10,598
+You needn't to go with me any farther.
+Thanks and goodbye.
+
+812
+01:01:10,920 --> 01:01:12,797
+How can you sleep with that thunder?
+
+813
+01:01:13,080 --> 01:01:17,198
+I got used to it. Now I can't
+sleep when it's quiet.
+
+814
+01:01:17,480 --> 01:01:19,994
+I need that thunder around me.
+
+815
+01:01:21,080 --> 01:01:23,116
+That territory by the tracks...
+
+816
+01:01:23,400 --> 01:01:27,518
+Our house is over there... we call it
+"a strip of estrangement".
+
+817
+01:01:27,800 --> 01:01:30,519
+All right... I must go.
+
+818
+01:01:30,800 --> 01:01:33,792
+I haven't yet asked you that most
+original question men usually ask.
+
+819
+01:01:35,080 --> 01:01:36,957
+What are you doing tonight?
+
+820
+01:01:38,000 --> 01:01:40,195
+Are you inviting me to the station's
+waiting room?
+
+821
+01:01:40,480 --> 01:01:42,357
+Oh no, you have such a beautiful
+dress on!
+
+822
+01:01:42,640 --> 01:01:45,518
+I got even a better one!
+
+823
+01:01:46,160 --> 01:01:49,436
+Then it's only natural that I should
+invite you to a restaurant tonight.
+
+824
+01:01:50,240 --> 01:01:54,028
+Oh, please, invite me. I haven't
+been to a restaurant for ages!
+
+825
+01:01:56,800 --> 01:01:58,279
+I'm inviting you.
+
+826
+01:01:59,560 --> 01:02:01,039
+I'll be back in a jiffy!
+
+827
+01:03:07,080 --> 01:03:08,433
+Here I am.
+
+828
+01:03:12,080 --> 01:03:16,437
+I gave them their supper, said I'd be
+back late, so we can go and party.
+
+829
+01:03:17,000 --> 01:03:18,115
+Please.
+
+830
+01:03:22,920 --> 01:03:23,955
+Wait...
+
+831
+01:03:25,080 --> 01:03:26,798
+You want to offer me money?
+
+832
+01:03:27,560 --> 01:03:30,438
+- The gentleman is supposed to pay.
+- Whatjoint are we going to?
+
+833
+01:03:30,720 --> 01:03:34,508
+If you don't mind, invite me
+to our restaurant, please.
+
+834
+01:03:35,320 --> 01:03:38,437
+- You want to show off?
+- I want to see their long faces.
+
+835
+01:03:39,080 --> 01:03:40,638
+Keep your money.
+
+836
+01:03:40,920 --> 01:03:43,195
+You mean we're going to run away
+without paying?
+
+837
+01:03:43,480 --> 01:03:46,358
+I know that you think I'm a criminal,
+and perhaps you're right.
+
+838
+01:03:46,840 --> 01:03:49,718
+But this time
+we'll act honest.
+
+839
+01:03:50,160 --> 01:03:52,116
+How? I'm intrigued.
+
+840
+01:03:52,560 --> 01:03:55,120
+It's a secret.
+Actually, I'm a very mysterious man.
+
+841
+01:03:55,800 --> 01:03:58,360
+Oh, you're so funny!
+
+842
+01:03:59,480 --> 01:04:02,631
+Will you buy me a ticket, please?
+I haven't got a kopeck.
+
+843
+01:04:02,920 --> 01:04:04,876
+Of course I will. I've got a season
+ticket.
+
+844
+01:04:08,320 --> 01:04:10,834
+End of Part One

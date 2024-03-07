@@ -1,0 +1,2535 @@
+1
+00:00:17,794 --> 00:00:22,160
+"Some of the biggest men in the United States,
+in the Field of commerce and manufacture are afraid of something.
+
+2
+00:00:23,873 --> 00:00:28,707
+They know that there is a power somewhere so organized,
+so subtle, so watchful, so interlocked, so complete, so pervasive,
+
+3
+00:00:30,765 --> 00:00:39,936
+that they better not speak above their breath when they speak in condemnation of it."
+~Woodrow Wilson, former President of the United States
+
+4
+00:01:01,569 --> 00:01:04,996
+"Each and every time a bank makes a loan,
+new bank credit is created - new deposits - brand new money."
+
+5
+00:01:05,570 --> 00:01:07,105
+~Graham F. Towers, Governor, Bank of Canada, 1934-54
+
+6
+00:01:10,716 --> 00:01:16,151
+"The process by which banks create money is so simple the mind is repelled."
+~John Kenneth Galbraith, Economist
+
+7
+00:01:19,971 --> 00:01:23,660
+"Permit me to issue and control the money of a nation,
+and I care not who makes its laws."
+
+8
+00:01:23,624 --> 00:01:26,188
+~Mayer Amschel Rothschild, Banker
+
+9
+00:01:30,325 --> 00:01:34,053
+Money as Debt
+{Subs by OSK}
+
+10
+00:01:37,434 --> 00:01:44,775
+Debt
+
+11
+00:01:49,841 --> 00:01:53,689
+Two great mysteries dominate our lives:  love and money.
+
+12
+00:01:54,903 --> 00:02:01,098
+"What is love?" is a question that has been endlessly explored in stories,
+songs, books, movies, and television.
+
+13
+00:02:01,965 --> 00:02:05,546
+But the same can NOT be said about the question "What is money?"
+
+14
+00:02:07,050 --> 00:02:11,588
+It's not surprising that monetary theory hasn't inspired any blockbuster movies.
+
+15
+00:02:12,155 --> 00:02:15,610
+But it was not even mentioned at the schools most of us attended.
+
+16
+00:02:16,371 --> 00:02:23,747
+For most of us, the question "Where does money come from?"
+brings to mind a picture of the mint printing bills and stamping coins.
+
+17
+00:02:24,272 --> 00:02:26,998
+Money, most of us believe, is created by the government.
+
+18
+00:02:28,082 --> 00:02:29,413
+It 's true
+
+19
+00:02:30,227 --> 00:02:32,217
+but only to a point.
+
+20
+00:02:32,691 --> 00:02:36,213
+Those metal and paper symbols
+of value we usually think of as money
+
+21
+00:02:36,731 --> 00:02:40,250
+are, indeed, produced by an agency
+of the federal government called the Mint.
+
+22
+00:02:41,023 --> 00:02:44,349
+But the vast majority of money
+is not created by the Mint.
+
+23
+00:02:44,936 --> 00:02:51,120
+It is created in huge amounts every day
+by private corporations known as banks.
+
+24
+00:02:54,011 --> 00:02:58,819
+Most of us believe that banks lend out money
+that has been entrusted to them by depositors.
+
+25
+00:02:59,344 --> 00:03:00,281
+Easy to picture.
+
+26
+00:03:00,743 --> 00:03:01,726
+But not the truth.
+
+27
+00:03:02,300 --> 00:03:04,431
+In fact, banks create the money they loan,
+
+28
+00:03:04,935 --> 00:03:07,573
+not from the bank's own earnings,
+not from money deposited,
+
+29
+00:03:08,057 --> 00:03:11,337
+but directly from the borrower's promise to repay.
+
+30
+00:03:12,099 --> 00:03:16,249
+The borrower's signature on the loan papers
+is an obligation to pay the bank
+
+31
+00:03:16,646 --> 00:03:18,030
+the amount of the loan plus interest,
+
+32
+00:03:18,468 --> 00:03:22,985
+or, lose the house, the car,
+whatever asset was pledged as collateral.
+
+33
+00:03:23,452 --> 00:03:25,373
+That's a big commitment from the borrower.
+
+34
+00:03:27,084 --> 00:03:29,545
+What does that same signature require of the bank?
+
+35
+00:03:30,126 --> 00:03:33,271
+The bank gets to conjure into existence
+the amount of the loan
+
+36
+00:03:33,826 --> 00:03:36,236
+and just write it into the borrower's account.
+
+37
+00:03:36,233 --> 00:03:37,120
+Sound far-fetched?
+
+38
+00:03:37,660 --> 00:03:41,239
+Surely that can't be true.
+But it is.
+
+39
+00:03:46,206 --> 00:03:51,997
+To demonstrate how this miracle of modern banking
+came about, consider this simple story:
+
+40
+00:03:51,864 --> 00:03:53,166
+The Goldsmith's Tale
+
+41
+00:03:54,565 --> 00:03:58,514
+Once upon various times,
+pretty much anything was used as money.
+
+42
+00:03:59,106 --> 00:04:01,925
+It just had to be portable
+and enough people had to have faith
+
+43
+00:04:02,433 --> 00:04:07,137
+that it could later be exchanged for things of real value
+like food, clothing and shelter.
+
+44
+00:04:07,657 --> 00:04:12,386
+Shells, cocoa beans, pretty stones,
+even feathers have been used as money.
+
+45
+00:04:12,951 --> 00:04:16,477
+Gold and silver were attractive,
+soft and easy to work with.
+
+46
+00:04:16,945 --> 00:04:19,521
+so some cultures became expert with these metals.
+
+47
+00:04:20,355 --> 00:04:23,570
+Goldsmiths made trade much easier by casting coins,
+
+48
+00:04:24,224 --> 00:04:27,608
+standardized units of these metals
+whose weight and purity was certified.
+
+49
+00:04:29,373 --> 00:04:32,047
+To protect his gold, the goldsmith needed a vault.
+
+50
+00:04:32,737 --> 00:04:35,461
+And soon his fellow townsmen
+were knocking on his door
+
+51
+00:04:35,832 --> 00:04:39,177
+wanting to rent space to safeguard
+their own coins and valuables.
+
+52
+00:04:40,718 --> 00:04:47,427
+Before long, the goldsmith was renting every shelf
+in the vault and earning a small income from his vault rental business.
+
+53
+00:04:48,333 --> 00:04:52,216
+Years went by and the goldsmith made an astute observation:
+
+54
+00:04:52,692 --> 00:04:58,549
+Depositors rarely came in to remove their actual,
+physical gold, and they never all came in at once.
+
+55
+00:04:59,202 --> 00:05:03,105
+That was because the claim checks the goldsmith
+had written as receipts for the gold,
+
+56
+00:05:03,751 --> 00:05:07,706
+were being traded in the marketplace
+as if they were the gold itself.
+
+57
+00:05:08,242 --> 00:05:12,863
+This paper money was far more convenient than heavy coins,
+and amounts could simply be written,
+
+58
+00:05:13,513 --> 00:05:17,033
+instead of laboriously counted one by one for each transaction.
+
+59
+00:05:18,496 --> 00:05:21,227
+Meanwhile, the goldsmith had another business.
+
+60
+00:05:22,125 --> 00:05:24,024
+He lent out his gold charging interest.
+
+61
+00:05:25,082 --> 00:05:27,284
+Well, as convenient claim check money came into acceptance,
+
+62
+00:05:27,943 --> 00:05:32,978
+borrowers began asking for their loans in the form of
+these claim checks instead of the actual metal.
+
+63
+00:05:35,714 --> 00:05:39,813
+As industry expanded more and more
+people asked the goldsmith for loans.
+
+64
+00:05:40,504 --> 00:05:42,910
+This gave the goldsmith an even better idea.
+
+65
+00:05:43,454 --> 00:05:48,110
+He knew that very few of his depositors
+ever removed their actual gold.
+
+66
+00:05:48,652 --> 00:05:53,420
+So, the goldsmith figured he could easily get away
+with lending out claim checks against his depositors' gold,
+
+67
+00:05:54,126 --> 00:05:55,323
+in addition to his own.
+
+68
+00:05:56,236 --> 00:06:01,518
+As long as the loans were repaid,
+his depositors would be none the wiser, and no worse off.
+
+69
+00:06:01,999 --> 00:06:04,234
+And the goldsmith, now more banker than artisan,
+
+70
+00:06:04,808 --> 00:06:08,659
+would make a far greater profit
+than he could by lending only his own gold.
+
+71
+00:06:10,552 --> 00:06:16,126
+For years the goldsmith secretly enjoyed a good income
+from the interest earned on everybody else's deposits.
+
+72
+00:06:17,053 --> 00:06:22,743
+Now a prominent lender, he grew steadily richer
+than his fellow townsmen and he flaunted it.
+
+73
+00:06:23,296 --> 00:06:26,907
+Suspicions grew that he was spending his depositors' money.
+
+74
+00:06:27,026 --> 00:06:33,611
+His depositors got together and threatened withdrawal of their gold
+if the goldsmith didn't come clean about his newfound wealth.
+
+75
+00:06:34,644 --> 00:06:39,198
+Contrary to what one might have expected,
+this did not turn out to be a disaster for the goldsmith.
+
+76
+00:06:39,904 --> 00:06:44,063
+Despite the duplicity inherent in his scheme,
+his idea did work.
+
+77
+00:06:44,459 --> 00:06:49,255
+The depositors had not lost anything.
+Their gold was all safe in the goldsmith's vault.
+
+78
+00:06:50,389 --> 00:06:55,351
+Rather than taking back their gold,
+the depositors demanded that the goldsmith, now their banker,
+
+79
+00:06:55,805 --> 00:06:58,617
+cut them in by paying them a share of the interest.
+
+80
+00:07:01,111 --> 00:07:02,959
+And that was the beginning of banking.
+
+81
+00:07:03,421 --> 00:07:09,397
+The banker paid a low interest rate on deposits
+of other people's money that he then loaned out at a higher interest.
+
+82
+00:07:10,040 --> 00:07:13,137
+The difference covered the bank's cost of operation
+and its profit.
+
+83
+00:07:14,004 --> 00:07:15,815
+The logic of this system was simple.
+
+84
+00:07:16,349 --> 00:07:19,599
+And it seemed like a reasonable way
+to satisfy the demand for credit.
+
+85
+00:07:20,130 --> 00:07:23,553
+However this is NOT the way banking works today.
+
+86
+00:07:25,220 --> 00:07:31,672
+Our goldsmith/banker was not content with the income remaining
+after sharing the interest earnings with his depositors.
+
+87
+00:07:32,359 --> 00:07:37,004
+And the demand for credit was growing fast,
+as Europeans spread out across the world.
+
+88
+00:07:37,652 --> 00:07:42,813
+But his loans were limited
+by the amount of gold his depositors had in his vault.
+
+89
+00:07:43,389 --> 00:07:45,642
+That's when he got an even bolder idea.
+
+90
+00:07:46,262 --> 00:07:49,006
+Since no one but himself knew
+what was actually in his vaults,
+
+91
+00:07:49,451 --> 00:07:52,575
+he could lend out claim checks on gold
+that wasn't even there!
+
+92
+00:07:53,101 --> 00:07:59,495
+As long as all the claim check holders didn't come to the vault
+at the same time and demand real gold, how would anyone find out?
+
+93
+00:08:00,601 --> 00:08:04,791
+This new scheme worked very well,
+and the banker became enormously wealthy
+
+94
+00:08:05,361 --> 00:08:08,220
+on the interest paid on gold that did not exist!
+
+95
+00:08:09,393 --> 00:08:14,095
+The idea that the banker would just create money out of nothing
+was too outrageous to believe,
+
+96
+00:08:14,576 --> 00:08:17,030
+so, for a long time,
+the thought did not even occur to people.
+
+97
+00:08:17,999 --> 00:08:22,529
+But, the power to just invent money went to the banker's head
+as you can well imagine.
+
+98
+00:08:23,226 --> 00:08:29,391
+In time, the magnitude of the banker's loans and his ostentatious wealth
+did trigger suspicions once again.
+
+99
+00:08:30,701 --> 00:08:36,852
+Some borrowers started to demand real gold
+instead of paper representations. Rumors spread.
+
+100
+00:08:37,380 --> 00:08:42,210
+Suddenly, several wealthy depositors showed up to remove their gold.
+The game was up!
+
+101
+00:08:42,777 --> 00:08:47,301
+A sea of claim check holders flooded the street
+outside the closed doors of the bank.
+
+102
+00:08:47,728 --> 00:08:53,047
+Alas, the banker did not have enough gold & silver
+to redeem all the paper he had put into their hands.
+
+103
+00:08:53,443 --> 00:08:57,924
+This is called a "run on the bank"
+and is what every banker dreads.
+
+104
+00:08:59,407 --> 00:09:04,288
+This phenomenon of a "run on the bank"
+ruined individual banks and, not surprisingly,
+
+105
+00:09:04,488 --> 00:09:07,073
+damaged public confidence in all bankers.
+
+106
+00:09:08,777 --> 00:09:13,186
+It would have been straightforward to outlaw
+the practice of creating money from nothing.
+
+107
+00:09:14,298 --> 00:09:20,980
+But the large volumes of credit the bankers were offering
+had become essential to the success of European commercial expansion.
+
+108
+00:09:21,339 --> 00:09:24,798
+So, instead, the practice was legalized and regulated.
+
+109
+00:09:25,457 --> 00:09:30,222
+Bankers agreed to abide by limits on the amount
+of fictional loan money that could be lent out.
+
+110
+00:09:31,156 --> 00:09:35,956
+The limit would still be a number much larger
+than the actual value of gold and silver in the vault.
+
+111
+00:09:36,542 --> 00:09:40,609
+Quite often the ratio was 9 fictional dollars
+to 1 actual dollar in gold.
+
+112
+00:09:41,468 --> 00:09:44,835
+These regulations were enforced by surprise inspections.
+
+113
+00:09:45,471 --> 00:09:48,017
+It was also arranged that,
+in the event of a run,
+
+114
+00:09:48,444 --> 00:09:52,880
+central banks would support local banks
+with emergency infusions of gold.
+
+115
+00:09:53,502 --> 00:09:56,443
+Only if there were runs on a lot of banks simultaneously
+
+116
+00:09:56,941 --> 00:10:01,686
+would the bankers' credit bubble burst
+and the system come crashing down.
+
+117
+00:10:04,506 --> 00:10:07,802
+The Money System Today
+
+118
+00:10:11,325 --> 00:10:18,213
+Over the years, the fractional reserve system
+and its integrated network of banks backed by a central bank
+
+119
+00:10:18,764 --> 00:10:25,424
+has become the dominant money system of the world.
+At the same time, the fraction of gold backing the debt money
+
+120
+00:10:26,043 --> 00:10:27,954
+has steadily shrunk to nothing.
+
+121
+00:10:29,652 --> 00:10:32,945
+The basic nature of money has changed.
+
+122
+00:10:33,751 --> 00:10:40,222
+In the past, a paper dollar was actually a receipt
+that could be redeemed for a fixed weight of gold or silver.
+
+123
+00:10:40,723 --> 00:10:47,438
+In the present, a paper or digital dollar can only be redeemed
+for another paper or digital dollar.
+
+124
+00:10:51,775 --> 00:11:00,032
+In the past, privately created bank credit existed only
+in the form of private banknotes, which people had the choice to refuse
+
+125
+00:11:00,609 --> 00:11:04,024
+just as we have the choice to refuse
+someone's private cheque today.
+
+126
+00:11:05,023 --> 00:11:11,598
+In the present, privately created bank credit
+is legally convertible to government issued "fiat" currency,
+
+127
+00:11:12,090 --> 00:11:15,895
+the dollars, loonies and pounds we habitually think of as money.
+
+128
+00:11:16,334 --> 00:11:25,118
+Fiat currency is money created by government fiat,
+or decree, and legal tender laws declare that citizens must accept this fiat money
+
+129
+00:11:25,687 --> 00:11:29,551
+as payment for debt or else the courts will not enforce the obligation.
+
+130
+00:11:31,630 --> 00:11:33,389
+So, now the question is
+
+131
+00:11:33,866 --> 00:11:39,276
+if governments and banks can both just create money,
+then how much money exists?
+
+132
+00:11:41,800 --> 00:11:47,564
+In the past, the total amount of money in existence
+was limited to the actual physical quantities
+
+133
+00:11:47,932 --> 00:11:54,357
+of whatever commodity was in use as money.
+For example, in order for new gold or silver money to be created,
+
+134
+00:11:54,937 --> 00:11:58,658
+more gold or silver had to be found and dug out of the ground.
+
+135
+00:12:01,466 --> 00:12:09,204
+In the present, money is literally created as debt.
+New money is created whenever anyone takes a loan from a bank.
+
+136
+00:12:09,922 --> 00:12:18,169
+As a result, the total amount of money that can be created
+has only one real limit - the total level of debt.
+
+137
+00:12:25,691 --> 00:12:29,549
+Governments place an additional statutory limit
+on the creation of new money,
+
+138
+00:12:30,088 --> 00:12:34,247
+by enforcing rules known as
+fractional reserve requirements.
+
+139
+00:12:35,065 --> 00:12:41,956
+Essentially arbitrary, fractional reserve requirements
+vary from country to country and from time to time.
+
+140
+00:12:42,636 --> 00:12:48,603
+In the past, it was common to require banks
+to have at least one dollar's worth of real gold in the vault
+
+141
+00:12:49,078 --> 00:12:51,873
+to back 10 dollars worth of debt money created.
+
+142
+00:12:52,342 --> 00:12:59,007
+Today, reserve requirement ratios no longer apply
+to the ratio of new money to gold on deposit,
+
+143
+00:12:59,469 --> 00:13:05,752
+but merely to the ratio of new debt money
+to existing debt money on deposit in the bank.
+
+144
+00:13:08,488 --> 00:13:11,959
+Today, a bank's reserves consist of two things:
+
+145
+00:13:12,800 --> 00:13:18,338
+the amount of government-issued cash or equivalent
+that the bank has deposited with the central bank,
+
+146
+00:13:18,984 --> 00:13:23,490
+plus the amount of already existing debt money
+the bank has on deposit.
+
+147
+00:13:25,422 --> 00:13:27,483
+To illustrate this in a simple way.
+
+148
+00:13:28,105 --> 00:13:32,731
+let us imagine that a new bank has just started up
+and has no depositors at all yet.
+
+149
+00:13:33,098 --> 00:13:40,242
+However the bank's investors have made a reserve deposit
+of one thousand one hundred and eleven dollars and twelve cents
+
+150
+00:13:40,689 --> 00:13:46,798
+of existing cash money at the central bank
+and the required reserve ratio is 9:1.
+
+151
+00:13:47,335 --> 00:13:53,191
+Step 1: The doors open and the new bank
+welcomes its first loan customer.
+
+152
+00:13:53,667 --> 00:13:57,055
+He needs $10,000 to buy a good used car.
+
+153
+00:13:57,510 --> 00:14:02,852
+At a 9:1 reserve ratio, the new bank's reserve at the central bank,
+also known as "high-powered money",
+
+154
+00:14:03,260 --> 00:14:11,975
+allows it to legally conjure into existence 9 times that amount,
+or $10,000 on the basis of the borrower's pledge of debt.
+
+155
+00:14:12,429 --> 00:14:20,562
+This $10,000 is not taken from anywhere.
+It is brand new money simply typed into the borrower's account as bank credit.
+
+156
+00:14:20,988 --> 00:14:26,060
+The borrower then writes a check on that bank credit
+to buy the used car.
+
+157
+00:14:28,607 --> 00:14:34,538
+Step 2: The seller then deposits this newly
+created $10,000 at her bank.
+
+158
+00:14:35,013 --> 00:14:43,253
+Unlike the high-powered government money deposited at the central bank,
+this newly created credit money cannot be multiplied by the reserve ratio.
+
+159
+00:14:43,617 --> 00:14:46,660
+Instead it is divided by the reserve ratio.
+
+160
+00:14:47,059 --> 00:14:54,506
+At a ratio of 9:1, a new loan of $9,000 can be created
+on the basis of the $10,000 deposit.
+
+161
+00:14:57,128 --> 00:15:04,951
+Step 3: If that $9000 is then deposited by a third party,
+at the same bank that created it, or a different one,
+
+162
+00:15:05,353 --> 00:15:11,906
+it becomes the legal basis for a third issue of bank credit,
+this time for the amount of $8100.
+
+163
+00:15:12,404 --> 00:15:19,568
+Like one of those Russian dolls, each layer of which contains
+a slightly smaller doll inside, each new deposit contains the potential
+
+164
+00:15:20,279 --> 00:15:25,093
+for a slightly smaller loan in an infinitely decreasing series.
+
+165
+00:15:28,842 --> 00:15:33,683
+Now, if the loan money created is not deposited at a bank,
+the process stops.
+
+166
+00:15:34,187 --> 00:15:37,838
+That is the unpredictable part
+of the money creation mechanism.
+
+167
+00:15:40,695 --> 00:15:47,043
+But more likely, at every step, the new money
+will be deposited at a bank, and the reserve ratio process
+
+168
+00:15:47,535 --> 00:15:55,477
+can repeat itself over and over until almost $100,000
+of brand new money has been created within the banking system.
+
+169
+00:15:57,236 --> 00:16:06,170
+All of this new money has been created entirely from debt,
+and the whole process legally authorized by the initial reserve deposit
+
+170
+00:16:06,806 --> 00:16:12,814
+of just one thousand one hundred and eleven dollars and twelve cents,
+which is still sitting untouched at the central bank!
+
+171
+00:16:13,411 --> 00:16:18,589
+What's more, under this ingenious system,
+the books of each bank in the chain must show
+
+172
+00:16:19,023 --> 00:16:26,724
+that the bank has 10% more on deposit than it has out on loan.
+This gives banks a very real incentive to seek deposits
+
+173
+00:16:27,245 --> 00:16:34,544
+in order to be able to make loans, supporting the general
+but misleading impression that loans come out of deposits.
+
+174
+00:16:36,000 --> 00:16:40,432
+Now, unless all the successive loans
+were deposited at the same bank,
+
+175
+00:16:40,914 --> 00:16:47,367
+it cannot be said that any one bank got to multiply
+its initial high powered money reserve almost 90 times
+
+176
+00:16:47,759 --> 00:16:50,204
+by issuing bank credit out of nothing.
+
+177
+00:16:50,625 --> 00:16:58,353
+However, the banking system is a closed loop, bank credit
+created at one bank becomes a deposit in another, and vice versa.
+
+178
+00:17:00,110 --> 00:17:05,321
+In a theoretical world of perfectly equal exchanges,
+the ultimate effect would be exactly the same
+
+179
+00:17:05,914 --> 00:17:08,963
+as if the whole process took place within one bank.
+
+180
+00:17:09,344 --> 00:17:14,181
+That is, the bank's initial central bank reserve
+of a little over eleven hundred dollars
+
+181
+00:17:14,614 --> 00:17:21,272
+allows it to ultimately collect interest on
+up to $100,000 the bank never had.
+
+182
+00:17:27,210 --> 00:17:33,035
+If that sounds ridiculous, try this.
+In recent decades, as a result of steady lobbying by the banks,
+
+183
+00:17:33,524 --> 00:17:39,968
+the requirements to make a reserve deposit
+at the nation's central bank have all but disappeared in some countries
+
+184
+00:17:40,346 --> 00:17:43,623
+and actual reserve ratios can be much higher than 9:1.
+
+185
+00:17:44,097 --> 00:17:48,441
+For some types of accounts, twenty to one
+and thirty to one ratios are common.
+
+186
+00:17:50,929 --> 00:17:56,178
+And even more recently, by using loan fees  to raise the required reserve
+from the borrower,
+
+187
+00:17:56,573 --> 00:18:01,487
+banks have now found a way to circumvent
+reserve requirement limitations entirely.
+
+188
+00:18:01,990 --> 00:18:07,527
+Sowhile the rules are complex
+the common sense reality is actually quite simple.
+
+189
+00:18:08,033 --> 00:18:10,139
+Banks can create as much money as we can borrow.
+
+190
+00:18:10,744 --> 00:18:12,598
+"Everyone sub-consciously knows
+banks do not lend money.
+
+191
+00:18:13,093 --> 00:18:16,651
+When you draw on your savings account,
+the bank doesn't tell you you can't do this
+
+192
+00:18:17,190 --> 00:18:20,890
+because it hast lent the money to somebody else."
+~Mark Mansfield, economist and author
+
+193
+00:18:22,025 --> 00:18:28,633
+Despite the endlessly presented mint footage, government-created money
+typically accounts for less than 5% of the money in circulation.
+
+194
+00:18:29,079 --> 00:18:34,731
+More than 95% of all money in existence today was created
+
+195
+00:18:35,215 --> 00:18:39,414
+by someone signing a pledge of indebtedness to a bank.
+
+196
+00:18:39,775 --> 00:18:45,562
+What's more, this bank credit money is being created and destroyed
+in huge amounts every day,
+
+197
+00:18:46,125 --> 00:18:49,259
+as new loans are made and old ones repaid.
+
+198
+00:18:55,873 --> 00:18:59,437
+"I am afraid the the ordinary citizen will not like
+to be told that banks can and do create money.
+
+199
+00:18:59,935 --> 00:19:03,814
+...And they who control the credit of a nation
+direct the policy of Governments
+
+200
+00:19:04,880 --> 00:19:09,037
+and hold in the hollow of their hand the destiny of the people."
+~Reginald McKenna, past Chairman of the Board, Midlans Bank of England
+
+201
+00:19:18,392 --> 00:19:22,940
+Banks can only practice this money system
+with the active cooperation of government.
+
+202
+00:19:23,632 --> 00:19:28,482
+First, governments pass legal tender laws
+to make us use the national fiat currency.
+
+203
+00:19:28,795 --> 00:19:34,270
+Secondly, governments allow private bank credit
+to be paid out in this government currency.
+
+204
+00:19:34,923 --> 00:19:37,907
+Thrirdly, government courts enforce debts.
+
+205
+00:19:38,716 --> 00:19:45,878
+And lastly, governments pass regulations
+to protect the money system's functionality and credibility with the public
+
+206
+00:19:46,431 --> 00:19:51,007
+while doing nothing to inform the public
+about where money really comes from.
+
+207
+00:19:53,371 --> 00:19:55,161
+[The Simple Truth]
+The simple truth is that
+
+208
+00:19:55,483 --> 00:19:58,760
+when we sign on the dotted line
+for a so-called loan or mortgage,
+
+209
+00:19:59,139 --> 00:20:04,511
+our signed pledge of payment,
+backed by the assets we pledge to forfeit should we fail to pay,
+
+210
+00:20:04,889 --> 00:20:08,761
+is the only thing of real value
+involved in the transaction.
+
+211
+00:20:09,849 --> 00:20:11,780
+To anyone who believes we will honour our pledge,
+
+212
+00:20:12,463 --> 00:20:15,977
+that loan agreement or mortgage is now a portable,
+exchangeable,
+
+213
+00:20:16,500 --> 00:20:19,853
+and saleable piece of paper.
+It is an IOU.
+
+214
+00:20:20,364 --> 00:20:23,450
+It represents value
+and is therefore a form of money.
+
+215
+00:20:24,030 --> 00:20:27,916
+This money the borrower exchanges
+for the bank's so-called loan.
+
+216
+00:20:29,098 --> 00:20:32,664
+Now... A loan in the natural world means that the lender
+must have something to lend.
+
+217
+00:20:33,520 --> 00:20:39,259
+If you need a hammer, my loaning you a promise to provide a hammer
+I don't have won't be of much help.
+
+218
+00:20:39,923 --> 00:20:44,381
+But in the artificial world of money,
+a bank's promise to pay money it doesn't have,
+
+219
+00:20:44,916 --> 00:20:49,847
+is allowed to be passed off as money
+and we accept it as such.
+
+220
+00:20:51,832 --> 00:20:56,348
+"Thus, our national circulating medium
+is now at the mercy of loan transactions of banks,
+
+221
+00:20:57,104 --> 00:21:03,296
+which lend, not money, but promises to supply money they do not possess."
+-Irving Fisher economist and author
+
+222
+00:21:06,657 --> 00:21:11,850
+Once the borrower signs the pledge of debt,
+the bank then balances the transaction by creating,
+
+223
+00:21:12,357 --> 00:21:16,845
+with a few keystrokes on a computer,
+a matching debt of the bank to the borrower.
+
+224
+00:21:17,757 --> 00:21:21,734
+From the borrower's point of view this becomes
+"loan money" in his or her account,
+
+225
+00:21:22,306 --> 00:21:23,547
+and because the government allows
+
+226
+00:21:24,188 --> 00:21:28,278
+this debt of the bank to the borrower
+to be converted to government fiat currency,
+
+227
+00:21:28,995 --> 00:21:31,229
+everyone has to accept it as money.
+
+228
+00:21:32,245 --> 00:21:34,996
+Again the basic truth is very simple.
+
+229
+00:21:35,839 --> 00:21:41,058
+Without the document the borrower signed,
+the banker would have nothing to lend
+
+230
+00:21:45,385 --> 00:21:50,252
+Have you ever wondered how everyone...
+governments, corporations, small businesses, families
+
+231
+00:21:50,697 --> 00:21:54,864
+can all be in debt at the same time
+and for such astronomical amounts?
+
+232
+00:21:55,425 --> 00:21:59,151
+Have you ever questioned how there
+can be that much money out there to lend?
+
+233
+00:21:59,920 --> 00:22:01,887
+Now you know.
+There isn't.
+
+234
+00:22:02,397 --> 00:22:04,123
+Banks do not lend money.
+
+235
+00:22:04,802 --> 00:22:06,684
+They simply create it from debt.
+
+236
+00:22:07,262 --> 00:22:11,554
+And, as debt is potentially unlimited,
+so is the supply of money.
+
+237
+00:22:12,440 --> 00:22:13,658
+And, as it turns out
+
+238
+00:22:14,157 --> 00:22:16,808
+[NO DEBT NO MONEY]
+the opposite situation is also true.
+
+239
+00:22:18,316 --> 00:22:21,906
+Isn't it astounding, that despite
+the incredible wealth of resources,
+
+240
+00:22:22,478 --> 00:22:25,389
+innovation and productivity that surrounds us,
+
+241
+00:22:25,821 --> 00:22:28,769
+almost all of us,
+from governments to companies to individuals,
+
+242
+00:22:29,219 --> 00:22:31,093
+are heavily in debt to bankers!
+
+243
+00:22:32,327 --> 00:22:35,530
+If only people would stop and think - How can that be?
+
+244
+00:22:36,037 --> 00:22:40,054
+How can it be that the people who actually produce all
+of the real wealth in the world
+
+245
+00:22:40,516 --> 00:22:44,568
+are in debt to those who merely lend out
+the money that represents the wealth?
+
+246
+00:22:45,241 --> 00:22:49,340
+Even more amazing is that once we realize
+that money really is DEBT,
+
+247
+00:22:49,993 --> 00:22:54,051
+we realize that if there were no debt
+there would be no money
+
+248
+00:22:59,361 --> 00:23:00,572
+"That is what our money system is.
+
+249
+00:23:01,470 --> 00:23:04,552
+If there were no debts in our money system,
+there wouldn't be any money."
+
+250
+00:23:05,039 --> 00:23:07,833
+~Marriner S. Eccles, Chairman and Governor of the Federal Reserve Board
+
+251
+00:23:08,840 --> 00:23:11,429
+If this is news to you,
+you are not alone.
+
+252
+00:23:12,164 --> 00:23:17,567
+Most people imagine that if all debts were paid off,
+the state of the economy would improve.
+
+253
+00:23:18,309 --> 00:23:20,320
+It's certainly true on an individual level.
+
+254
+00:23:20,805 --> 00:23:24,532
+Just as we have more money to spend
+when our loan payments are finished,
+
+255
+00:23:25,008 --> 00:23:29,117
+we think that if everyone were out of debt,
+there would be more money to spend in general.
+
+256
+00:23:29,945 --> 00:23:34,720
+But the truth is the exact opposite.
+There would be no money at all
+
+257
+00:23:37,526 --> 00:23:44,293
+There it is... We are totally dependent on continually
+renewed bank credit for there to be any money in existence.
+
+258
+00:23:44,992 --> 00:23:49,047
+No loans, no money - which is what happened
+during the Great Depression,
+
+259
+00:23:49,942 --> 00:23:53,963
+the money supply shrank drastically
+as the supply of loans dried up.
+
+260
+00:23:56,728 --> 00:24:00,168
+"This is a staggering thought.
+We are completely dependent on the Commercial Banks.
+
+261
+00:24:00,683 --> 00:24:03,530
+Someone has to borrow every dollar
+we have in circulation, cash or credit.
+
+262
+00:24:04,649 --> 00:24:06,954
+If the Banks create ample synthetic money,
+we are prosperous; if not, we starve.
+
+263
+00:24:07,679 --> 00:24:10,949
+We are, absolutely,
+without a permanent money system.
+
+264
+00:24:11,532 --> 00:24:14,286
+When one gets a complete grasp of the picture,
+
+265
+00:24:14,779 --> 00:24:18,241
+the tragic absurdity of our hopeless position
+is almost incredible, but there it is."
+
+266
+00:24:18,850 --> 00:24:22,091
+~Robert H. Hemphill, Credit Manager of Federal Reserve Bank,
+Atlanta, Georgia
+
+267
+00:24:30,394 --> 00:24:32,550
+[PERPETUAL DEBT]
+
+268
+00:24:33,345 --> 00:24:37,283
+That's not all. Banks create
+only the amount of the Principal.
+
+269
+00:24:37,887 --> 00:24:39,759
+They no not create the money
+to pay the Interest.
+
+270
+00:24:40,616 --> 00:24:42,480
+Where is that supposed to come from?
+
+271
+00:24:44,484 --> 00:24:47,606
+The only place borrowers can go to obtain
+the money to pay the Interest
+
+272
+00:24:48,067 --> 00:24:50,661
+is the general economy's
+overall money supply.
+
+273
+00:24:51,134 --> 00:24:55,316
+But almost all of that overall money supply
+has been created exactly the same way
+
+274
+00:24:55,777 --> 00:24:59,554
+-as bank credit that has to be paid back
+with more than was created.
+
+275
+00:25:00,188 --> 00:25:03,458
+So everywhere,
+there are other borrowers in the same situation,
+
+276
+00:25:03,898 --> 00:25:07,806
+frantically trying to obtain the money they need
+to pay back both Principal and Interest
+
+277
+00:25:08,411 --> 00:25:11,551
+from a total money pool
+which contains only Principal.
+
+278
+00:25:12,263 --> 00:25:16,220
+. It is clearly impossible for everyone to pay back
+the Principal plus the Interest
+
+279
+00:25:16,658 --> 00:25:18,753
+because the interest money does not exist.
+
+280
+00:25:19,413 --> 00:25:23,064
+This can even be expressed by a simple mathematical formula.
+
+281
+00:25:27,661 --> 00:25:32,234
+The big problem here is that
+for long term loans such as mortgages and government debt,
+
+282
+00:25:32,814 --> 00:25:35,575
+the total Interest far exceeds the Principal.
+
+283
+00:25:36,011 --> 00:25:38,980
+So unless a lot of extra money
+is created to pay the Interest,
+
+284
+00:25:39,381 --> 00:25:44,913
+it means a very high proportion of foreclosures,
+and a non-functioning economy.
+
+285
+00:25:46,338 --> 00:25:50,657
+To maintain a functional society
+the rate of foreclosure needs to be low.
+
+286
+00:25:51,297 --> 00:25:52,614
+And so, to accomplish this,
+
+287
+00:25:53,083 --> 00:25:55,918
+more and more new debt money
+has to be created
+
+288
+00:25:56,321 --> 00:25:59,570
+to satisfy today's demands for money
+to service the previous debt.
+
+289
+00:26:01,254 --> 00:26:03,506
+But, of course, this just makes the total debt
+bigger.
+
+290
+00:26:04,099 --> 00:26:06,471
+And that means more interest
+must ultimately be paid,
+
+291
+00:26:07,087 --> 00:26:12,569
+resulting in an ever-escalating and
+inescapable spiral of mounting indebtedness.
+
+292
+00:26:19,053 --> 00:26:21,788
+It is only the time lag
+between money's creation
+
+293
+00:26:22,388 --> 00:26:24,467
+as new loans and its repayment
+
+294
+00:26:25,054 --> 00:26:29,490
+that keeps the overall shortage of money from catching up
+and bankrupting the entire system.
+
+295
+00:26:30,453 --> 00:26:34,042
+However, as the bankers' insatiable credit monster
+gets bigger and bigger,
+
+296
+00:26:34,621 --> 00:26:40,074
+the need to create more and more debt money
+to feed it becomes increasingly urgent.
+
+297
+00:26:40,470 --> 00:26:42,075
+Why are interest rates so low?
+
+298
+00:26:42,559 --> 00:26:45,343
+Why do we get unsolicited credit cards
+in the mail?
+
+299
+00:26:45,832 --> 00:26:48,331
+Why is the US government spending
+faster than ever?
+
+300
+00:26:49,063 --> 00:26:53,265
+Could it be to stave off collapse
+of the entire monetary system?
+
+301
+00:26:54,191 --> 00:26:55,798
+The rational person has to ask:
+
+302
+00:26:56,470 --> 00:27:00,379
+Can this really go on forever?
+Isn't a collapse inevitable?
+
+303
+00:27:01,159 --> 00:27:06,876
+"One thing to realize about our fractional reserve banking system
+is that, like a child's game of musical chairs,
+
+304
+00:27:07,404 --> 00:27:11,981
+as long as the music is playing, there are no losers."
+~Andrew Gause, Monetary Historian
+
+305
+00:27:17,914 --> 00:27:20,312
+Money facilitates production and trade.
+
+306
+00:27:20,999 --> 00:27:24,857
+As the money supply increases,
+money just becomes increasingly worthless
+
+307
+00:27:25,509 --> 00:27:30,122
+unless the volume of production and trade
+in the real world grows by the same amount
+
+308
+00:27:30,447 --> 00:27:35,476
+Add to this the realization that when we hear
+that the economy is growing at 3% per year,
+
+309
+00:27:35,963 --> 00:27:38,986
+it sounds like a constant rate.
+But is not.
+
+310
+00:27:39,338 --> 00:27:47,060
+This year's 3% represents more real goods and services
+than last year's 3% because it is 3% of the new total.
+
+311
+00:27:47,585 --> 00:27:51,252
+Instead of a straight line as is naturally
+visualized from the words,
+
+312
+00:27:51,762 --> 00:27:55,869
+it is really an exponential curve
+getting steeper and steeper.
+
+313
+00:27:57,550 --> 00:28:00,762
+["The greatest shortcoming of the human race...]
+The problem, of course, is that perpetual growth
+
+314
+00:28:01,316 --> 00:28:04,230
+[is our inability to understand the exponential function."]
+of the real economy requires perpetually escalating use
+
+315
+00:28:04,833 --> 00:28:06,663
+[ -Albert A. Bartlett, physicist]
+of real world resources and energy.
+
+316
+00:28:07,271 --> 00:28:11,760
+More and more stuff has to go from natural resource
+to garbage every year
+
+317
+00:28:12,242 --> 00:28:15,138
+...forever,
+just to keep this system from collapsing
+
+318
+00:28:15,549 --> 00:28:18,165
+"Anyone who believes exponential growth
+can go on forever in a finite world
+
+319
+00:28:18,672 --> 00:28:20,826
+is either a madman or an economist."
+-Kenneth Boulding, economist
+
+320
+00:28:21,561 --> 00:28:24,722
+What can we do
+about this downright scary situation?
+
+321
+00:28:26,013 --> 00:28:30,325
+For one thing,
+we need a different concept of money.
+
+322
+00:28:31,929 --> 00:28:36,806
+It's time more people ask themselves
+and their governments four simple questions.
+
+323
+00:28:37,503 --> 00:28:41,381
+Around the world, governments borrow money
+at interest from private banks.
+
+324
+00:28:42,052 --> 00:28:48,289
+Government debt is a major component of total debt
+and servicing that debt takes a big chunk of our taxes.
+
+325
+00:28:48,750 --> 00:28:51,957
+Now, we know that banks
+simply create the money they lend
+
+326
+00:28:52,409 --> 00:28:55,046
+and that governments
+have given them permission to do this.
+
+327
+00:28:56,319 --> 00:28:57,651
+So the first question is
+
+328
+00:28:58,147 --> 00:29:01,423
+why do governments choose to borrow money
+from private banks at interest
+
+329
+00:29:01,900 --> 00:29:05,495
+when government could create
+all the interest free money it needs itself?
+
+330
+00:29:06,649 --> 00:29:08,186
+And the second big question is:
+
+331
+00:29:08,601 --> 00:29:10,725
+Why create money as debt at all?
+
+332
+00:29:11,146 --> 00:29:16,558
+Why not create money that circulates permanently
+and doesn't have to be perpetually re-borrowed
+
+333
+00:29:17,075 --> 00:29:18,553
+at interest in order to exist?
+
+334
+00:29:19,409 --> 00:29:21,521
+The third question:
+
+335
+00:29:21,521 --> 00:29:24,830
+How can a money system that can only function
+with perpetually accelerating growth
+
+336
+00:29:25,307 --> 00:29:28,100
+be used to build a sustainable economy?
+
+337
+00:29:28,588 --> 00:29:35,489
+Isn't it logical that perpetually accelerating growth
+and sustainability are incompatible?
+
+338
+00:29:36,098 --> 00:29:37,644
+And finally:
+
+339
+00:29:38,157 --> 00:29:42,612
+What is it about our current system
+that makes it totally dependent on perpetual growth?
+
+340
+00:29:43,047 --> 00:29:47,609
+What needs to be changed
+to allow the creation of a sustainable economy?
+
+341
+00:29:48,172 --> 00:29:50,501
+[Usury]
+
+342
+00:29:52,580 --> 00:29:56,142
+At one time, charging any interest on a loan
+was called usury
+
+343
+00:29:56,549 --> 00:29:59,458
+and was subject to severe penalties,
+including death.
+
+344
+00:29:59,899 --> 00:30:02,624
+Every major religion forbade usury.
+
+345
+00:30:04,695 --> 00:30:07,734
+Most of the arguments made against the practice
+were moral.
+
+346
+00:30:08,203 --> 00:30:14,550
+It was held that money's only legitimate purpose
+was to facilitate the exchange of real goods and services.
+
+347
+00:30:15,006 --> 00:30:20,277
+Any form of making money from simply having money
+was regarded as the act of a parasite
+
+348
+00:30:20,952 --> 00:30:22,504
+or of a thief.
+
+349
+00:30:23,043 --> 00:30:28,371
+However, as the credit needs of commerce increased,
+the moral arguments eventually gave way to the argument
+
+350
+00:30:28,858 --> 00:30:32,805
+that lending involves risk
+and loss of opportunity to the lender
+
+351
+00:30:33,214 --> 00:30:36,878
+and therefore attempting
+to make a profit from lending is justified.
+
+352
+00:30:37,574 --> 00:30:39,392
+Today, these notions seem quaint.
+
+353
+00:30:39,971 --> 00:30:44,239
+Today, the idea of making money from money
+is held as the ideal to strive for.
+
+354
+00:30:44,653 --> 00:30:47,990
+Why work when you can get your money
+to work for you?
+
+355
+00:30:50,881 --> 00:30:53,636
+However, in trying
+to envision a sustainable future,
+
+356
+00:30:54,033 --> 00:30:59,733
+it is very clear that the charging of interest
+is both a moral and a practical problem.
+
+357
+00:31:02,657 --> 00:31:07,700
+Imagine a society and economy
+that can endure for centuries because,
+
+358
+00:31:08,262 --> 00:31:14,558
+instead of plundering its capital stores of energy,
+it restricts itself to present day income.
+
+359
+00:31:15,137 --> 00:31:19,205
+No more wood is harvested than
+grows in the same period.
+
+360
+00:31:19,798 --> 00:31:25,999
+All energy is renewable: solar, gravitational or geothermal,
+magnetic and whatever else we discover.
+
+361
+00:31:26,500 --> 00:31:33,744
+This society lives within the limits of its non-renewable resources
+by reusing and recycling everything.
+
+362
+00:31:34,289 --> 00:31:37,453
+And the population just replaces itself.
+
+363
+00:31:39,270 --> 00:31:45,779
+Such a society could never function using a money system
+utterly dependent on perpetually accelerating growth.
+
+364
+00:31:46,390 --> 00:31:52,614
+A stable economy would need a money supply
+at least capable of remaining stable without collapsing.
+
+365
+00:31:53,888 --> 00:32:00,201
+Let's say the total volume of this stable money supply
+is represented by this big circle.
+
+366
+00:32:00,789 --> 00:32:05,157
+Let us also imagine that moneylenders
+must actually have existing money to lend.
+
+367
+00:32:06,429 --> 00:32:11,339
+If some people within this money supply
+begin systematically lending money at interest,
+
+368
+00:32:11,814 --> 00:32:14,296
+their share of the money supply will grow.
+
+369
+00:32:15,102 --> 00:32:22,012
+If they continually re-loan at interest
+all the money that gets paid back what is the inevitable result?
+
+370
+00:32:22,762 --> 00:32:25,658
+Whether it is gold, fiat
+or debt money doesn't matter.
+
+371
+00:32:26,127 --> 00:32:28,665
+The moneylenders will end up with ALL of the money.
+
+372
+00:32:29,181 --> 00:32:34,892
+And after the foreclosures and bankruptcies are all filed,
+they will get all the real property too.
+
+373
+00:32:36,264 --> 00:32:41,087
+Only if the proceeds of lending at interest
+were evenly distributed among the population
+
+374
+00:32:41,472 --> 00:32:44,025
+would this central problem be solved.
+
+375
+00:32:45,357 --> 00:32:48,949
+Heavy taxation of bank profits
+might accomplish this goal.
+
+376
+00:32:49,371 --> 00:32:52,806
+But then why would banks
+want to be in business?
+
+377
+00:32:54,538 --> 00:32:58,467
+If we were ever able to free ourselves
+of the current situation,
+
+378
+00:32:59,009 --> 00:33:03,038
+we could imagine banking run as a
+non-profit service to society,
+
+379
+00:33:03,458 --> 00:33:07,036
+disbursing its interest earnings
+as a universal citizen dividend,
+
+380
+00:33:07,486 --> 00:33:10,068
+or lending without charging interest at all.
+
+381
+00:33:11,575 --> 00:33:14,611
+"I have never yet had anyone who could,
+through the use of logic and reason,
+
+382
+00:33:15,166 --> 00:33:18,714
+justify the Federal Government
+borrowing the use of its own money...
+
+383
+00:33:19,283 --> 00:33:22,227
+I believe the time will come
+when people will demand that this be changed.
+
+384
+00:33:22,888 --> 00:33:26,173
+I believe the time will come in this country
+when they will actually blame you and me
+
+385
+00:33:26,763 --> 00:33:28,649
+and everyone else connected with the Congress
+
+386
+00:33:29,287 --> 00:33:32,153
+for sitting idly by and permitting
+such an idiotic system to continue."
+
+387
+00:33:32,878 --> 00:33:35,815
+~ Wright Patman. Democreatic Congressman 1928-1976
+Chairman Commitee on Bankin & Currency, 1963-1975
+
+388
+00:33:36,201 --> 00:33:38,955
+[CHANGING THE SYSTEM]
+
+389
+00:33:39,334 --> 00:33:43,845
+If it is the fundamental nature of the system
+that causes the problems,
+
+390
+00:33:44,348 --> 00:33:48,379
+tinkering with the system
+cannot ever solve those problems.
+
+391
+00:33:48,817 --> 00:33:51,463
+The system itself must be replaced.
+
+392
+00:33:54,536 --> 00:34:01,536
+Many monetary critics clamour for a return to gold-based money,
+claiming that gold has a long history of reliability.
+
+393
+00:34:02,450 --> 00:34:05,216
+They ignore the many scams that can be played with gold:
+
+394
+00:34:05,688 --> 00:34:08,737
+shaving coins, debasing the metal,
+cornering the market,
+
+395
+00:34:09,268 --> 00:34:13,974
+all of which were abundantly practiced
+in ancient Rome, and contributed to its fall.
+
+396
+00:34:14,654 --> 00:34:19,571
+Some advocate silver, it being more abundant than gold
+and therefore more difficult to corner.
+
+397
+00:34:20,521 --> 00:34:23,520
+Many question the need
+to bring back precious metals at all.
+
+398
+00:34:24,141 --> 00:34:27,716
+No one wants to go back to carrying
+heavy sacks of coins to go shopping.
+
+399
+00:34:28,956 --> 00:34:34,018
+It is a certainty that paper, digital,
+plastic or more likely biometric ID money
+
+400
+00:34:34,722 --> 00:34:41,490
+would be the real medium of trade with the same potential
+for creating unlimited debt money we have now.
+
+401
+00:34:42,410 --> 00:34:49,074
+Beyond that, if gold again became the sole legal basis of money,
+those who have no gold would suddenly have no money!
+
+402
+00:34:51,505 --> 00:34:56,593
+Other monetary reform advocates have concluded
+that greed and dishonesty are the main problems,
+
+403
+00:34:57,215 --> 00:35:03,900
+and that there may be better ways to create
+an honest and equitable money system than returning to silver or gold.
+
+404
+00:35:04,915 --> 00:35:08,972
+Inventive minds have proposed
+a variety of alternative ways to create money.
+
+405
+00:35:09,855 --> 00:35:14,078
+Many private barter systems create money
+as debt much as banks do,
+
+406
+00:35:14,601 --> 00:35:18,240
+but it is done openly and without charging interest.
+
+407
+00:35:18,765 --> 00:35:22,984
+An example is a barter system
+in which debt is expressed as pledges of hours of work,
+
+408
+00:35:23,591 --> 00:35:26,068
+all work being valued equally at a dollar figure
+
+409
+00:35:26,545 --> 00:35:30,283
+that then allows hours to be equated
+with the dollar price of goods.
+
+410
+00:35:31,176 --> 00:35:33,293
+This kind of money system can be set up
+
+411
+00:35:33,691 --> 00:35:36,139
+by anyone who can devise a way to do the accounting
+
+412
+00:35:36,594 --> 00:35:39,073
+and find willing and trustworthy participants.
+
+413
+00:35:39,532 --> 00:35:43,924
+Setting up a local barter money system,
+even if it were little used now,
+
+414
+00:35:44,307 --> 00:35:47,386
+would be prudent emergency
+planning for any community.
+
+415
+00:35:50,124 --> 00:35:54,190
+Monetary reform, like electoral reform,
+is a big topic,
+
+416
+00:35:54,590 --> 00:35:59,148
+and one that requires a willingness to change
+and to think outside the box.
+
+417
+00:35:59,827 --> 00:36:04,136
+Monetary reform, again, like electoral reform
+will not come easily
+
+418
+00:36:04,624 --> 00:36:08,458
+because the enormously powerful interests
+that benefit from the existing system
+
+419
+00:36:08,968 --> 00:36:11,980
+will do their utmost
+to maintain their advantage.
+
+420
+00:36:13,028 --> 00:36:16,425
+Now that we have seen that money
+is just an idea and that, in reality,
+
+421
+00:36:16,807 --> 00:36:18,452
+money can be whatever we make it;
+
+422
+00:36:18,887 --> 00:36:22,807
+here is one very simple alternative
+monetary concept to consider.
+
+423
+00:36:23,806 --> 00:36:26,905
+This model is based on systems
+that have worked in the past,
+
+424
+00:36:27,300 --> 00:36:28,672
+in England, and America,
+
+425
+00:36:29,043 --> 00:36:32,433
+systems that were undermined
+and destroyed by the goldsmith-bankers
+
+426
+00:36:32,957 --> 00:36:34,625
+and their fractional reserve system.
+
+427
+00:36:39,808 --> 00:36:43,469
+To create an economy based on permanent,
+interest free money,
+
+428
+00:36:44,013 --> 00:36:48,205
+money could simply be created
+and spent into the economy by the government,
+
+429
+00:36:48,696 --> 00:36:52,805
+preferably on long-lasting infrastructure
+that facilitates the economy,
+
+430
+00:36:53,330 --> 00:36:57,125
+such as roads, railroads, bridges,
+harbours, and public markets.
+
+431
+00:36:57,673 --> 00:37:00,406
+This money would not be created as debt.
+
+432
+00:37:00,790 --> 00:37:06,486
+It would be created as value,
+that value being in the form of whatever it was spent on.
+
+433
+00:37:07,085 --> 00:37:11,863
+If this new money facilitated a proportional increase
+in trade requiring its use,
+
+434
+00:37:12,342 --> 00:37:15,192
+it would cause no inflation whatsoever.
+
+435
+00:37:15,964 --> 00:37:21,063
+If government spending did cause inflation,
+there would be two courses of action available.
+
+436
+00:37:22,486 --> 00:37:26,082
+Inflation is equivalent in effect
+to a flat tax on money.
+
+437
+00:37:26,626 --> 00:37:32,167
+Whether the money goes down in value 20%
+or the government takes 20% of our money away from us,
+
+438
+00:37:32,646 --> 00:37:35,727
+the effect on our buying power is the same.
+
+439
+00:37:37,054 --> 00:37:44,456
+Viewed this way inflation in place of taxation
+might be politically acceptable if well spent and kept within limits.
+
+440
+00:37:45,238 --> 00:37:51,289
+Or, government could choose to counter inflation
+by collecting tax monies that it then takes out of use,
+
+441
+00:37:51,732 --> 00:37:55,131
+thus reducing the money supply
+and restoring its value.
+
+442
+00:37:55,721 --> 00:37:59,972
+To control deflation,
+which is the phenomenon of falling wages and prices,
+
+443
+00:38:00,440 --> 00:38:03,783
+the government would simply
+spend more money into existence.
+
+444
+00:38:04,902 --> 00:38:07,460
+With no competing private debt money creation,
+
+445
+00:38:07,909 --> 00:38:11,811
+governments would have more effective control
+of their nation's money supply.
+
+446
+00:38:12,343 --> 00:38:15,332
+The public would know whom to blame
+if things went wrong.
+
+447
+00:38:16,164 --> 00:38:20,907
+Governments would rise and fall on their ability
+to preserve the value of money.
+
+448
+00:38:21,960 --> 00:38:27,083
+Government would operate primarily on taxes
+as it does now, but tax money would go much,  much further
+
+449
+00:38:27,546 --> 00:38:31,617
+as none of it would be required
+to pay interest to private bankers.
+
+450
+00:38:33,884 --> 00:38:39,344
+There could be no national debt if the federal government
+simply created the money it needed.
+
+451
+00:38:40,340 --> 00:38:47,330
+Our perpetual collective servitude to the banks through interest payments
+on government debt would be impossible.
+
+452
+00:38:49,324 --> 00:38:52,930
+"Money is a new form of slavery,
+and distinguishable from the old simply by the fact that
+
+453
+00:38:53,666 --> 00:39:00,099
+it is impersonal-that there is no human relation
+between master and slave." -Leo Tolstoy
+
+454
+00:39:02,267 --> 00:39:04,914
+[THE INVISIBLE POWER]
+
+455
+00:39:06,243 --> 00:39:11,299
+"None are more enslaved than those
+who falsely believe they are free." -Goethe
+
+456
+00:39:12,943 --> 00:39:16,441
+What we have been taught to believe
+is democracy and freedom has become,
+
+457
+00:39:16,998 --> 00:39:21,770
+in reality, an ingenious
+and invisible form of economic dictatorship.
+
+458
+00:39:22,216 --> 00:39:27,277
+As long as our entire society remains
+utterly dependent on bank credit for its supply of money,
+
+459
+00:39:27,866 --> 00:39:35,495
+bankers will be in the position to make the decisions
+on who gets the money they need and who doesn't.
+
+460
+00:39:40,924 --> 00:39:43,681
+"The modern banking system
+manufactures money out of nothing.
+
+461
+00:39:44,497 --> 00:39:48,591
+The process is perhaps the most astounding
+piece of sleight of hand that was ever invented.
+
+462
+00:39:49,156 --> 00:39:51,859
+Banking was conceived in iniquity
+and born in sin.
+
+463
+00:39:52,402 --> 00:39:54,215
+Bankers own the Earth.
+
+464
+00:39:54,958 --> 00:39:57,420
+Take it away from them,
+but leave them the power to create money,
+
+465
+00:39:57,926 --> 00:40:01,543
+and with the flick of the pen
+they will create enough money to buy it back again...
+
+466
+00:40:02,121 --> 00:40:05,814
+Take this great power away from them
+and all great fortunes like mine will disappear,
+
+467
+00:40:06,447 --> 00:40:10,256
+and they ought to disappear,
+for then this would be a better and happier world to live in.
+
+468
+00:40:11,105 --> 00:40:14,842
+But if you want to continue to be slaves of the banks
+and pay the cost of your own slavery,
+
+469
+00:40:15,443 --> 00:40:19,054
+then let bankers continue to create money and control credit'."
+
+470
+00:40:19,568 --> 00:40:24,582
+~Sir Josiah Stamp - Director, Bank of England 1928-1941
+(reputed to be the 2nd richest man in England at the time)
+
+471
+00:40:27,837 --> 00:40:30,830
+The inability of the Colonists to get power to issue
+their own money
+
+472
+00:40:31,281 --> 00:40:34,393
+permantently out of the hands of George III
+and the international bankers
+
+473
+00:40:34,854 --> 00:40:40,161
+was the PRIME reason for the revolutionary war."
+~Benjamin franklin
+
+474
+00:40:41,390 --> 00:40:47,468
+Few people are aware today that,
+history of the United states, since the Revolution in 1776
+
+475
+00:40:47,993 --> 00:40:51,157
+has been in a large part,
+the story of an epic struggle
+
+476
+00:40:51,516 --> 00:40:56,692
+to get free and stay free of control
+by the european international banks.
+
+477
+00:40:57,728 --> 00:41:00,613
+This struggle was finally lost in 1913,
+
+478
+00:41:01,100 --> 00:41:05,262
+when President Woodrow Wilson
+signed into effect the Federal Reserve Act,
+
+479
+00:41:05,809 --> 00:41:10,784
+putting the international banking cartel
+in charge of creating America's money.
+
+480
+00:41:12,820 --> 00:41:15,537
+"I am a most unhappy man.
+I have unwittingly ruined my country.
+
+481
+00:41:16,106 --> 00:41:19,094
+A great industrial nation is controlled
+by its system of credit.
+
+482
+00:41:19,484 --> 00:41:21,219
+Our system of credit is concentrated.
+
+483
+00:41:21,631 --> 00:41:25,291
+The growth of the nation, therefore,
+and all our activities are in the hands of a few men.
+
+484
+00:41:25,681 --> 00:41:27,430
+We have come to be one of the worst ruled,
+
+485
+00:41:27,926 --> 00:41:29,490
+one of the most completely controlled
+
+486
+00:41:29,931 --> 00:41:32,282
+and dominated Governments in the civilized world.
+
+487
+00:41:32,822 --> 00:41:34,281
+No longer a Government by free opinion,
+
+488
+00:41:34,751 --> 00:41:36,567
+no longer a Government by conviction
+and the vote of the majority,
+
+489
+00:41:37,013 --> 00:41:39,317
+but a Government by the opinion and duress
+of a small group of dominant men."
+
+490
+00:41:39,817 --> 00:41:42,687
+~ Woodrow  Wilson - President of the United States 1913-1921
+
+491
+00:41:43,858 --> 00:41:50,396
+The power of this system is deeply ingrained.
+So is the educational and media silence on the subject.
+
+492
+00:41:50,786 --> 00:41:56,399
+Years ago, a Canadian Deputy Prime Minister informally
+surveyed scores of non-economists,
+
+493
+00:41:56,865 --> 00:42:01,041
+both highly educated professionals
+and common sense people on the street
+
+494
+00:42:01,411 --> 00:42:06,435
+and found that not one of them had an accurate understanding
+of how money is created.
+
+495
+00:42:06,886 --> 00:42:11,875
+In fact it is probably safe to say that most people,
+including the front line employees of banks,
+
+496
+00:42:12,281 --> 00:42:15,393
+have never given the matter a moment of thought
+
+497
+00:42:17,923 --> 00:42:20,101
+Have you?
+
+498
+00:42:22,563 --> 00:42:25,727
+"All of the perplexities, confusion,
+and distress in America arises,
+
+499
+00:42:26,237 --> 00:42:29,645
+not from the defects of the Constitution or Confederation,
+not from want of honor or virtue,
+
+500
+00:42:30,133 --> 00:42:32,455
+so much as from downright ignorance of the nature of coin,
+credit, and circulation."
+
+501
+00:42:33,066 --> 00:42:35,425
+~ John Adams, Founding Father of the American Constitution
+
+502
+00:42:36,545 --> 00:42:40,567
+The modern money as debt system
+was born a little over three hundred years ago,
+
+503
+00:42:41,077 --> 00:42:43,028
+when the first Bank of England was set up
+
+504
+00:42:43,448 --> 00:42:48,983
+with a royal charter for fractional lending
+of gold receipts at a modest ratio of 2:1.
+
+505
+00:42:50,213 --> 00:42:53,826
+That modest ratio was just the proverbial foot in the door.
+
+506
+00:42:54,428 --> 00:42:59,932
+The system is now worldwide,
+creates virtually unlimited amounts of money out of thin air,
+
+507
+00:43:00,345 --> 00:43:07,589
+and has almost everyone on the planet
+chained to a perpetually-growing debt that can NEVER be paid off.
+
+508
+00:43:12,204 --> 00:43:14,248
+Could it have all just happened by accident?
+
+509
+00:43:15,381 --> 00:43:17,829
+Or is it a conspiracy?
+
+510
+00:43:20,965 --> 00:43:25,234
+Obviously,
+something very BIG is at stake here.
+
+511
+00:43:34,850 --> 00:43:38,773
+"Whoever controls the volume of money in our country
+is absolute master of all industry and commerce...
+
+512
+00:43:39,373 --> 00:43:44,795
+and when you realize that the entire system is very easily controlled,
+one way or another,by a few powerful men at the top,
+
+513
+00:43:45,296 --> 00:43:52,686
+you will not have to be told how periods of inflation and depression originate."
+~James A. Garfield, assassinated president of the United States
+
+514
+00:43:53,744 --> 00:43:56,095
+The Government should create, issue, and circulate
+all the currency and credits
+
+515
+00:43:56,501 --> 00:44:00,351
+needed to satisfy the spending power of the Government
+and the buying power of consumers.
+
+516
+00:44:00,715 --> 00:44:03,908
+By the adoption of these principles,
+the taxpayers will be saved immense sums of interest.
+
+517
+00:44:04,529 --> 00:44:07,478
+The privilege of creating and issuing money
+is not only the supreme prerogative of government,
+
+518
+00:44:07,841 --> 00:44:12,989
+but it is the government's greatest creative opportunity."
+~Abraham  Lincoln, assassinated president of the United States
+
+519
+00:44:16,244 --> 00:44:17,523
+Until the control of the issue of currency and credit
+
+520
+00:44:17,898 --> 00:44:21,084
+is restored to government and recognized
+as its most conspicuous and sacred responsibility,
+
+521
+00:44:21,557 --> 00:44:25,369
+all talk of sovereignty of Parliament
+and of democracy is idle and futile...
+
+522
+00:44:25,838 --> 00:44:28,948
+Once a nation parts with control of its credit,
+it matters not who makes the nation's laws...
+
+523
+00:44:29,505 --> 00:44:35,925
+Usury once in control will wreck any nation."
+~ William Lyon Mackenzie King Prime Minister of Canada
+who nationalized the Bank of Canada
+
+524
+00:44:38,571 --> 00:44:41,193
+"We are grateful to the Washington Post,
+the New York Times, Time magazine
+
+525
+00:44:41,795 --> 00:44:42,828
+and other great publications
+
+526
+00:44:43,293 --> 00:44:47,059
+whose directors have attended our meetings
+and respected the promises of discretion for almost forty years.
+
+527
+00:44:47,494 --> 00:44:50,141
+It would have been impossible for us
+to develop our plan for the world
+
+528
+00:44:50,569 --> 00:44:53,370
+if we had been subject to the bright lights
+of publicity during those years.
+
+529
+00:44:53,861 --> 00:44:56,873
+But, the world is now more sophisticated
+and prepared to march towards a world-government.
+
+530
+00:44:57,399 --> 00:45:01,679
+The supranational sovereignty of an intellectual elite
+and world bankers is surely preferable
+
+531
+00:45:02,079 --> 00:45:05,096
+to the National autodetermination
+practiced in past centuries"
+
+532
+00:45:05,595 --> 00:45:08,996
+~David Rockefeller in an address
+to a Trilateral Commission meeting, 1991
+
+533
+00:45:11,799 --> 00:45:13,899
+Only the small secrets need to be protected.
+
+534
+00:45:14,282 --> 00:45:18,575
+The big ones are kept secret by public incredulity."
+~ Marshall McLuhan,  media "guru"
+
+535
+00:45:23,610 --> 00:45:29,538
+Money as Debt
