@@ -1,30 +1,49 @@
 from gensim.parsing.preprocessing import remove_stopwords
 import os
 import string
-import nltk
-nltk.download("punkt")
+import pysrt
+from pathlib import Path
+import re
 
-ps = nltk.PorterStemmer()
-
-script_directory = os.fsencode("..\\data\\scripts")
-stop_directory = os.fsencode("..\\data\\script_stop")
 stop_no_punc_directory = os.fsencode("..\\data\\script_stop_no_punc")
-stemming_directory = os.fsencode("..\\data\\script_stop_stemming")
+subtitle_raw_directory = os.fsencode("..\\data\\subtitle_raw")
+subtitle_clean_directory = os.fsencode("..\\data\\subtitle_clean")
+subtitle_stop_no_punc_directory = os.fsencode("..\\data\\subtitle_stop_no_punc")
 
+baby_cleaner = re.compile("<.*?>")
+cleaner = re.compile("<.*?><.*?>|&([a-z0-9]+|#[0-9]{1,6}|#x[0-9a-f]{1,6});")
 
-for file in os.listdir(stop_directory):
-    f = open(f"..\\data\\script_stop\\{os.fsdecode(file)}", "r", encoding = "utf-8")
+def cleanhtml(raw_html):
+    return re.sub(cleaner, "", re.sub(baby_cleaner, "", raw_html))
+
+#for file in os.listdir(subtitle_clean_directory):
+#    f = open(f"{os.fsdecode(subtitle_clean_directory)}\\{os.fsdecode(file)}", "r", encoding = "utf-8")
+#    lines = f.readlines()
+#    f.close()
+#    new_lines = []
+#
+#    for line in lines:
+#        new_lines.append(line.replace("♪", ""))
+#
+#    f = open(f"{os.fsdecode(subtitle_clean_directory)}\\{os.fsdecode(file)}", "w", encoding = "utf-8")
+#    for line in new_lines:
+#        f.write(line)
+#    f.close()
+
+for file in os.listdir(subtitle_clean_directory):
+    f = open(f"{os.fsdecode(subtitle_clean_directory)}\\{os.fsdecode(file)}", "r", encoding = "utf-8")
     lines = f.readlines()
     f.close()
     new_lines = []
     for line in lines:
-        new_lines.append(line.translate(str.maketrans("", "", string.punctuation)))
+        new_lines.append(remove_stopwords(line).translate(str.maketrans("", "", string.punctuation)))
 
-    f = open(f"..\\data\\script_stop_no_punc\\{os.fsdecode(file)}", "w", encoding = "utf-8")
+    f = open(f"{os.fsdecode(subtitle_clean_directory)}\\{os.fsdecode(file)}", "w", encoding = "utf-8")
     for line in new_lines:
         f.write(line)
         f.write("\n")
     f.close()
+
 #for file in os.listdir(script_directory):
 #    f = open(f".\\data\\scripts\\{os.fsdecode(file)}", "r", encoding="utf-8")
 #    lines = f.readlines()
