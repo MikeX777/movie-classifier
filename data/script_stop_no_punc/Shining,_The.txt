@@ -1,10410 +1,5201 @@
 THE SHINING
-
 Post Production Script
-
 A STANLEY KUBRICK FILM
-
 EXECUTIVE PRODUCER
-
 JAN HARLAN
-
 PRODUCED AND DIRECTED BY
-
 STANLEY KUBRICK
-
 July 1980
-
 THE SHINING
-
 EXT COLORADO MOUNTAIN USA  DAY  LS
-
 Lake Mountains CAMERA TRACKS FORWARD past island
-
 lake
-
 DISSOLVE TO
-
 EXT ROAD  DAY  LS
-
 High Angle VW Car moving road  CAMERA TILTS UP
-
 it
-
 CUT TO
-
 EXT COLORADO MOUNTAINS ROAD  DAY  LS
-
 Mountains Road  VW Car moves away road  CAMERA
-
 TRACKS it
-
 CUT TO
-
 LS VW Car moving away road  CAMERA TRACKS
-
 passes car  TRACKING FORWARD Mountains bg
-
 CUT TO
-
 MLS High Angle VW Car moves away road  CAMERA
-
 TILTS UP it Car goes tunnel comes
-
 side CAMERA TRACKS car
-
 CUT TO
-
 LS VW Car moves road CAMERA TRACKS it
-
 Mountains bg
-
 CUT TO
-
 LS High Angle VW Car moving away road Mountain
-
 bg CAMERA TRACKS car
-
 CUT TO
-
 LS Mountain  CAMERA TRACKS IN Hotel
-
 CUT TO
-
 Black Frames
-
 THE INTERVIEW
-
 CUT TO
-
 2
-
 INT OVERLOOK HOTELLOBBY  DAY  MLS
-
 Jack walks LR Lobby CAMERA TRACKS BACK PANS
-
 RECEPTIONIST desk
-
 JACK
-
 Hi Ive got appointment Mr
-
 Ullman My Jack Torrance
-
 RECEPTIONIST
-
 His office door
-
 left
-
 JACK
-
 Thank you
-
 JACK moves away RL CAMERA PANS TRACKS IN
-
 Secretarys office open door ULLMANs
-
 office  revealing ULLMAN seated desk SECRETARY
-
 standing him
-
 JACK
-
 Mr Ullman
-
 ULLMAN
-
 Yes
-
 JACK
-
 Im Jack Torrance
-
 ULLMAN
-
 Oh  come Jack
-
 ULLMAN stands hands book SECRETARY walking round
-
 desk JACK moves office CAMERA TRACKS IN
-
 him He shakes hands ULLMAN
-
 ULLMAN
-
 Very nice meet you
-
 JACK
-
 Nice meet you Mr Ullman
-
 ULLMAN points SECRETARY
-
 ULLMAN
-
 This secretary Susie
-
 SECRETARY
-
 Hallo
-
 JACK
-
 Susie do
-
 3
-
 ULLMAN
-
 Have trouble finding us
-
 JACK
-
 Oh problem all I
-
 trip half hours
-
 ULLMAN
-
 Well thats good time
-
 good Please sit minute
-
 ULLMAN points chair camR JACK sits camRfg ULLMAN
-
 walks desk
-
 ULLMAN
-
 JAck home
-
 Would like coffee
-
 JACK
-
 Well going
-
 some I wouldnt mind Thanks
-
 ULLMAN
-
 Susie
-
 SECRETARY
-
 Sure
-
 ULLMAN
-
 Oh ask Bill Watson
-
 join us
-
 SECRETARY
-
 Yes I will
-
 ULLMAN sits desk SUSIE walks forward Rfg
-
 DISSOLVE TO
-
 EXT APARTMENT BUILDINGBOULDER  DAY  LS
-
 Apartment Building  cars parked it Mountain
-
 bg CAMERA TRACKS IN Apartment Building
-
 CUT TO
-
 INT JACK WENDYS APARTMENT IN BOULDER USA  LIVING
-
 ROOM  DAY  MLS
-
 DANNY sitting table eating sandwich WENDY sitting
-
 camR reading book
-
 DANNY
-
 Mom
-
 4
-
 WENDY
-
 Yeah
-
 DANNY
-
 Do want live
-
 hotel winter
-
 WENDY
-
 Sure Danny lots fun
-
 DANNY
-
 Yeah I guess so Anyway theres
-
 hardly anybody play
-
 here
-
 WENDY
-
 Yeah I know It takes
-
 little time new friends
-
 CUT TO
-
 MS DANNY eating sandwich
-
 DANNY
-
 Yeah I guess so
-
 CUT TO
-
 MS WENDY
-
 WENDY
-
 What Tony Hes looking
-
 forward hotel I bet
-
 CUT TO
-
 MS DANNY eating sandwich wiggles forefinger
-
 Lhand speaks different voice
-
 TONY
-
 NO I aint Mrs Torrance
-
 CUT TO
-
 MS WENDY
-
 WENDY
-
 Oh come on Tony Dont silly
-
 CUT TO
-
 MS DANNY wiggles forefinger Lhand speaks
-
 different voice
-
 5
-
 TONY
-
 I dont want there Mrs
-
 Torrance
-
 CUT TO
-
 MS WENDY
-
 WENDY
-
 Well come dont want go
-
 CUT TO
-
 MS DANNY wiggles forefinger Lhand speaks
-
 different voice
-
 TONY
-
 I dont
-
 CUT TO
-
 MS WENDY
-
 WENDY
-
 Well lets wait see
-
 Were gonna real good
-
 time
-
 DISSOLVE TO
-
 INT OVERLOOK HOTELULLMANS OFFICE  DAY  MLS
-
 JACK ULLMAN seated desk BILL WATSON enter office
-
 JACK rises shakes hands him
-
 ULLMAN
-
 Bill Id like meet Jack
-
 Torrance
-
 WATSON
-
 How do
-
 JACK
-
 Bill do
-
 WATSON
-
 Pleased meet you
-
 JACK
-
 Pleasure meet you
-
 ULLMAN
-
 Grab chair Bill join in
-
 6
-
 WATSON JACK sit down
-
 ULLMAN
-
 Jack going care
-
 Overlook winter I
-
 like
-
 place soon through
-
 WATSON
-
 Fine
-
 ULLMAN
-
 Jack schoolteacher
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Eh  schoolteacher
-
 WATSON OFF
-
 What line work now
-
 JACK
-
 Im writer um Teaching
-
 way making
-
 ends meet
-
 CUT TO
-
 MCS WATSON
-
 WATSON
-
 Well ought
-
 change you
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Well Im looking change
-
 ULLMAN OFF
-
 Our people Denver recommended
-
 Jack highly and once I
-
 agree them
-
 CUT TO
-
 MS ULLMAN
-
 7
-
 ULLMAN
-
 Lets see we Yes I
-
 explain eh
-
 season runs oh May 15th
-
 October 30th close
-
 completely following
-
 May
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Do mind I ask
-
 that It
-
 skiing fantastic
-
 ULLMAN OFF
-
 Oh sure
-
 CUT TO
-
 MS ULLMAN
-
 ULLMAN CONTD
-
 problem enormous
-
 cost road
-
 Sidewinder open Its a
-
 Its 25 mile stretch road 
-
 gets average 20 feet snow
-
 winter theres
-
 way economically
-
 feasible clear When
-
 place built 1907
-
 little winter
-
 sports site chosen
-
 seclusion scenic beauty
-
 CUT TO
-
 MLS ULLMAN WATSON JACK
-
 JACK
-
 Well its certainly got plenty
-
 that
-
 JACK laughs
-
 ULLMAN
-
 Thats right And
-
 idea Denver
-
 job entails
-
 8
-
 JACK
-
 Only general way
-
 ULLMAN
-
 Well
-
 CUT TO
-
 MS ULLMAN
-
 ULLMAN CONTD
-
 the winters fantastically
-
 cruel basic idea
-
 toto cope costly
-
 damage depreciation
-
 occur And consists mainly
-
 running boiler heating
-
 different parts hotel
-
 daily rotating basis repairing
-
 damage occurs
-
 repairs elements cant
-
 foothold
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Well sounds fine me
-
 ULLMAN grunts off
-
 CUT TO
-
 MS ULLMAN
-
 ULLMAN
-
 Physically its
-
 demanding job The thing
-
 bit trying
-
 winter eh tremendous
-
 sense isolation
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Well happens
-
 exactly Im looking for Im
-
 eh Im outlining new writing
-
 project eh
-
 MORE
-
 9
-
 JACK CONTD
-
 months peace I
-
 want
-
 CUT TO
-
 MS ULLMAN
-
 ULLMAN
-
 Thats good Jack eh
-
 people eh solitude
-
 isolation
-
 CUT TO
-
 MCS JACK
-
 ULLMAN OFF CONTD
-
 problem
-
 JACK
-
 Not me
-
 CUT TO
-
 MS ULLMAN
-
 ULLMAN
-
 How wife son How
-
 think theyll it
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Theyll love it
-
 ULLMAN OFF
-
 Great
-
 CUT TO
-
 MS ULLMAN
-
 ULLMAN
-
 Well I turn
-
 Bill thing I
-
 think talk about I
-
 dont want sound melodramatic
-
 thats
-
 MORE
-
 10
-
 ULLMAN CONTD
-
 known people
-
 second thoughts job
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Im intrigued
-
 CUT TO
-
 MS ULLMAN
-
 ULLMAN
-
 I dont suppose eh told
-
 Denver
-
 tragedy
-
 winter 1970
-
 CUT TO
-
 MCS JACK shakes head
-
 JACK
-
 I dont believe did
-
 CUT TO
-
 MS BILL WATSON
-
 ULLMAN OFF
-
 Well predecessor job
-
 CUT TO
-
 MS ULLMAN
-
 ULLMAN CONTD
-
 hired man named Charles Grady
-
 winter caretaker He came
-
 wife little
-
 girls ten And
-
 good employment record
-
 good references Ive
-
 told I mean like
-
 completely normal individual But
-
 point winter
-
 suffered kind
-
 complete mental breakdown
-
 MORE
-
 11
-
 ULLMAN CONTD
-
 He ran amok eh killed
-
 family axe
-
 CUT TO
-
 MCS JACK
-
 ULLMAN OFF CONTD
-
 stacked neatly
-
 rooms West Wing
-
 um eh barrels
-
 shotgun mouth
-
 CUT TO
-
 MS ULLMAN sitting desk
-
 ULLMAN CONTD
-
 The police eh thought
-
 oldtimers
-
 cabinfever kind
-
 claustrophobic reaction
-
 occur people
-
 CUT TO
-
 MCS JACK
-
 ULLMAN OFF CONTD
-
 shut long periods
-
 time
-
 JACK
-
 Well eh story
-
 CUT TO
-
 MS ULLMAN laughs
-
 ULLMAN
-
 Yes is Oh its hard
-
 believe actually
-
 happened here eh
-
 I think appreciate I
-
 wanted tell it
-
 CUT TO
-
 MCS JACK
-
 12
-
 JACK
-
 Ah I certainly can eh I
-
 understand people
-
 Denver left tell me
-
 JACK laughs
-
 CUT TO
-
 US ULLMAN laughing
-
 ULLMAN
-
 Well obviously people
-
 CUT TO
-
 MCS JACK
-
 ULLMAN OFF CONTD
-
 idea staying
-
 place
-
 like actually happened
-
 JACK
-
 Well rest assured Mr
-
 Ullman thats going happen
-
 me far wife
-
 concerned I sure shell
-
 absolutely fascinated I tell
-
 it Shes confirmed
-
 ghost story horror film addict
-
 DISSOLVE TO
-
 INT BOULDER APARTMENTBATHROOM  DAY  MS
-
 Shooting open door  DANNY standing stool basin
-
 DANNY
-
 Tony think Daddy
-
 job
-
 TONY OFF
-
 Yeah did Hes gonna phone
-
 Wendy minutes tell
-
 her
-
 CUT TO
-
 INT BOULDER KITCHENLIVING ROOM  DAY  MS
-
 WENDY camera washing dishes sink PHONE RINGS
-
 OFF She dries hand puts carton fridge Then
-
 moves LR Living Room  CAMERA PANS her
-
 13
-
 She picks telephone receiver
-
 WENDY
-
 into phone
-
 Hello
-
 CUT TO
-
 INT HOTEL  LOBBY  DAY  MLS
-
 JACK leaning counter reception desk speaking
-
 phone
-
 JACK
-
 into phone
-
 Hi babe
-
 WENDY
-
 over phone
-
 Hi hon Hows going
-
 JACK
-
 into phone
-
 Great Look Im hotel
-
 I awful lot
-
 through I dont think I
-
 home ten
-
 CUT TO
-
 INT BOULDER APARTMENTLIVING ROOM  DAY  MS
-
 WENDY sitting chair phone ear
-
 WENDY
-
 into phone
-
 Sounds like got job
-
 CUT TO
-
 INT HOTEL  LOBBY  DAY  MLS
-
 JACK leaning reception desk phone ear
-
 JACK
-
 into phone
-
 Right its beautiful place You
-
 Danny gonna love it
-
 INT BOULDER APARTMENTBATHROOM  DAY  MS
-
 DANNY standing stool basin He reflected mirror
-
 CAMERA TRACKS IN reflection mirror
-
 14
-
 DANNY
-
 Tony dont want
-
 hotel
-
 DANNY wiggles forefinger
-
 TONY OFF
-
 I dont know
-
 DANNY
-
 You know come tell me
-
 DANNY wiggles forefinger
-
 TONY OFF
-
 I dont want to
-
 DANNY
-
 Please
-
 DANNY wiggles forefinger
-
 TONY OFF
-
 No
-
 DANNY
-
 Now Tony tell me
-
 CUT TO
-
 INT HOTEL  LOBBY  MLS
-
 Shooting doors lifts Blood gushes
-
 Lside lift corridors L R lift
-
 doors  surging camera
-
 CUT TO
-
 INT HOTELCORRIDOR  MS
-
 Two Little GRADY girls holding hands
-
 CUT TO
-
 INT HOTELLOBBY  MLS
-
 Blood gushing corridors LR lift doors
-
 surging camera
-
 CUT TO
-
 15
-
 INT BOULDER APARTMENT  MCS
-
 DANNY screaming
-
 CUT TO
-
 INT HOTELLOBBY  MLS
-
 Blood gushing corridors LR lift doors
-
 surging forward The blood gushes camera lens
-
 causing black out
-
 DOCTOR OFF
-
 Now hold eyes I
-
 see
-
 CUT TO
-
 INT BOULDER APARTMENTDANNYS BEDROOM  DAY  MS
-
 DOCTOR bending DANNY lying bed She
-
 examining eyes WENDY standing foot bed
-
 DOCTOR
-
 Thats good one
-
 Good boy
-
 DOCTOR straightens up She puts instrument away case
-
 closes it Then sits bed DANNY
-
 DOCTOR
-
 Now Danny brushing
-
 teeth remember
-
 smelled funny saw
-
 bright flashing lights
-
 strange
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 No
-
 DOCTOR OFF
-
 Do remember
-
 brushing teeth
-
 DANNY
-
 Yes
-
 CUT TO
-
 16
-
 MS DOCTOR sitting bed DANNY WENDY standing
-
 foot bed
-
 DOCTOR
-
 Whats thing remember
-
 brushing teeth
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 Mommy saying Wake up wake up
-
 wake Danny wake up
-
 CUT TO
-
 MS DOCTOR sitting bed DANNY WENDY standing
-
 foot bed
-
 DOCTOR
-
 Now Danny remember
-
-
-
 started brushing teeth
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 Talking Tony
-
 CUT TO
-
 MCS DOCTOR
-
 DOCTOR
-
 Is Tony animals
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 No Its little boy lives
-
 mouth
-
 CUT TO
-
 MCS WENDY
-
 WENDY
-
 Tony imaginary friend
-
 17
-
 DOCTOR OFF
-
 Oh
-
 CUT TO
-
 MCS DOCTOR
-
 DOCTOR CONTD
-
 open mouth now
-
 I Tony
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 No
-
 CUT TO
-
 MCS DOCTOR
-
 DOCTOR
-
 Why not
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 Because hides
-
 CUT TO
-
 MCS DOCTOR
-
 DOCTOR
-
 Where go
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 To stomach
-
 CUT TO
-
 MCS DOCTOR
-
 DOCTOR
-
 Does Tony tell things
-
 MCS DANNY
-
 18
-
 DANNY
-
 I dont want talk Tony
-
 anymore
-
 CUT TO
-
 MS DOCTOR sitting bed DANNY She pats leg
-
 stands up WENDY foot bed
-
 DOCTOR
-
 Okay Thats fine All right Danny
-
 DOCTOR puts case stethoscope shoulder bag
-
 DOCTOR
-
 Now Im going ask
-
 favor stay quietly bed
-
 rest day Okay
-
 DANNY
-
 Do I to
-
 DOCTOR
-
 Yes Id like to
-
 WENDY
-
 Were going
-
 rooms minutes
-
 talk  Ill come
-
 check you okay
-
 DANNY
-
 Okay
-
 DOCTOR
-
 Goodbye
-
 WENDY DOCTOR RL open door DOCTOR goes
-
 corridor
-
 CUT TO
-
 INT CORRIDORLIVING ROOM  DAY  MS
-
 DOCTOR standing corridor WENDY moves DANNYs
-
 room closes door She turns DOCTOR
-
 WENDY
-
 Shall living room
-
 DOCTOR
-
 Yes
-
 19
-
 DOCTOR WENDY walk forward corridor  CAMERA
-
 TRACKS BACK PANS RL Living
-
 Room WENDY points sofa
-
 WENDY
-
 Please
-
 DOCTOR
-
 Thank you
-
 DOCTOR moves sofa sits  WENDY sits chair
-
 camR
-
 DOCTOR
-
 Mrs Torrance I dont think
-
 worry about Im
-
 sure
-
 physically wrong Danny
-
 CUT TO
-
 MCS WENDY
-
 WENDY
-
 Oh yeah Oh yeah
-
 absolutely fine now
-
 seen him
-
 CUT TO
-
 MS DOCTOR WENDY DOCTOR leans sofa
-
 DOCTOR
-
 Oh I know Kids scare
-
 death believe episodes
-
 uncommon
-
 look worse are
-
 CUT TO
-
 MS WENDY DOCTOR
-
 WENDY
-
 But eh matter him
-
 DOCTOR
-
 Mrs Torrance time
-
 episodes kids
-
 explained They brought
-
 emotional factors rarely
-
 occur again
-
 CUT TO
-
 20
-
 MS DOCTOR
-
 DOCTOR
-
 Theyre akin autohypnosis
-
 kind self induced trance If
-
 reoccurs I doubt
-
 CUT TO
-
 MS WENDY takes cigarette packet
-
 DOCTOR OFF CONTD
-
 think having
-
 tests done
-
 WENDY holds cigarette packet DOCTOR
-
 DOCTOR OFF
-
 No thank you
-
 She puts packet table
-
 WENDY
-
 Oh ImIm sure youre right
-
 She lights cigarette lighter
-
 CUT TO
-
 MS DOCTOR
-
 DOCTOR
-
 Have Boulder long Mrs
-
 Torrance
-
 CUT TO
-
 MCS WENDY
-
 WENDY
-
 Only months Eh were
-
 Vermont My husband
-
 teaching school there
-
 CUT TO
-
 MS DOCTOR
-
 DOCTOR
-
 Did appearance Dannys
-
 imaginary friend
-
 CUT TO
-
 21
-
 MS WENDY DOCTOR
-
 WENDY
-
 Tony
-
 DOCTOR
-
 Did Tonys appearance happen
-
 coincide arrival here
-
 CUT TO
-
 MCS WENDY
-
 WENDY
-
 No um lets I guess Danny
-
 started talkin Tony
-
 time nursery school
-
 CUT TO
-
 MS DOCTOR WENDY
-
 DOCTOR
-
 Did adjust school
-
 CUT TO
-
 MCS WENDY  shakes head
-
 WENDY
-
 No He didnt like
-
 first injury
-
 kept while
-
 and yeah II guess thats
-
 time I noticed
-
 talking Tony
-
 CUT TO
-
 MS DOCTOR WENDY
-
 DOCTOR
-
 What sort injury have
-
 CUT TO
-
 MCS WENDY
-
 WENDY
-
 Ah dislocated shoulder
-
 WENDY inhales
-
 22
-
 DOCTOR OFF
-
 How manage that
-
 WENDY
-
 Well its things
-
 You know purely accident um
-
 My husband oh drinking
-
 came home hours
-
 late wasnt exactly
-
 greatest mood night And
-
 Danny scattered
-
 school papers room
-
 husband grabbed arm
-
 know pulled away them
-
 Itsits sort thing
-
 times
-
 child  know park
-
 streets  particular
-
 occasion husband just
-
 strength injured
-
 Dannys arm
-
 CUT TO
-
 MS DOCTOR
-
 WENDY OFF CONTD
-
 Anyway good come
-
 said
-
 CUT TO
-
 MCS WENDY
-
 WENDY CONTD
-
 Wendy Im gonna touch
-
 drop I
-
 leave me didnt
-
 hasnt alcohol eh
-
 months
-
 CUT TO
-
 BLACK FRAMES
-
 Superimposed Title over
-
 CLOSING DAY
-
 CUT TO
-
 23
-
 EXT COLORADO MOUNTAINS  DAY  LS
-
 High Angle Trees Mountain  CAMERA TRACKS FORWARD
-
 Jacks car moving away road
-
 CUT TO
-
 INT JACKS CAR  DAY  MS
-
 WENDY sitting JACK drives Mountain Road
-
 DANNY them leaning backs seats
-
 WENDY yawns
-
 WENDY
-
 Boy high up
-
 The air feels different
-
 JACK
-
 Uhhuh
-
 DANNY
-
 Dad
-
 JACK
-
 Yes
-
 DANNY
-
 Im hungry
-
 JACK
-
 Well eaten
-
 breakfast
-
 WENDY
-
 Well soon
-
 hotel okay
-
 DANNY
-
 Okay Mom
-
 WENDY
-
 Hey wasnt
-
 Donner party got snowbound
-
 JACK
-
 I think farther west
-
 Sierras
-
 DANNY
-
 What Donner party
-
 24
-
 JACK
-
 There party settlers
-
 covered wagon times They got
-
 snowbound winter
-
 mountains They resort
-
 cannabilism order stay alive
-
 DANNY
-
 You mean ate up
-
 JACK
-
 They to order survive
-
 WENDY
-
 Jack
-
 DANNY
-
 Dont worry Mom I know
-
 cannabilism I saw TV
-
 JACK
-
 See its okay He saw
-
 television
-
 DISSOLVE TO
-
 EXT COLORADO MOUNTAINS  DAY  LS
-
 High Angle JACKs car moving away road
-
 mountain  CAMERA TRACKS it
-
 CUT TO
-
 EXT OVERLOOK HOTEL  DAY  LS
-
 Cars parked Hotel
-
 CUT TO
-
 INT OVERLOOK HOTELLOBBY  MLS
-
 Man cleaning floor CAMERA TRACKS LR WATSON ULLMAN
-
 walk forward bg
-
 ULLMAN
-
 What time plane leave
-
 WATSON
-
 Eight thirty
-
 ULLMAN
-
 Well gives plenty
-
 time first
-
 25
-
 Two Girls carrying luggage enter camR walk away bg
-
 GIRLS
-
 Goodbye Mr Ullman
-
 ULLMAN
-
 Goodbye
-
 ULLMAN WATSON walk LR JACK sitting chair
-
 ULLMAN
-
 Good morning Jack I hope
-
 havent waiting long
-
 JACK
-
 No problem In fact time
-
 grab bite eat
-
 JACK stands up
-
 ULLMAN
-
 Good Glad
-
 shut kitchen Is
-
 family having look around
-
 JACK
-
 No sons discovered games
-
 room
-
 ULLMAN
-
 Oh Has luggage brought
-
 in
-
 JACK points luggage
-
 JACK
-
 Right there
-
 ULLMAN
-
 Oh fine Well view
-
 ground cover today I
-
 suggest quick look
-
 apartment
-
 started straight away
-
 ULLMAN turns WATSON
-
 ULLMAN
-
 Bill Torrances
-
 things brought apartment
-
 WATSON
-
 Fine
-
 26
-
 WATSON walks camL
-
 JACK
-
 Id better collect family first
-
 ULLMAN
-
 Oh
-
 ULLMAN laughs camL
-
 DISSOLVE TO
-
 INT HOTELCOLORADO LOUNGE  DAY  MLS
-
 ULLMAN followed WENDY JACK WATSON moves lift
-
 camR They walk RL Lounge CAMERA TRACKS them
-
 ULLMAN
-
 This Colorado Lounge
-
 WENDY
-
 Oh its beautiful
-
 to Jack
-
 My God place fantastic
-
 isnt hon
-
 JACK
-
 Sure is
-
 WENDY
-
 God Ive seen like
-
 before Are
-
 Indian designs authentic
-
 ULLMAN
-
 Yes I believe based
-
 mainly Navajo Apache motifs
-
 WENDY
-
 Oh theyre gorgeous
-
 As matter fact probably
-
 gorgeous hotel Ive
-
 seen
-
 ULLMAN laughs
-
 ULLMAN
-
 Oh old place
-
 illustrious past In heyday
-
 stopping places
-
 jet set
-
 They reach corner turn walking camera
-
 27
-
 ULLMAN CONTD
-
 anybody knew jet
-
 set was Weve presidents
-
 stayed here lots movie stars
-
 WENDY
-
 Royalty
-
 ULLMAN
-
 All best people
-
 CUT TO
-
 INT HOTEL GAMES ROOM  DAY  MCS
-
 DANNY throwing darts  CAMERA TRACKS BACK PANS LR
-
 walks dartboard He climbs chair
-
 pulls darts out He looks camL CAMERA ZOOMS IN him
-
 CUT TO
-
 MS Two GRADY girls holding hands standing near open door
-
 CUT TO
-
 MCS DANNY
-
 CUT TO
-
 MS Two GRADY girls holding hands They look
-
 another turn exit open doorway
-
 CUT TO
-
 MCS DANNY
-
 CUT TO
-
 INT HOTELCARETAKERS APARTMENT CORRIDOR  DAY  MS
-
 ULLMAN leads WENDY JACK forward corridor
-
 Caretakers Apartment
-
 ULLMAN
-
 This staff wing hotel
-
 None bedrooms
-
 heated winter
-
 WENDY
-
 Oh
-
 Two Girls carrying bags enter camL
-
 28
-
 GIRLS
-
 Goodbye Mr Ullman
-
 ULLMAN
-
 Goodbye girls
-
 ULLMAN waves Girls moves camR JACKs apartment
-
 WENDY JACK follow him
-
 ULLMAN
-
 And quarters
-
 CUT TO
-
 INT HOTELJACKS APARTMENT  DAY  MS
-
 ULLMAN followed WENDY JACK steps ULLMAN
-
 points open door camR
-
 ULLMAN
-
 Living Room bedroom bathroom
-
 small bedroom son
-
 JACK leans forward looks small bedroom camL He
-
 turns looks camR ULLMAN
-
 JACK
-
 Perfect child
-
 WENDY
-
 Yeah
-
 ULLMAN
-
 Yes
-
 They apartment JACK WENDY away
-
 living room bedroom  CAMERA TRACKS FORWARD them
-
 ULLMAN OFF
-
 Well place nicely self
-
 contained easy keep
-
 JACK feels bed
-
 JACK
-
 Cosy
-
 JACK WENDY away enter bathroom  CAMERA TRACKS
-
 them
-
 29
-
 ULLMAN OFF
-
 Yes cosy family
-
 feel like spreading
-
 rest hotel
-
 in
-
 JACK
-
 Well its very homely
-
 WENDY
-
 Yeah
-
 DISSOLVE TO
-
 EXT HOTELTHE MAZE  DAY  LS
-
 ULLMAN leading WENDY JACK WATSON RL outside
-
 Maze CAMERA TRACKS PANS them
-
 ULLMAN
-
 This famous hedge maze
-
 Its attraction
-
 here The walls thirteen feet
-
 high hedges
-
 old hotel itself Its
-
 lot fun
-
 They walk end Maze Hotel bg
-
 ULLMAN CONTD
-
 I wouldnt I
-
 hour spare way
-
 out
-
 Laughter
-
 WENDY
-
 When Overlook built
-
 CUT TO
-
 MLS ULLMAN leads WENDY JACK WATSON LR
-
 Hotel  CAMERA TRACKS them
-
 ULLMAN
-
 Ah construction started 1907
-
 It finished 1909 The site
-
 supposed located
-
 Indian burial ground I believe
-
 actually repel
-
 Indian attacks building
-
 it
-
 ULLMAN points red Snowcat entrance garage
-
 30
-
 ULLMAN
-
 Thats Snowcat Can
-
 drive car
-
 JACK WENDY
-
 together
-
 Yes
-
 They walk SNOWCAT
-
 ULLMAN
-
 Thats fine basically
-
 Snowcat operates like
-
 car wont long
-
 hang it
-
 DISSOLVE TO
-
 INT HOTEL BALLROOMCORRIDOR  DAY  MS
-
 ULLMAN JACK WATSON WENDY walk forward corridor 
-
 CAMERA TRACKS BACK them
-
 ULLMAN
-
 As matter fact eh
-
 brought decorator Chicago
-
 year refurbish
-
 hotel
-
 WENDY
-
 Oh sure beautiful job
-
 Pink gold favorite colors
-
 ULLMAN leads WENDY JACK WATSON LR Gold Ballroom 
-
 CAMERA TRACKS them Men bg cleaning Ballroom
-
 ULLMAN
-
 Ohwell gold ballroom
-
 WENDY
-
 Oh Ill say
-
 ULLMAN leads LR Ballroom closed bar
-
 ULLMAN
-
 We accommodate
-
 people comfortably
-
 WENDY
-
 Boy I bet
-
 good party room huh hon
-
 31
-
 ULLMAN
-
 Im afraid youre going
-
 youve brought
-
 supplies We
-
 remove booze
-
 premises shut down
-
 He points shuttered bar
-
 ULLMAN
-
 reduces insurance
-
 normally carry
-
 DICK HALLORAN walks forward bg
-
 JACK
-
 We dont drink
-
 ULLMAN laughs
-
 ULLMAN
-
 Well then youre luck
-
 ULLMAN waves HALLORAN
-
 ULLMAN
-
 Oh Dick come hello
-
 Mr Mrs Torrance
-
 HALLORAN
-
 Sure
-
 ULLMAN
-
 This Dick Halloran Head Chef
-
 JACK shakes hands DICK
-
 JACK
-
 Mr Halloran Im Jack
-
 wife Winifred
-
 HALLORAN
-
 Glad meet you Jack
-
 HALLORAN shakes hands WENDY
-
 HALLORAN
-
 Glad meet you Winifred
-
 WENDY
-
 Nice meet you
-
 32
-
 ULLMAN
-
 The Torrances going
-
 care Overlook
-
 winter
-
 HALLORAN
-
 Oh thats great How
-
 folks like hotel far
-
 WENDY
-
 Oh its wonderful
-
 WENDY waves camL
-
 WENDY
-
 Hi Danny
-
 CUT TO
-
 INT HOTEL  BALLROOM  DAY  MS
-
 SUSIE holding DANNYs hand They walk LR Ballroom
-
 CAMERA TRACKS JACK HALLORAN WATSON WENDY
-
 ULLMAN
-
 SUSIE
-
 I outside looking you
-
 JACK
-
 OFF
-
 Danny tired
-
 IN SHOT
-
 bombing universe
-
 DANNY
-
 Yeah
-
 WENDY
-
 Danny come here
-
 DANNY walks LR SUSIE WENDY WENDY looks SUSIE
-
 WENDY
-
 Thanks
-
 ULLMAN
-
 Thank you Susie
-
 SUSIE exits camL ULLMAN turns HALLORAN
-
 33
-
 ULLMAN
-
 Dick youre ready now
-
 I think good idea
-
 Mrs Torrance
-
 kitchen I continue
-
 Jack
-
 HALLORAN
-
 It pleasure Right
-
 way Mrs Torrance
-
 WENDY
-
 Great See later hon
-
 HALLORAN walks away bg WENDY DANNY follow him
-
 JACK
-
 Bye darling
-
 ULLMAN JACK WATSON camL
-
 DISSOLVE TO
-
 INT HOTEL  KITCHEN  DAY  MS
-
 WENDY holding DANNYs hand walks forward kitchen
-
 HALLORAN CAMERA TRACKS BACK them
-
 HALLORAN
-
 Mrs Torrance husband
-
 introduced Winifred Now
-
 Winnie Freddie
-
 WENDY
-
 Im Wendy
-
 HALLORAN
-
 Oh Wendy Thats nice Thats
-
 prettiest
-
 WENDY
-
 God This kitchen huh
-
 HALLORAN
-
 Yeah it How like
-
 it Danny Is big you
-
 DANNY
-
 Yeah its biggest place Ive
-
 seen
-
 HALLORAN laughs
-
 34
-
 WENDY
-
 Yeah This place
-
 enormous maze I feel Ill
-
 leave trail breadcrumbs
-
 time I come in
-
 HALLORAN laughs
-
 HALLORAN
-
 Dont let Mrs
-
 Torrance  its big
-
 aint kitchen
-
 lot stuff youll
-
 touch
-
 WENDY
-
 I wouldnt know
-
 I did
-
 HALLORAN
-
 Well thing sure dont
-
 worry food
-
 folks eat
-
 year menu
-
 twice
-
 HALLORAN points camL leans camL taking hold
-
 door handle
-
 HALLORAN
-
 Now right walkin
-
 freezer
-
 CUT TO
-
 INT HOTEL  FREEZER  DAY  MS
-
 HALLORAN opens door steps freezer WENDY DANNY
-
 stand doorway HALLORAN points items
-
 HALLORAN
-
 Now
-
 meat You got rib
-
 roasts  thirty pound bags
-
 hamburgers You got twelve
-
 turkeys dozen pork roasts
-
 legs lamb
-
 to Danny
-
 Do like lamb Doc
-
 DANNY
-
 No
-
 35
-
 HALLORAN
-
 You dont Well whats
-
 favorite food then
-
 DANNY
-
 French Fries Ketchup
-
 HALLORAN laughs
-
 HALLORAN
-
 Well I think manage
-
 too Doc Come now Watch
-
 step
-
 HALLORAN points step door
-
 CUT TO
-
 INT HOTEL  KITCHEN  DAY  MS
-
 DANNY WENDY followed HALLORAN come Freezer
-
 WENDY
-
 Mr Halloran
-
 HALLORAN closes door turns WENDY
-
 WENDY CONTD
-
 know called Doc
-
 HALLORAN DANNY WENDY walk forward  CAMERA TRACKS BACK
-
 them
-
 HALLORAN
-
 Beg pardon
-
 WENDY
-
 Doc You called Danny Doc twice
-
 now
-
 HALLORAN
-
 I did
-
 WENDY
-
 Yeah We Doc sometimes
-
 know like Bugs Bunny
-
 cartoons But know that
-
 HALLORAN
-
 Well I guess I probably heard
-
 that
-
 36
-
 WENDY
-
 Well its possible I honestly
-
 dont remember calling
-
 weve you
-
 They stop walking
-
 HALLORAN
-
 Well anyway looks like Doc
-
 doesnt he
-
 HALLORAN bends DANNY
-
 HALLORAN
-
 clicks tongue
-
 Me ah  whats up Doc
-
 HALLORAN laughs turns away door camL He opens door
-
 HALLORAN
-
 Now storeroom
-
 CUT TO
-
 INT HOTEL  STOREROOM  DAY  MS
-
 HALLORAN moves forward Storeroom followed DANNY
-
 WENDY Groceries stacked shelves
-
 HALLORAN
-
 In here Mrs Torrance
-
 dried goods
-
 canned goods We got canned fruits
-
 vegetables canned fish
-
 meats hot cold cereals
-
 HALLORAN WENDY LR  CAMERA TRACKS past
-
 shelf fg
-
 HALLORAN
-
 Post Toasties Cornflakes Sugar
-
 Puffs Rice Krispies Oatmeal
-
 Wheatina Cream Wheat
-
 CUT TO
-
 MS DANNY standing cardboard boxes CAMERA TRACKS IN
-
 him
-
 HALLORAN OFF
-
 We got dozen jugs black
-
 molasses got boxes
-
 dried milk thirty pound
-
 bags sugar
-
 CUT TO
-
 37
-
 MS HALLORAN talks inaudibly WENDY camera
-
 CAMERA TRACKS IN HALLORAN
-
 HALLORAN
-
 thought transfer
-
 Howd like ice cream Doc
-
 CUT TO
-
 MCS DANNY
-
 HALLORAN OFF
-
 sociables finger rolls seven
-
 kinds whathaveyou
-
 CUT TO
-
 MS HALLORAN WENDY RL DANNY open door
-
 CAMERA TRACKS them
-
 HALLORAN
-
 Now got dried peaches dried
-
 apricots dried raisins dried
-
 prunes
-
 CUT TO
-
 INT HOTEL KITCHEN  DAY  MS
-
 HALLORAN followed WENDY DANNY Storeroom
-
 camRfg
-
 HALLORAN
-
 You know Mrs Torrance gotta
-
 regular want
-
 happy
-
 HALLORAN laughs closes Storeroom door JACK ULLMAN
-
 WATSON walk forward bg
-
 ULLMAN
-
 Hi
-
 WENDY
-
 Hi
-
 ULLMAN
-
 Howre getting on
-
 HALLORAN WENDY
-
 Just fine
-
 38
-
 ULLMAN
-
 Dick borrow Mrs Torrance
-
 minutes Were
-
 way basement  I
-
 promise wont long
-
 HALLORAN
-
 No problem Mr Ullman I
-
 getting ice cream
-
 HALLORAN leans DANNY
-
 HALLORAN
-
 Do like ice cream Doc
-
 DANNY
-
 Yeah
-
 HALLORAN laughs
-
 HALLORAN
-
 I thought did
-
 HALLORAN straightens looks JACK
-
 HALLORAN
-
 You folks dont mind I
-
 Danny ice cream were
-
 waiting you
-
 JACK
-
 Not all
-
 WENDY
-
 No dont mind
-
 HALLORAN
-
 Good
-
 WENDY
-
 Sound good you Danny
-
 DANNY
-
 Yeah
-
 WENDY
-
 Okay You behave yourself
-
 HALLORAN takes hold DANNYs hand ULLMAN JACK WENDY
-
 WATSON away bg
-
 HALLORAN
-
 Now kind ice cream
-
 like Doc
-
 39
-
 DANNY
-
 Chocolate
-
 HALLORAN
-
 Chocolate shall be Come son
-
 HALLORAN DANNY camL
-
 DISSOLVE TO
-
 INT HOTEL  GREEN CORRIDOR  DAY  MS
-
 ULLMAN JACK WENDY  followed WATSON  forward
-
 CAMERA TRACKS BACK them
-
 WENDY
-
 Its amazing activity
-
 going today
-
 ULLMAN
-
 Yes guests
-
 staff left yesterday
-
 day hectic 
-
 everybody wants way
-
 early possible
-
 They turn corner walk away corridor
-
 ULLMAN
-
 By oclock tonight youll
-
 know anybody here
-
 WENDY
-
 Just like ghost ship huh
-
 ULLMAN
-
 Yes
-
 DISSOLVE TO
-
 INT HOTEL  KITCHEN  DAY  MCS
-
 HALLORAN looking camR
-
 HALLORAN
-
 Do know I knew
-
 Doc
-
 CUT TO
-
 MCS DANNY HALLORAN  DANNY looking HALLORAN
-
 CUT TO
-
 40
-
 MCS HALLORAN
-
 HALLORAN
-
 You know Im talking about
-
 dont you
-
 CUT TO
-
 MCS DANNY HALLORAN DANNY looking HALLORAN
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 I remember I little
-
 boy grandmother I
-
 hold conversations entirely
-
 opening mouths She
-
 called shining
-
 CUT TO
-
 MCS DANNY
-
 HALLORAN OFFCONTD
-
 long time I thought
-
-
-
 shine us
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 Just like probably thought
-
 one But
-
 folks
-
 dont know it dont believe it
-
 CUT TO
-
 MCS DANNY
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 How long able it
-
 CUT TO
-
 MS HALLORAN DANNY sitting table
-
 41
-
 HALLORAN
-
 Why dont want talk it
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 Im supposed to
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 Who says aint supposed to
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 Tony
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 Whos Tony
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 Tonys little boy lives
-
 mouth
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 Is Tony tells
-
 things
-
 CUT TO
-
 MCS DANNY
-
 42
-
 DANNY
-
 Yes
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 How tell things
-
 CUT TO
-
 MS HALLORAN DANNY sitting table
-
 DANNY
-
 Its like I sleep
-
 shows things I wake up
-
 I cant remember everything
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 Does Mum Dad know
-
 Tony
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 Yes
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 Do know tell things
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 Has Tony told
-
 place About
-
 Overlook Hotel
-
 CUT TO
-
 MCS DANNY HALLORAN
-
 43
-
 DANNY
-
 I dont know
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 Now think real hard Doc Think
-
 CUT TO
-
 MCS DANNY HALLORAN
-
 DANNY
-
 Maybe showed something
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 Try think was
-
 CUT TO
-
 MCS DANNY HALLORAN
-
 DANNY
-
 Mr Halloran scared
-
 place
-
 CUT TO
-
 MS Shooting table HALLORAN DANNY
-
 HALLORAN
-
 No Im scared here
-
 Its know places
-
 like people shine
-
 dont I guess
-
 Overlook Hotel
-
 thats like
-
 shining
-
 DANNY
-
 Is bad here
-
 CUT TO
-
 MCS HALLORAN
-
 44
-
 HALLORAN
-
 Well know Doc
-
 happens leave trace
-
 behind like
-
 burns toast
-
 CUT TO
-
 MCS DANNY
-
 HALLORAN OFF
-
 Well maybe things happened
-
 leave kinds traces behind
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 Not things notice
-
 things people shine
-
 see Just like
-
 things havent happened yet
-
 Well things
-
 happened long time ago I
-
 think lot things happened
-
 right particular
-
 hotel  years
-
 good
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 What Room 237
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 Room 237
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 Youre scared Room 237 aintcha
-
 CUT TO
-
 MCS HALLORAN
-
 45
-
 HALLORAN
-
 No I aint
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 Mr Halloran Room 237
-
 CUT TO
-
 MCS HALLORAN
-
 HALLORAN
-
 Nothing There aint
-
 Room 237 aint got
-
 business going anyway
-
 stay out You understand stay out
-
 CUT TO
-
 MCS DANNY
-
 CUT TO
-
 BLACK FRAMES
-
 Superimposition over
-
 A MONTH LATER
-
 CUT TO
-
 EXT OVERLOOK HOTEL  DAY  MLS
-
 Hotel Mountain bg
-
 CUT TO
-
 INT OVERLOOK HOTEL  LOBBY  DAY  MS
-
 WENDY pushing trolley forward corridor CAMERA TRACKS
-
 BACK her She turns camL enters Lobby CAMERA
-
 TRACKS RL lobby
-
 CUT TO
-
 INT HOTEL  KITCHEN LOUNGE  DAY  MS
-
 DANNY sitting tricycle He pedals Kitchen
-
 Lounge Kitchen
-
 46
-
 CAMERA TRACKS FORWARD him
-
 CUT TO
-
 INT HOTEL  CORRIDOR TO TORRANCES APARTMENT  DAY  MS
-
 WENDY enters camL pushing trolley She pushes forward
-
 corridor CAMERA PANS LR door
-
 Apartment
-
 CUT TO
-
 INT HOTEL  TORRANCES APARTMENT  DAY  MCS
-
 JACK asleep bed reflected mirror CAMERA TRACKS BACK
-
 WENDY enters camR carrying tray She walks forward
-
 CAMERA TRACKS BACK her She puts tray table
-
 WENDY
-
 Good Morning hon Your breakfast
-
 ready
-
 JACK
-
 What time it
-
 WENDY
-
 Its thirty
-
 CAMERA TRACKS FORWARD JACK WENDY reflected mirror
-
 JACK
-
 Eleven thirty  Jesus
-
 WENDY
-
 I guess weve staying
-
 late
-
 JACK
-
 I know it
-
 JACK sticks tongue out WENDY picks plate glass
-
 orange juice
-
 WENDY
-
 I em way like
-
 em sunny up
-
 JACK
-
 Hmm nice
-
 WENDY walks forward JACK puts plate camL She
-
 hands glass orange juice drinks it
-
 47
-
 WENDY
-
 Its pretty outside How
-
 taking walk
-
 youve finished breakfast
-
 JACK
-
 Oh I suppose I oughta try
-
 writing first
-
 He puts glass camL picks plate eggs
-
 bacon
-
 WENDY
-
 Any ideas yet
-
 JACK
-
 Lots ideas No good ones
-
 WENDY sits camR
-
 WENDY
-
 Well somethingll come Its
-
 matter settling
-
 habit writing day
-
 JACK
-
 Yeah thats is
-
 JACK starts eat bacon
-
 WENDY
-
 Its nice here isnt it
-
 JACK
-
 I love it I do Ive
-
 happy
-
 comfortable anywhere
-
 CUT TO
-
 MCS WENDY
-
 WENDY
-
 Yeah Its amazing fast
-
 big place I
-
 tell you came
-
 here I thought kinda scarey
-
 WENDY laughs
-
 CUT TO
-
 MCS JACK WENDY
-
 48
-
 JACK
-
 I fell love right away
-
 When I came
-
 interview I
-
 before Wewe
-
 moments deja vu
-
 ridiculous It
-
 I knew going
-
 corner Ooohhhhh
-
 WENDY laughs
-
 DISSOLVE TO
-
 INT HOTEL  LOUNGE  DAY  MS
-
 Typewriter sheet paper it CAMERA TRACKS BACK
-
 TILTS UP JACK throwing ball wall
-
 CUT TO
-
 MS JACK camera throwing ball wall
-
 DISSOLVE TO
-
 EXT HOTEL  MAZE  DAY  MLS
-
 WENDY running DANNY Hotel Maze  CAMERA PANS
-
 LR TRACKS entrance Maze
-
 WENDY
-
 The loser American
-
 clean hows that
-
 DANNY
-
 All right
-
 WENDY
-
 And youre gonna lose And Im
-
 gonna  betta run fast
-
 Look  Im coming close
-
 All right
-
 DANNY WENDY run Maze CAMERA TRACKS LR plan
-
 Maze board
-
 DANNY OFF
-
 Youll America clean
-
 CUT TO
-
 49
-
 INT MAZE  DAY  MS
-
 DANNY WENDY walking forward Maze  CAMERA TRACKS BACK
-
 them
-
 WENDY
-
 Okay Danny win Lets
-
 rest walking huh
-
 DANNY
-
 Okayoh
-
 WENDY
-
 Give hand Oh isnt
-
 beautiful
-
 DANNY
-
 Yeah
-
 CUT TO
-
 MS WENDY DANNY backs camera walking away
-
 Maze  CAMERA TRACKS FORWARD them
-
 WENDY
-
 Heres dead end
-
 WENDY DANNY turn dead end walk away Maze
-
 CAMERA TRACKS them
-
 DISSOLVE TO
-
 INT HOTEL  LOBBY  DAY  MLS
-
 JACK camera bounces ball floor catches it
-
 Then throws away bg He walks away model
-
 Maze table window CAMERA TRACKS FORWARD him
-
 He stops model leans table
-
 CUT TO
-
 MS Shooting model Maze table JACK looking
-
 it
-
 CUT TO
-
 MCS JACK looking down
-
 CUT TO
-
 EXT MAZE  DAY  LS
-
 High Angle shooting Maze WENDY DANNY
-
 it CAMERA TRACKS DOWN Maze
-
 50
-
 WENDY
-
 Oh Maze Isnt beautiful
-
 DANNY
-
 Yeah
-
 CUT TO
-
 MS DANNY WENDY walk forward Maze  CAMERA TRACKS
-
 BACK them
-
 WENDY
-
 Its pretty
-
 DANNY
-
 Yeah
-
 WENDY
-
 I didnt think going
-
 big you
-
 DANNY
-
 No
-
 CUT TO
-
 BLACK FRAMES
-
 Superimposition over
-
 TUESDAY
-
 CUT TO
-
 EXT HOTEL  DUSK  MLS
-
 Hotel Mountain bg
-
 DISSOLVE TO
-
 INT HOTEL  KITCHEN  DUSK  MCS
-
 WENDYs hands taking lid can CAMERA TRACKS BACK
-
 table portable TV Set it The set switched on
-
 WOMAN ANNOUNCER OFF
-
 Rutherford serving life
-
 sentence conviction
-
 1968 shooting search
-
 continues mountains near
-
 Uray today missing Aspen
-
 woman
-
 WENDY carries tin bowl table
-
 51
-
 WOMAN ANNOUNCER CONTD
-
 twentyfour year old Susan Robertson
-
 missing days She
-
 disappeared hunting trip
-
 husband They good
-
 weather right now
-
 search
-
 predicted snowstorm moves
-
 tomorrow
-
 Picture TV Set changes MAN WOMAN
-
 WOMAN ANNOUNCER
-
 But its beautiful
-
 Denver today its hard believe
-
 snowstorm close
-
 MAN ANNOUNCER
-
 I know I want outside
-
 lie sun Yet north
-
 west snowing
-
 cold its moving
-
 SOUND OF CLICKS
-
 MAN ANNOUNCER CONTD
-
 right Colorado right
-
 talk Its incredible
-
 WOMAN ANNOUNCER
-
 I know
-
 CUT TO
-
 INT OVERLOOK HOTEL  CORRIDORS  MS
-
 DANNY camera tricycle pedals away
-
 corridors  CAMERA TRACKS him He looks door camL
-
 slows down stopping
-
 CUT TO
-
 MS DANNY fg Number 237 door bg
-
 CUT TO
-
 MCS DANNY looking number
-
 CUT TO
-
 MS DANNY fg Number 237 door bg
-
 CUT TO
-
 52
-
 MLS Corridor DANNY fg gets tricycle moves
-
 RL door room 237 He looks number 
-
 reaches door handle turns it Door doesnt open
-
 He looks number
-
 CUT TO
-
 MS Two GRADY Girls holding hands
-
 CUT TO
-
 MS DANNY looking number door He moves LR
-
 tricycle CAMERA PANS him He sits tricycle
-
 pedals fast away corridor
-
 CUT TO
-
 INT HOTEL  LOUNGE  NIGHT  MLS
-
 Lounge JACK sitting camera typing table
-
 CAMERA TRACKS FORWARD him
-
 CUT TO
-
 MCS JACK typing
-
 CUT TO
-
 MLS JACK camera typing table fg WENDY
-
 enters camRbg walks forward JACK
-
 WENDY
-
 Hi hon Hows going
-
 WENDY stops camR him JACK pulls page typewriter
-
 JACK
-
 Fine
-
 WENDY kisses him
-
 WENDY
-
 Get lot written today
-
 CUT TO
-
 MS JACK looking camL WENDY
-
 JACK
-
 Yes
-
 CUT TO
-
 MCS WENDY
-
 53
-
 WENDY
-
 Hey weather forecast said its
-
 going snow tonight
-
 CUT TO
-
 MS JACK looking camL WENDY
-
 JACK
-
 What want it
-
 CUT TO
-
 MCS WENDY
-
 WENDY
-
 Ah come hon Dont
-
 grouchy
-
 CUT TO
-
 MS JACK looking camL WENDY
-
 JACK
-
 Im grouchy I want
-
 finish work
-
 CUT TO
-
 MCS WENDY
-
 WENDY
-
 Okay I understand Ill come
-
 later couple
-
 sandwiches and maybe
-
 youll let read then
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Wendy
-
 clears throat
-
 let explain you
-
 Whenever come
-
 interrupt me youre breaking
-
 concentration
-
 JACK hits forehead hand
-
 JACK CONTD
-
 youre distracting me
-
 54
-
 He picks sheet paper tears up Then throws
-
 pieces down
-
 JACK CONTD
-
 time
-
 I was understand
-
 CUT TO
-
 MCS WENDY
-
 WENDY
-
 Yes
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Fine Now were going
-
 new rule Whenever I
-
 hear typing
-
 JACK taps typewriter keys
-
 JACK CONTD
-
 dont hear
-
 typing fuck hear
-
 here I
-
 means I working 
-
 means dont come in Now
-
 think handle that
-
 CUT TO
-
 MCS WENDY
-
 WENDY
-
 Yes
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Fine Why dont start right
-
 fuck here
-
 hmm
-
 CUT TO
-
 MCS WENDY
-
 55
-
 WENDY
-
 Okay
-
 CUT TO
-
 MLS WENDY standing camR JACK camera sitting
-
 table She turns walks away bg CAMERA TRACKS
-
 BACK
-
 CUT TO
-
 MS JACK starts type
-
 CUT TO
-
 Black Frames
-
 Superimposition over
-
 THURSDAY
-
 CUT TO
-
 EXT HOTEL  DAY  MLS
-
 WENDY running RL chased DANNY carrying snowballs
-
 AD LIB SHOUTS LAUGHTER CAMERA TRACKS RL past
-
 Hotel bg
-
 WENDY
-
 I know youve got some
-
 CUT TO
-
 INT HOTEL  LOUNGE  DAY  MS
-
 JACK window watching WENDY DANNY playing snow
-
 CAMERA TRACKS IN MCS
-
 CUT TO
-
 BLACK FRAMES
-
 Superimposition over
-
 SATURDAY
-
 CUT TO
-
 EXT HOTEL  DAY  MLS
-
 HOTEL bg Trees snow fg
-
 CUT TO
-
 56
-
 INT HOTEL  LOUNGE  DAY  MLS
-
 High Angle JACK sitting table bg typing
-
 CUT TO
-
 INT HOTEL  LOBBY OFFICE  DAY  MS
-
 WENDY standing switchboard headset Lear
-
 putting plugs switchboard
-
 WENDY
-
 Oh no
-
 WENDY puts socket plugs
-
 WENDY
-
 I knew it
-
 WENDY puts headset plug turns away
-
 switchboard She walks RL door
-
 CUT TO
-
 MLS WENDY walks switchboard  round counter
-
 moves forward RL Lobby CAMERA TRACKS BACK
-
 her She moves RL Office CAMERA PANS her She
-
 stops radio set switches on She pulls microphone
-
 her
-
 WENDY
-
 into mike
-
 This KDK 12 calling KDK 1
-
 CUT TO
-
 INT RANGERS OFFICE  MLS
-
 RANGER seated radio camL MAN standing filing
-
 cabinet camR GIRL seated desk camR
-
 WENDY OFF
-
 over radio
-
 KDK 12 KDK 1
-
 RANGER
-
 into mike
-
 This KDK 1 Were receiving you
-
 Over
-
 CUT TO
-
 57
-
 INT HOTEL  OFFICE  DAY  MS
-
 WENDY picks microphone
-
 WENDY
-
 into mike
-
 Hi This Wendy Torrance
-
 Overlook Hotel
-
 CUT TO
-
 INT RANGERS OFFICE  DAY  MS
-
 RANGER seated radio speaking mike
-
 RANGER
-
 into mike
-
 Hi How folks getting
-
 there Over
-
 CUT TO
-
 INT HOTEL  OFFICE  DAY  MS
-
 WENDY holding mike seated cabinet foot desk
-
 WENDY
-
 into mike
-
 Oh were fine
-
 telephones dont
-
 well Are lines
-
 chance Over
-
 CUT TO
-
 INT RANGERS OFFICE  DAY  MS
-
 RANGER seated radio speaking mike
-
 RANGER
-
 into mike
-
 Yes Quite down
-
 storm Over
-
 WENDY
-
 over radio
-
 Any chance repaired
-
 soon Over
-
 RANGER
-
 into mike
-
 Well I wouldnt like say Most
-
 winters stay way
-
 spring Over
-
 CUT TO
-
 58
-
 INT HOTEL  OFFICE  DAY  MS
-
 WENDY holding mike seated cabinet foot desk
-
 WENDY
-
 into mike
-
 Boy storm something
-
 isnt it Over
-
 CUT TO
-
 INT RANGERS OFFICE  DAY  MS
-
 RANGER sitting radio  speaking mike
-
 RANGER
-
 into mike
-
 Oh yes Its worst
-
 weve years Is
-
 you
-
 Mrs Torrance Over
-
 CUT TO
-
 INT HOTEL  OFFICE  DAY  MS
-
 WENDY holding mike seated cabinet foot desk
-
 WENDY
-
 into mike
-
 I suppose not Over
-
 CUT TO
-
 INT RANGERS OFFICE  DAY  MS
-
 RANGER seated radio  speaking mike
-
 RANGER
-
 into mike
-
 Well folks problems
-
 call
-
 Mrs Torrance
-
 CUT TO
-
 INT HOTEL  OFFICE  DAY  MS
-
 WENDY holding mike  seated cabinet foot
-
 desk
-
 59
-
 RANGER
-
 over radio
-
 I think good idea
-
 leave radio
-
 time now Over
-
 WENDY
-
 into mike
-
 Okay Well that It real
-
 nice talking you Bye Over
-
 Out
-
 WENDY puts mike
-
 CUT TO
-
 INT HOTEL  GREEN CORRIDOR  MLS
-
 DANNY pedals away corridor tricycle CAMERA
-
 TRACKS him He exits camR end corridor
-
 CAMERA TRACKS FORWARD corridor
-
 CUT TO
-
 INT HOTEL  CORRIDOR  MS
-
 DANNY pedals away corridor CAMERA TRACKS him
-
 He turns corner stops sees GRADY Girls
-
 end
-
 CUT TO
-
 MCS DANNY
-
 CUT TO
-
 MLS DANNY camera fg The GRADY Girls
-
 end corridor
-
 GRADY GIRLS
-
 Hullo Danny
-
 CUT TO
-
 MCS DANNY
-
 GRADY GIRLS OFF
-
 Come play us
-
 CUT TO
-
 MLS DANNY camera fg The GRADY Girls
-
 end corridor
-
 60
-
 GRADY GIRLS
-
 Come play us Danny
-
 CUT TO
-
 MS The GRADY Girls laying floor covered
-
 bloodstains Bloodstained axe floor fg Walls
-
 covered bloodstains
-
 CUT TO
-
 MLS Two GRADY Girls holding hands standing end
-
 corridor
-
 GRADY GIRLS
-
 For ever
-
 CUT TO
-
 MS The GRADY Girls lying floor covered
-
 bloodstains Bloodstained axe floor fg Wall
-
 covered bloodstains
-
 CUT TO
-
 MCS DANNY reacts
-
 CUT TO
-
 MS Two GRADY Girls holding hands standing end
-
 corridor
-
 GRADY GIRLS
-
  ever
-
 CUT TO
-
 MS The GRADY Girls lying floor covered
-
 bloodstains Bloodstained axe floor fg Wall
-
 covered bloodstains
-
 CUT TO
-
 MS Two GRADY Girls holding hands standing end
-
 corridor
-
 GRADY GIRLS
-
 and ever
-
 CUT TO
-
 MS Two GRADY Girls lying floor covered bloodstains
-
 Bloodstained axe floor fg
-
 61
-
 Wall covered bloodstains
-
 CUT TO
-
 MCS DANNY reacts He puts hands eyes Then
-
 opens fingers looks them
-
 CUT TO
-
 MS DANNYs POV Empty corridor
-
 CUT TO
-
 MCS DANNY looking open fingers He lowers
-
 hands face
-
 CUT TO
-
 MLS DANNY camera fg corridor
-
 CUT TO
-
 MCS DANNY
-
 DANNY
-
 Tony Im scared
-
 He raises Rhand wiggles forefinger
-
 speaks
-
 TONY
-
 Remember Mr Halloran said
-
 Its like pictures book
-
 Danny It isnt real
-
 CUT TO
-
 BLACK FRAMES
-
 Superimposition over
-
 MONDAY
-
 CUT TO
-
 INT OVERLOOK HOTEL  LOBBY  DAY  MS
-
 Play Television set CAMERA TRACKS BACK set
-
 reveal WENDY seated sofa camL watching set DANNY
-
 seated floor watching set camR
-
 DOROTHY
-
 on TV
-
 Please let money
-
 62
-
 HERMIE
-
 on TV
-
 Oh I wouldnt think it
-
 DOROTHY
-
 on TV
-
 Well I repay you
-
 HERMIE
-
 on TV
-
 Its okay really
-
 DOROTHY
-
 on TV
-
 Well Im going coffee
-
 Would like some
-
 HERMIE
-
 on TV
-
 Sure
-
 DOROTHY
-
 on TV
-
 Great Sit down Oh
-
 marvellous doughnuts help yourself
-
 Coffee ready
-
 minutes
-
 Play Television continues inaudibly bg
-
 DANNY
-
 Mom
-
 WENDY
-
 Yes
-
 DANNY
-
 Can I room
-
 fireengine
-
 WENDY
-
 Not right now Daddys asleep
-
 DANNY
-
 I wont noise
-
 WENDY
-
 Come on Doc He went bed
-
 hours ago Cant wait
-
 till later
-
 DANNY
-
 I wont sound I promise
-
 Ill tiptoe
-
 63
-
 WENDY
-
 Well right But dont
-
 sound
-
 DANNY
-
 I wont Mom
-
 DANNY stands runs camL
-
 WENDY
-
 Make sure come right back
-
 cause Im going lunch soon
-
 Okay
-
 DANNY OFF
-
 Okay Mom
-
 DISSOLVE TO
-
 INT HOTEL  JACKS APARTMENT  DAY  MCS
-
 Door opens DANNY appears He enters room  CAMERA
-
 TRACKS BACK walks forward steps He looks
-
 camR CAMERA PANS LR JACK sitting edge bed
-
 JACK looks camera
-
 CUT TO
-
 MLS JACK seated bed camRfg DANNY standing open
-
 door bg
-
 DANNY
-
 Can I room
-
 fireengine
-
 JACK
-
 Come minute first
-
 JACK holds hand DANNY walks forward
-
 CUT TO
-
 MS JACK sitting bed DANNY enters camLfg stops
-
 camR JACK JACK sits DANNY knee puts
-
 arms round him kissing him
-
 JACK
-
 Hows going Doc
-
 DANNY
-
 Okay
-
 CUT TO
-
 64
-
 MS JACK DANNY seated knee
-
 JACK
-
 Are having good time
-
 DANNY
-
 Yes Dad
-
 JACK
-
 Good I want good
-
 time
-
 DANNY
-
 I am Dad Dad
-
 JACK
-
 Yes
-
 DANNY
-
 Do feel bad
-
 JACK shakes head
-
 JACK
-
 No Im little tired
-
 DANNY
-
 Then dont sleep
-
 JACK
-
 I cant I do
-
 DANNY
-
 Dad
-
 JACK
-
 Yes
-
 DANNY
-
 Do like hotel
-
 JACK smiles looks DANNY
-
 JACK
-
 Yes I do I love it Dont you
-
 DANNY
-
 I guess so
-
 JACK
-
 Good I want like here
-
 I wish stay ever
-
 ever ever
-
 65
-
 DANNY
-
 Dad
-
 JACK
-
 What
-
 DANNY
-
 You wouldnt hurt Mummy
-
 me you
-
 JACK
-
 What mean
-
 CUT TO
-
 MS DANNY JACK
-
 JACK
-
 Did mother
-
  I hurt you
-
 DANNY
-
 No Dad
-
 JACK
-
 Are sure
-
 DANNY
-
 Yes Dad
-
 CUT TO
-
 MS JACK DANNY
-
 JACK
-
 I love you Danny I love
-
-
-
 world Id
-
 hurt you never You know that
-
 dont you huh
-
 DANNY
-
 Yes Dad
-
 JACK
-
 Good
-
 CUT TO
-
 BLACK FRAMES
-
 Superimposition over
-
 66
-
 WEDNESDAY
-
 CUT TO
-
 EXT HOTEL  LS
-
 Shooting snow Hotel bg Three lit windows
-
 CUT TO
-
 INT HOTEL  CORRIDOR TO ROOM 237  MCS
-
 High Angle  DANNY playing floor toy cars trucks
-
 CAMERA TRACKS UP BACK  yellow ball rolls fg
-
 stops DANNYs trucks DANNY looks up
-
 CUT TO
-
 MLS DANNY camera fg looking away
-
 corridor
-
 CUT TO
-
 MS DANNY kneeling floor toys He stands up
-
 DANNY
-
 Mom
-
 CUT TO
-
 MLS DANNY camera fg Empty corridor bg
-
 CUT TO
-
 MS DANNY walks forward corridor  CAMERA TRACKS BACK
-
 him
-
 DANNY
-
 Mom
-
 CUT TO
-
 MLS Empty corridor CAMERA TRACKS FORWARD open door
-
 Room 237
-
 DANNY OFF
-
 Mom there
-
 CAMERA TRACKS FORWARD room
-
 DISSOLVE TO
-
 67
-
 INT HOTEL  BOILER ROOM  MS
-
 WENDY holding clipboard She looks dials boiler 
-
 moves RL second boiler CAMERA PANS her She
-
 looks dials  moves RL switchboard presses
-
 switches She reacts hears JACK groaning
-
 sleep She puts clipboard moves LR CAMERA
-
 PANS her She starts run away entrance
-
 CUT TO
-
 INT HOTEL  LOUNGE  MS
-
 JACK leaning forward chair head resting table
-
 He groans cries sleeps CAMERA TRACKS IN
-
 them
-
 CUT TO
-
 INT HOTEL  CORRIDOR TO LOUNGE  MS
-
 WENDY running away corridor  CAMERA TRACKS her
-
 WENDY
-
 Jack
-
 WENDY turns corner entrance Lounge
-
 WENDY
-
 Jack Jack
-
 WENDY runs forward Lounge goes JACK asleep
-
 table CAMERA TRACKS FORWARD
-
 WENDY
-
 Jack honey whats wrong
-
 She puts hands arm back JACK stirs
-
 falls chair floor
-
 CUT TO
-
 MS JACK groans lies floor WENDY enters camR
-
 takes hold arm assisting knees He
-
 groans gasps
-
 WENDY
-
 What happened honey Hon Whats
-
 wrong Jack
-
 She smoothes hair hand
-
 68
-
 JACK
-
 I had I terrible
-
 nightmare I had Its
-
 horrible dream I had
-
 WENDY
-
 Its okay Its okay now Really
-
 CUT TO
-
 MS JACK WENDY
-
 JACK
-
 I dreamed I I killed
-
 Danny
-
 CUT TO
-
 MS JACK WENDY
-
 JACK
-
 But I didnt kill you I cut
-
 little pieces
-
 He puts hand eyes
-
 JACK
-
 Oh
-
 CUT TO
-
 MS JACK handed eyes  WENDY
-
 JACK
-
 My God I losing mind
-
 He lowers hand
-
 WENDY
-
 Everyeverything going
-
 right Come on Here lets
-
 floor
-
 WENDY puts hand arm starts rise
-
 CUT TO
-
 INT OVERLOOK HOTEL  LOUNGE  MLS
-
 DANNY camera fg walks Lounge In bg
-
 WENDY helps JACK chair INAUDIBLE DIALOGUE
-
 WENDY turns DANNY throws arm CAMERA TRACKS
-
 FORWARD DANNY
-
 69
-
 WENDY
-
 Danny Everythings okay Just
-
 play room while
-
 Your Dads got headache
-
 Danny  mind I say Go play
-
 room
-
 WENDY bends JACK
-
 WENDY
-
 Hon let
-
 here Ill right back
-
 WENDY moves RL table moves forward DANNY
-
 fg
-
 WENDY
-
 Danny dont mind  huh
-
 Danny
-
 She crouches DANNY turns camL face
-
 her window He sucking thumb She sees
-
 mark neck tilts head sideways
-
 WENDY
-
 Oh God Danny happened
-
 neck Danny
-
 She pulls DANNYs thumb mouth
-
 WENDY CONTD
-
 happened neck huh
-
 She puts arms round him
-
 CUT TO
-
 MLS JACK camera leaning chair fg
-
 WENDY kneeling arms round DANNY bg
-
 CUT TO
-
 MCS JACK sitting chair hand head
-
 CUT TO
-
 MLS JACK camera leaning chair fg
-
 WENDY kneeling arms round DANNY bg She stands
-
 lifts DANNY arms
-
 CUT TO
-
 MS WENDY holding DANNY arms
-
 70
-
 WENDY
-
 You him didnt you
-
 CUT TO
-
 MCS JACK
-
 WENDY OFF
-
 You son bitch You
-
 him
-
 He shakes head
-
 WENDY OFFCONTD
-
 didnt you
-
 He shakes head
-
 CUT TO
-
 MS WENDY DANNY arms moves backwards
-
 WENDY
-
 How you How you
-
 She turns runs away entrance bg
-
 CUT TO
-
 MCS JACK He lowers hand
-
 DISSOLVE TO
-
 INT HOTEL BALLROOM CORRIDOR  MLS
-
 JACK enters camL bg walks forward CAMERA TRACKS
-
 BACK him He mutters flings arms about He
-
 stops looks notice trestle  THE GOLD ROOM JACK
-
 moves LR entrance Ballroom He reaches camL
-
 switches lights  moves away lit bar bg
-
 CUT TO
-
 INT HOTEL  BALLROOM  MLS
-
 JACK walks LR Ballroom  CAMERA TRACKS PANS
-
 bar
-
 CUT TO
-
 MLS JACK leans counter looks down
-
 71
-
 JACK
-
 to himself
-
 God Id drink
-
 JACK sits puts hands face
-
 JACK
-
 My goddam soul glass beer
-
 CUT TO
-
 MS JACK hands face He lowers
-
 hands looks  lowers hands bar smiles
-
 JACK
-
 Hi Lloyd
-
 JACK looks camR camera
-
 JACK
-
 A little slow tonight isnt it
-
 JACK laughs
-
 CUT TO
-
 MS LLOYD standing bar
-
 LLOYD
-
 Yes is Mr Torrance
-
 LLOYD moves forward  CAMERA TRACKS BACK revealing JACK
-
 seated bar
-
 LLOYD
-
 Whatll be
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Now Im awfully glad asked
-
 that Lloyd I happen
-
 twenties tens
-
 right wallet I
-
 afraid going
-
 April So heres what
-
 slip bottle Bourbon
-
 glass ice You
-
 that cant you Lloyd Youre
-
 busy you
-
 CUT TO
-
 72
-
 MS LLOYD
-
 LLOYD
-
 No sir Im busy all
-
 LLOYD turns away bottles shelf
-
 JACK OFF
-
 Good man
-
 LLOYD turns bottle glass counter
-
 JACK OFF
-
 You set up Ill knock
-
 back Lloyd one
-
 CUT TO
-
 MS JACK sitting bar LLOYD puts bottle glass
-
 bar LLOYD puts ice glass fills bottle
-
 JACK
-
 White mans burden Lloyd man
-
 White mans burden
-
 JACK looks wallet LLOYD
-
 JACK
-
 Say Lloyd Im temporarily
-
 light
-
 JACK laughs
-
 JACK
-
 Hows credit joint anyway
-
 CUT TO
-
 MCS LLOYD
-
 LLOYD
-
 Your credits fine Mr Torrance
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Thats swell I like you Lloyd
-
 I liked you You
-
 best them
-
 MORE
-
 73
-
 JACK CONTD
-
 Best goddamned bartender
-
 Timbuctoo Portland Maine 
-
 Portland Oregon matter
-
 CUT TO
-
 MCS LLOYD
-
 LLOYD
-
 Thank saying so
-
 CUT TO
-
 MCS JACK looks glass
-
 JACK
-
 Heres miserable months
-
 wagon irreparable
-
 harm its caused me
-
 He drinks lowers glass  looks LLOYD
-
 CUT TO
-
 MS JACK sitting bar LLOYD bar
-
 LLOYD
-
 How things going Mr Torrance
-
 JACK
-
 Things better Lloyd
-
 Things lot better
-
 LLOYD
-
 I hope its serious
-
 JACK taps bar LLOYD fills glass
-
 JACK
-
 No serious
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Just little problem the
-
 old sperm bank upstairs
-
 JACK laughs
-
 74
-
 JACK
-
 Nothing I cant handle though
-
 Lloyd Thanks
-
 CUT TO
-
 MCS LLOYD
-
 LLOYD
-
 Women Cant live em Cant
-
 live em
-
 CUT TO
-
 MS JACK LLOYD He points finger LLOYD
-
 JACK
-
 Words wisdom Lloyd Words
-
 wisdom
-
 JACK drinks  swirls drink round glass putting
-
 glass counter
-
 JACK
-
 I havent laid hand him
-
 Goddam it I didnt I wouldnt
-
 touch hair goddam little
-
 head I love little sonofa
-
 bitch
-
 JACK laughs
-
 JACK
-
 Id him Any
-
 fucking thing him
-
 CUT TO
-
 MCS LLOYD
-
 JACK OFF
-
 That damn bitch
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 As long I live shell let
-
 forget happened
-
 He looks camL camR  throwing hands
-
 sighing
-
 75
-
 JACK
-
 I hurt once okay It
-
 accident complete unintentional
-
 It happened anybody
-
 He raps counter hand
-
 JACK
-
 And goddam years ago
-
 The little fucker thrown
-
 papers floor All I
-
 tried pull up A
-
 momentary loss muscular
-
 coordination I mean A
-
 extra foot pounds energy
-
 second second
-
 JACK gestures hands
-
 WENDY OFF
-
 Jack
-
 CUT TO
-
 INT HOTEL  BALLROOM CORRIDOR  MLS
-
 WENDY sobbing runs forward corridor CAMERA TRACKS
-
 BACK PANS LR Ballroom She runs away
-
 JACK sitting bat bg
-
 WENDY
-
 Oh Jack
-
 sobs
-
 Thank God youre here
-
 CUT TO
-
 INT HOTEL BALLROOM  MS
-
 JACK sitting camera bar WENDY enters camR
-
 WENDY
-
 OFF
-
 Jack
-
 IN SHOT
-
 Jack theres
-
 hotel us Theres crazy
-
 woman rooms She
-
 tried strangle Danny
-
 CUT TO
-
 MCS JACK
-
 76
-
 JACK
-
 Are fucking mind
-
 CUT TO
-
 MS WENDY JACK
-
 WENDY
-
 No Its truth really I
-
 swear it Danny told me He went
-
 bedrooms
-
 door open saw
-
 crazy woman bathtub She
-
 tried strangle him
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Which room it
-
 CUT TO
-
 INT MIAMI APARTMENT  MCS
-
 Montage shots TV Set program NEWSWATCH
-
 DISC JOCKEY OFF
-
 on TV
-
 From Channel 10 Miami
-
 Newswatch  Glen Rinker
-
 Bishop award winning
-
 Newswatch team
-
 CAMERA TRACKS BACK reveal TV Set HALLORANs bare feet
-
 legs bed fg Shot GLEN RINKER TV Set
-
 superimposed title
-
 10 GLEN RINKER WPLG MIAMI
-
 GLEN RINKER
-
 on TV
-
 Good evening Im Glen Rinker
-
 Newswatch 10 While Miami continues
-
 swelter record winter
-
 heatwave bringing temperatures
-
 mid upper nineties
-
 Central Rocky Mountain States
-
 buried snow
-
 MORE
-
 77
-
 GLEN RINKER CONTD
-
 In Colorado inches snow
-
 fallen hours tonight
-
 Travel Rockies
-
 impossible
-
 CUT TO
-
 MCS HALLORAN  CAMERA TRACKS BACK reveal lying
-
 bed watching TV
-
 GLEN RINKER OFF
-
 on TV
-
 Airports shut stranding
-
 thousands passengers Highways
-
 blocked snowdrifts Railroad
-
 tracks frozen Officials
-
 Colorado tell Newswatch
-
 people killed
-
 exposure freezing winds The
-
 Governor Colorado expected
-
 tomorrow declare weather
-
 emergency The National Guard
-
 called clear
-
 streets roads Weather
-
 forecasters predict snow
-
 heavy winds tonight tomorrow
-
 temperatures dropping
-
 zero
-
 CUT TO
-
 MS HALLORANs feet legs beg fg GLEN RINKER
-
 TV Set foot bed
-
 GLEN RINKER
-
 on TV
-
 Back South Florida weve
-
 got opposite problem
-
 heat humidity supposed
-
 climb
-
 CUT TO
-
 MS HALLORAN lying pillows CAMERA TRACKS IN CS
-
 face reacts
-
 GLEN RINKER OFF
-
 on TV
-
 Local beaches jammed
-
 Our weather expert Walter Cronice
-
 local forecast later
-
 on
-
 78
-
 COMMENTATOR continues inaudibly bg
-
 CUT TO
-
 INT OVERLOOK HOTEL  CORRIDOR  MS
-
 Open door Room 237
-
 CUT TO
-
 INT HOTEL  DANNYS BEDROOM  MCS
-
 DANNY head shaking
-
 CUT TO
-
 INT HOTEL  ROOM 237  MS
-
 Mantlepiece fireplace CAMERA PANS RL room
-
 open door Then TRACKS FORWARD doorway slightly
-
 open door bathroom CAMERA STOPS TRACKING Door swings
-
 open reveal YOUNG LADY seated bath curtain
-
 CUT TO
-
 MCS JACK
-
 CUT TO
-
 MS YOUNG LADY seated bath curtain She draws
-
 curtain aside hand
-
 CUT TO
-
 MCS JACK  smiles
-
 CUT TO
-
 MS YOUNG LADY stands bath
-
 CUT TO
-
 MCS JACK
-
 CUT TO
-
 MS YOUNG LADY steps bath
-
 CUT TO
-
 MCS JACK  smiles
-
 CUT TO
-
 79
-
 MS YOUNG LADY walks forward bath stops fg
-
 CUT TO
-
 MCS JACK  moves forward
-
 CUT TO
-
 MS JACK moves forward YOUNG LADY  puts arms
-
 round neck He puts arms round kiss
-
 CUT TO
-
 MCS JACK YOUNG LADY kiss He opens eyes
-
 reacts He pulls YOUNG LADY  CAMERA PANS LR
-
 mirror JACK WOMAN reflected it He sees
-
 covered scars He takes arms away
-
  starts laugh
-
 CUT TO
-
 INT HOTEL  DANNYS BEDROOM  MCS
-
 DANNY  shaking head WOMAN LAUGHING OFF
-
 CUT TO
-
 INT HOTEL  ROOM 237  BATHROOM  MS
-
 ELDERLY WOMAN lying water bath WOMAN LAUGHING OFF
-
 CUT TO
-
 MS JACK shaking head backs bathroom
-
 CUT TO
-
 MS Naked ELDERLY WOMAN laughing walks forward
-
 outstretched arms
-
 CUT TO
-
 INT HOTEL  DANNYS BEDROOM  MCS
-
 DANNY shaking head WOMAN LAUGHING OFF
-
 CUT TO
-
 INT HOTEL  ROOM 237  MS
-
 Naked ELDERLY WOMAN lying water bath WOMAN LAUGHING
-
 OFF
-
 CUT TO
-
 80
-
 MS JACK backs steps living room  WOMAN LAUGHING
-
 OFF
-
 CUT TO
-
 MS Naked ELDERLY WOMAN laughing walks forward
-
 outstretched arms
-
 CUT TO
-
 INT HOTEL  DANNYS BEDROOM  CS
-
 DANNY shaking head WOMAN LAUGHING OFF
-
 CUT TO
-
 INT HOTEL  ROOM 237  MS
-
 Naked ELDERLY WOMAN lying water bath She starts
-
 sit up WOMAN LAUGHING OFF
-
 CUT TO
-
 INT HOTEL  CORRIDOR  MS
-
 JACK backs Room 237 corridor He closes
-
 door locks  backs away corridor He
-
 exits camL WOMAN LAUGHING OFF
-
 DISSOLVE TO
-
 INT MIAMI APARTMENT  NIGHT  MS
-
 HALLORAN telephone ear He dials number picks
-
 phone walks RL window He turns walks
-
 LR He puts phone down
-
 OPERATOR
-
 over phone
-
 We sorry
-
 completed dialed If need
-
 assistance operator
-
 He puts telephone down
-
 CUT TO
-
 INT HOTEL  JACKS APARTMENT  MS
-
 WENDY moves RL bg sobbing KNOCK ON DOOR OFF She
-
 reacts runs forward
-
 WENDY
-
 Jack
-
 81
-
 JACK OFF
-
 Yes its me
-
 She moves RL CAMERA PANS steps
-
 door CAMERA TRACKS FORWARD her
-
 WENDY
-
 Oh thank God
-
 WENDY takes chain door opens it JACK enters
-
 apartment
-
 WENDY
-
 Did anything
-
 JACK
-
 No all
-
 JACK closes door
-
 JACK
-
 I didnt goddam thing
-
 JACK WENDY walks forward steps DANNYs
-
 bedroom CAMERA TRACKS BACK them
-
 WENDY
-
 You went room Danny said 
-
 237
-
 JACK
-
 Yes I did
-
 WENDY
-
 And didnt all
-
 JACK
-
 Absolutely nothing How he
-
 JACK moves RL looks darkened bedroom
-
 WENDY
-
 Hes asleep
-
 JACK
-
 Good
-
 JACK closes bedroom door turns WENDY
-
 JACK
-
 Im sure hell
-
 morning
-
 82
-
 They LR Living Room CAMERA PANS
-
 TRACKS room
-
 WENDY
-
 Well sure right
-
 room I mean maybe Danny
-
 mistake
-
 WENDY JACK bedroom
-
 JACK
-
 He gone room 
-
 door open lights
-
 on
-
 WENDY sits bed
-
 WENDY
-
 Oh I dont understand
-
 JACK sits bed her
-
 CUT TO
-
 MCS WENDY sobbing
-
 WENDY
-
 Well bruises
-
 neck
-
 CUT TO
-
 MCS JACK WENDY
-
 WENDY
-
 Somebody him
-
 JACK
-
 I think himself
-
 CUT TO
-
 MCS WENDY shakes head
-
 WENDY
-
 No No thats possible
-
 CUT TO
-
 MCS JACK WENDY
-
 83
-
 JACK
-
 Wendy rule
-
 version happened
-
 explanation  there
-
 It wouldnt different
-
 episode
-
 came here it
-
 CUT TO
-
 INT OVERLOOK HOTEL  DANNYS BEDROOM  MS
-
 DANNY lying awake bed CAMERA TRACKS IN him
-
 WENDY OFF
-
 Jack explanation is
-
 CUT TO
-
 MS Low Angle Door word MURDER written backwards
-
 it
-
 CUT TO
-
 MCS DANNY lying awake bed CAMERA TRACKS IN him
-
 WENDY OFF
-
 I think Danny
-
 here
-
 CUT TO
-
 INT JACKS APARTMENT  BEDROOM  MCS
-
 JACK WENDY
-
 JACK
-
 Get here
-
 WENDY
-
 Yes
-
 JACK
-
 You mean leave hotel
-
 WENDY
-
 Yes
-
 CUT TO
-
 84
-
 INT DANNYS BEDROOM  MCS
-
 DANNY mouth wide open
-
 CUT TO
-
 INT HOTEL  LOBBY  MS
-
 Blood gushing forward lifts surging camera
-
 lens
-
 CUT TO
-
 INT HOTEL  JACKS APARTMENT  MCS
-
 JACK WENDY
-
 JACK
-
 It fucking typical
-
 create problem like I
-
 finally chance accomplish
-
 something When Im
-
 work I write
-
 ticket I went Boulder
-
 now couldnt I
-
 CUT TO
-
 MS WENDY JACK sitting bed  JACK stands turns
-
 her
-
 JACK
-
 Shovellings driveways work
-
 car wash  appeal
-
 you
-
 WENDY
-
 Jack
-
 JACK
-
 Wendy I let fuck
-
 life far Im going
-
 let fuck up
-
 He starts away
-
 CUT TO
-
 MLS JACK walks forward WENDY sitting bed He
-
 crosses living room CAMERA PANS RL steps
-
 leading door He walks away steps opens
-
 door walks away corridor
-
 CUT TO
-
 85
-
 MS WENDY sitting bed starts cry She leans forward
-
 buries face hands
-
 CUT TO
-
 INT HOTEL  KITCHEN  MLS
-
 JACK moves forward kitchen He sweeps coffee pot
-
 table floor CAMERA TRACKS BACK him He kicks
-
 coffee pots floor sweeps rings stove floor
-
 He kicks rings leaves kitchen moving corridor
-
 CAMERA TRACKS BACK him He stops looks ahead
-
 CUT TO
-
 INT HOTEL CORRIDOR LEADING TO BALLROOM  MLS
-
 Empty corridor Balloons streamers strewn about
-
 CAMERA TRACKS FORWARD
-
 CUT TO
-
 INT MIAMI  HALLORANS APARTMENT  NIGHT  MS
-
 HALLORAN standing phone ear
-
 RANGER
-
 over phone
-
 Good evening Forest Service
-
 HALLORAN
-
 into phone
-
 Hallo My names Dick Halloran
-
 Im Head Chef Overlook
-
 Hotel
-
 RANGER
-
 over phone
-
 Good evening Mr Halloran What
-
 I you
-
 HALLORAN
-
 into phone
-
 Sir Ive trying
-
 urgent phone there
-
 He picks phone walks RL window CAMERA PANS
-
 him
-
 HALLORAN CONTD
-
 into phone
-
 operator said
-
 phone lines down
-
 CUT TO
-
 86
-
 INT RANGERS OFFICE  MS
-
 RANGER sitting radio phone ear
-
 RANGER
-
 into phone
-
 Yes Im afraid lot lines
-
 down
-
 storm
-
 CUT TO
-
 INT MIAMI  HALLORANS APARTMENT  MS
-
 HALLORAN phone ear window
-
 HALLORAN
-
 into phone
-
 Well look sir I hate
-
 trouble theres
-
 family
-
 young kid
-
 storm everything
-
 HALLORAN moves LR CAMERA TRACKS him He puts phone
-
 table
-
 HALLORAN
-
 into phone
-
 Id sure appreciate youd
-
 radio
-
 okay
-
 CUT TO
-
 INT RANGERS OFFICE  MS
-
 RANGER sitting radio phone ear
-
 RANGER
-
 into phone
-
 Id glad that sir Oh
-
 dont
-
 eh minutes
-
 HALLORAN
-
 over phone
-
 Thank much Ill that
-
 RANGER
-
 into phone
-
 All right sir
-
 87
-
 RANGER puts phone down
-
 CUT TO
-
 INT HOTEL CORRIDOR BALLROOM  MLS
-
 JACK walks forward corridor Ballroom He turns LR
-
 Ballroom  CAMERA TRACKS revealing crowded
-
 Ballroom MAITRE D standing entrance
-
 MAITRE D
-
 Good evening Mr Torrance
-
 JACK
-
 Good evening
-
 JACK moves LR crowded Ballroom  CAMERA TRACKS
-
 LLOYD serving bar JACK sits bar LLOYD
-
 moves him
-
 JACK
-
 Hi Lloyd Ive away Now Im
-
 back
-
 LLOYD
-
 Good evening Mr Torrance
-
 LLOYD puts dishes olives peanuts bar JACK
-
 CUT TO
-
 MS JACK LLOYD
-
 LLOYD
-
 Its good you
-
 JACK
-
 Its good back Lloyd
-
 CUT TO
-
 MCS LLOYD
-
 LLOYD
-
 Whatll be sir
-
 CUT TO
-
 MS JACK LLOYD
-
 JACK
-
 Hair dog big me
-
 CUT TO
-
 88
-
 MCS LLOYD
-
 LLOYD
-
 Bourbon rocks
-
 CUT TO
-
 MS JACK LLOYD
-
 JACK
-
 Thatll her
-
 JACK takes handful peanuts empties
-
 mouth LLOYD puts ice glass
-
 CUT TO
-
 MCS LLOYD preparing drink
-
 CUT TO
-
 MS JACK LLOYD LLOYD pouring drink JACK takes
-
 wallet takes note holds LLOYD LLOYD
-
 holds hand
-
 LLOYD
-
 No charge you Mr Torrance
-
 JACK looks note LLOYD
-
 JACK
-
 No charge
-
 CUT TO
-
 MCS LLOYD
-
 LLOYD
-
 Your moneys good here
-
 CUT TO
-
 MS JACK LLOYD JACK looks note
-
 LLOYD
-
 CUT TO
-
 MCS LLOYD
-
 LLOYD
-
 Orders house
-
 CUT TO
-
 89
-
 MS JACK LLOYD JACK puts note wallet
-
 JACK
-
 Orders house
-
 He puts wallet away
-
 CUT TO
-
 MLS LLOYD
-
 LLOYD
-
 Drink up Mr Torrance
-
 CUT TO
-
 MS JACK LLOYD JACK tucking wallet hip
-
 pocket
-
 JACK
-
 Im kind man likes know
-
 whos buying drinks Lloyd
-
 CUT TO
-
 MCS LLOYD
-
 LLOYD
-
 Its matter concerns
-
 you Mr Torrance 
-
 point
-
 CUT TO
-
 MS JACK LLOYD JACK smiles picks drinks
-
 JACK
-
 Anything say Lloyd Anything
-
 say
-
 JACK turns away bar
-
 CUT TO
-
 MLS JACK moves away bar He dances forward
-
 center room  CAMERA TRACKS him WOMAN enters
-
 camRfg walks away WAITER GRADY carrying tray
-
 drinks walks forward bg He bumps WOMAN
-
 GRADY
-
 Oh
-
 GRADY staggers forward colliding JACK spilling
-
 drinks JACKs jacket
-
 90
-
 GRADY
-
 Oh dear oh dear Im sorry
-
 sir Oh
-
 He puts tray takes advocaat glass JACK
-
 GRADY
-
 Oh dear oh dear Ive
-
 awful mess jacket sir
-
 GRADY puts glass tray
-
 JACK
-
 Oh eh thats right Ive got
-
 plenty jackets
-
 GRADY mops JACKs jacket serviette
-
 GRADY
-
 Im afraid its advocaat sir It
-
 tends stain
-
 JACK
-
 Advocaat it
-
 GRADY
-
 Yes sir Look um I think
-
 best thing come
-
 gentlemens room sir eh
-
 GRADY bends picks tray
-
 GRADY
-
 well water it sir
-
 JACK GRADY start walk away Gentlemens CAMERA
-
 TRACKS them
-
 JACK
-
 Looks got
-
 spot there
-
 Jeevesy old boy
-
 JACK pats GRADY back
-
 GRADY
-
 That doesnt matter sir Youre
-
 important one
-
 JACK
-
 Awfully nice say Of
-
 course I intend change jacket
-
 evening fish
-
 goose soiree
-
 91
-
 JACK GRADY enter Gentlemens Toilet
-
 GRADY
-
 Very wise sir Very wise
-
 JACK exits camR door
-
 JACK OFF
-
 Here Ill just eh
-
 CUT TO
-
 INT MENS TOILET  MLS
-
 Mens toilet JACK moves camLbg He holds door
-
 open
-
 JACK
-
 hold there Jeevesy
-
 GRADY enters camL
-
 GRADY
-
 Thank you sir Thank you
-
 GRADY walks forward puts tray basins camR
-
 JACK walks forward
-
 GRADY
-
 Now lets improve
-
 little water sir
-
 GRADY soaks serviette tap JACK puts glass
-
 camL turns GRADY camR
-
 JACK
-
 Right Ill set bourbon
-
 advocaat right there
-
 JACK laughs GRADY starts sponge JACK serviette
-
 GRADY
-
 Wont moment sir
-
 JACK
-
 Fine
-
 GRADY sponges JACK
-
 JACK
-
 What here
-
 Jeevesy
-
 92
-
 GRADY
-
 Grady sir Delbert Grady
-
 CUT TO
-
 MS JACK GRADY GRADY sponging JACKs jacket
-
 JACK
-
 Grady
-
 GRADY
-
 Yes sir
-
 JACK
-
 Delbert Grady
-
 GRADY
-
 Thats right sir
-
 GRADY sponges JACKs trousers
-
 JACK
-
 Eh Mr Grady
-
 JACK clears throat
-
 JACK CONTD
-
 havent I seen before
-
 GRADY
-
 Why no sir I dont believe so
-
 GRADY turns camL basins rinse serviette tap
-
 He turns JACK sponges jacket
-
 GRADY
-
 Ah ha its coming now sir
-
 JACK
-
 Eh Mr Grady werent
-
 caretaker here
-
 GRADY
-
 Why no sir I dont believe so
-
 GRADY sponges JACKs trousers
-
 JACK
-
 You er married man you Mr
-
 Grady
-
 GRADY sponges JACKs jacket sleeve
-
 93
-
 GRADY
-
 Yes sir I wife eh
-
 daughters sir
-
 JACK
-
 And er now
-
 GRADY
-
 Oh theyre around Im
-
 sure moment sir
-
 JACK takes serviette away GRADY wipes hand
-
 it
-
 JACK
-
 Mr Grady caretaker
-
 here I recognize you I saw
-
 picture newspapers You
-
 eh chopped wife
-
 daughters little bits
-
 eh blew brains out
-
 JACK throws serviette basin camL
-
 CUT TO
-
 MLS GRADY JACK
-
 GRADY
-
 Thats strange sir I dont
-
 recollection all
-
 Mr Grady caretaker
-
 here
-
 CUT TO
-
 MS JACK GRADY
-
 GRADY
-
 Im sorry differ you sir
-
 caretaker You
-
 caretaker I
-
 know sir Ive
-
 here
-
 CUT TO
-
 MCS JACK laughs
-
 CUT TO
-
 MCS GRADY
-
 94
-
 GRADY
-
 Did know Mr Torrance
-
 son attempting bring
-
 outside party situation
-
 Did know that
-
 CUT TO
-
 MCS JACK He shakes head
-
 JACK
-
 No
-
 CUT TO
-
 MCS GRADY
-
 GRADY
-
 He is Mr Torrance
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Who
-
 CUT TO
-
 MCS GRADY
-
 GRADY
-
 A nigger
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 A nigger
-
 CUT TO
-
 MCS GRADY
-
 GRADY
-
 A nigger cook
-
 CUT TO
-
 INT MENS LAVATORY  MCS
-
 JACK
-
 95
-
 JACK
-
 How
-
 CUT TO
-
 MCS GRADY
-
 GRADY
-
 Your son great talent
-
 I dont think aware
-
 great is attempting
-
 use talent
-
 will
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Well willful boy
-
 JACK smiles
-
 CUT TO
-
 MCS GRADY
-
 GRADY
-
 Indeed is Mr Torrance A
-
 willful boy A naughty
-
 boy I bold sir
-
 CUT TO
-
 MCS JACK He looks about
-
 JACK
-
 Its mother
-
 JACK looks about
-
 JACK
-
 She eh interferes
-
 CUT TO
-
 MCS GRADY
-
 GRADY
-
 Perhaps need good talking
-
 to dont mind saying so
-
 Perhaps bit more
-
 CUT TO
-
 96
-
 MCS JACK
-
 GRADY OFF
-
 My girls sir didnt care
-
 Overlook first One
-
 actually stole packet matches
-
 CUT TO
-
 MCS GRADY
-
 GRADY CONTD
-
 tried burn down But I
-
 corrected them sir And
-
 wife tried prevent
-
 duty I corrected her
-
 CUT TO
-
 MCS JACK smiles
-
 CUT TO
-
 MCS GRADY
-
 CUT TO
-
 INT HOTEL  JACKS APARTMENT  MS
-
 WENDY crying holding cigarette walks RL Living
-
 Room Bedroom CAMERA PANS her
-
 WENDY
-
 to herself
-
 We Snowcat If
-
 weather breaks
-
 able mountain
-
 that
-
 WENDY turns walks LR LIVING ROOM  CAMERA
-
 TRACKS IN PANS her
-
 WENDY
-
 to herself
-
 I Forest Rangers
-
 tell were
-
 coming start
-
 searching us case didnt
-
 it
-
 WENDY turns walks RL Bedroom  CAMERA PANS her
-
 97
-
 WENDY
-
 to herself
-
 If Jack wont come us well
-
 tell
-
 going ourselves Thats
-
 it
-
 DANNY OFF
-
 Red Rum Red Rum
-
 WENDY reacts turns camR She runs away DANNYs
-
 bedroom door bg
-
 DANNY OFF
-
 Red Rum Red Rum
-
 CUT TO
-
 INT DANNYS BEDROOM  MS
-
 WENDY opens door stands doorway
-
 WENDY
-
 Danny
-
 DANNY OFF
-
 Red Rum Red Rum Red Rum
-
 WENDY moves RL door CAMERA PANS TRACKS
-
 BACK reveal DANNY sitting bed WENDY sits
-
 him
-
 DANNY
-
 Red Rum
-
 WENDY
-
 Danny whats matter hon
-
 DANNY
-
 Red Rum
-
 WENDY
-
 Are having bad dream
-
 CUT TO
-
 MCS DANNY WENDY
-
 WENDY
-
 Danny Hon
-
 98
-
 TONY
-
 Dannys here Mrs Torrance
-
 CUT TO
-
 MCS WENDY DANNY
-
 WENDY
-
 Come on hon wake up You
-
 bad dream Everythings okay
-
 CUT TO
-
 MCS DANNY WENDY
-
 TONY
-
 Danny cant wake up Mrs Torrance
-
 CUT TO
-
 MCS WENDY DANNY
-
 WENDY
-
 Danny wake up Come on right now
-
 CUT TO
-
 MCS DANNY WENDY
-
 WENDY
-
 Wake up
-
 TONY
-
 Dannys gone away Mrs Torrance
-
 CUT TO
-
 MCS WENDY DANNY
-
 WENDY
-
 Danny
-
 She leans forward puts arm round him She strokes
-
 hair
-
 DISSOLVE TO
-
 INT HOTEL LOBBY  MLS
-
 JACK walking LR past reception desk CAMERA TRACKS
-
 office He goes switches lights
-
 99
-
 RANGER
-
 over radio
-
 This KDK 1 calling KDK 12 KDK
-
 1 calling KDK 12 Are receiving
-
 me This KDK 1 calling KDK 12
-
 KDK 1 calling KDK 12 Do read
-
 me
-
 CUT TO
-
 INT HOTEL  OFFICE  MLS
-
 JACK walks office inner office CAMERA TRACKS
-
 him He stops radio set
-
 RANGER
-
 over radio
-
 This KDK 1 calling KDK 12 KDK
-
 1 calling KDK 12 Are
-
 receiving me
-
 CUT TO
-
 MS JACK looking radio set He tries
-
 cover off
-
 RANGER
-
 over radio
-
 KDK 1 calling KDK 12 KDK 1
-
 calling KDK 12 Do read me
-
 JACK unscrews set lifts cover radio He
-
 drops floor
-
 RANGER
-
 over radio
-
 This KDK 1 calling KDK 12 KDK
-
 1 calling KDK 12
-
 He reaches set hand
-
 CUT TO
-
 MCS JACKs hand touches component set He pulls out
-
 RANGER
-
 over radio
-
 Are recei
-
 He pulls components set He rattles
-
 hand moves camL
-
 DISSOLVE TO
-
 100
-
 INT MIAMI  HALLORANS APARTMENT  NIGHT  MS
-
 HALLORAN phone ear walks RL window CAMERA
-
 PANS him
-
 RANGER
-
 over phone
-
 Good evening Forest Service
-
 HALLORAN
-
 into phone
-
 Hallo Dick Halloran again
-
 I called ago
-
 folks Overlook Hotel
-
 CUT TO
-
 INT RANGERS OFFICE  NIGHT  MS
-
 RANGER sitting radio phone ear
-
 RANGER
-
 into phone
-
 Oh yeah We tried contract
-
 times radio
-
 didnt answer
-
 MAN enters camRfg walks away bg
-
 RANGER
-
 into phone
-
 Now maybe theyve got radio
-
 turned theyre place
-
 cant hear it If
-
 like to Id glad try
-
 later on
-
 CUT TO
-
 INT MIAMI  HALLORANS APARTMENT  NIGHT  MS
-
 HALLORAN phone ear
-
 HALLORAN
-
 into phone
-
 Oh thats nice you Ill
-
 later Bye
-
 He walks LR CAMERA TRACKS PANS him He puts phone
-
 receiver puts hand head
-
 CUT TO
-
 BLACK FRAMES
-
 101
-
 Superimposition
-
 8 am
-
 CUT TO
-
 EXT SKY  DAY  LS
-
 DC10 flight
-
 CUT TO
-
 INT DC10  MCS
-
 HALLORAN sitting seat CAMERA TRACKS BACK reveal
-
 passengers seats HALLORAN turns seat
-
 looks camL STEWARDESS enters camL stops
-
 HALLORAN
-
 HALLORAN
-
 Pardon me miss What time
-
 Denver
-
 STEWARDESS
-
 Were arrive 820 sir
-
 HALLORAN
-
 Thank much
-
 STEWARDESS walks camR HALLORAN looks wristwatch
-
 DISSOLVE TO
-
 INT HOTEL  LOUNGE  LS
-
 Shooting entrance JACK seated camera
-
 typing table bg CAMERA TRACKS FORWARD JACK
-
 DISSOLVE TO
-
 EXT AIRPORT  DAY  LS
-
 DC10 moves away flare path lands
-
 DISSOLVE TO
-
 EXT DURKINS GARAGE  MLS
-
 DURKIN car petrol pump He moves away RL office
-
 CUT TO
-
 102
-
 INT DURKINS GARAGE  MS
-
 MAN standing camL MAN sitting reading magazine DURKIN
-
 enters He stamps snow feet moves LR CAMERA
-
 PANS counter He picks ringing phone
-
 DURKIN
-
 into phone
-
 Durkins garage
-
 HALLORAN
-
 over phone
-
 Hello I speak Larry
-
 DURKIN
-
 into phone
-
 Speaking
-
 CUT TO
-
 INT AIRPORT  MS
-
 HALLORAN telephone booth phone ear
-
 HALLORAN
-
 into phone
-
 Hello Larry This Dick Dick
-
 Halloran
-
 CUT TO
-
 INT DURKINS GARAGE  MS
-
 DURKIN phone ear counter
-
 DURKIN
-
 into phone
-
 Dick doing Hows
-
 weather there
-
 CUT TO
-
 INT AIRPORT  MS
-
 HALLORAN phone ear
-
 HALLORAN
-
 into phone
-
 Im Florida Larry Im
-
 calling Stapleton Airport
-
 CUT TO
-
 103
-
 INT DURKINS GARAGE  MS
-
 DURKIN phone ear leaning counter
-
 DURKIN
-
 into phone
-
 What hell
-
 there
-
 CUT TO
-
 INT AIRPORT  MS
-
 HALLORAN phone ear
-
 HALLORAN
-
 into phone
-
 Well I got Miami
-
 Ive got Overlook
-
 today Whats weather like
-
 there
-
 CUT TO
-
 INT DURKINS GARAGE  MS
-
 DURKIN phone ear
-
 DURKIN
-
 into phone
-
 Well snow ploughs keeping
-
 things moving town
-
 mountain roads completely
-
 blocked
-
 CUT TO
-
 INT AIRPORT  MS
-
 HALLORAN phone ear
-
 HALLORAN
-
 into phone
-
 That means Im going need
-
 snowcat there Larry
-
 Can fix one
-
 CUT TO
-
 INT DURKINS GARAGE  MS
-
 DURKIN phone ear
-
 104
-
 DURKIN
-
 into phone
-
 Whats big deal getting
-
 today especially
-
 kind weather
-
 CUT TO
-
 INT AIRPORT  MS
-
 HALLORAN phone ear
-
 HALLORAN
-
 into phone
-
 Larry me
-
 weve got problem
-
 people taking care
-
 place Theyve turned
-
 completely unreliable assholes
-
 Ullman phoned night
-
 Im supposed
-
 replaced
-
 CUT TO
-
 INT DURKINS GARAGE  MS
-
 DURKIN phone ear looks watch
-
 DURKIN
-
 into phone
-
 How long going
-
 here
-
 CUT TO
-
 INT AIRPORT  MS
-
 HALLORAN phone ear
-
 HALLORAN
-
 into phone
-
 Oh hours Im gonna
-
 rent car airport
-
 CUT TO
-
 INT DURKINS GARAGE  MS
-
 DURKIN phone ear
-
 105
-
 DURKIN
-
 into phone
-
 Okay Dick  Ill care it
-
 CUT TO
-
 INT AIRPORT  MS
-
 HALLORAN phone ear
-
 HALLORAN
-
 into phone
-
 Oh thanks lot Larry I
-
 appreciate that
-
 CUT TO
-
 INT DURKINS GARAGE  MS
-
 DURKIN phone ear
-
 DURKIN
-
 into phone
-
 Thats right Drive carefully
-
 He puts phone down
-
 DISSOLVE TO
-
 EXT ROAD  NIGHT  MLS
-
 HALLORANs car moving forward snow covered road
-
 CAMERA TRACKS BACK it
-
 VOICE OVER RADIO
-
 Well good morning you Hal
-
 Charlie Radio 63 KHOW Denver
-
 DISSOLVE TO
-
 INT HALLORANS CAR  NIGHT  MCS
-
 HALLORAN sitting wheel drives road LR
-
 VOICE OVER RADIO CONTD
-
 and Charlie
-
 bad day there What
-
 heavy snow snowing hard
-
 eh Denver metro area
-
 Many mountain passes  Wolf
-
 Creek Red Mountain passes
-
 closed
-
 DISSOLVE TO
-
 106
-
 MS Shooting HALLORAN windscreen
-
 drives road passing overturned truck camL
-
 VOICE OVER RADIO CONTD
-
 chain law effect
-
 right Eisenhower Tunnel
-
 I guess weve heard
-
 news forecast Charlie
-
 flights landing
-
 Stapleton International
-
 Airport and early
-
 storms like this I guess
-
 entire airport probably
-
 closed hour Yeah
-
 theyre prepared The
-
 storm continue
-
 day national weather
-
 service declared stopmans
-
 travelers advisory
-
 areas outlying Denver metro
-
 region  cows barn
-
 There go Many businesses
-
 CUT TO
-
 INT OVERLOOK HOTEL  JACKS APARTMENT  MS
-
 DANNY WENDY sitting table watching TV Set camL
-
 WENDY inhales cigarette looks watch She puts
-
 cigarette camR
-
 WENDY
-
 Hon
-
 WENDY strokes hair takes hold chin
-
 turns face her
-
 WENDY CONTD
-
 listen minute
-
 you hon
-
 She lowers hand chin strokes hair
-
 WENDY
-
 Im going talk
-
 Daddy minutes Ill
-
 right back I want
-
 stay watch cartoons
-
 okay
-
 She strokes hair
-
 WENDY
-
 Okay hon
-
 107
-
 DANNY holds forefinger wiggles it
-
 TONY
-
 Yes Mrs Torrance
-
 WENDY kisses DANNYs head
-
 WENDY
-
 All right Now Ill
-
 minutes Im gonna
-
 lock door me
-
 She kisses head strokes hair  stands
-
 walks away door She stops picks baseball
-
 bat camR She walks away open doorway
-
 exits camR
-
 DISSOLVE TO
-
 INT HOTEL LOUNGE  MLS
-
 WENDY carrying baseball bat walks away Lounge As
-
 goes turns looks  CAMERA TRACKS
-
 her
-
 WENDY
-
 Jack
-
 She looks moves LR past table
-
 typewriter it She walks LR pillar appears
-
 side CAMERA TRACKS her
-
 WENDY
-
 Jack
-
 WENDY stops looks about
-
 CUT TO
-
 MLS WENDY holding bat fg She turns walks away
-
 JACKs typewriter table bg
-
 CUT TO
-
 MS Low Angle  JACKs typewriter fg WENDY moves
-
 forward shot She looks sheet paper
-
 typewriter
-
 CUT TO
-
 MCS Sheet paper typewriter repetition line
-
 it reading ALL WORK AND NO PLAY MAKES JACK A DULL BOY
-
 108
-
 Sheet paper turned up showing repetition line
-
 Again sheet paper turned showing repetition line
-
 CUT TO
-
 MS Low Angle  WENDY looking sheet paper
-
 typewriter She looks camR  moves camR
-
 CUT TO
-
 MS Sheets paper filling cardboard box CAMERA TRACKS
-
 IN sheet showing repetition line ALL WORK
-
 AND NO PLAY MAKES JACK A DULL BOY filling sheet
-
 CUT TO
-
 MS Low Angle WENDY looking box paper fg
-
 She holds sheet looks  puts
-
 box
-
 CUT TO
-
 MCS Sheets paper filling box WENDYs hand enters
-
 camLfg She flicks sheets paper sees
-
 filled repetition line ALL WORK AND NO
-
 PLAY MAKES JACK A DULL BOY
-
 CUT TO
-
 MS Low Angle  WENDY flicking sheets paper
-
 box
-
 CUT TO
-
 MS Pillar CAMERA TRACKS RL revealing WENDY
-
 camera looking sheets paper box table
-
 MLS JACK enters camRfg
-
 JACK
-
 How like it
-
 WENDY SCREAMS turns round face JACK
-
 WENDY
-
 Jack
-
 JACK
-
 How like it
-
 JACK moves away table WENDY walks RL table
-
 CUT TO
-
 MS JACK moves forward CAMERA TRACKS BACK him
-
 109
-
 JACK
-
 What here
-
 He stops chair puts hand it
-
 CUT TO
-
 MS WENDY holding bat
-
 WENDY
-
 I eh wanted
-
 CUT TO
-
 MS JACK  hand chair
-
 WENDY OFF
-
 to talk you
-
 JACK moves RL table CAMERA TRACKS BACK
-
 JACK
-
 Okay Lets talk
-
 JACK flicks sheets paper box  looks
-
 WENDY
-
 JACK
-
 What want talk about
-
 CUT TO
-
 MS WENDY holding bat
-
 WENDY
-
 I
-
 CUT TO
-
 MS JACK
-
 WENDY OFF
-
 I cant remember
-
 JACK
-
 You cant remember
-
 JACK moves forward LR CAMERA PANS him
-
 WENDY OFF
-
 No I cant
-
 CUT TO
-
 110
-
 MS WENDY holding bat moves LR CAMERA PANS her
-
 CUT TO
-
 INT HOTEL  JACKS APARTMENT  MS
-
 DANNY sitting table CAMERA TRACKS IN him
-
 JACK OFF
-
 Maybe Danny Maybe
-
 him
-
 CUT TO
-
 INT HOTEL  LOBBY  MS
-
 Blood clear camera lens revealing furniture floating
-
 river blood
-
 JACK OFF
-
 I think discuss Danny
-
 CUT TO
-
 INT HOTEL  CORRIDOR  MS
-
 Low Angle Door word MURDER scrawled reverse door
-
 CUT TO
-
 INT HOTEL  LOBBY  MS
-
 Furniture floating river blood camera
-
 JACK OFF
-
 I think discuss
-
 him
-
 CUT TO
-
 INT HOTEL  LOUNGE  MS
-
 JACK moves forward
-
 JACK
-
 What him
-
 CUT TO
-
 MS WENDY holding bat gives nervous laugh
-
 CUT TO
-
 111
-
 MS JACK moves forward RL  CAMERA PANS TRACKS BACK
-
 him
-
 WENDY OFF
-
 I dont know
-
 JACK
-
 I dont think thats true I think
-
 definite ideas
-
-
-
 Danny Id like know
-
 are
-
 CUT TO
-
 MS WENDY holding bat moves RL CAMERA PANS her
-
 She weeps
-
 WENDY
-
 Well I I think maybe
-
 taken doctor
-
 CUT TO
-
 MS JACK
-
 JACK
-
 You think maybe taken
-
 doctor
-
 CUT TO
-
 MS WENDY
-
 WENDY
-
 Yes
-
 CUT TO
-
 MS JACK
-
 JACK
-
 When think maybe
-
 taken doctor
-
 CUT TO
-
 MS WENDY holding bat
-
 WENDY
-
 As soon possible
-
 CUT TO
-
 112
-
 MS JACK
-
 JACK
-
 As soon possible
-
 WENDY OFF
-
 Jack
-
 CUT TO
-
 MS WENDY holding bat
-
 WENDY
-
 please
-
 CUT TO
-
 MS JACK moves forward  CAMERA TRACKS BACK him
-
 JACK
-
 You believe health
-
 stake
-
 CUT TO
-
 MS WENDY holding bat moves back
-
 WENDY
-
 Yeyes
-
 CUT TO
-
 MS JACK moves forward CAMERA TRACKS BACK him
-
 JACK
-
 And concerned him
-
 CUT TO
-
 MS WENDY holding bat moves back
-
 WENDY
-
 Yes
-
 CUT TO
-
 MS JACK points moves forward
-
 JACK
-
 And concerned me
-
 CUT TO
-
 MS WENDY holding bat moves backwards
-
 113
-
 WENDY
-
 Of course I am
-
 JACK OFF
-
 Of course are
-
 CUT TO
-
 MS JACK moves forward CAMERA TRACKS BACK him He
-
 points gestures
-
 JACK
-
 Have thought
-
 responsibilities
-
 WENDY OFF
-
 Oh Jack talking about
-
 JACK
-
 Have single moments
-
 thought responsibilities
-
 Have thought single
-
 solitary moment
-
 responsibilities employers
-
 CUT TO
-
 MS WENDY holding bat moves backwards
-
 CUT TO
-
 MS JACK moves forward  CAMERA TRACKS BACK him
-
 JACK
-
 Has occurred I
-
 agreed look
-
 Overlook Hotel May first
-
 Does matter
-
 owners placed
-
 complete confidence trust
-
 me I signed letter
-
 agreement contract
-
 I accepted responsibility
-
 CUT TO
-
 MS WENDY holding bat moves backwards LR foot stairs
-
 CAMERA PANS her She moves step
-
 JACK OFF
-
 Do slightest idea
-
 moral ethical principal is
-
 Do you
-
 CUT TO
-
 114
-
 MS JACK moves forward LR CAMERA PANS him
-
 JACK
-
 Has occurred
-
 happen future I
-
 fail live
-
 responsibilities
-
 CUT TO
-
 MS WENDY holding bat backs stairs
-
 JACK OFF
-
 Has occurred you
-
 JACK moves camRfg
-
 JACK
-
 Has it
-
 WENDY swinging bat backs stairs JACK moves
-
 her CAMERA TRACKS FORWARD them
-
 WENDY
-
 Stay away me
-
 JACK
-
 Why
-
 WENDY
-
 I want room
-
 JACK
-
 Why
-
 WENDY sobs
-
 WENDY
-
 Well Im confused I
-
 need chance think things
-
 over
-
 CUT TO
-
 MS High Angle JACK WENDY He moves forward stairs
-
 She backs away CAMERA TRACKS BACK UP them
-
 JACK
-
 Youve fucking life
-
 think things  whats good
-
 minutes going
-
 now
-
 115
-
 WENDY
-
 Jack stay away me please
-
 JACK reaches her
-
 WENDY
-
 Dont hurt me Dont hurt me
-
 JACK
-
 Im going hurt you
-
 WENDY swings bat backs stairs
-
 WENDY
-
 Stay away me
-
 JACK
-
 Wendy
-
 WENDY
-
 Stay away
-
 JACK
-
 Darling light life Im
-
 going hurt you You didnt let
-
 finish sentence I said Im
-
 going hurt you Im
-
 going bash brains in Im
-
 going bash right fuck in
-
 WENDY waves bat her JACK laughs
-
 WENDY
-
 Stay away me
-
 CUT TO
-
 MS Low Angle WENDY swinging bat her backs
-
 stairs JACK follows  CAMERA TRACKS FORWARD them
-
 WENDY
-
 Stay away me
-
 JACK
-
 Im going hurt you
-
 WENDY
-
 Stay away me
-
 CUT TO
-
 MS High Angle JACK WENDY She swings bat
-
 her backs away follows her
-
 116
-
 WENDY
-
 Stay away me Please
-
 JACK
-
 Stop swinging bat
-
 WENDY
-
 Stay away me
-
 JACK
-
 Put bat down Wendy
-
 WENDY
-
 Stop it
-
 JACK
-
 Wendy bat
-
 WENDY
-
 Stay stay away
-
 JACK
-
 Give bat
-
 CUT TO
-
 MS Low Angle WENDY JACK CAMERA TRACKS FORWARD
-
 come stairs
-
 WENDY
-
 Stay away me
-
 JACK
-
 Give bat
-
 WENDY
-
 Jack stay away me
-
 JACK
-
 Stop swinging bat
-
 WENDY
-
 Get down
-
 CUT TO
-
 MS High Angle JACK WENDY She swings bat
-
 stairs CAMERA TRACKS them
-
 JACK
-
 Give bat
-
 WENDY
-
 Go away me
-
 117
-
 JACK
-
 Wendy
-
 WENDY
-
 Go away
-
 JACK
-
 Give bat
-
 WENDY
-
 Go away
-
 JACK
-
 Give bat
-
 JACK reaches hand WENDY hits hand bat
-
 SHE SCREAMS HE YELLS grabs wrist
-
 CUT TO
-
 MS Low Angle WENDY JACK
-
 JACK
-
 Goddamn
-
 WENDY hits JACK head bat
-
 CUT TO
-
 MS High Angle JACK WENDY  throws hand
-
 leans back
-
 CUT TO
-
 MLS Low Angle WENDY JACK He falls backwards
-
 stairs CAMERA PANS LR somersaults
-
 stairs stopping face half landing
-
 CUT TO
-
 MLS High Angle WENDY camera stairs
-
 JACK lying facedown half landing
-
 WENDY
-
 Ohoh
-
 DISSOLVE TO
-
 INT HOTEL  KITCHEN  MCS
-
 JACK lying floor He GROANS dragged
-
 RL CAMERA TRACKS him
-
 CUT TO
-
 118
-
 INT OVERLOOK HOTEL  KITCHEN  MS
-
 WENDY holding JACKs ankles drags backwards food
-
 store door She undoes bolt tries open door JACK
-
 GROANS
-
 CUT TO
-
 MS Low Angle WENDY tugging handle JACK GROANS OFF
-
 CUT TO
-
 MCS WENDY tugging handle She looks camR
-
 CUT TO
-
 MCS JACK lying floor GROANING starts
-
 come to His eyes open lifts head up
-
 CUT TO
-
 MCS WENDY tugging door handle
-
 CUT TO
-
 MCS WENDYs hand handle She takes pin chain
-
 handle tugs handle open
-
 CUT TO
-
 MS WENDY swings door open Then takes hold JACKs
-
 ankles
-
 CUT TO
-
 MCS JACK
-
 JACK
-
 Hey doing
-
 CUT TO
-
 MS WENDY pulling JACK legs food store
-
 JACK
-
 Ohhh doing
-
 CUT TO
-
 MS High Angle JACK dragged door
-
 food store
-
 119
-
 JACK
-
 Hey wait minute What
-
 doing
-
 WENDY puts feet moves away door
-
 JACK
-
 What doing
-
 CUT TO
-
 MS Low Angle WENDYs feet legs forward
-
 JACK  She exits camRfg JACK rolls elbow
-
 Door closes fg
-
 CUT TO
-
 MS JACK floor fg WENDY bg closes door
-
 JACK gets feet He GROANS grips R ankle
-
 staggering cardboard boxes They fall him
-
 CUT TO
-
 INT HOTEL KITCHEN  MS
-
 WENDY puts pin handle backs LR away door
-
 CAMERA PANS her
-
 JACK OFF
-
 Hey wait minute
-
 WENDY turns away looks about
-
 JACK OFF
-
 What doing
-
 WENDY sees knife rack wall lifts rack
-
 She turns face food store door
-
 JACK OFF
-
 Open door
-
 WENDY backs away table
-
 JACK OFF
-
 Goddamit Let here
-
 Open goddam door
-
 WENDY resting hand table weeps sinks
-
 knees
-
 CUT TO
-
 120
-
 INT HOTEL  FOOD STORE ROOM  MCS
-
 Low Angle  JACK
-
 JACK
-
 Wendy listen Let
-
 Ill forget goddam
-
 thing Itll like
-
 happened
-
 CUT TO
-
 INT HOTEL  KITCHEN  MS
-
 WENDY kneeling table She weeping puts hand
-
 head
-
 CUT TO
-
 INT FOOD STORE ROOM  MCS
-
 Low Angle JACK listens weeping
-
 JACK
-
 Wendy baby
-
 He puts hand head
-
 JACK
-
 I think hurt head real bad
-
 He takes hand away head
-
 JACK
-
 Im dizzy I need doctor
-
 CUT TO
-
 INT KITCHEN  MS
-
 WENDY weeping kneels table
-
 JACK OFF
-
 Honey dont leave here
-
 WENDY stands up CAMERA TILTS UP her
-
 WENDY
-
 Im gonna 
-
 WENDY walks RL CAMERA PANS food store room
-
 door
-
 121
-
 WENDY
-
 Im going try get
-
 Danny Sidewinder
-
 Snowcat today
-
 She weeps
-
 WENDY
-
 Ill bring doctor
-
 CUT TO
-
 INT FOOD STORE ROOM  MCS
-
 JACK
-
 JACK
-
 Wendy
-
 WENDY OFF
-
 Im gonna now
-
 JACK
-
 Wendy
-
 CUT TO
-
 INT KITCHEN  MS
-
 WENDY weeping turns food store door
-
 WENDY
-
 Yes
-
 CUT TO
-
 INT FOOD STORE ROOM  MCS
-
 JACK smiling
-
 JACK
-
 Youve got big surprise coming
-
 you
-
 He laughs
-
 JACK
-
 Youre going anywhere
-
 He laughs
-
 CUT TO
-
 122
-
 INT KITCHEN  MS
-
 WENDY food store door
-
 JACK OFF
-
 Go check Snowcat
-
 radio I mean
-
 He laughs off
-
 JACK OFF
-
 Go check out
-
 He laughs off WENDY exits camL
-
 CUT TO
-
 INT FOOD STORE ROOM  MCS
-
 JACK laughing
-
 JACK
-
 Go check out
-
 He laughs
-
 JACK
-
 Go check out
-
 He laughs
-
 CUT TO
-
 INT HOTEL  CORRIDOR  MLS
-
 WENDY carrying knife runs forward  CAMERA PANS LR
-
 runs door She forces open
-
 CUT TO
-
 EXT HOTEL  MLS
-
 WENDY forces door open snow walks snow
-
 CAMERA PANS LR edge porch She runs away
-
 bg
-
 CUT TO
-
 MLS WENDY runs LR hotel  CAMERA TRACKS
-
 her
-
 CUT TO
-
 123
-
 INT HOTEL  GARAGE  MS
-
 Snowcat garage WENDY seen open doorway She
-
 runs forward enters garage carrying knife She stops
-
 entrance Then moves LR Snowcat picks
-
 distributor cap CAMERA TRACKS IN her reacting
-
 damaged distributor cap
-
 CUT TO
-
 BLACK FRAMES
-
 Superimposed over
-
 4 pm
-
 CUT TO
-
 EXT HOTEL  LS
-
 Overlook Hotel bg Snow trees fg
-
 CUT TO
-
 INT HOTEL  FOOD STORE ROOM  MCS
-
 JACK asleep sacks CAMERA TRACKS BACK KNOCK ON DOOR
-
 OFF JACK stirs rubs eyes KNOCK ON DOOR OFF
-
 Jack sits up
-
 JACK
-
 Wendy
-
 CAMERA TRACKS BACK JACK feels R ankle
-
 GRADY OFF
-
 Its Grady Mr Torrance Delbert
-
 Grady
-
 JACK
-
 Grady oh
-
 JACK puts hand shelf
-
 JACK
-
 Oh Grady right Grady er
-
 JACK stands moves RL shelves door
-
 CAMERA TRACKS him
-
 JACK
-
 Hullo Grady
-
 JACK moves RL door leans hand
-
 124
-
 GRADY OFF
-
 Mr Torrance I hardly
-
 taken care the
-
 CUT TO
-
 MCS JACK door
-
 GRADY OFF
-
 business discussed
-
 He moves RL door
-
 JACK
-
 No need rub in Mr Grady
-
 Ill deal situation
-
 soon I here
-
 GRADY OFF
-
 Will indeed Mr Torrance
-
 He puts hand head
-
 GRADY OFF
-
 I wonder I doubts
-
 He lowers hand head
-
 GRADY OFF
-
 I come believe
-
 heart this
-
 havent belly it
-
 JACK laughs
-
 JACK
-
 Just chance
-
 prove it Mr Grady Thats I
-
 ask
-
 GRADY OFF
-
 Your wife appears stronger
-
 imagined Mr Torrance
-
 Somewhat resourceful
-
 got better you
-
 JACK
-
 For moment Mr Grady Only
-
 moment
-
 125
-
 GRADY OFF
-
 I fear deal
-
 matter harshest
-
 possible way Mr Torrance I fear
-
 thing do
-
 JACK
-
 Theres I look forward
-
 greater pleasure Mr Grady
-
 GRADY OFF
-
 You word you
-
 Mr Torrance
-
 JACK nods head
-
 JACK
-
 I word
-
 SOUND OF BOLT BEING DRAWN HANDLE BEING UNFASTENED OFF
-
 CUT TO
-
 EXT ROAD  NIGHT  LS
-
 HALLORAN driving Snowcat forward snowcovered road
-
 banks trees
-
 DISSOLVE TO
-
 INT HALLORANS SNOWCAT  MCS
-
 HALLORAN driving Snowcat LR road
-
 DISSOLVE TO
-
 MS Shooting HALLORAN sitting camL
-
 windscreen wipers working moves forward
-
 snowcovered road Trees road
-
 CUT TO
-
 INT HOTEL  JACKS APARTMENT  NIGHT  MCS
-
 DANNY moves away RL MOTHER asleep bed
-
 CAMERA PANS him
-
 TONYS VOICE
-
 Red Rum Red Rum Red Rum Red
-
 Rum
-
 DANNY stops WENDY asleep bed
-
 126
-
 TONYS VOICE
-
 Red Rum
-
 WENDY stirs bed DANNY reaches hand
-
 knife table camR bed
-
 TONYS VOICE
-
 Red Rum
-
 DANNY holds knife
-
 TONYS VOICE
-
 Red Rum Red Rum
-
 He feels blade
-
 TONYS VOICE
-
 Red Rum Red Rum
-
 He takes hand away blade
-
 TONYS VOICE
-
 Red Rum
-
 He turns away bed holding knife walks LR
-
 CAMERA PANS him
-
 TONYS VOICE
-
 Red Rum Red Rum Red Rum Red
-
 Rum Red Rum
-
 He stops dressing table
-
 TONYS VOICE
-
 Red Rum
-
 He picks lipstick dressing table
-
 TONYS VOICE
-
 Red Rum Red Rum
-
 He turns away dressing table
-
 TONYS VOICE
-
 Red Rum
-
 DANNY walks RL away door  CAMERA PANS him
-
 TONYS VOICE
-
 Red Rum Red Rum Red Rum
-
 CUT TO
-
 127
-
 INT OVERLOOK HOTEL  JACKS APARTMENT  NIGHT  MS
-
 DANNY holding knife lipstick door WENDY asleep
-
 bed bg
-
 TONYS VOICE
-
 Red Rum Red Rum
-
 He starts write lipstick word MURDER IN
-
 reverse door
-
 TONYS VOICE
-
 Red Rum Red Rum Red Rum Red
-
 Rum Red Rum Red Rum
-
 He finishes writing word looks word
-
 TONYS VOICE
-
 Red Rum Red Rum
-
 He turns walks away WENDY asleep bed
-
 TONYS VOICE
-
 Red Rum Red Rum Red Rum
-
 WENDY wakes sits SHRIEK
-
 CUT TO
-
 MS DANNY WENDY bed
-
 DANNY
-
 Red Rum Red Rum Red Rum
-
 WENDY gets bed takes knife away him
-
 WENDY
-
 Danny Danny stop it Danny
-
 DANNY
-
 Red Rum Red Rum Red Rum Red
-
 Rum
-
 WENDY puts arms round DANNY pulls her
-
 She looks shoulder
-
 WENDY
-
 Eh
-
 She reacts  CAMERA ZOOMS IN face
-
 CUT TO
-
 128
-
 MS WENDYs POV The word MURDER written DANNY
-
 door  reflected mirror CAMERA ZOOMS IN word SOUND
-
 OF AXE STRIKING DOOR OFF
-
 CUT TO
-
 MCS WENDY shrieks looks camL She puts hand
-
 DANNYs head
-
 CUT TO
-
 INT HOTEL  CORRIDOR  MS
-
 JACK swings axe door apartment
-
 CUT TO
-
 INT JACKS APARTMENT  MS
-
 WENDY holding DANNY arms gets bed
-
 CUT TO
-
 INT HOTEL  CORRIDOR  MS
-
 JACK swings axe door apartment
-
 CUT TO
-
 INT JACKS APARTMENT  MS
-
 WENDY DANNY arms looks about moves
-
 door MURDER reverse written it She opens door
-
 goes bathroom DANNY closing door her
-
 CUT TO
-
 INT BATHROOM  MS
-
 WENDY DANNY clinging her closes door Then
-
 bolts locks it
-
 CUT TO
-
 INT HOTEL CORRIDOR  MS
-
 JACK swings axe door splinters panel
-
 CUT TO
-
 INT BATHROOM  MS
-
 WENDY DANNY RL door window She drops knife
-
 basin passes it CAMERA PANS them
-
 129
-
 WENDY unbolts window raises part
-
 CUT TO
-
 EXT HOTEL  MS
-
 WENDY tries force window higher up
-
 CUT TO
-
 INT BATHROOM  MCS
-
 DANNY clinging WENDY looks shoulder hears
-
 axe splintering door OFF
-
 CUT TO
-
 INT HOTEL CORRIDOR  MS
-
 JACK swings axe splintered panel door
-
 CUT TO
-
 EXT HOTEL BATHROOM WINDOW  MS
-
 WENDY looking window
-
 CUT TO
-
 LS HOTEL WENDY bathroom window She draws
-
 bathroom
-
 CUT TO
-
 INT HOTEL CORRIDOR  MS
-
 JACK swings axe splintered panel door
-
 CUT TO
-
 INT JACKS APARTMENT  MS
-
 JACK pulls piece wood away splintered panel
-
 looks gap
-
 CUT TO
-
 MCS JACK gap panel
-
 JACK
-
 Wendy Im home
-
 130
-
 He looks down CAMERA TILTS DOWN  removes piece
-
 wood hand reaches unlocks door
-
 CUT TO
-
 INT BATHROOM  MS
-
 WENDY camera lifts DANNY open window
-
 CUT TO
-
 EXT HOTEL  LS
-
 WENDY pushes DANNY open window snow She
-
 lets slides LR snow He stands
-
 bottom looks WENDY window
-
 CUT TO
-
 MS WENDY struggling open window
-
 CUT TO
-
 INT JACKS APARTMENT  MS
-
 JACK carrying axe moves stairs open door
-
 CAMERA TRACKS BACK him
-
 CUT TO
-
 EXT HOTEL  MS
-
 WENDY struggling bathroom window She goes
-
 bathroom
-
 CUT TO
-
 MS DANNY looking camL bathroom window
-
 CUT TO
-
 INT JACKS APARTMENT  BEDROOM  MS
-
 JACK carrying axe walks away Living Room
-
 Bedroom CAMERA TRACKS him
-
 JACK
-
 Come out come out are
-
 CUT TO
-
 131
-
 INT BATHROOM  MS
-
 WENDY trying force window higher She looks
-
 shoulder puts head open window
-
 CUT TO
-
 EXT HOTEL  MS
-
 WENDY tries open window
-
 CUT TO
-
 INT BEDROOM  MCS
-
 JACK enters camR He stops Bathroom door HE RAPS ON
-
 DOOR
-
 CUT TO
-
 EXT HOTEL  MS
-
 WENDY head open Bathroom window
-
 WENDY
-
 Danny I cant out
-
 CUT TO
-
 LS WENDY Bathroom window camL DANNY foot slope
-
 snow looking camL
-
 WENDY
-
 Run run hide Run quick
-
 DANNY runs away LR
-
 CUT TO
-
 INT BEDROOM  MCS
-
 JACK Bathroom door
-
 JACK
-
 Little pigs little pigs let
-
 come in
-
 CUT TO
-
 INT BATHROOM  MS
-
 WENDY open window She moves LR basin CAMERA PANS
-
 her She picks knife moves RL door
-
 132
-
 CAMERA PANS her
-
 CUT TO
-
 INT BEDROOM  MCS
-
 JACK Bathroom door
-
 JACK
-
 Not hair chiny
-
 chin chin Then Ill huff
-
 Ill puff
-
 CUT TO
-
 MS JACK holding axe camera Bathroom door
-
 JACK CONTD
-
 Ill blow house in
-
 He swings axe back
-
 CUT TO
-
 MS JACK swings axe twice Bathroom door WENDY SCREAMS
-
 OFF
-
 CUT TO
-
 INT BATHROOM  MS
-
 WENDY standing door JACKs axe appear
-
 door WENDY SCREAMS JACKs axe repeatedly appears
-
 splinters door WENDY screams
-
 WENDY
-
 Jack Please Dont Dont
-
 Head axe appears splintered door WENDY SCREAMS
-
 WENDY
-
 Dont Oh Please
-
 Head axe appears door WENDY SCREAMS
-
 WENDY
-
 Stop
-
 CUT TO
-
 MCS Splintered door panel
-
 WENDY OFF
-
 Jack
-
 133
-
 JACK bg swings axe door smashes away
-
 splintered wood
-
 WENDY OFF
-
 Stop it Stop it
-
 CUT TO
-
 INT BEDROOM  MS
-
 JACK swings axe splintered door
-
 WENDY OFF
-
 Stop it
-
 JACK moves LR gap splintered door WENDY SCREAMS OFF
-
 CUT TO
-
 INT BATHROOM  MCS
-
 JACKs face gap splintered door
-
 JACK
-
 Heres Johnny
-
 CUT TO
-
 MCS WENDY holding knife SCREAMS
-
 CUT TO
-
 MCS JACKs smiling face gap splintered door He
-
 moves backwards reaches gap
-
 CUT TO
-
 MCS JACKs hand gap door key inside
-
 door
-
 CUT TO
-
 MS WENDY strikes knife
-
 CUT TO
-
 MCS JACKs hand key WENDYs knife slashes
-
 hand withdraws camR JACKs hand moves
-
 gap door JACK YELLS OFF
-
 CUT TO
-
 134
-
 MCS JACKs face gap door HE IS YELLING He looks
-
 turns away door
-
 CUT TO
-
 EXT ROAD  NIGHT  MS
-
 Shooting HALLORAN sitting camera Lfg
-
 windscreen drives snowcovered road
-
 CUT TO
-
 INT BATHROOM  MS
-
 WENDY door She looks camR hears
-
 HALLORANs Snowcat approaching OFF
-
 CUT TO
-
 INT BEDROOM  MCS
-
 JACK Bathroom door  turns round hears HALLORANs
-
 Snowcat approaching OFF He looks camL
-
 CUT TO
-
 EXT HOTEL  NIGHT  LS
-
 HALLORANs Snowcat moves RL snowcovered road
-
 CAMERA TRACKS revealing Overlook Hotel bg
-
 CUT TO
-
 INT BEDROOM  MCS
-
 JACK looking camR He turns away splintered door
-
 SOUND OF SNOWCAT OFF
-
 CUT TO
-
 INT BATHROOM  MCS
-
 WENDY door listening
-
 CUT TO
-
 EXT HOTEL  LS
-
 HALLORANs Snowcat moves RL Hotel CAMERA
-
 TRACKS it Snowcat stops
-
 CUT TO
-
 135
-
 INT HOTEL CORRIDOR  KITCHEN  MLS
-
 DANNY runs forward corridor CAMERA TRACKS BACK
-
 him He runs kitchen  stops moves LR
-
 oven He kneels it CAMERA PANS him
-
 DANNY slides oven door open RL crawls it
-
 CUT TO
-
 MCS DANNY oven slides door RL
-
 CUT TO
-
 MS Oven door sliding LR
-
 CUT TO
-
 MS JACK holding axe limps RL kitchen CAMERA
-
 TRACKS him
-
 CUT TO
-
 INT BATHROOM  MS
-
 WENDY sobbing door  moves door
-
 slashes knife
-
 CUT TO
-
 EXT HOTEL  MLS
-
 HALLORAN walking RL CAMERA TRACKS him He moves
-
 door left open WENDY He pulls open wide exits
-
 Hotel
-
 CUT TO
-
 INT HOTEL  LOBBY  MS
-
 JACK holding axe moves forward  CAMERA PANS RL TRACKS
-
 him He moves away stairs
-
 HALLORAN OFF
-
 Hallo
-
 JACK stairs
-
 HALLORAN OFF
-
 Anybody here
-
 JACK moves away stairs CAMERA TRACKS him JACK
-
 moves RL looks Lobby CAMERA TRACKS him
-
 136
-
 HALLORAN OFF
-
 Hallo Anybody here
-
 CUT TO
-
 MLS HALLORAN moves forward corridor CAMERA TRACKS
-
 FORWARD
-
 HALLORAN
-
 Hallo
-
 HALLORAN moves RL entrance Lobby
-
 HALLORAN
-
 Anybody here
-
 HALLORAN moves away Lobby CAMERA TRACKS FORWARD
-
 him
-
 HALLORAN
-
 Hallo Hallo Anybody here
-
 JACK holding axe YELLS steps pillar
-
 camR moves HALLORAN
-
 CUT TO
-
 MS JACK YELLING swings axe HALLORAN
-
 CUT TO
-
 MCS HALLORANs chest  axe pierces raincoat blood
-
 oozes out
-
 CUT TO
-
 MCS DANNY mouth wide open
-
 CUT TO
-
 MS JACK HALLORAN JACK holding shaft axe
-
 CUT TO
-
 MCS HALLORAN mouth wide open
-
 CUT TO
-
 MCS DANNY mouth wide open
-
 CUT TO
-
 137
-
 MS JACK HALLORAN holding shaft axe
-
 CUT TO
-
 MCS HALLORAN mouth wide open sinks
-
 shot
-
 CUT TO
-
 MCS DANNY mouth wide open
-
 CUT TO
-
 MCS JACK rises shot
-
 CUT TO
-
 MLS JACK holding axe standing body HALLORAN
-
 floor JACK limps forward CAMERA TRACKS BACK him
-
 JACK
-
 Danny Danny boy
-
 He stops corridor kitchen
-
 JACK
-
 Danny
-
 CUT TO
-
 MLS JACK camera Rfg DANNY climbs
-
 oven bg JACK moves forward DANNY exits camRfg
-
 JACK limps away CAMERA TRACKS IN him
-
 JACK
-
 Danny Danny
-
 CUT TO
-
 INT HOTEL  STAIRS  MS
-
 High Angle WENDY runs stairs LR She pauses landing
-
 WENDY
-
 Danny
-
 CAMERA TRACKS BACK WENDY goes flight
-
 stairs She stops stairs looks
-
 landing
-
 CUT TO
-
 MLS WENDYS POV Shooting landing open
-
 doorway bedroom
-
 138
-
 MAN dressed Dogs costume kneeling foot bed He
-
 leans looks her MAN evening dress
-
 leans forward looks WENDY CAMERA ZOOMS IN them
-
 CUT TO
-
 MS WENDY holding knife stairs backs away 
-
 turns runs away corridor exiting camL end
-
 CUT TO
-
 INT LOBBY  MLS
-
 JACK holding axe limps forward moves LR
-
 entrance He walks away open door CAMERA TRACKS
-
 him He stops doorway
-
 CUT TO
-
 EXT OVERLOOK HOTEL  NIGHT  MLS
-
 Shooting door HALLORANs Snowcat bg CAMERA PANS
-
 LR
-
 CUT TO
-
 INT HOTEL  LOBBY  MS
-
 JACK holding axe open doorway He comes moves
-
 LR switch panel wall He opens cover presses
-
 switches down He leans open doorway watches
-
 lights going outside
-
 CUT TO
-
 EXT HOTEL  MS
-
 DANNY crouched track HALLORANs Snowcat He peers
-
 round corner
-
 CUT TO
-
 EXT HOTEL  MS
-
 JACK limps open doorway stops
-
 JACK
-
 Danny
-
 CUT TO
-
 139
-
 EXT HOTEL  MS
-
 DANNY track HALLORANs Snowcat He moves away LR
-
 CUT TO
-
 MLS JACK limps away door
-
 JACK
-
 Danny
-
 CUT TO
-
 MS DANNY runs LR exits camR
-
 CUT TO
-
 MS JACK limping LR Hotel CAMERA TRACKS him
-
 JACK
-
 Danny
-
 CUT TO
-
 MLS DANNY running away LR snow CAMERA PANS
-
 him He runs Maze
-
 CUT TO
-
 MS JACK limping LR CAMERA TRACKS him Hotel bg
-
 CUT TO
-
 EXT HOTEL  MAZE  MS
-
 DANNY running away Maze CAMERA TRACKS him
-
 He looks shoulder
-
 CUT TO
-
 MS JACK Maze He limps forward CAMERA TRACKS
-
 BACK him
-
 JACK
-
 Danny Im coming Im coming Dan
-
 He looks down
-
 CUT TO
-
 MCS DANNYs footprints snow CAMERA TILTS UP TRACKS
-
 FORWARD DANNYs footprints
-
 CUT TO
-
 140
-
 MCS DANNYs feet legs running away Maze
-
 CAMERA TRACKS FORWARD
-
 CUT TO
-
 INT HOTEL  MLS
-
 WENDY carrying knife runs forward kitchen She looks
-
 stairs bg
-
 WENDY
-
 Danny
-
 WENDY stumbles forward coffee pots rings
-
 floor CAMERA TRACKS BACK her
-
 WENDY
-
 Oh
-
 WENDY turns RL CAMERA TRACKS her She moves away
-
 corridor CAMERA TRACKS her She stops
-
 corner CAMERA CONTINUES PAST revealing HALLORAN lying
-
 dead floor lobby
-
 CUT TO
-
 MCS WENDY reacts
-
 CUT TO
-
 MLS HALLORANs body lying floor CAMERA ZOOMS IN it
-
 CUT TO
-
 MCS WENDY looks about She moves away RL CAMERA PANS
-
 her She SCREAMS turns camR CAMERA WHIP PANS
-
 LR MLS INJURED GUEST
-
 CUT TO
-
 MS WENDY reacting  knife trembles hand
-
 CUT TO
-
 MCS INJURED GUEST scar running head
-
 face He raises glass holding
-
 INJURED GUEST
-
 Great party isnt it
-
 CUT TO
-
 141
-
 MS WENDY SCREAMING turns runs away
-
 CUT TO
-
 EXT HOTEL  MAZE  MLS
-
 DANNY running away Maze CAMERA TRACKS him
-
 JACK OFF
-
 Danny Danny Im coming
-
 CUT TO
-
 MS JACK limps forward Maze CAMERA TRACKS BACK
-
 him
-
 JACK
-
 You cant away Im right
-
 you
-
 CUT TO
-
 INT HOTEL  CORRIDOR LOUNGE  MLS
-
 WENDY runs forward
-
 WENDY
-
 Danny
-
 WENDY runs forward moves RL CAMERA PANS
-
  stops camRfg SCREAMS
-
 CUT TO
-
 MCS WENDY looking about
-
 CUT TO
-
 MLS SKELETONS sitting chairs Bottle champagne
-
 table fg
-
 CUT TO
-
 MS SKELETONS sitting table bottle glasses it
-
 CUT TO
-
 MLS SKELETONS sitting chairs round tables bottles
-
 them
-
 CUT TO
-
 142
-
 EXT HOTEL  MAZE  MLS
-
 JACK limps away Maze CAMERA TRACKS FORWARD
-
 him
-
 CUT TO
-
 MS DANNY steps backwards footprints snow
-
 CUT TO
-
 MS JACK limps forward laughing
-
 JACK
-
 Danny
-
 CUT TO
-
 MLS DANNY stepping backwards footprints snow
-
 He jumps LR landing snow crawls LR  brushing
-
 traces snow hands
-
 CUT TO
-
 INT HOTEL  CORRIDOR  MLS
-
 WENDY holding knife runs forward She slows
-
 nears fg She moves RL CAMERA PANS open
-
 door She stops doorway looks corridor
-
 lift doors bg
-
 CUT TO
-
 MS Lift doors Blood gushes camL surges forward
-
 floor
-
 CUT TO
-
 MCS WENDY reacts
-
 CUT TO
-
 MS Lift doors Blood gushes camL camR  surging
-
 forward wave camera
-
 CUT TO
-
 EXT HOTEL  MAZE  MS
-
 DANNY sitting leaning Maze CAMERA TRACKS
-
 RL revealing JACK holding axe camRbg He limps RL
-
 moves away Maze
-
 CUT TO
-
 143
-
 MS DANNYs footprints snow  CAMERA TRACKS FORWARD
-
 stops footprints end CAMERA TILTS UP snow
-
 footprints
-
 CUT TO
-
 MCS JACK  looks forwards 
-
 finally camR
-
 JACK
-
 Danny
-
 He looks camL
-
 CUT TO
-
 MCS DANNY crouched Maze
-
 JACK OFF
-
 Danny
-
 CUT TO
-
 MS JACK  looks camL
-
 JACK
-
 Danny
-
 CUT TO
-
 MLS JACK limps LR exits camR
-
 CUT TO
-
 MS DANNY appears mound snow moves
-
 forward RL
-
 CUT TO
-
 MLS DANNYs POV Empty Maze
-
 CUT TO
-
 MS DANNY moves away RL mound snow CAMERA PANS
-
 him He runs away Maze
-
 CUT TO
-
 MS Footprints snow Maze CAMERA TRACKS FORWARD
-
 footprints
-
 CUT TO
-
 144
-
 MLS JACK camera limping away Maze
-
 CAMERA TRACKS him
-
 CUT TO
-
 MS JACK limps forward Maze CAMERA TRACKS BACK
-
 him
-
 CUT TO
-
 MS CAMERA TRACKS FORWARD Maze
-
 CUT TO
-
 MS DANNY runs forward Maze CAMERA TRACKS BACK
-
 CUT TO
-
 MLS JACK moves opening camR CAMERA TRACKS FORWARD 
-
 turns moves RL opening camL CAMERA PANS
-
 him He stops turns  moves LR CAMERA PANS
-
 TRACKS limps MAZE
-
 CUT TO
-
 EXT HOTEL  MLS
-
 WENDY sobbing holding knife runs away HALLORANs
-
 Snowcat bg CAMERA TRACKS FORWARD her She stops
-
 Snowcat looks about
-
 CUT TO
-
 EXT HOTEL  MAZE  MS
-
 DANNY runs forward Maze CAMERA TRACKS BACK DANNY
-
 looks shoulder falls snow entrance
-
 CUT TO
-
 EXT HOTEL  MS
-
 WENDY standing HALLORANs Snowcat She throws knife
-
 WENDY
-
 Danny Danny
-
 She runs forward camRfg
-
 CUT TO
-
 MLS DANNY lying snow entrance Maze He gets
-
 runs RL CAMERA PANS him
-
 145
-
 DANNY
-
 Mommy
-
 WENDY OFF
-
 Danny come here
-
 DANNY
-
 Mommy Mommy
-
 WENDY OFF
-
 Danny
-
 DANNY runs RL WENDYs arms kneels snow
-
 DANNY
-
 Mommy
-
 WENDY
-
 Oh
-
 WENDY hugs kisses DANNY
-
 WENDY
-
 Oh Danny
-
 CUT TO
-
 EXT HOTEL  MAZE  MS
-
 JACK holding axe limps forward  CAMERA TRACKS BACK
-
 JACK
-
 Danny Where
-
 JACK GROANS
-
 CUT TO
-
 EXT HOTEL  MLS
-
 WENDY holding DANNY moves RL HALLORANs Snowcat CAMERA
-
 PANS them WENDY opens door Snowcat lifts DANNY
-
 cab
-
 CUT TO
-
 EXT HOTEL  MAZE  MLS
-
 JACK GROANING staggers away Maze  CAMERA TRACKS
-
 him
-
 JACK
-
 Danny
-
 146
-
 He stumbles lies snow He struggles feet
-
 CUT TO
-
 EXT HOTEL  LS
-
 Snowcat lights moves RL Hotel
-
 turns camR JACK SHOUTS INAUDIBLE OFF
-
 CUT TO
-
 EXT HOTEL  MAZE  MS
-
 JACK staggers forward CAMERA TRACKS BACK  INDISTINCT
-
 SHOUTS He GROANS moves forward RL
-
 CUT TO
-
 EXT HOTEL  LS
-
 Snowcat drives away road JACK INAUDIBLE SHOUTS OFF
-
 CUT TO
-
 EXT HOTEL  MAZE  MS
-
 JACK staggers forward Maze CAMERA TRACKS BACK 
-
 INDISTINCT MOANS GROANS
-
 CUT TO
-
 MLS JACK staggers away Maze CAMERA TRACKS
-
 him INDISTINCT MOANS He slumps camL
-
 Maze
-
 CUT TO
-
 EXT HOTEL  MAZE  DAY  MCS
-
 JACK sitting chest snow dead Snow icicles
-
 face
-
 CUT TO
-
 INT HOTEL  GOLD BALLROOM  MLS
-
 Entrance Gold Ballroom  CAMERA TRACKS FORWARD
-
 entrance photographs wall CAMERA TRACKS IN close
-
 photograph Guests Ball
-
 DISSOLVE TO
-
 147
-
 MS Photograph Guests Ball
-
 DISSOLVE TO
-
 MCS Photograph YOUNG MAN dinner jacket CAMERA
-
 TILTS DOWN TO
-
 OVERLOOK HOTEL
-
 JULY 4th BALL
-
 1921
-
 FADE OUT
-
 BLACK FRAMES
-

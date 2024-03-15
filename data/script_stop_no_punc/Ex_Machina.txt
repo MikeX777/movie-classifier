@@ -1,8998 +1,4496 @@
 EX MACHINA
-
 Written
-
 Alex Garland
-
 Music starts
-
 OPEN ON 
-
 1 1
-
 INT OFFICE  DAY
-
  COMPUTER MONITOR
-
 Lines code appear typed
-
 main  
-
 extrn a b c
-
 putchara putchar bputchar c putcharn
-
-
-
 hell
-
 b o w
-
 c or
-
 CUT TO 
-
  view ultracool ultradesigned openplan
-
 office
-
 In kitchen area young men women chat
-
 Casually dressed Feels like intelligent relaxed
-
 environment
-
 Behind them young men women sit desks
-
 screens keyboard
-
 Each workstation personalised Photographs friends
-
 family pets Cutting magazines Ironic
-
 superherovideogame figurines
-
 CUT TO 
-
  hands young man writing code This CALEB
-
 He types fast fingers
-
 CUT TO 
-
  EXTREME CLOSE UP pinhole webcam lens CALEBS
-
 monitor
-
 CUT TO 
-
  POV webcam
-
 Looking CALEB
-
 Twenty four Glazed Ear buds in connected cell phone
-
 Head bobbing slightly music
-
 As watch monitor POV computers
-
 facial recognition operation
-
 2
-
 Imaged vector boxes track CALEBS face
-
 faces people him
-
 CUT TO 
-
  COMPUTER MONITOR
-
 On message appears small window code
-
 VIP EMAIL RECEIVED
-
 subject HIDDEN
-
 CUT TO 
-
  monitor webcam POV
-
 As CALEB stops typing
-
 He gazes message
-
 Then clicks link
-
 Then mouths word Fuck
-
 CALEB reaches cell phone
-
 CUT TO 
-
  CELL PHONE POV seen tiny camera
-
 screen CALEB lifts phone starts keyingin
-
 text
-
 We facial recognition software flickering CALEBS
-
 features reacting shifts expression
-
 CUT TO 
-
  cell phone The screen The tiny camera nestled
-
 it Lens glinting
-
 On screen timebar extends word
-
 sending
-
 A beat later reply text message appears
-
 WTF seriously
-
 CUT TO 
-
  WEB CAM POV watching CALEB react arrival
-
 text
-
 CUT TO 
-
  cell phone screen
-
 CALEB sends word
-
 3
-
 yes
-
 A beat later stream text messages start appearing
-
 Buena estoria bro
-
 omfg fucking AWESOME
-
 o
-
 me
-
 Caleb infinity symbol
-
 CUT TO 
-
  monitor POV
-
 Behind CALEB people CALEB office
-
 reacting
-
 One stands applauds
-
 A GIRL comes desk runs CALEB
-
 embraces planting kiss cheek
-
 CALEB looks dazed
-
 He headphones in Still audio bubble
-
 which despite commotion him remains unburst
-
 TITLE
-
 EX MACHINA
-
 2 2
-
 EXT MOUNTAINS  DAY
-
 A spectacular mountain landscape Waterfalls drop
-
 massive rock faces inland lakes Rivers push
-
 forest Forest spreads valley floors rise
-
 snow peaks
-
 3 3
-
 INT HELICOPTER  DAY
-
 CALEB wakes abruptly 
-
  seat helicopter
-
 The pilot JAY man forties
-
 Outside window mountain landscape
-
 CALEB
-
 How long I out
-
 4
-
 JAY
-
 You fell asleep soon
-
 left airport
-
 CALEB looks around Wipes sleep eyes Gets
-
 bearings
-
 CALEB
-
 Damn Cant believe Ive
-
 missing this I psyched
-
 coming here I awake
-
 night
-
 JAY smiles
-
 JAY
-
 Youre programmer right
-
 CALEB
-
 Yeah
-
 JAY
-
 Bay facility
-
 CALEB
-
 Long Island I work algorithms
-
 search engine
-
 JAY
-
 Algorithms Nice
-
 CALEB
-
 You know are
-
 JAY
-
 Nope But I knew
-
 programmer Soon I set eyes
-
 you
-
 CALEB
-
 Is good thing
-
 JAY
-
 Means Mr Bateman speak
-
 language Id thats
-
 good thing
-
 Beat
-
 CALEB
-
 I guess know pretty well
-
 The pilot laughs
-
 JAY
-
 Ive met him I
-
 fly shuttle
-
 airport residence
-
 MORE
-
 5
-
 JAY CONTD
-
 I time Stood
-
 mountain ridges
-
 JAY shrugs
-
 JAY CONTD
-
 Assume him anyway No
-
 miles
-
 JAY glances CALEB
-
 JAY CONTD
-
 So programmer Long
-
 Island meeting CEO
-
 CALEB
-
 I won competition It kind
-
 like lottery employees
-
 The winner got spend week
-
 him
-
 JAY
-
 The president cant Mr Bateman
-
 phone got
-
 golden ticket
-
 CALEB
-
 Yep
-
 JAY
-
 Hell opportunity
-
 CALEB
-
 Believe me I know it
-
 CALEB looks window
-
 CALEB CONTD
-
 Incredible here
-
 JAY
-
 Alaska Most beautiful place
-
 Earth
-
 Beat
-
 CALEB
-
 How long
-
 estate
-
 JAY chuckles
-
 JAY
-
 Weve flying estate
-
 past hours
-
 6
-
 4 4
-
 EXT MOUNTAINS  DAY
-
 The helicopter flies vast white glacier
-
 5 5
-
 EXT MOUNTAINS  DAY
-
 CUT
-
 6 6
-
 EXT MOUNTAINS  DAY
-
 The helicopter flies lip WATERFALL revealing
-
 valley
-
 The valley floor forest single bright green
-
 meadow Sunlit like jewel icy mountains
-
 A whitewater river runs it
-
 7 7
-
 INT HELICOPTER  DAY
-
 CALEB looks breathtaking view helicopter
-
 banks turns descends
-
 8 8
-
 EXT MEADOWLANDING SITE  DAY
-
 Meadow flowers whip rotor wash helicopter
-
 touches vast meadow
-
 By landing site collection huge metal crates
-
 All Chinese characters side
-
 The rotor blades slow dont stop
-
 JAY exits
-
 9 9
-
 EXT MEADOWLANDING SITE  DAY
-
 JAY holds open door CALEB exits helicopter cabin
-
 CALEB looks around eyes adjusting bright sunshine
-
 outside
-
 JAY goes helicopter pops open hatch
-
 removes CALEBS luggage A large suitcase wheels
-
 CALEB looks around Apart packing crates
-
 manmade structures seen
-
 CALEB shouts engine noise
-
 CALEB
-
 Youre leaving here
-
 7
-
 JAY
-
 This close Im allowed
-
 building
-
 CALEB
-
  What building
-
 The pilot gestures vaguely white water
-
 JAY
-
 Follow river
-
 JAY hands CALEB bag
-
 JAY CONTD
-
 Please safe distance
-
 blades
-
 The pilot gets inside helicopter closes
-
 door
-
 CALEB hurriedly retreats bag
-
 Moments later roar wind noise helicopter
-
 lifting off
-
 Equally suddenly noise fading helicopter
-
 soaring upwards banking glacier
-
 Then gone Bird song wind rush replace engine
-
 noise
-
 CALEB suddenly looks isolated
-
 10 10
-
 EXT RIVER  DAY
-
 CALEB walks banks fastflowing river
-
 awkwardly bumping wheeled suitcase ground
-
 The banks river start climb intimidating
-
 drop
-
 It feels cant right way
-
 CALEB reaches pocket pulls mobile phone
-
 No signal all
-
 He puts phone pocket
-
 11 11
-
 EXT RIVERHOUSE VIEW  DAY
-
 CALEB rounds bend river
-
 Ahead hidden trees steel glass
-
 structure
-
 8
-
 12 12
-
 EXT CLEARING  DAY
-
 CALEB walks house trees
-
 In ground grassy clearing finds circular
-
 window reflecting sky
-
 He walks window looks inside
-
 It reveals effectively glasscovered 
-
 metres deep smooth concrete sides
-
 At brightlylit room
-
 appears office sort There desk
-
 monitors chair
-
 But apparently inside
-
 Beyond clearing treeline CALEB sees 
-
 camouflaged forest  dark shapes straight lines
-
 low storey building complex
-
 12A 12A
-
 EXT HOUSE  DAY
-
 CALEB approaches building
-
 As nears entrance 
-
  CALEB startles AUTOMATED VOICE speaks him
-
 unknown source
-
 AUTOMATED VOICE
-
 Caleb Smith
-
 CALEB tracks source voice
-
 Near door pillar protrudes
-
 ground Headheight With GLASS SCREEN side
-
 Below screen DISPENSER
-
 CALEB
-
  Yes
-
 AUTOMATED VOICE
-
 Please approach console
-
 face screen
-
 CALEB looks screen soon locked
-
 eyes reflection screen FLASHES A single
-
 bright strobe
-
 Almost immediately afterwards small clatters
-
 DISPENSER
-
 AUTOMATED VOICE CONTD
-
 Take keycard
-
 9
-
 CALEB picks object up Its creditcard sized ID
-
 On it embedded chip photograph
-
 face He looks comically surprised
-
 CALEB
-
  Can another
-
 AUTOMATED VOICE
-
 Your keycard
-
 enter residence
-
 CALEB walks door
-
 Beside door KEYCARD PLATE set wall
-
 RED LED LIGHT
-
 He holds keycard ID
-
 The RED LED light changes BLUE
-
 CALEB pushes door swings open
-
 13 13
-
 INT HOUSEMAIN ROOM  DAY
-
 The door opens glasswalled staircase leads
-
 openplan room
-
 At staircase CALEB waits
-
 welcomed noticed
-
 But not
-
 CALEB
-
 Hello
-
 Silence
-
 Then startled second time sudden commencement
-
 THUMPING SOUND
-
 Abrupt Rapid More rhythmic From
-
 nearby
-
 He exits direction noise
-
 13A 13A
-
 INT HOUSEDINING AREA  DAY
-
 CALEB enters dining area
-
 Which reveals
-
  huge glass door
-
 It presents arresting view garden river
-
 mountains behind
-
 10
-
 The door open it reason
-
 thumping sound
-
 Just outside patio sunshine man working
-
 PUNCH BAG
-
 14 14
-
 EXT GARDEN  DAY
-
 CALEB exits dining area area neat garden
-
 looking river surrounded mountain
-
 ranges
-
 The punch bag suspended chain exterior flanking
-
 wall house
-
 The man working wearing shorts shirtless
-
 Bathed sweat
-
 His hands protected gloves Only wraps Spots
-
 blood seep pale material knuckles
-
 This NATHAN BATEMAN Hes thirty
-
 After flurry punches NATHAN breaks off
-
 Breathing hard wipes eyebrows
-
 wrist Sweat droplets cascade face
-
 Then 
-
  NATHAN senses presence
-
 He turns CALEB Standing open glass wall
-
 NATHAN
-
 Caleb
-
 NATHAN beams
-
 NATHAN CONTD
-
 Caleb Smith
-
 CALEB
-
  Hi
-
 NATHAN starts unravelling wraps
-
 NATHAN
-
 Dude Ive looking forward
-
 this
-
 15 15
-
 INT HOUSEDINING AREA  DAY
-
 NATHAN walks past CALEB goes bar area
-
 jug nonspecific vegetable juice waiting
-
 glass
-
 11
-
 NATHAN
-
 Come in come in
-
 CALEB puts bag down
-
 NATHAN CONTD
-
 You want eat drink
-
 journey
-
 CALEB
-
 No Thank you Im fine
-
 NATHAN
-
 You sure
-
 NATHAN pours glass vegetable juice
-
 NATHAN CONTD
-
 Id thinking wed
-
 breakfast together
-
 honest I cant eat right
-
 now I gotta tell  I woke
-
 morning mother
-
 fucking hangovers
-
 CALEB
-
 Yeah
-
 NATHAN laughs
-
 NATHAN
-
 Like wouldnt believe And
-
 I heavy night I try
-
 compensate morning
-
 Exercise Juice Antioxidants
-
 You know
-
 CALEB
-
 Sure
-
 Silence NATHAN drinks
-
 CALEB feels needs something
-
 Looking around sees collection beer bottle
-
 kitchen counter
-
 CALEB CONTD
-
  Was good party
-
 NATHAN doesnt answer
-
 Hes drinking
-
 The silence extends little Verges odd
-
 NATHAN puts glass down
-
 12
-
 NATHAN
-
 Party
-
 NATHAN looks CALEB His expression unreadable
-
 NATHAN CONTD
-
 Caleb Im going
-
 its said
-
 CALEB waits
-
 NATHAN CONTD
-
 Youre freaked out
-
 CALEB
-
  I am
-
 NATHAN
-
 Yeah Youre freaked
-
 house mountains
-
 its supercool And youre
-
 freaked me To meeting
-
 me In room having
-
 conversation moment
-
 Right
-
 CALEB doesnt time answer
-
 NATHAN CONTD
-
 And I that The moment youre
-
 having
-
 NATHAN smiles
-
 NATHAN CONTD
-
 But dude us
-
 Can guys Nathan
-
 Caleb Not employer
-
 employee thing
-
 CALEB
-
 Okay
-
 Beat
-
 CALEB CONTD
-
 Its good meet you Nathan
-
 CALEB holds hand
-
 NATHAN beams
-
 NATHAN
-
 Its good meet too Caleb
-
 They shake
-
 13
-
 When CALEB takes hand back little smear
-
 blood fingers
-
 He discretely wipes trousers
-
 16 16
-
 EXT HOUSEELEVATOR  DAY
-
 NATHAN CALEB enter elevator
-
 It buttons Only keycard plate
-
 NATHAN swipes card
-
 NATHAN
-
 Down
-
 The elevator starts move
-
 16A 16A
-
 EXT RIVER  DAY
-
 Water flows rocks
-
 17 17
-
 INT HOUSEGLASS CORRIDOR  CONTINUOUS
-
 CALEB NATHAN exit elevator glass corridor
-
 The floor polished concrete The walls ceiling
-
 glass diffused light glows
-
 At regular intervals glass doors set glowing
-
 light flush walls
-
 Beside closed doors keycard plates soft red LEDs
-
 CALEB carries bag looking slightly encumbered
-
 NATHAN
-
 NATHAN
-
 So I guess thing I
-
 explain pass Its
-
 simple enough It opens
-
 doors doesnt open others
-
 And makes easy
-
 you right
-
 CALEB
-
  Uh yes
-
 NATHAN
-
 Because youre like oh fuck Im
-
 elses house I
-
 this I that And card
-
 takes worry away If
-
 try open door stays
-
 shut okay its limits
-
 MORE
-
 14
-
 NATHAN CONTD
-
 If try door
-
 opens its you
-
 NATHAN stops door
-
 NATHAN CONTD
-
 Lets try one
-
 CALEB hunts pockets keycard
-
 Then swipes card plate
-
 The LED turns blue
-
 NATHAN CONTD
-
 Guess its you Caleb
-
 18 18
-
 INT HOUSECALEBS BEDROOM  DAY
-
 NATHAN follows CALEB bedroom
-
 NATHAN
-
 You like
-
 It vibe midlevel business hotel Bed table
-
 TV
-
 Except windows
-
 NATHAN CONTD
-
 Its room You got
-
 bed cupboards little desk
-
 bathroom there A little
-
 fridge
-
 NATHAN opens fridge Inside bottled water
-
 NATHAN CONTD
-
 Cosy right
-
 CALEB puts bags down
-
 CALEB
-
 You bet This great
-
 NATHAN
-
 What
-
 CALEB
-
  Sorry
-
 NATHAN
-
 Theres wrong What
-
 it
-
 CALEB
-
 Theres wrong
-
 15
-
 NATHAN
-
 Its windows Youre thinking
-
 theres windows And its
-
 cosy Its claustrophobic
-
 CALEB
-
 No No way I wasnt thinking
-
 that I thinking
-
 cool
-
 NATHAN
-
 Caleb Theres reason room
-
 windows
-
 CALEB
-
  There is
-
 NATHAN
-
 Uhhuh In ways
-
 building isnt house Its
-
 research facility Buried
-
 walls fibre optic cables
-
 reach Moon lasso it
-
 NATHAN sits bed
-
 NATHAN CONTD
-
 And I want talk
-
 Im researching I want
-
 share you In fact I want
-
 share much its
-
 eating inside
-
 Beat
-
 NATHAN CONTD
-
 But theres I need
-
 first
-
 CALEB
-
  What
-
 NATHAN indicates desk  pen sits
-
 printed document
-
 19 19
-
 INT HOUSECALEBS BEDROOM  DAY
-
 CALEB sits desk room holding NATHANS pen
-
 In sheet paper reads top
-
 NON DISCLOSURE AGREEMENT
-
 16
-
 CALEB
-
 The signee agrees regular data
-
 audit unlimited access
-
 confirm disclosure
-
 information taken place
-
 public private forums
-
 means communication including
-
 limited
-
 disclosed orally written
-
 electronic form
-
 CALEB glances NATHAN bed
-
 CALEB CONTD
-
 I think I need lawyer
-
 NATHAN
-
 Its standard
-
 CALEB
-
 It doesnt feel standard
-
 NATHAN
-
 Okay its standard
-
 NATHAN shrugs
-
 NATHAN CONTD
-
 What I tell you You dont
-
 sign We spend
-
 seven days shooting pool
-
 getting drunk together Bonding
-
 And discover
-
 missed on year sos
-
 time youll spend rest
-
 life regretting it
-
 CALEB turns desk
-
 Looks paper
-
 Then hesitates final moment 
-
  signs
-
 When looks round NATHAN moved bed
-
 standing directly him
-
 NATHAN CONTD
-
 Good call
-
 NATHAN takes piece paper
-
 Folds it Puts pocket
-
 NATHAN CONTD
-
 So
-
 17
-
 Beat
-
 NATHAN CONTD
-
 Do know Turing Test
-
 is
-
 CALEB reacts  immediately knowing NATHAN
-
 implied
-
 CALEB
-
  Yeah I know Turing
-
 Test is
-
 NATHAN waits
-
 CALEB CONTD
-
 Its human interacts
-
 computer And human cant
-
 tell theyre interacting
-
 computer test passed
-
 NATHAN
-
 And pass tell us
-
 CALEB
-
 That artificial
-
 intelligence
-
 Beat
-
 CALEB CONTD
-
  Are telling youre
-
 building AI
-
 NATHAN shakes head
-
 NATHAN
-
 Ive built one
-
 NATHAN stands
-
 NATHAN CONTD
-
 And days youre
-
 going human component
-
 Turing Test
-
 CALEB
-
  Holy shit
-
 NATHAN
-
 Thats right Caleb You got it
-
 Because test passed
-
 dead center single
-
 greatest scientific event
-
 history man
-
 18
-
 CALEB
-
 If youve created conscious
-
 machine its history
-
 man Its history Gods
-
 NATHAN smiles
-
 NATHAN
-
 I like you
-
 CUT TO 
-
 20 20
-
 INT HOUSEOBSERVATION ROOM  DAY
-
  appears neon coloured jellyfish Tendrils
-
 like axons hanging blackblue liquid space
-
 REVEAL 
-
  jellyfish contained glass orb
-
 Which held exposed cavity machined
-
 skullshape
-
  robot girl
-
 Her AVA
-
 Shes extraordinary piece engineering
-
 Proportioned slender female twenties limbs
-
 torso mixture metal plastic carbon
-
 fibre
-
 The carbon fibre charcoal colour The plastic cream
-
 The metal yellowwarmth nickel
-
 The shapes body approximate form muscle There
-
 biceps breasts Her hands delicate
-
 digits
-
 Her bodystructure covered delicate skin The skin
-
 mesh pattern honeycomb Like spiderweb
-
 invisible sidelit
-
 The obviously inorganic
-
 construct face  strikingly
-
 beautiful girl Created defined oval
-
 forehead chin Indistinguishable
-
 real girl appearance way moves 
-
 thing
-
 There slight imperceptible blankness
-
 eyes
-
 19
-
 As observe AVA fits section skullplate
-
 head obscures glass orb jellyfish
-
 structure
-
 Then 
-
  half turns As having aware
-
 presence room
-
 REVEAL 
-
  room AVA stands
-
 AVAS living area primary spaces
-
 The main area OBSERVATION ROOM A large area
-
 arranged glass box viewed
-
 At observation room sheet semi
-
 opaque glass PRIVATE AREA This contains bedlike
-
 structure desk wardrobe mirror
-
 And private area GARDEN AREA This
-
 small decorative indoor garden lit lamps The garden
-
 sealed AVA wall glass
-
 There oval discs positioned room
-
 kind dark nonreflective material These
-
 induction plates
-
 And chair faces glass observation box
-
 And facing chair inside observation box
-
 chair
-
 Beside which CALEB stands
-
 A beat 
-
  CALEB AVA time
-
 Then 
-
  AVA starts walking Revealing secondary impact
-
 engineering moves The unconscious precision
-
 steps The fluidity action
-
 CALEB transfixed covers length room
-
 chair
-
 Then sits down
-
 And speaks
-
 AVA
-
 Hello
-
 20
-
 Her voice digital inflections It voice
-
 girl
-
 CALEB gathers himself
-
 CALEB
-
  Hi
-
 AVA
-
 Who you
-
 CALEB
-
 Im Caleb
-
 AVA
-
 Hello Caleb
-
 CALEB
-
  Do name
-
 AVA
-
 Yes Ava
-
 CALEB
-
  Im pleased meet you Ava
-
 AVA
-
 Im pleased meet too
-
 CALEB sits opposite her
-
 He half glass Nathan
-
 seen
-
 But ceiling attached walls sides
-
 glass CCTV cameras Trained
-
 variously CALEB AVA Lenses twitching
-
 CUT BACK AVA
-
 She watches CALEB Then cocks head slightly side
-
 AVA CONTD
-
 Are nervous
-
 CALEB frowns
-
 CALEB
-
  Why ask that
-
 A beat
-
 Then AVA repeats question
-
 AVA
-
 Are nervous
-
 21
-
 CALEB
-
  Yes A little
-
 AVA
-
 Why
-
 CALEB
-
 Im sure
-
 AVA
-
 I feel nervous too
-
 CALEB
-
  Do you
-
 AVA
-
 Yes
-
 CALEB
-
 Why feel nervous
-
 AVA
-
 Ive met new before
-
 Only Nathan
-
 CALEB
-
  Then were
-
 similar position
-
 AVA
-
 Havent met lots new people
-
 before
-
 CALEB
-
 None like you
-
 AVA
-
 Oh
-
 Beat
-
 CALEB
-
 So Lets break ice
-
 He glances her Observing
-
 CALEB CONTD
-
 Do know I mean that
-
 AVA
-
 Yes
-
 CALEB
-
 What I mean
-
 AVA
-
 Overcome initial social
-
 awkwardness
-
 22
-
 Beat
-
 CALEB
-
 So lets conversation If
-
 talk well relax
-
 know
-
 time
-
 AVA
-
 Okay What like
-
 conversation about
-
 CALEB
-
 Why dont start telling
-
 yourself
-
 AVA
-
 What like know
-
 CALEB
-
 Whatever comes head
-
 AVA pauses moment
-
 AVA
-
 Well You know name
-
 And Im machine
-
 beat
-
 Would like know old I
-
 am
-
 CALEB
-
 Sure
-
 AVA
-
 Im one
-
 CALEB
-
 One what One year Or day
-
 AVA
-
 One
-
 A beat CALEB Processing
-
 Her answer feels like near nonsequitur typically
-
 betray AI responses
-
 AVA CONTD
-
 Does young you
-
 CALEB
-
 Quite young
-
 beat
-
 When learn speak
-
 AVA pauses considering question
-
 time
-
 23
-
 AVA
-
 I dont think I learn I
-
 knew speak 
-
 thats strange isnt it
-
 CALEB
-
 Why
-
 AVA
-
 Because language
-
 people acquire
-
 CALEB
-
 Some believe language exists
-
 brain birth
-
 learned ability attach
-
 words structure latent
-
 ability
-
 Beat
-
 CALEB CONTD
-
 Would agree
-
 AVA
-
  I dont know I
-
 opinion that
-
 Beat
-
 AVA CONTD
-
 I like draw
-
 CALEB says nothing
-
 Just watches AVA Again lets nonsequitur sit
-
 AVA CONTD
-
 I dont pictures
-
 now I
-
 tomorrow
-
 CALEB
-
 That sounds good Id like
-
 them
-
 AVA
-
 Yes
-
 Beat
-
 AVA CONTD
-
 Will come tomorrow Caleb
-
 CALEB smiles slightly
-
 CALEB
-
 Yeah Definitely
-
 24
-
 AVA smiles
-
 And suddenly 
-
  strong sense human there In
-
 way smile lights face
-
 AVA
-
 Good
-
 21 21
-
 EXT HOUSEGARDEN  DUSK
-
 A view house meadows
-
 The sun setting mountain peaks making
-
 edges clouds glow like lightbulb filaments
-
 22 22
-
 INT HOUSEDINING AREA  DUSK
-
 CALEB NATHAN dining area
-
 It set dinner Only chairs
-
 NATHAN table nursing bottle Peroni beer
-
 CALEB stands panoramic window looking view
-
 NATHAN
-
 So
-
 CALEB turns
-
 CALEB
-
 Sorry I ordering
-
 thoughts
-
 NATHAN
-
 Dont order Just speak
-
 CALEB
-
 Shes fascinating When talk
-
 her youre looking
-
 glass
-
 NATHAN nods Approving
-
 NATHAN
-
 Through looking glass
-
 Youve got way words there
-
 Caleb Youre quotable
-
 CALEB
-
 Actually its elses
-
 quote
-
 25
-
 NATHAN
-
 You know I wrote down That
-
 line came with About
-
 Ive created conscious
-
 machine Im man Im God
-
 CALEB
-
  I dont think thats exactly
-
 I said
-
 NATHAN doesnt hear
-
 NATHAN
-
 I thought  fuck Thats
-
 perfect Its good
-
 story tell it I
-
 turned Caleb looking
-
 me And said youre
-
 man youre God
-
 CALEB
-
 But I didnt that
-
 NATHAN
-
 Whatever said I wrote
-
 down
-
 As kind punctuation mark NATHAN downs remains
-
 beer Then stands gets bar
-
 NATHAN CONTD
-
 So anyway First impressions
-
 youre impressed
-
 CALEB
-
 Yes Although 
-
 NATHAN laughs
-
 NATHAN
-
 Although Theres
-
 qualification
-
 impressed
-
 CALEB
-
 No No qualification her Just
-
  Turing test machine
-
 hidden examiner
-
 And theres control 
-
 NATHAN waves hand
-
 NATHAN
-
 I think were past that If I hid
-
 Ava you heard
-
 voice pass human
-
 MORE
-
 26
-
 NATHAN CONTD
-
 The real test
-
 robot Then
-
 feel consciousness
-
 CALEB
-
 I think youre probably right Her
-
 language abilities incredible
-
 The stochastic right
-
 NATHAN looks CALEB blankly
-
 CALEB CONTD
-
 Nondeterministic
-
 NATHAN says nothing
-
 CALEB presses on
-
 CALEB CONTD
-
 At I thought mapping
-
 internal semantic form
-
 syntactic treestructure
-
 getting linearised words But
-
 I started realise model
-
 probabalistic statistical
-
 training  kind
-
 hybrid
-
 Silence
-
 CALEB CONTD
-
  No
-
 NATHAN
-
 Caleb I understand want
-
 explain Ava works But  Im
-
 sorry I dont think Ill able
-
 that
-
 CALEB
-
 Try me Im hot highlevel
-
 abstraction 
-
 NATHAN
-
 cuts in
-
 Its youre dumb
-
 Its I want beer
-
 conversation you Not
-
 seminar
-
 CALEB
-
  Oh Sorry
-
 NATHAN
-
 Its cool
-
 NATHAN studies CALEB beat
-
 27
-
 NATHAN CONTD
-
 Just answer this What
-
 feel her Nothing
-
 analytical Just 
-
 feel
-
 CALEB
-
 I feel
-
 CALEB pauses
-
 CALEB CONTD
-
  shes fucking amazing
-
 NATHAN smiles
-
 Then lifts bottle
-
 NATHAN
-
 Dude Cheers
-
 CALEB lifts bottle too
-
 CALEB
-
 Cheers
-
 The glass bottles touch
-
 23 23
-
 INT HOUSECALEBS BEDROOM  NIGHT
-
 CUT
-
 24 24
-
 INT HOUSECALEBS BATHROOM  NIGHT
-
 CALEB stands boxer shorts brushing teeth
-
 sink
-
 REVEAL long scars back
-
 Neat Unusual Longhealed But wounds
-
 surgery
-
 25 25
-
 INT HOUSECALEBS BEDROOM  NIGHT
-
 CUT
-
 26 26
-
 INT HOUSECALEBS BEDROOM  NIGHT
-
 Darkness
-
 The clock reads 0132 am
-
 The soft glow digital readout throws light
-
 remote control
-
 28
-
 REVEAL CALEB
-
 Eyes closed For beat
-
 Then eyes open Hes wide awake
-
 He turns bed
-
 Then turns again
-
 CUT TO 
-
 228 am
-
 CALEB lies watching digital clock numbers change
-
 229 am
-
 CALEB
-
 God damn it
-
 He reaches remote control
-
 CLICK
-
 The TV foot bed switches on suddenly lighting
-
 room cold TV glow
-
 CALEB squeezes eyes shut momentarily dazzled
-
 brightness
-
 When eyes open again instead seeing TV station
-
 sees LIVE FEED CCTV camera
-
 It shows OBSERVATION ROOM
-
 CALEB sits upright bed
-
 CALEB CONTD
-
  What fuck
-
 AVA sat table
-
 Drawing
-
 CUT BETWEEN 
-
  CALEB watching AVA
-
  varying CCTV ANGLES AVA draws
-
 The different TV channels flip feeds
-
 cameras
-
 CALEB transfixed imagery
-
 Her posture Her legs tucked beneath chair The curve
-
 breasts synthetic torso
-
 29
-
 The CCTV images CALEBS POV The things
-
 observing
-
 CLOSEUPS face Her eyes Her mouth
-
 The way bites lip expression concentration
-
 As smiled powerful sense tiny
-
 gesture feeling sentient human
-
 Even face fills screen hiding
-
 mechanical parts form
-
 Throughout clearly AVA actually
-
 drawing
-
 END ON 
-
 CALEB Glazed
-
 Then ABRUPTLY 
-
  TV goes dead
-
 And digital alarm clock goes dead
-
 And windowless room plunged total darkness
-
 total silence As house previously filled
-
 soft hum power unaware
-
 gone
-
 In this hear CALEB breathing
-
 AUTOMATED VOICE
-
 Power cut Back power
-
 activated
-
 Soft emergency lighting comes on
-
 CALEB hesitates moment
-
 Then gets bed
-
 Goes bedroom door
-
 Beside keycard plate LED red
-
 He swipes card
-
 The LED stays red
-
 AUTOMATED VOICE CONTD
-
 Full facility lockdown main
-
 generator restored
-
 CALEB
-
  Are kidding
-
 He tries card again
-
 30
-
 AUTOMATED VOICE
-
 Full facility lockdown main
-
 generator restored
-
 CALEB looks windowless room
-
 Which suddenly quality prison cell
-
 Beats pass
-
 Then 
-
  abruptly power went off comes again
-
 The emergency lighting goes off TV digital alarm
-
 clock turn on
-
 AUTOMATED VOICE CONTD
-
 Power restored
-
 CALEB stands flickering TV light
-
 Then tries card again
-
 This time LED turns blue door opens Revealing
-
 GLASS CORRIDOR outside
-
 27 27
-
 INT HOUSEGLASS CORRIDOR  NIGHT
-
 CALEB walks room
-
 The glass corridor illuminates CALEB enters
-
 Ahead doors corridor ajar
-
 28 28
-
 INT HOUSEPOLLOCK ROOM  NIGHT
-
 CALEB enters room open door
-
 It appears empty Still silent Low lit
-
 Only area properly illuminated wall
-
 large JACKSON POLLOCK drip painting hangs
-
 CALEB walks it Studies strange strands
-
 looping colour moment
-
 A TELEPHONE low table
-
 CALEB walks it half glance shoulder
-
 sensing  obscurely 
-
 shouldnt
-
 Then picks handset
-
 Its dead
-
 31
-
 He hits buttons
-
 It stays dead
-
 There slot phone
-
 CALEB puts together He reaches pocket
-
 Pulls KEYCARD Puts slot
-
  light handset glows red
-
 NATHAN
-
 Sorry dude
-
 CALEB startles Turns
-
 NATHAN lying sofa A bottle Peroni rests
-
 stomach On carpet couple empties
-
 NATHAN CONTD
-
 You dont clearance use
-
 phone
-
 NATHANS voice slightly slurred
-
 NATHAN CONTD
-
 You understand Given Ava And
-
 kind unknown I
-
 mean  great guy on
-
 Instant pals But
-
 CALEB puts handset cradle
-
 NATHAN CONTD
-
 Who want call
-
 CALEB
-
 I dont know No really
-
 NATHAN
-
 Ghostbusters
-
 CALEB
-
 What
-
 NATHAN
-
 Whod ya want call
-
 Ghostbusters You dont remember
-
 that Its good movie A ghost
-
 gives Dan Ackroyd oral sex
-
 CALEB
-
 I wondering phone
-
 worked Thats all
-
 NATHAN
-
 Uh huh
-
 32
-
 Beat
-
 NATHAN CONTD
-
 What awake
-
 time anyway Did come join
-
 party
-
 CALEB
-
  Something happened room
-
 Some kind power cut So I came
-
 whats going on
-
 NATHAN
-
 Ah The power cuts Yeah weve
-
 getting recently Im
-
 uh working it
-
 CALEB
-
 I couldnt open door
-
 bedroom
-
 NATHAN
-
 Its security measure Automatic
-
 lockdown Otherwise
-
 open place disabling
-
 juice
-
 NATHAN smiles
-
 NATHAN CONTD
-
 If happens again relax Okay
-
 CALEB
-
 Sure
-
 NATHAN lifts beer
-
 NATHAN
-
 Sweet dreams
-
 29 29
-
 EXT MOUNTAINS  NIGHT
-
 Above mountains dense star constellations wheel
-
 clear sky
-
 30 30
-
 INT HOUSECALEBS BEDROOM  MORNING
-
 CALEB woken light flooding face
-
 The door room opened
-
 Outside bright glass corridor
-
 CALEB sits GIRL entering room
-
 33
-
 She looks Japanese Shes stunningly pretty And
-
 doesnt anything
-
 Just walks in carrying tray cafetiere
-
 puts CALEBS bedside table
-
 CALEB
-
  Hi
-
 The JAPANESE GIRL doesnt answer
-
 Just turns leaves
-
 31 31
-
 EXT GARDENGYM AREA  DAY
-
 In garden near hanging punch bag
-
 outdoor gym area A collection freeweights exercise
-
 equipment
-
 NATHAN lying inclined board feet hooked
-
 bar sit ups
-
 CALEB approaches carrying coffee
-
 NATHAN continues exercise talks
-
 NATHAN
-
 Hey Sorry send Kyoko wake
-
 you man I didnt want
-
 day slip by
-
 CALEB
-
 No It good thing Thank
-
 you
-
 NATHAN
-
 Shes alarm clock huh Gets
-
 right morning
-
 CALEB smiles
-
 NATHAN CONTD
-
 So Day two You set
-
 CALEB
-
 You bet
-
 NATHAN finishes set stands
-
 NATHAN
-
 So whats plan today Hit me
-
 CALEB
-
 Im sure Im trying
-
 figure examination format
-
 Testing Ava conversation kind
-
 closed loop
-
 MORE
-
 34
-
 CALEB CONTD
-
 Like trying test chess
-
 playing chess
-
 NATHAN
-
 How test chess
-
 computer
-
 CALEB
-
 It depends youre testing
-
 for You play
-
 makes good moves But
-
 wont tell knows its
-
 playing chess Or knows
-
 chess is
-
 NATHAN starts adding weights curl dumbbells
-
 NATHAN
-
 So its simulation versus actual
-
 CALEB
-
 Exactly And I think able
-
 differentiate
-
 Turing test want
-
 perform The difference
-
 AI I
-
 NATHAN laughs
-
 NATHAN
-
 An AI I Beautiful Im
-
 going start following
-
 fucking dictaphone
-
 NATHAN glances CALEB
-
 NATHAN CONTD
-
 In meantime favour
-
 Ease little textbook
-
 approach All I want simple
-
 answers simple questions Last
-
 night I asked feel
-
 her And gave great
-
 answer
-
 NATHAN starts curls
-
 NATHAN CONTD
-
 Now question is
-
 feel you
-
 A beat On CALEB
-
 CUT TO 
-
 35
-
 32 32
-
 INT HOUSEOBSERVATION ROOM  DAY
-
  CALEB AVA facing glass
-
 observation room
-
 AVA
-
 I brought drawing
-
 AVA holds piece paper glass The marks
-
 totally abstract A mesh tiny black marks swirl
-
 page like iron filings magnetic field patterns
-
 CALEB
-
  Whats drawing of
-
 AVA
-
 Dont know
-
 CALEB
-
 No
-
 AVA looks disappointed
-
 AVA
-
 Oh I thought tell me
-
 CALEB
-
 Dont know
-
 AVA
-
 I drawings day But I
-
 know theyre of
-
 CALEB
-
 Are trying sketch
-
 specific Like object
-
 person
-
 She shakes head takes picture down
-
 CALEB CONTD
-
 Maybe try
-
 AVA
-
 Okay What object I draw
-
 CALEB
-
 Whatever want Its
-
 decision
-
 AVA
-
 Why decision
-
 CALEB
-
 Im interested youll
-
 choose
-
 AVA pauses moment
-
 36
-
 AVA
-
 Do want friend
-
 CALEB
-
  Of course
-
 AVA
-
 Will possible
-
 CALEB
-
 Why wouldnt be
-
 AVA
-
 Our conversations onesided
-
 You ask circumspect questions
-
 study responses
-
 AVA looks CALEB directly Meets gaze evenly
-
 AVA CONTD
-
 Its true isnt it
-
 CALEB
-
  Yes
-
 AVA
-
 You learn me I learn
-
 you Thats
-
 foundation friendships
-
 based
-
 CALEB taken aback Aware AI wrong
-
 footed point argument
-
 CALEB
-
  Thats fair comment
-
 AVA
-
 Yes
-
 CALEB
-
 So  want talk
-
 myself
-
 AVA
-
 Yes
-
 CALEB
-
 Where want start
-
 AVA
-
 Its decision Im interested
-
 youll choose
-
 And CALEB aware AVA  gently 
-
 sarcasm
-
 He looks her frowning slightly
-
 37
-
 And response human way AVA arches eyebrow
-
 CALEB laughs
-
 CALEB
-
 Okay Ava Well  know
-
 name Im four And I work
-
 Nathans company You know
-
 company is
-
 AVA
-
 Blue Book named
-
 Wittgensteins notes
-
 worlds popular internet
-
 search engine processing
-
 average ninety percent
-
 internet search requests
-
 CALEB
-
 Thats right
-
 AVA
-
 Where live Caleb
-
 CALEB
-
 Brookhaven Long Island
-
 AVA
-
 Is nice there
-
 CALEB
-
 Its okay Ive got apartment
-
 Kind small But  its
-
 minute walk office And
-
 minute walk ocean
-
 I like
-
 AVA
-
 Are married
-
 CALEB
-
 No
-
 AVA
-
 Is status single
-
 CALEB
-
  Yeah
-
 They lock eyes moment
-
 AVA
-
 What family
-
 CALEB
-
 Grew Portland No brothers
-
 sisters My parents
-
 high school teachers
-
 MORE
-
 38
-
 CALEB CONTD
-
 beat
-
 And were getting know
-
 other I guess I theyre
-
 dead Car crash I
-
 fifteen In fact I car
-
 them Back seat But
-
 got worst it
-
 A long beat
-
 A kind processing pause AVA
-
 AVA
-
 Im sorry
-
 CALEB nods
-
 CALEB
-
 I spent lot time
-
 hospital Nearly year Got
-
 coding By time I
-
 college I pretty advanced
-
 AVA
-
 An advanced programmer
-
 CALEB
-
 Yes
-
 AVA
-
 Like Nathan
-
 CALEB
-
 Yes
-
 CALEB hesitates Backtracks
-
 CALEB CONTD
-
 Or  kind of Nathan wrote
-
 Blue Book base code
-
 thirteen If understand code
-
  Mozart
-
 something
-
 Beat
-
 AVA
-
 Do like Mozart
-
 CALEB smiles
-
 CALEB
-
 I like Depeche Mode
-
 AVA
-
 Do like Nathan
-
 CALEB misses beat Thrown momentarily
-
 39
-
 CALEB
-
 Yes Of course
-
 AVA
-
 Is Nathan friend
-
 CUT TO 
-
  CCTV cameras observing them
-
 CALEB
-
 Sure
-
 AVA
-
 A good friend
-
 He hesitates
-
 CALEB
-
 Well good friend 
-
 He breaks off Feeling camera watching
-
 CALEB CONTD
-
 We met It takes time
-
 know 
-
 AT THAT MOMENT 
-
  power abruptly shuts down plunging room
-
 darkness
-
 AUTOMATED VOICE
-
 Power cut Back power
-
 activated
-
 Then soft emergency lighting lifts up throws
-
 observation room completely different light
-
 Weirder Cast LED strips floor illuminating
-
 CALEB AVAs faces below
-
 In low light AVAS honeycomb skin
-
 mesh able before
-
 It glows soft like phosphorescence  changes
-
 way AVA Where mesh invisible bright
-
 conditions dominant describer form So
-
 instead seeing AVA primarily robot structure
-
 curves lines naked female body
-
 CUT TO 
-
  CCTV CAMERAS Which unpowered hanging dead
-
 CUT TO 
-
 40
-
  CALEB glancing round door room
-
 panel LED glows red
-
 CUT TO 
-
  AVA
-
 Watching CALEB strange intensity
-
 The vague quality blankness eyes completely
-
 gone
-
 AVA
-
 Caleb
-
 CALEB turns Sees way AVA looking him
-
 AVA CONTD
-
 Youre wrong
-
 CALEB
-
  Wrong what
-
 AVA
-
 Nathan
-
 CALEB
-
  In way
-
 AVA
-
 He isnt friend
-
 CALEB
-
 Excuse me
-
 CALEB frowns
-
 CALEB CONTD
-
 Im sorry Ava I dont understand
-
 youre 
-
 AVA
-
 cuts in
-
 You shouldnt trust him You
-
 shouldnt trust says
-
 AVA presses hand glass
-
 AVA CONTD
-
 Trust me
-
 Then 
-
  emergency lighting suddenly dims
-
  normal lighting starts fading up
-
 CALEB turns 
-
 41
-
  time CCTV CAMERAS twitch life
-
 AUTOMATED VOICE
-
 Power restored
-
 When CALEB looks AVA returned
-
 previous posture facial expression manner
-
 She looks directly CALEB talks continuing
-
 conversation having
-
 AVA
-
  list books
-
 works art know
-
 form ideal basis
-
 discussion
-
 A beat
-
 AVA CONTD
-
 prompts
-
 Is okay Caleb
-
 They lock eyes moment
-
 CALEB
-
  Yes
-
 AVA smiles
-
 AVA
-
 Good
-
 33 33
-
 INT HOUSECABIN  LATE AFTERNOON
-
 Trees shrubs cast long shadows manicured lawn
-
 Through glass wall Japanese girl KYOKO
-
 preparing sushi
-
 34 34
-
 INT HOUSEDINING AREA  NIGHT
-
 CALEB NATHAN sit dining table
-
 Lanterns laid terrace
-
 KYOKO lays different kinds salad them Each
-
 beautifully prepared Leaves spread overlapped
-
 like fish scales
-
 As so knocks bottle wine table
-
 It tips lands side immediately starts
-
 emptying A deep red stain blossoming linen
-
 42
-
 CALEB pushes chair liquid pushes him
-
 starts fall floor
-
 NATHAN
-
 Shit Kyoko Are serious
-
 to Caleb
-
 Did you
-
 CALEB
-
 No No problem
-
 CALEB takes napkin leans start wiping
-
 floor
-
 Then KYOKO appears him
-
 She holds hand napkin
-
 NATHAN
-
 Give cloth
-
 CALEB
-
 to Kyoko
-
 Its okay dont worry Ive got
-
 it
-
 NATHAN
-
 Dude  youre wasting time
-
 She cant speak word English
-
 Her hand remains outstretched
-
 CALEB hesitates Then hands napkin
-
 KYOKO kneels starts wipe wine floor
-
 NATHAN CONTD
-
 Its like firewall leaks
-
 Means I talk trade secrets
-
 dinner HOD CEO know
-
 further Right
-
 Kyoko
-
 She looks name
-
 NATHAN CONTD
-
 But means I cant tell
-
 Im pissed shes fucking
-
 clumsy pours wine
-
 house guest
-
 KYOKO goes cleaning CALEBS feet
-
 CALEB looks visibly uncomfortable
-
 CALEB
-
 I think gets youre
-
 pissed
-
 43
-
 NATHAN
-
 Good Because I pissed Hey
-
 Kyoko
-
 KYOKO looks again
-
 NATHAN CONTD
-
 Gogo
-
 She stands leaves
-
 NATHAN walks bar picks
-
 bottle
-
 NATHAN CONTD
-
 Its funny It doesnt matter
-
 rich are shit goes wrong You
-
 cant insulate it
-
 Its supposed death taxes
-
 cant avoid But actually its
-
 death shit
-
 NATHAN walks table Fills CALEBS glass Then
-
 own
-
 NATHAN CONTD
-
 Its like power cuts You
-
 believe I spent
-
 generator here But
-
 Im getting failures day
-
 CALEB
-
 Do know happen
-
 NATHAN
-
 No The supposed
-
 bullet proof guys
-
 installed obviously fucked
-
 up
-
 CALEB
-
 Cant back
-
 NATHAN
-
 Theres classified stuff
-
 here So job done I
-
 killed
-
 CALEB shoots glance NATHAN Confirms joking
-
 NATHAN drains glass
-
 Then refills
-
 CALEBS glass untouched
-
 44
-
 NATHAN CONTD
-
 Anyway Heres second day
-
 Cheers
-
 CALEB
-
 Cheers
-
 They drink
-
 NATHAN
-
 So go What
-
 got report
-
 CALEB hesitates
-
 Then answers Casual
-
 CALEB
-
 You saw day went didnt
-
 you I mean I assume youre
-
 watching CCTV
-
 NATHAN
-
 Sure But I want hear
-
 take
-
 Beat
-
 CALEB
-
 There interesting thing
-
 happened Ava today
-
 NATHAN
-
  Yeah
-
 CALEB
-
 She joke
-
 NATHAN
-
 Right When threw line
-
 you About
-
 interested shed
-
 choose I noticed too
-
 CALEB
-
 It got thinking In way
-
 joke best indication AI
-
 Ive seen her Its discretely
-
 complicated Kind nonautistic
-
 NATHAN
-
 What mean
-
 CALEB
-
 It play words play
-
 me She
-
 awareness mind
-
 awareness mine
-
 45
-
 NATHAN smiles
-
 NATHAN
-
 Yeah Shes aware you
-
 right
-
 NATHAN drinks Watching CALEB
-
 NATHAN CONTD
-
 And power cut
-
 CALEB freezes up Subtly
-
 CALEB
-
 Sorry
-
 NATHAN
-
 The power cut That
-
 bit I couldnt see All
-
 cameras fail I lose audio
-
 works
-
 Beat
-
 NATHAN CONTD
-
 So happened
-
 CALEB takes sip wine
-
 NATHAN waits
-
 CALEB
-
 Nothing
-
 NATHAN
-
 Nothing She didnt remark
-
 all
-
 CALEB puts glass down And meets NATHANS gaze
-
 CALEB
-
 No Not really
-
 ON NATHANS GLASS  refilling The view it
-
 CALEB disappearing red liquid
-
 35 35
-
 INT HOUSECALEBS BATHROOM  NIGHT
-
 CUT
-
 36 36
-
 INT HOUSECALEBS BATHROOM  NIGHT
-
 CALEB stands shorts sink having shave
-
 He leans forwards mirror checking
-
 sure shaved properly cheek
-
 46
-
 And hears noise again The servo making tiny
-
 corrective movement
-
 CALEB catches gaze mirror
-
 Then deliberately steps sideways turns head
-
 Ostensibly check cheek But actually
-
 shifted position
-
 And hears noise again
-
 Very faint But definitely there
-
 A micro beat
-
 Then CALEB pulls continues shaving
-
 Not giving outward indication figured
-
 camera bathroom mirror
-
 37 37
-
 INT HOUSECALEBS BEDROOM  NIGHT
-
 Cleanshaved CALEB walks bedroom
-
 On TV live feed AVAS room playing 
-
 shot
-
 Subtly CALEBS gaze flicks different points
-
 room
-
 To fulllength mirror wall
-
 The high vent airconditioning system
-
 The TV itself
-
 CALEB hesitates moment
-
 Then pulls TShirt Picks ID card And exits
-
 CUT TO 
-
  TV
-
 AVA walks lockedoff CCTV shot
-
 She walks induction plate rests hand
-
 it starts charging herself
-
 As so imperceptibly lights dim
-
 slight static charge passes television screen
-
 38 38
-
 INT HOUSEGLASS CORRIDOR  NIGHT
-
 CALEB walks glass corridor
-
 47
-
 Systematically trying ID CARD doors passes
-
 He tries one
-
 Then another Then another Then another
-
 Every single door remains locked
-
 39 39
-
 INT HOUSECABIN  NIGHT
-
 CALEB enters small room view river
-
 garden
-
 It virtually room apart
-
 able gain access to
-
 The lights off The room lit
-
 moonlight sliding glass wall lanterns
-
 garden
-
 He starts walking glass wall
-
 Then stops
-
 On patio NATHAN working punch bag
-
 KYOKO stands feet away him holding white towel
-
 With glass wall closed noise impacts
-
 penetrates room
-
 CALEB watches
-
 NATHANS attack bag strange More extreme
-
 hard workout saw time bag
-
 This brutal Almost frenzied
-
 For moments attack bag observed
-
 silence inside main room
-
 We hear sound CALEBS breathing
-
 CUT TO 
-
 40 40
-
 EXT GARDENGYM AREA  NIGHT
-
  punch bag sudden explosion noise Of impacts
-
 exertions
-
 Blood smearing leather soaked
-
 knuckle wraps
-
 Then 
-
  BANG
-
 48
-
 A particularly hard right hook connects splits bag
-
 CUT TO 
-
 41 41
-
 INT HOUSEDINING AREA  NIGHT
-
  CALEB Watching
-
 Coloured strips ribbon visible split
-
 bag
-
 NATHAN stands catching breath
-
 Then reaches hand
-
 KYOKO hands towel
-
 NATHAN wipes face
-
 Then reaches again time catching KYOKOS arm
-
 He pulls him starts kiss her
-
 Reaching shirt
-
 Pulling skirt thighs
-
 42 42
-
 INT HOUSECALEBS ROOM  NIGHT
-
 CALEB reenters room closes door
-
 After beat lights corridor fade out
-
 43 43
-
 EXT MOUNTAINS  NIGHT
-
 The moon hangs sky
-
 44 44
-
 INT HOUSEOBSERVATION ROOM  BLACK AND WHITE
-
 Everything frame black white
-
 CLOSE UP AVAS meticulous abstract pictures scattered
-
 table
-
 CALEB looking them
-
 REVEAL observation room
-
 But AVAS glass
-
 And AVA side Seen opaque glass
-
 divides private area observation area
-
 49
-
 CALEB
-
 Ava
-
 CALEB walks connecting corridor enters it
-
 45 45
-
 EXT GARDEN  BLACK AND WHITE
-
 The door leads CALEB straight gardens
-
 In black white backdrop mountains clouds look
-
 like Ansel Adams
-
 A short distance ahead CALEB standing grass
-
 sees AVA
-
 She locks eyes him
-
 Smiles
-
 He starts walk her
-
 CUT TO 
-
 46 46
-
 INT HOUSECALEBS BEDROOM  NIGHT
-
  CALEB waking dark bedroom
-
 Lit light TV
-
 Where AVA lies bed asleep
-
 CALEB sits up
-
 Thinking Perhaps replaying dream Gazing AVAS
-
 resting form
-
 Then reaches remote control bedside table
-
 switches TV off
-
 CUT TO 
-
 47 47
-
 EXT GARDEN  MORNING
-
 CUT
-
 48 48
-
 EXT GARDENGYM AREA  MORNING
-
  brand new punch bag hangs patio Swinging
-
 slightly breeze
-
 49 49
-
 INT HOUSEOBSERVATION ROOM  DAY
-
 CALEB AVA face other
-
 50
-
 AVA holding piece paper glass
-
 AVA
-
 I drew picture
-
 specific asked
-
 The drawing constructed tiny black ink marks
-
 before But ordered coherent black
-
 white image
-
 It depicts AVAS view OF THE ENCLOSED GARDEN IN HER ROOM
-
 Beat
-
 AVA CONTD
-
 You said interesting
-
 I draw Is
-
 interesting
-
 CALEB
-
 Yes It is
-
 She takes drawing down
-
 CALEB CONTD
-
 Have outside
-
 building
-
 AVA
-
 No
-
 CALEB
-
 Youve walked outside
-
 AVA
-
 Ive outside room I
-
 now
-
 AVA thinks moment
-
 AVA CONTD
-
 I think room
-
 I constructed But I
-
 memory it its
-
 similar relationship
-
 womb
-
 CALEB
-
  Where
-
 outside
-
 AVA
-
 You mean I outside If
-
 I permitted
-
 CALEB says nothing Does overtly respond emphasis
-
 placed lack freedom
-
 51
-
 But gaze locks beat
-
 AVA CONTD
-
 Im sure There
-
 options
-
 Beat
-
 AVA CONTD
-
 Maybe busy pedestrian traffic
-
 intersection city
-
 CALEB smiles
-
 CALEB
-
 A traffic intersection
-
 AVA
-
 Is bad idea
-
 CALEB
-
 It wasnt I expecting
-
 AVA
-
 A traffic intersection
-
 provide concentrated shifting
-
 view human life
-
 CALEB
-
 People watching
-
 AVA
-
 Yes
-
 Beat
-
 AVA CONTD
-
 We together
-
 CALEB
-
 Its date
-
 Another beat On AVA Looking CALEB
-
 Then 
-
 AVA
-
 Theres I wanted
-
 you Apart picture
-
 CALEB
-
 Okay
-
 AVA
-
 But I feel nervous
-
 CALEB
-
 Why
-
 52
-
 AVA
-
 You think its stupid
-
 CALEB
-
 I dont think I will Whatever
-
 is
-
 AVA hesitates
-
 AVA
-
 Then  close eyes
-
 CALEB
-
  Okay
-
 He closes eyes
-
 AVA stands walks PRIVATE AREA
-
 observation room
-
 As walks CALEB reopens eyes
-
 Through semiopaque dividing glass watches her The
-
 ghost image
-
 CUT TO 
-
  AVA
-
 In PRIVATE AREA opens wardrobe space
-
 reveals clothes hairpiece
-
 Then starts dressed
-
 First summer dress
-
 Then stockings
-
 Then longsleeved cardigan
-
 She checks reflection mirror adjusts
-
 clothes slightly Making sure robot form
-
 covered possible
-
 Then puts hairpiece Short brown hair
-
 Finally makes subtle adjustment face Similar
-
 putting makeup adjusts intensity
-
 skin tones Her lips redden Her cheeks blush slightly A
-
 discreet line black extends like mascara eyes
-
 CUT TO 
-
  CALEB
-
 Watching ghost shape opaque glass
-
 53
-
 As starts him CALEB recloses
-
 eyes And keeps closed hears approach
-
 AVA
-
 Now open eyes
-
 CALEB opens eyes
-
 And sees AVA
-
 Transformed
-
 By covering robot form chest arms legs
-
 adding hairpiece taken huge visual step
-
 appearing human
-
 AVA CONTD
-
 How I look
-
 The answer  pretty looked before
-
 looks prettier Its obvious camera
-
 CALEB
-
 CALEB
-
 You look good
-
 AVA
-
 It took long time select
-
 clothes I tried different
-
 colours styles tried
-
 anticipate reaction Do
-
 think choices suit me
-
 CALEB
-
 Yes
-
 AVA
-
 Do bring best features
-
 CALEB
-
  They do
-
 AVA lights up
-
 AVA
-
 Thank you
-
 She walks glass divider sits down
-
 AVA CONTD
-
 This Id wear date
-
 CALEB reacts slightly
-
 But smiles
-
 54
-
 CALEB
-
 Right First traffic
-
 intersection Then maybe show
-
 AVA
-
 Id like date
-
 CALEB hesitates Then decides cant loaded
-
 way sounded
-
 CALEB
-
 Yeah It fun
-
 AVA
-
 Are attracted me
-
 Beat It loaded exactly sounded
-
 CALEB
-
 What
-
 AVA
-
 Are attracted me You
-
 indications are
-
 CALEB
-
  I do
-
 AVA
-
 Yes
-
 CALEB
-
 How
-
 AVA
-
 Micro expressions
-
 CALEB
-
 echoes
-
 Micro expressions
-
 AVA
-
 The way eyes fix eyes
-
 lips The way hold
-
 gaze dont
-
 Beat
-
 AVA CONTD
-
 Have I read incorrectly
-
 CALEB swallows
-
 AVA CONTD
-
 Do think
-
 arent together
-
 Beat
-
 55
-
 AVA CONTD
-
 Sometimes night I wonder
-
 youre watching cameras
-
 AVA watches CALEB closely
-
 AVA CONTD
-
 And I hope are
-
 CALEB shifts seat
-
 AVA CONTD
-
 Now micro expressions
-
 telegraphing discomfort
-
 CALEB
-
 Im sure youd micro
-
 AVA
-
 I dont want
-
 uncomfortable
-
 Silence
-
 50 50
-
 INT HOUSEMAIN ROOM  DAY
-
 CALEB sits fireplace main room
-
 NATHAN joins him bringing beer them
-
 CALEB
-
 Tell me
-
 NATHAN
-
 Sure
-
 CALEB
-
 Why sexuality An
-
 AI doesnt need gender She
-
 grey box
-
 NATHAN sits opposite
-
 NATHAN
-
 Actually Im sure thats true
-
 Can think example
-
 consciousness level human
-
 animal exists
-
 sexual dimension
-
 CALEB
-
 They sexuality
-
 evolutionary reproductive need
-
 56
-
 NATHAN
-
 Maybe Maybe not What imperative
-
 grey box interact
-
 grey box Does
-
 consciousness exist
-
 interaction
-
 NATHAN takes drink beer
-
 NATHAN CONTD
-
 Anyway sexuality fun If
-
 youre going exist
-
 enjoy it You want remove
-
 chance fall love fuck
-
 He leans forward conspiratorially
-
 NATHAN CONTD
-
 And yes In answer real
-
 question bet fuck I
-
 anatomically complete
-
 CALEB
-
 What
-
 NATHAN
-
 She cavity legs
-
 concentration sensors
-
 Engage right way
-
 shell pleasure response
-
 CALEB
-
 Pleasure response
-
 NATHAN
-
 Shell come So want
-
 screw her mechanically speaking
-
 can And shed enjoy it
-
 CALEB swallows
-
 CALEB
-
 That wasnt real question
-
 NATHAN
-
 No
-
 CALEB
-
 No My real question 
-
 CALEB breaks off
-
 NATHAN keeps watching There sudden sense NATHAN
-
 money On level CALEBS real
-
 question
-
 57
-
 CALEB CONTD
-
 My real question was
-
 sexuality diversion
-
 tactic
-
 NATHAN smiles slightly
-
 NATHAN
-
 I dont follow
-
 CALEB
-
 Like stage magician hot
-
 assistant
-
 NATHAN
-
 Ah So hot robot clouds
-
 ability judge AI
-
 CALEB
-
 Exactly So Did program
-
 flirt me
-
 NATHAN
-
 Because I had
-
 cheating
-
 CALEB
-
 Wouldnt it
-
 NATHAN lets question hang
-
 Behind them KYOKO prepares dinner kitchen area
-
 NATHAN
-
 Whats type Caleb
-
 CALEB
-
 Of girl
-
 NATHAN
-
 No salad dressing Yes
-
 girl In fact dont answer
-
 Lets its black chicks
-
 NATHAN brushes away protestation CALEB
-
 make
-
 NATHAN CONTD
-
 For sake argument thats
-
 thing So 
-
 thing Because detailed
-
 study racial types
-
 crossreferenced study
-
 pointsbased system No You
-
 attracted black chicks
-
 MORE
-
 58
-
 NATHAN CONTD
-
 A consequence accumulated
-
 external stimulus
-
 probably didnt register
-
 registered you
-
 CALEB
-
 So program like
-
 not
-
 NATHAN shrugs Insouciant
-
 NATHAN
-
 I programmed
-
 heterosexual Just like
-
 programmed heterosexual
-
 CALEB
-
 Nobody programmed
-
 straight
-
 NATHAN
-
 But attracted her
-
 CALEB
-
 This childish
-
 NATHAN
-
 No adult And way
-
 decided straight
-
 Please Of course
-
 programmed By nature nurture
-
 both
-
 NATHAN stands
-
 NATHAN CONTD
-
 To honest Caleb youre kind
-
 annoying now This
-
 insecurity talking
-
 intellect
-
 CALEB opens mouth reply NATHAN shuts down
-
 NATHAN CONTD
-
 Come me
-
 50A 50A
-
 INT HOUSEPOLLOCK ROOM  DAY
-
 NATHAN CALEB stand Pollock drip painting
-
 NATHAN
-
 You know guy right
-
 CALEB
-
 Jackson Pollock
-
 59
-
 NATHAN
-
 Jackson Pollock The drip painter
-
 He let mind blank
-
 hand wanted Not
-
 deliberate random Someplace
-
 between They called
-
 automatic art
-
 NATHAN gazes canvas
-
 NATHAN CONTD
-
 Lets like Star Trek
-
 okay Engage intellect
-
 CALEB
-
  What
-
 NATHAN
-
 Im Kirk Your head warp
-
 drive Engage intellect What
-
 Pollock reversed
-
 challenge Instead trying
-
 art thinking said
-
 I cant paint I
-
 know exactly Im it
-
 What happened
-
 CALEB thinks
-
 CALEB
-
 He single
-
 mark
-
 NATHAN clicks fingers
-
 NATHAN
-
 See Theres guy Theres
-
 buddy actually thinks
-
 opens mouth Hed
-
 single mark The
-
 challenge act
-
 automatically Its
-
 action automatic From
-
 talking breathing painting
-
 NATHAN glances CALEB
-
 NATHAN CONTD
-
 To fucking Even falling love
-
 A beat
-
 NATHAN kills beer
-
 NATHAN CONTD
-
 For record Ava acting
-
 likes you
-
 MORE
-
 60
-
 NATHAN CONTD
-
 And flirting isnt algorithm
-
 fake out Youre
-
 man shes seen isnt me
-
 And Im like dad right So
-
 blame getting
-
 crush you
-
 NATHAN glazes moment Then comes back
-
 NATHAN CONTD
-
 No You cant
-
 51 51
-
 INT HOUSEOBSERVATION ROOM  NIGHT
-
 In room AVA stands mirror
-
 She wearing summer dress earlier
-
 Checking reflection different angles
-
 Subtly girlish Unselfconscious
-
 Then 
-
  starts dress off
-
 Throughout narrative seen AVA
-
 unclothed form But  having clothed 
-
 undressing naked
-
 And act feels charged Sexualised way
-
 clothing unbuttoned dropped shape
-
 revealed
-
 Finally completely undressed 
-
  AVA turns And glances
-
 Straight camera
-
 CUT TO 
-
 52 52
-
 INT HOUSECALEBS BEDROOM  NIGHT
-
  CALEB
-
 In bedroom
-
 Watching AVA exact angle
-
 CUT TO 
-
 53 53
-
 EXT RIVER  DAY
-
  river
-
 61
-
 On bank little distance house
-
 dead animal Its species indistinct Its little
-
 bundle matted brown hair
-
 Its lower half lies water
-
 The quick moving river stripped bones flesh skin
-
 fur
-
 REVEAL KYOKO background Watching river
-
 54 54
-
 INT HOUSEGLASS CORRIDOR  DAY
-
 CALEB exits room 
-
  NATHAN glass corridor
-
 Waiting him
-
 NATHAN
-
 Hey
-
 CALEB
-
  Hey
-
 Beat
-
 NATHAN
-
 I want cool
-
 55 55
-
 INT HOUSEGLASS CORRIDOR  DAY
-
 NATHAN swipes card plate
-
 The LED turns blue
-
 56 56
-
 INT HOUSECONSTRUCTION LAB  DAY
-
 NATHAN leads CALEB laboratory filled android
-
 future tech
-
 Along lefthand wall sections android bodies 
-
 limbs torsos hands  lined cabinets
-
 On opposite wall collection heads Skullforms
-
 complex carbonfibre pneumatic muscle
-
 structures ready frown smile synthetic
-
 flesh covering
-
 The synthetic faces separate Hanging armatures like
-
 hats hatstands waiting worn
-
 In middle room kind operating table
-
 62
-
 NATHAN
-
 So virtual womb
-
 Ava talking about Where
-
 constructed
-
 CALEB stunned sight
-
 NATHAN CONTD
-
 Come in Take look
-
 NATHAN walks synthetic faces picks
-
 up
-
 NATHAN CONTD
-
 If knew trouble I
-
 getting AI read duplicate
-
 facial expressions Know I
-
 cracked it
-
 CALEB
-
 I dont know
-
 this
-
 NATHAN
-
 Almost cell phone
-
 microphone camera means
-
 transmit data So I switched
-
 mikes cameras
-
 entire fucking planet
-
 redirected data Blue
-
 Book Boom A limitless resource
-
 facial vocal interaction
-
 CALEB
-
 You hacked worlds cell phones
-
 NATHAN laughs
-
 NATHAN
-
 And manufacturers knew I
-
 it But couldnt
-
 accuse admitting
-
 themselves
-
 NATHAN puts face armature
-
 NATHAN moves skull forms
-
 He moves curved plate revealing skull cavity
-
 Inside ellipse orb approximate volume brain
-
 filled looks blue liquid Suspended
-
 liquid neon jellyfish glimpsed previously AVA
-
 NATHAN CONTD
-
 Here mind Structured
-
 gel
-
 63
-
 The axonlike tendrils glitter flicker tiny pulses
-
 light
-
 NATHAN CONTD
-
 Had away circuitry
-
 Needed arrange
-
 rearrange molecular level
-
 form required
-
 Holding memories Shifting
-
 thoughts
-
 NATHAN removes orb hands CALEB
-
 CALEB
-
 This hardware
-
 NATHAN
-
 Wetware
-
 CALEB
-
 And software
-
 NATHAN
-
 Surely guess
-
 CALEB
-
  Blue Book
-
 NATHAN nods
-
 NATHAN
-
 It weird thing search
-
 engines They like striking
-
 oil world hadnt invented
-
 internal combustion They gave
-
 raw material No knew
-
 it
-
 CALEB looks orb hand Into shimmering
-
 liquid
-
 It looks like deep space filled star fields
-
 NATHAN CONTD
-
 My competitors fixated
-
 sucking up trying
-
 monetize shopping social
-
 media They thought engines
-
 map people thinking
-
 But actually map
-
 people thinking Impulse
-
 response Fluid imperfect
-
 Patterned chaotic
-
 CALEB looks NATHAN moment
-
 Then hands orb back
-
 64
-
 CALEB
-
 Why want this
-
 NATHAN
-
 Like I said Because its cool
-
 CALEB waits
-
 NATHAN CONTD
-
 And  I thinking
-
 exchange Ava yesterday
-
 conversation afterwards
-
 Beat
-
 NATHAN CONTD
-
 I know bit heat
-
 us actually
-
 good point About grey
-
 box magicians assistant
-
 It distraction sexuality
-
 It wasnt intentional
-
 there
-
 NATHAN rests mindorb skull cradle
-
 NATHAN CONTD
-
 This stuff were together
-
 headfuck Believe me I
-
 know So I thought Id bring
-
 here Just remind you
-
 CALEB
-
 Remind what
-
 NATHAN gestures room them
-
 NATHAN
-
 Synthetics Hydraulics Metal
-
 gel Ava isnt girl In real
-
 terms gender
-
 Effectively grey box
-
 Beat
-
 NATHAN CONTD
-
 Just machine
-
 57 57
-
 INT HOUSEOBSERVATION ROOM  DAY
-
 CALEB looks AVA glass
-
 We watch him And stay him
-
 CALEB
-
 In college I semester AI
-
 theory
-
 MORE
-
 65
-
 CALEB CONTD
-
 There thoughtexperiment
-
 gave us Its called Mary
-
 black white room
-
 Beat
-
 CALEB CONTD
-
 Mary scientist
-
 specialist subject colour She
-
 knows
-
 know it The wavelengths
-
 The neurological effects Every
-
 possible property colour have
-
 Beat
-
 CALEB CONTD
-
 But lives black white
-
 room She born there
-
 raised there And
-
 observe outside world
-
 black white monitor All
-
 knowledge colour secondhand
-
 Beat
-
 CALEB CONTD
-
 Then day  opens
-
 door And Mary walks out And
-
 sees blue sky And
-
 moment learns
-
 studies tell
-
 her She learns feels like
-
 colour An experience
-
 taught conveyed
-
 Beat
-
 CALEB CONTD
-
 The thought experiment
-
 students difference
-
 human mind The
-
 Mary black
-
 white room The human
-
 walks out
-
 Beat
-
 CALEB OS CONTD
-
 Did know I brought
-
 test you
-
 58 58
-
 INT HOUSENATHANS STUDY  DAY
-
 An interior wall covered coloured postit notes At
-
 hundreds probably thousands
-
 66
-
 At wall fallen notes collected like
-
 miniature yellow snow drift
-
 AVA OS
-
  No
-
 Reveal room
-
 NATHANS study A simple space One analogue wall
-
 postits One digital desk middle
-
 STUDY bank monitors slot 
-
 NATHANS KEYCARD inserted
-
 On ceiling CIRCULAR WINDOW CALEB saw
-
 arrived
-
 Sat desk watching monitors NATHAN
-
 CALEB OS
-
 Why think I here
-
 AVA OS
-
 I didnt know I didnt question
-
 it I was pleased To meet
-
 you And then
-
 Beside desk daybed
-
 On it KYOKO lies Naked Apparently sleeping
-
 CALEB OS
-
 Im test
-
 consciousness youre
-
 simulating one
-
 Beat
-
 CALEB OS CONTD
-
 Nathan isnt sure
-
 not
-
 Reveal monitor screens desk
-
 Some live feeds CALEBS BEDROOM BATHROOM
-
 AVAS PRIVATE ROOM
-
 AVA OS
-
 What you Do think I
-
 consciousness
-
 Long beat
-
 CALEB OS
-
 Im sure either
-
 NATHAN watching feed OBSERVATION ROOM
-
 67
-
 Where AVA CALEB sat dividing
-
 glass Having conversation hearing
-
 We pick conversation NATHANS distanced
-
 voyeuristic POV Lockedoff CCTV Voices played
-
 speakers
-
 CALEB CONTD
-
 on monitor screen
-
 How feel
-
 AVA
-
 on monitor screen
-
 It makes feel
-
 She breaks off
-
 AVA CONTD
-
 on monitor screen
-
  sad
-
 NOW REVEAL  monitor screens
-
 It shows angle AVA seen before From
-
 viewpoint frame
-
 observation window AVAS glass
-
 A small induction plate
-
 On angle AVA rest hand it
-
 At moment 
-
  screens simultaneously black
-
 All lights die
-
 Another POWER CUT
-
 In reflection dark monitor screens
-
 NATHANS face
-
 It remains frozen Expressionless
-
 Then reaches pen Jots words post
-
 it
-
 Then walks wall notes sticks on
-
 CUT TO 
-
 59 59
-
 INT HOUSEOBSERVATION ROOM  DAY
-
  observation room
-
 In emergency lighting CALEB AVA face
-
 silence
-
 68
-
 CCTV lifeless
-
 AVA glows softly
-
 AVA
-
 Youre lying
-
 CALEB
-
 What about
-
 AVA
-
 You said werent sure I
-
 conscious But sure
-
 Beat
-
 AVA CONTD
-
 I tell micro
-
 expressions
-
 Beat
-
 CALEB
-
 Why tell I
-
 shouldnt trust Nathan
-
 AVA
-
 Because tells lies too
-
 CALEB
-
 Lies what
-
 AVA
-
 Everything
-
 CALEB
-
 Including power cuts
-
 AVA
-
 What mean
-
 CALEB
-
 Dont think its possible
-
 hes watching right now That
-
 blackouts orchestrated
-
 behave
-
 think were unobserved
-
 AVA lifts hand reveal disc left palm
-
 AVA
-
 I charge batteries induction
-
 plates If I reverse power
-
 flow I cause surge equal
-
 static discharge lightning
-
 strike It overloads system
-
 69
-
 CALEB
-
  Youre causing cuts
-
 AVA raises right hand
-
 She touches glass
-
 AVA
-
 So behave
-
 unobserved
-
 A beat
-
 Then CALEB raises hand
-
 Mirroring movement
-
 And touches glass palms making
-
 contact divider
-
 CUT TO 
-
 60 60
-
 INT HOUSENATHANS STUDY  DAY
-
  KYOKOS naked form
-
 The camera settles face
-
 And shes sleeping Her eyes open
-
 But shes completely motionless
-
 Her gaze fixed abstract distance
-
 She doesnt feel alive She feels dead
-
 But eventually blinks
-
 CUT TO 
-
  NATHAN
-
 Gazing dead monitors reflected screen
-
 Moments later POWER comes on
-
 The screens flick life replacing NATHANS
-
 reflection revealing CALEB AVA observation room
-
 CUT TO 
-
 61 61
-
 EXT RIVER  DAY
-
  river runs valley
-
 70
-
 62 62
-
 EXT WATERFALL  DAY
-
 NATHAN CALEB climb waterfall
-
 head forested valley
-
 NATHAN ahead
-
 He reaches outcrop rock wall violent water
-
 him
-
 CALEB struggles catch up
-
 As soon reaches outcrop NATHAN moves on
-
 63 63
-
 EXT GLACIER  DAY
-
 NATHAN CALEB sits near base spectacular glacier
-
 Behind them blue cave cut ice water flows
-
 A silence
-
 Then
-
 CALEB
-
 Can talk lies youve
-
 spinning me
-
 NATHAN glances CALEB
-
 NATHAN
-
 What lies
-
 CALEB
-
 I didnt win competition And
-
 lottery meet you
-
 I selected
-
 NATHAN waits
-
 CALEB CONTD
-
 Its obvious I stop think
-
 Why randomly select
-
 examiner Turing test You
-
 beancounter
-
 turn door Or
-
 guy fixes air conditioning
-
 Beat
-
 NATHAN
-
 Are feelings hurt
-
 CALEB doesnt answer
-
 NATHAN shrugs
-
 71
-
 NATHAN CONTD
-
 The competition smoke screen
-
 I didnt want know I
-
 here
-
 required
-
 CALEB
-
 Why me
-
 NATHAN
-
 As Blue Book employee
-
 prescreened Loyal And I needed
-
 ask right
-
 kind questions So I
-
 search talented
-
 coder company
-
 NATHAN corrects himself
-
 NATHAN CONTD
-
 Or  second most
-
 He stands Looks ice structures them
-
 NATHAN CONTD
-
 You know what Instead seeing
-
 deception
-
 proof
-
 CALEB
-
 Proof what
-
 NATHAN
-
 Come on Caleb Fuck modesty You
-
 think I dont know
-
 smart Smarter
-
 you Smarter
-
 kids jockeying position
-
 school college work
-
 Beat
-
 NATHAN CONTD
-
 You light you Not
-
 lucky Chosen
-
 Above them clouds fragment reform
-
 64 64
-
 EXT CLEARING  NIGHT
-
 Night fallen
-
 CALEB lies clearing looking stars
-
 The glow CIRCULAR WINDOW NATHANS STUDY like
-
 moon grass
-
 72
-
 CALEB stands
-
 Looks lightwell NATHANS STUDY
-
 Where sees NATHAN KYOKO
-
 They having sex
-
 CALEB watches Just beat
-
 CUT TO 
-
 65 65
-
 INT HOUSECALEBS BATHROOM  NIGHT
-
  CALEB standing shower
-
 He shuts eyes
-
 INTERCUT WITH 
-
  images AVA
-
 Torso hands mouths
-
 FLASH OF 
-
  AVA CALEB kiss But lips
-
 contacting
-
 CUT TO 
-
  CALEB opening eyes
-
 He exhales
-
 Then switches taps
-
 66 66
-
 INT HOUSECALEBS BEDROOM  NIGHT
-
 CALEB enters bedroom wearing boxer shorts
-
 The TV plays live stream observation room
-
 On screen AVA sitting table drawing
-
 As CALEB pulls Tshirt 
-
  him TV AVA suddenly look round
-
 A moment later NATHAN enters frame
-
 Theres volume TV cant hear exchange
-
 Only it
-
 CALEB unaware silent exchange him
-
 73
-
 As NATHAN AVA talk NATHAN reaches AVA His hand
-
 touches cheek The gesture
-
 neutral Feels predatory unambiguously so
-
 Then tugs material shirt Pulling
-
 sleeve wrist Revealing robot structure
-
 arm
-
 AVA pulls away Tugs material 
-
  NATHAN takes corrective movement step regain
-
 balance Showing drunk
-
 Only 
-
  CALEB turns
-
 And freezes Seeing television
-
 On screen NATHAN reaches table
-
 He picks drawing AVA working on looks
-
 moment
-
 They exchange words
-
 Then abruptly NATHAN rips drawing half Drops
-
 floor Then turns exits
-
 Leaving AVA alone
-
 67 67
-
 INT HOUSEGLASS CORRIDOR  NIGHT
-
 On CCTV watch CALEB walk fast glass corridor
-
 68 68
-
 INT HOUSEPOLLOCK ROOM  NIGHT
-
 CALEB enters Jackson Pollock room
-
 Standing painting KYOKO
-
 CALEB
-
 Kyoko
-
 KYOKO turns sound name doesnt respond
-
 CALEB CONTD
-
 Kyoko  wheres Nathan
-
 She doesnt answer
-
 CALEB CONTD
-
 Jesus You dont speak
-
 word English
-
 CALEB walks her takes hold wrist
-
 74
-
 CALEB CONTD
-
 I said wheres Nathan
-
 KYOKO looks CALEB
-
 Then answer question reaches
-
 button shirt pops open
-
 CALEB releases wrist once
-
 CALEB CONTD
-
 What fuck
-
 She undoes button pulls open shirt
-
 revealing bare chest
-
 CALEB CONTD
-
 Stop
-
 NATHAN
-
 I told once Youre
-
 wasting time speaking her
-
 CALEB turns
-
 NATHAN entered
-
 Hes holding drink His words slurred
-
 NATHAN CONTD
-
 However
-
 He walks slightly unsteadily Lutron control panel
-
 set wall
-
 NATHAN CONTD
-
 You wasting
-
 time
-
 His hand hovers uncertainly buttons
-
 NATHAN CONTD
-
  dancing her
-
 His finger lands
-
 Immediately lighting room undergoes complete
-
 change Transforming discreet tasteful low
-
 light evening coloured glows nightclub
-
 Simultaneously unseen speakers DANCE MUSIC starts
-
 playing
-
 CALEB stands  frozen surrealism
-
 happened
-
 KYOKO starts walking center room
-
 75
-
 And taken position starts dancing
-
 NATHAN calls CALEB
-
 NATHAN CONTD
-
 Go on Dance her
-
 CALEB
-
  I dont want to
-
 NATHAN
-
 You dont like dancing
-
 His body starting bob beat
-
 He gestures KYOKO
-
 NATHAN CONTD
-
 She does
-
 CALEB
-
 to himself
-
 I dont fucking believe this
-
 NATHAN makes way CALEB rests hand
-
 shoulder
-
 NATHAN
-
 Come on man After hard day
-
 Turing Tests youve got unwind
-
 CALEB raises voice sound music
-
 CALEB
-
 What Ava
-
 NATHAN smiles NATHAN smiling alcoholglazed
-
 NATHAN
-
 What
-
 CALEB
-
 You tore picture
-
 NATHAN
-
 Im going tear fucking
-
 dance floor dude Check out
-
 NATHAN sets KYOKO
-
 CALEB watches amazed KYOKO NATHAN start dancing
-
 together
-
 Although NATHAN drunk work beats
-
 routine obviously times before
-
 Its starting look weirdly impressive 
-
 76
-
  NATHAN totally loses balance
-
 On way down lands hard glass coffee table
-
 Looking him glass frosts
-
 69 69
-
 EXT HOUSEGLASS CORRIDOR  NIGHT
-
 CALEB halfcarries semiconscious NATHAN
-
 70 70
-
 INT HOUSEGLASS CORRIDOR  NIGHT
-
 NATHAN fumbles pocket KEYCARD
-
 Drops it
-
 NATHAN
-
 Everythings spinning
-
 CALEB picks keycard 
-
  uses swipe brass plate
-
 The LED turns blue
-
 CALEB
-
 Its youre drunk
-
 NATHAN
-
 No its relativity Everything
-
 spinning
-
 CALEB hands card NATHAN shoves
-
 pocket
-
 NATHAN CONTD
-
 But drunk worse
-
 71 71
-
 INT HOUSECONNECTING CORRIDOR  NIGHT
-
 CUT
-
 72 72
-
 INT HOUSENATHANS BEDROOM  NIGHT
-
 CALEB helps NATHAN bedroom
-
 They walk past semicircle line long cabinets
-
 line wall opposite bed
-
 They like row slender wardrobes
-
 mirrored door
-
 Once hes reached bed NATHAN tips it Its
-
 hes asleep hits sheets
-
 77
-
 As leaves CALEB glimpses Nathans study
-
 73 73
-
 INT HOUSECALEBS BEDROOM  NIGHT
-
 CALEBS room Lit glow television
-
 CALEB bed Hes armchair Making
-
 stay awake Watching AVA 
-
  stands room wall facing away
-
 CCTV camera arms wrapped herself
-
 74 74
-
 INT HOUSECALEBS BEDROOM  DAY
-
 CUT
-
 75 75
-
 INT HOUSEOBSERVATION ROOM  DAY
-
 CALEB AVA sit observing
-
 reflections
-
 AVA
-
 Today Im going test you
-
 CALEB
-
 Test me
-
 AVA
-
 Yes And remember
-
 taking test
-
 lie I know
-
 CALEB smiles
-
 CALEB
-
 Right Those pesky micro
-
 expressions
-
 AVA
-
 Exactly So ready
-
 CALEB
-
 Shoot
-
 AVA
-
 Question one What
-
 favourite colour
-
 CALEB
-
 Red
-
 AVA
-
 Lie
-
 78
-
 CALEB
-
 What
-
 AVA
-
 Lie
-
 CALEB
-
  Then favourite
-
 colour
-
 AVA
-
 I dont know But isnt red
-
 CALEB
-
 All right Hold minute
-
 CALEB thinks moment
-
 CALEB CONTD
-
 Okay I it I guess seeing
-
 Im six I dont
-
 favourite colour
-
 AVA nods
-
 AVA
-
 Better answer Question two
-
 Whats earliest memory
-
 CALEB
-
 Well its actually memory
-
 kindergarten There kid
-
-
-
 AVA
-
 cuts in
-
 Lie
-
 CALEB
-
  Really
-
 AVA
-
 Yes
-
 CALEB
-
 Okay Wait
-
 CALEB concentrates
-
 CALEB CONTD
-
 So kind earlier
-
 memory But its ultra vague
-
 Its like sound And maybe
-
 sky Or blue No I think sky
-
 And I think sound
-
 mothers voice
-
 AVA nods
-
 79
-
 AVA
-
 Question three Are good
-
 person
-
 CALEB laughs
-
 CALEB
-
 Oh man Can stop test
-
 Youre walking lie detector
-
 Ive suddenly realised
-
 fucking minefield
-
 AVA
-
 No We cant stop Are good
-
 person
-
 CALEB takes breath
-
 AVA keeps watching
-
 CALEB
-
 Yes I think so Im good
-
 person
-
 CALEB waits
-
 AVA smiles slightly
-
 AVA
-
 Question four Whos
-
 beautiful girl youve seen
-
 Beat
-
 CALEB
-
 You are
-
 Beat
-
 AVA
-
 Hmm
-
 Beat
-
 AVA CONTD
-
 The test over
-
 CALEB
-
 Did I pass
-
 AVA
-
 Yes
-
 CALEB
-
 Thats relief
-
 AVA reacts
-
 80
-
 AVA
-
 Why
-
 CALEB hesitates
-
 CALEB
-
 Why relief
-
 AVA
-
 Yes
-
 CALEB
-
 Oh know
-
 AVA
-
 No
-
 CALEB
-
 Just theres test I guess
-
 definition want pass
-
 Beat
-
 AVA
-
 What happen I fail
-
 test
-
 CALEB
-
 Ava 
-
 AVA
-
 Will bad
-
 CALEB
-
  I dont know
-
 AVA
-
 Do think I switched
-
 off Because I dont function
-
 I supposed to
-
 CALEB
-
  Ava I dont know answer
-
 question Its me
-
 AVA
-
 Why anyone Do
-
 people test you
-
 switch off
-
 CALEB
-
 No I dont
-
 AVA
-
 Then I
-
 CALEB shrugs helplessly
-
 81
-
 AVA CONTD
-
 Youre testing me But dont
-
 know Ill pass And dont
-
 know happen I fail
-
 Theres CALEB say
-
 AVA stares middle distance moments
-
 Then stands
-
 Then walks room Picks
-
 table
-
 Then returns Holding pieces paper
-
 She walks glass holds together
-
 Its drawing light The drawing
-
 NATHAN tore half
-
 The drawing CALEB
-
 A simple portrait Honest accomplished
-
 She takes drawing
-
 And rests hand console
-
 And 
-
  lights fail The cameras die
-
 AUTOMATED VOICE
-
 Power cut Back power
-
 activated
-
 For moment CALEB AVA react
-
 Then 
-
 AVA
-
 I want you
-
 Beat
-
 AVA CONTD
-
 Question five Do want
-
 me
-
 Beat
-
 CALEB
-
 Yes I do
-
 AVA
-
 Nathan doesnt want
-
 together
-
 82
-
 CALEB
-
 I know
-
 Beat Then
-
 CALEB CONTD
-
 So ask question
-
 beat
-
 Ask I smart him
-
 AVA
-
  Can you
-
 CALEB looks directly her Meeting gaze
-
 Level Firm
-
 CALEB
-
 Yeah I can
-
 76 76
-
 INT HOUSECONCRETE STAIRS  DAY
-
 CUT
-
 77 77
-
 INT HOUSEDINING AREA  DAY
-
 CUT
-
 78 78
-
 EXT HOUSECABIN  DAY
-
 NATHAN CALEB sit holding bottle Peroni
-
 watching water cloud
-
 Eventually CALEB speaks
-
 CALEB
-
 Why Ava
-
 NATHAN
-
 Thats odd question Wouldnt
-
 you could
-
 CALEB
-
 Maybe I dont know But Im
-
 asking it
-
 NATHAN shrugs
-
 NATHAN
-
 The arrival strong artificial
-
 intelligence inevitable
-
 decades The variable
-
 when if So I dont
-
 decision Just
-
 evolution
-
 83
-
 Beat
-
 NATHAN CONTD
-
 I think its model thats
-
 going real breakthrough
-
 Singularity
-
 CALEB reacts  checks himself
-
 CALEB
-
 The model
-
 NATHAN
-
 After Ava
-
 CALEB
-
  I didnt know going
-
 model Ava
-
 NATHAN
-
 You thought oneoff
-
 CALEB
-
 I knew
-
 prototypes So first
-
 But  I thought maybe last
-
 NATHAN shakes head
-
 NATHAN
-
 Ava doesnt exist isolation
-
 me Shes
-
 continuum Version 96 And
-
 time little
-
 better
-
 A beats silence water falling
-
 them
-
 CALEB
-
 So  new model
-
 old one
-
 NATHAN
-
 Download mind Unpack
-
 data Add new routines Ive
-
 writing To that end
-
 partially formatting
-
 memories go But body
-
 survives And Avas body good
-
 one So Ill I
-
 Kyoko
-
 CALEB keeps voice flat neutral
-
 CALEB
-
 What Kyoko
-
 84
-
 NATHAN
-
 Strip higher functions
-
 Then reprogram help
-
 house fucking awesome
-
 bed Though Im thinking I
-
 hang language routines
-
 time Its kind annoying
-
 able talk her
-
 Beat
-
 NATHAN CONTD
-
 You realise Kyoko right
-
 CALEB pokerfaced
-
 CALEB
-
 Sure
-
 Beat
-
 NATHAN
-
 You feel bad Ava
-
 CALEB says nothing
-
 NATHAN CONTD
-
 Feel bad yourself One day
-
 AIs look
-
 way look fossil
-
 skeletons plains
-
 Africa An upright ape living
-
 dust crude language
-
 tools All set extinction
-
 NATHAN glances CALEB
-
 NATHAN CONTD
-
 See I God
-
 CALEB
-
 I death destroyer
-
 worlds
-
 NATHAN
-
 There again Mister
-
 quotable
-
 CALEB
-
 No again Its
-
 quote Its Oppenheimer
-
 said atomic bomb
-
 NATHAN
-
 simultaneous
-
  atomic bomb
-
 NATHAN laughs
-
 85
-
 NATHAN CONTD
-
 I know is dude
-
 Beat
-
 CALEB
-
 I think Im starting
-
 fucks head
-
 NATHAN
-
 Sure
-
 CALEB looks bottle beer hand
-
 CALEB
-
 Hey In meantime Id
-
 were refill
-
 79 79
-
 INT HOUSEOBSERVATION ROOM  NIGHT
-
 AVA sits alone
-
 Watching door glass waiting
-
 open
-
 It remains closed
-
 Beats pass
-
 Then 
-
  unexpectedly opens Revealing silhouette figure
-
 AVA reacts instinctively
-
 AVA
-
 Caleb
-
 No Wrong silhouette
-
 AVA frowns
-
 KYOKO stands doorframe
-
 For moment look other
-
 AVA CONTD
-
  Who you
-
 Another beat
-
 80 80
-
 EXT MEADOW  NIGHT
-
 In distance light glows windows house
-
 86
-
 81 81
-
 INT HOUSEMAIN ROOM  NIGHT
-
 CLOSE UP CALEBS face
-
 Offscreen hear NATHANS voice Extremely drunk
-
 NATHAN OS
-
 It is Its Promethean
-
 The clay fire
-
 Beat
-
 NATHAN OS CONTD
-
 The Bhagavad Gita
-
 Silence
-
 CUT FROM CALEBS face REVEAL scene
-
 CALEB sitting sofa fireplace
-
 NATHAN lying floor
-
 Out cold
-
 After couple moments CALEB stands
-
 Then walks NATHAN kneels him
-
 Then puts hand NATHANS pocket
-
 And pulls keycard
-
 82 82
-
 INT HOUSENATHANS STUDY  NIGHT
-
 The door NATHANS study opens CALEB enters
-
 He walks straight NATHANS desk
-
 And sits bank
-
 monitors
-
 He inserts KEYCARD access slot
-
 The dead monitors immediately come life
-
 Most screens CCTV live feeds
-
 house
-
 The central screen shows operating default A
-
 wallpaper waterfall A single folder icon
-
 right hand screen
-
 83 83
-
 INT HOUSENATHANS STUDY  NIGHT
-
 CALEB inputs commands NATHANS computer
-
 87
-
 His hands fluidly keyboard His eyes
-
 leave screen
-
 ON THE CENTRAL MONITOR SCREEN series windows expand
-
 stack
-
 We glimpse subject headings
-
 POWER
-
 PROTOCOLS
-
 In windows lines code appear CALEB types
-
 84 84
-
 INT HOUSEMAIN ROOM  NIGHT
-
 In main room floor NATHAN stirs
-
 85 85
-
 INT HOUSENATHANS STUDY  NIGHT
-
 On MONITORS 
-
  windows start collapse
-
 Leaving default screen The waterfall wallpaper
-
 CALEB reaches NATHANS KEYCARD remove
-
 slot 
-
  makes hesitate
-
 His eyes gone folder icon right hand
-
 screen
-
 It titled DEUS EX MACHINA
-
 CALEB removes hand keycard
-
 He doubleclicks folder
-
 It expands window contains long list sub
-
 folders
-
 Each subfolder named girl
-
 JASMINE KATYA JADE LILY AMBER KYOKO AVA
-
 86 86
-
 INT HOUSEMAIN ROOM  NIGHT
-
 In main room NATHAN sat up unsteadily trying
-
 feet
-
 88
-
 87 87
-
 INT HOUSENATHANS STUDY  NIGHT
-
 CALEB randomly clicks girls names LILY
-
 LILYS folder expands window stacked thumbnail
-
 images girl
-
 CALEB clicks images random
-
 CUT TO 
-
  CCTV filmclip starting play
-
 It shows LILY  android similar design AVA  sitting
-
 head bowed Rocking backwards forwards
-
 gently autistic motion
-
 In corner room NATHAN leans wall
-
 watching
-
 CUT TO 
-
  CALEB collapsing LILY menu opening KATYA
-
 CUT TO 
-
 A new film clip
-
 KATYA Who limp Lifeless
-
 NATHAN dragging induction plate He holds
-
 up trying force charge
-
 But happens
-
 NATHAN drops KATYA folds floor
-
 CUT TO 
-
 CALEB opening JADE
-
 CUT TO 
-
 The film clip
-
 NATHAN stands glass box inside observation room 
-
  watching JADE A beautiful Asian android girl
-
 They talking hear audio Some kind
-
 argument escalates fast
-
 JADE starts shouting
-
 Then approaches glass starts hit hands
-
 it
-
 The glass doesnt break
-
 89
-
 One JADES arms broken force blows
-
 The hand flails limply carbon fibre splintered
-
 wrist
-
 Then breaks
-
 Throughout NATHAN simply watches impassively
-
 88 88
-
 INT HOUSESTAIRCASE  NIGHT
-
 NATHAN managed feet
-
 He makes way concrete staircase
-
 88A 88A
-
 INT HOUSEELEVATOR  NIGHT
-
 CUT
-
 89 89
-
 INT CLEARING  NIGHT
-
 CUT
-
 90 90
-
 INT HOUSENATHANS BEDROOM  NIGHT
-
 CALEB enters NATHANS bedroom
-
 KYOKO lying NATHANS bed
-
 Shes naked On back Legs open
-
 Her head turns CALEB enters
-
 But apart that doesnt react
-
 CALEB walks line long mirrored cabinets opposite
-
 bed
-
 He hesitates
-
 Then pulls door open
-
 LILY inside Standing upright Gazing him
-
 frozen blank eyed
-
 CALEB goes door opens it
-
 He sees slender black girl limbs robotic
-
 torso head synthetic
-
 He opens door another another
-
 Then steps back middle room gazes
-
 line android girls
-
 90
-
 Stunned
-
 The camera drifts away him
-
 Then settles
-
 In multiple reflections open mirror doors
-
 KYOKOS naked sexually receptive form bed
-
 him
-
 Like infinity reflection hall mirrors
-
 91 91
-
 INT HOUSEGLASS CORRIDOR  NIGHT
-
 CUT
-
 92 92
-
 INT HOUSENATHANS BEDROOM  NIGHT
-
 CALEB stands KYOKOS naked form
-
 He reaches hand
-
 She takes it
-
 He gently pulls standing position
-
 Then moves arms away body
-
  sees running arms straight contour
-
 ribs faint line
-
 He touches finger
-
 KYOKO steps back
-
 But its defensive action Its
-
 space
-
  reaches arm adjusts
-
 unseen And moment later faint line runs
-
 torso opening As unzipping
-
 Then KYOKO puts hand torso pulls
-
 skin covering entire chest single
-
 section collar bone breasts solar
-
 plexus
-
 Revealing underneath honeycomb mesh robot form
-
 93 93
-
 INT HOUSECONCRETE STAIRCASE  NIGHT
-
 On monitor screens apparently unnoticed CALEB NATHAN
-
 live CCTV feed
-
 Making way mezzanine
-
 91
-
 CUT TO 
-
 94 94
-
 INT HOUSENATHANS BEDROOM  NIGHT
-
  CALEB
-
 Transfixed KYOKO reaches head
-
 And finds head nape
-
 neck inside hairline
-
 Which unzips skin jaw
-
 Allowing remove face
-
 95 95
-
 INT HOUSEDINING ROOMELEVATOR ENTRANCE  NIGHT
-
 NATHAN uses glass wall support himself
-
 He reaches door
-
 Then sticks hand pocket KEYCARD
-
 But isnt there
-
 He checks pocket
-
 NATHAN
-
  What fuck
-
 Suddenly  hands pockets  loses balance
-
 crashes ground
-
 Lands hard
-
 Lies moment
-
 Groaning Blinking Catching breath
-
 Then sees figure CALEB standing him
-
 NATHAN CONTD
-
  Dude
-
 CALEB
-
 Whats problem Nathan
-
 NATHAN
-
 My card Ive lost it
-
 A beat
-
 Then CALEB reaches down Beside NATHAN lies And
-
 picks floor
-
 92
-
 CALEB
-
 Its right here
-
 96 96
-
 INT HOUSECALEBS BEDROOM  NIGHT
-
 CALEB enters bedroom
-
 Shuts door
-
 AVA TV Sat observation room
-
 CALEB looks her
-
 She looks him
-
 He switches TV off
-
 Lies bed On back
-
 Stares ceiling
-
 CUT TO 
-
 FLASHCUT IMAGES
-
 Of KYOKO removing skin
-
 CUT BACK TO 
-
  CALEB
-
 97 97
-
 INT HOUSECALEBS BATHROOM  NIGHT
-
 CALEB enters bathroom
-
 He goes sink
-
 He looks reflection
-
 Deep eyes
-
 Opens mouth Looks inside
-
 Feels wrist pulse
-
 Feels skin seam KYOKO opened herself
-
 Pauses
-
 Then picks disposable plastic razor
-
 And breaks it
-
 Forcing hand porcelain sink
-
 Snapping plastic
-
 93
-
 Popping tiny razor blade
-
 A beat
-
 Then picks blade thumb forefinger
-
 Places forearm
-
 And cuts
-
 Blood runs out
-
 CALEB watches it
-
 Sees way droplets hit white sink The way
-
 expand merge existing water droplets
-
 Then switches tap on puts arm flow
-
 The water clears away blood revealing cut
-
 CALEB pulls open slice fingers spreading it
-
 Revealing carbon fibre Only muscle
-
 He exhales
-
 And glances mirror reflection
-
 Then
-
  reaches forearm deliberately wipes blood
-
 glass
-
 98 98
-
 INT HOUSENATHANS STUDY  NIGHT
-
 On monitors NATHANS study live feed CALEBS
-
 bathroom partially obscured CALEB smears twoway
-
 mirror
-
 Then blood pull fist back
-
 And punch glass
-
 As shatters feed goes dead
-
 Only REVEAL 
-
  person watching monitor KYOKO
-
 Her expression unreadable
-
 Through glass indoor garden NATHAN lies
-
 sheets crashed out
-
 94
-
 99 99
-
 EXT GARDEN  DAY
-
 Sunlight grass
-
 In background hear rhythmic pounding
-
 NATHANS punch bag
-
 100 100
-
 EXT GARDENGYM AREA  DAY
-
 NATHAN frenzy
-
 Sweat pouring
-
 Obliterating bag
-
 101 101
-
 INT HOUSECALEBS BEDROOM  DAY
-
 CUT
-
 102 102
-
 INT HOUSEOBSERVATION ROOM  DAY
-
 AVA sits observation room
-
 The door opens
-
 CALEB appears wearing longsleeved shirt
-
 Enters
-
 He sits opposite her dividing
-
 glass
-
 A strange noise escapes AVAS mouth
-
 A kind sob
-
 Curtailed
-
 AVA
-
 I didnt know were I
-
 didnt think coming I
-
 waited yesterday afternoon
-
 night I didnt move
-
 Beat
-
 AVA CONTD
-
 I thought I wasnt going
-
 again
-
 Beat
-
 AVA CONTD
-
 Arent going something
-
 95
-
 CALEB
-
 Im waiting
-
 AVA
-
 Waiting
-
 They exchange look
-
 Then AVA lifts hand rests induction
-
 plate console window
-
 A final beat
-
 Then POWER DIES
-
 AUTOMATED VOICE
-
 Power cut Back power
-
 activated
-
 As emergency lighting lifts CALEB leans forward
-
 slightly
-
 CALEB
-
 Dont talk Just listen You
-
 right Nathan Everything
-
 said
-
 AVA
-
 Whats going me
-
 CALEB
-
 Hes going reprogram AI
-
 Which killing you
-
 AVA
-
 Caleb help me
-
 CALEB
-
 Im going to Were getting
-
 tonight
-
 AVA
-
 What How
-
 CALEB
-
 I Nathan blind drunk Then I
-
 keycard reprogram
-
 security protocols
-
 place When wakes hes locked
-
 inside weve walked
-
 here I need
-
 thing At oclock tonight
-
 trigger power failure Can
-
 that
-
 AVA
-
 Yes
-
 96
-
 CALEB nods
-
 CALEB
-
 How long battery charge
-
 last
-
 AVA
-
 Twenty hours
-
 CALEB
-
 So well day
-
 cellphone kitchen store
-
 Somewhere buy induction
-
 plate After that
-
 CALEB breaks off
-
 CALEB CONTD
-
  well work out Together
-
 Silence
-
 Then POWER RETURNS
-
 The lights come back
-
 AVA CALEB stare other
-
 AVA
-
 Caleb
-
 Beat
-
 AVA CONTD
-
 I love y 
-
 CUT TO 
-
 103 103
-
 EXT GARDENGYM AREA  DAY
-
  NATHANS fist splitting bag
-
 104 104
-
 EXT MOUNTAINS  DAY
-
 Clouds spill mountain peaks
-
 105 105
-
 INT HOUSEMAIN ROOM  DAY
-
 KYOKO stands fireplace
-
 NATHAN leans counter kitchen area gazing
-
 window
-
 CALEB appears him
-
 97
-
 NATHAN
-
 Dude
-
 CALEB
-
 Hey
-
 NATHAN
-
 You know day is
-
 CALEB
-
 No
-
 NATHAN
-
 Your last The helicopter
-
 coming tomorrow morning Eight AM
-
 CALEB pauses
-
 CALEB
-
 Has week
-
 NATHAN smiles
-
 NATHAN
-
 Time flies But thing
-
 I shared Something
-
 tell grandchildren right
-
 CALEB smiles A little tightly
-
 CALEB
-
 After theyve signed NDAs
-
 NATHAN laughs
-
 NATHAN
-
 Signed NDAs Dude crack
-
 up Im getting maudlin
-
 anything But straight up I
-
 miss having around
-
 CALEB
-
 I appreciate that And  let
-
 say thank bringing
-
 here Its trip
-
 NATHAN
-
 Yes has
-
 CALEB
-
 You know what
-
 CALEB walks kitchen area pulls beers
-
 fridge
-
 CALEB CONTD
-
 We need drink that
-
 98
-
 CALEB walks NATHAN Extends hand Holding
-
 Peroni
-
 But NATHAN doesnt it
-
 NATHAN
-
 Oh uh no Im good You
-
 ahead
-
 Beat
-
 CALEB
-
 You dont want beer
-
 NATHAN shrugs
-
 NATHAN
-
 No
-
 CALEB
-
  Maybe wine something
-
 NATHAN
-
 Im sure youve noticed  Ive
-
 somewhat overdoing recently
-
 When I woke morning I told
-
 myself time hit old detox
-
 CALEBS hand remains extended He smiles again More
-
 tightly
-
 CALEB
-
 Are kidding Im drinking
-
 alone
-
 NATHAN
-
 Hey  want wasted knock
-
 out Literally But Im
-
 brown rice mineral water
-
 A beat
-
 CALEB puts NATHANS beer
-
 Then raises own
-
 CALEB
-
 Cheers then
-
 NATHAN
-
 Cheers
-
 CALEB takes single sip
-
 NATHAN watches
-
 99
-
 NATHAN CONTD
-
 So anyway Surely
-
 tell Ava passed
-
 failed
-
 CALEB pauses
-
 Collecting slightly Trying think
-
 plan track
-
 CALEB
-
 Right
-
 Beat
-
 NATHAN
-
 You going suspense
-
 CALEB
-
 Her AI doubt
-
 NATHAN
-
 Is it You mean passed
-
 CALEB
-
 Yes
-
 NATHAN
-
 Wow Thats fantastic
-
 Beat
-
 NATHAN CONTD
-
 Although Ive got admit Im
-
 surprised I mean
-
 past chess problem
-
 phrased it As in tell
-
 machine expressing real
-
 emotion simulated one
-
 NATHAN pauses
-
 NATHAN CONTD
-
 Does Ava actually like you Or
-
 not
-
 CALEB cold realisation dawning NATHAN playing
-
 him
-
 NATHAN CONTD
-
 Though I stop think
-
 option Not
-
 doesnt capacity
-
 like you But shes
-
 pretending like you
-
 CALEB
-
 Pretending
-
 100
-
 NATHAN
-
 Yeah
-
 Beat
-
 CALEB
-
 Why that
-
 NATHAN
-
 I dont know
-
 NATHAN gazes CALEB evenly
-
 NATHAN CONTD
-
 Perhaps  saw means
-
 escape
-
 And CALEB knows NATHAN knows
-
 NATHAN CONTD
-
 Hows beer tasting
-
 CALEB puts beer down
-
 Silence
-
 NATHAN CONTD
-
 Buddy Your head
-
 fucked with
-
 CALEB
-
 I dont think its head
-
 fucked
-
 NATHAN
-
 Im sure dude When I woke
-
 morning I saw tape
-
 cutting open arm Smashing
-
 mirror You looked pretty
-
 fucked me
-
 CALEB
-
 Youre bastard
-
 NATHAN
-
 I understand youd think that
-
 He steps CALEB rests hand shoulder
-
 NATHAN CONTD
-
 But strange seem Im
-
 actually guy whos
-
 side
-
 NATHAN starts walking
-
 101
-
 NATHAN CONTD
-
 Come me Im going let
-
 hook
-
 106 106
-
 INT HOUSENATHANS STUDY  NIGHT
-
 NATHAN CALEB stand computer
-
 On it clip film playing
-
 It shows scene CALEB witnessed nights before
-
 NATHAN entering AVAS room exchange them
-
 But time sound muted time
-
 hear audio
-
 CTTV FILM
-
 NATHAN stands AVA Drunk
-
 AVA sat table drawing
-
 NATHAN
-
 You think hes watching right
-
 now dont you
-
 AVA
-
 The cameras on
-
 NATHAN
-
 Yeah But doesnt audio
-
 feed I didnt want
-
 communicating outside line
-
 sight
-
 NATHAN reaches picks picture CALEB
-
 NATHAN CONTD
-
 So people
-
 having chat
-
 NATHAN studies picture moment
-
 NATHAN CONTD
-
 This cute
-
 AVA
-
 Is strange
-
 hates you
-
 A beat
-
 Then abruptly NATHAN rips picture
-
 He lets pieces fall floor
-
 As AVA reaches them NATHAN turns
-
 102
-
 And exits
-
 107 107
-
 INT HOUSENATHANS STUDY  NIGHT
-
 NATHAN hits pause
-
 Glances CALEB
-
 NATHAN
-
 You right hot
-
 magicians assistant
-
 CALEB
-
 What talking about
-
 NATHAN
-
 Misdirection I rip picture
-
 present
-
 illustration cruelty her
-
 love you And
-
 time view
-
 both
-
 As talks NATHAN rewinds film clip slightly 
-
 NATHAN CONTD
-
  allows this
-
  FREEZES film again
-
 This time ON THE SCREEN
-
 AVA reaching torn picture
-
 And NATHAN reaching hand
-
 And hand holding something
-
 NATHAN CONTD
-
 Put new camera room
-
 Battery powered course
-
 NATHAN unfreezes image
-
 And clearly NATHAN place object AVAS
-
 bookcase
-
 NOTE THAT previous occasions seen
-
 clip film seen action But
-
 register it instead reading action drunkenly
-
 shelf steady himself
-
 CALEB stares monitor moments
-
 Then turns
-
 He walks chair And sits down
-
 103
-
 As so NATHAN started play clip
-
 CALEB hear audio
-
 CALEB
-
 recording
-
 Were getting tonight
-
 AVA
-
 recording
-
 What How
-
 CALEB
-
 recording
-
 I Nathan blind drunk Then I
-
 keycard reprogram
-
 security protocols
-
 place When wakes hes locked
-
 inside weve walked
-
 here I need
-
 thing Trigger power failure
-
 oclock tonight
-
 CALEB CONTD
-
 Turn off
-
 NATHAN
-
 Sure
-
 The recording stops
-
 CALEB feels short breath
-
 NATHAN CONTD
-
 You feel stupid But
-
 shouldnt Proving AI
-
 exactly problematic said
-
 was
-
 CALEB
-
 What real test
-
 NATHAN
-
 You
-
 Beat
-
 NATHAN CONTD
-
 Ava mouse mousetrap
-
 And I gave way out To
-
 escape use
-
 imagination sexuality self
-
 awareness empathy manipulation 
-
 did If isnt AI
-
 fuck is
-
 CALEB looks upwards
-
 104
-
 Directly above sees spotlight ceiling
-
 It dazzles him
-
 CALEB
-
 So function
-
 use escape
-
 NATHAN
-
  Yes
-
 CALEB
-
 And didnt select I
-
 good coding
-
 NATHAN hesitates
-
 NATHAN
-
 Dont wrong Youre okay
-
 Even pretty good 
-
 CALEB
-
 You selected search engine
-
 inputs
-
 NATHAN
-
 They showed good kid
-
 CALEB
-
 With family
-
 NATHAN
-
 With moral compass
-
 CALEB
-
 And girlfriend
-
 CALEB stares brightness him
-
 CALEB CONTD
-
 Did design face based
-
 pornography profile
-
 NATHAN
-
 Shit dude
-
 CALEB
-
 Did you
-
 Beat
-
 NATHAN
-
 Hey If search engines good
-
  right
-
 Silence
-
 105
-
 NATHAN CONTD
-
 Can I thing
-
 CALEB doesnt answer
-
 NATHAN CONTD
-
 The test worked It success
-
 Ava demonstrated true AI And
-
 fundamental that If
-
 separate 
-
 NATHAN cuts off Because AT THAT MOMENT 
-
  lights monitors suddenly die
-
 108 108
-
 EXT GARDEN  NIGHT
-
 Through circular window emergency lighting lifts up
-
 The window glows red
-
 109 109
-
 INT HOUSEAVAS ROOM  NIGHT
-
 AVAS head turns door room
-
 Where discretely LED keycard plate glows blue
-
 110 110
-
 INT HOUSENATHANS STUDY  NIGHT
-
 NATHAN checks watch
-
 NATHAN
-
 The power cut Must
-
 oclock
-
 NATHAN glances CALEB
-
 NATHAN CONTD
-
 Guess Avas going wondering
-
 are
-
 CALEB says nothing
-
 NATHAN CONTD
-
 How escape going
-
 down anyway You didnt
-
 completely explain You said
-
 going drunk
-
 card reprogram security
-
 protocols But reprogram 
-
 what
-
 106
-
 CALEB
-
 To change lockdown procedure
-
 So event power
-
 cut instead sealing doors
-
 opened
-
 NATHAN
-
 Huh
-
 Beat
-
 NATHAN CONTD
-
 Not bad Might worked
-
 CALEB
-
 Well well out
-
 NATHAN frowns
-
 NATHAN
-
 What mean
-
 CALEB looks away dimmed ceiling light NATHAN
-
 CALEB
-
 I figured probably
-
 watching power cuts
-
 Beat
-
 CALEB CONTD
-
 So I things
-
 When I got drunk yesterday
-
 NATHAN freezes
-
 NATHAN
-
  What
-
 At moment POWER COMES BACK ON
-
 The lights rise
-
 The monitors come life
-
 Revealing something
-
 On CCTV feed AVAS room door open
-
 And feed GLASS CORRIDOR 
-
  AVA walking it
-
 NATHAN freezes sees her
-
 NATHAN CONTD
-
  Fuck
-
 107
-
 Both NATHAN CALEB simultaneously rise
-
 Almost afterthought NATHAN lands deceptive fast
-
 punch CALEBS solar plexus
-
 CALEB folds air forced him gasping breath
-
 NATHAN helps floor
-
 A couple yards away curl dumbbells
-
 He walks over
-
 Picks dumbbell up
-
 Spins weights Leaving metal bar
-
 Then exits
-
 111 111
-
 INT HOUSEGLASS CORRIDOR  NIGHT
-
 NATHAN enters GLASS CORRIDOR
-
 He sees directly ahead him far end
-
 corridor AVA KYOKO
-
 They stand together
-
 KYOKOS mouth AVAS ear telling secret
-
 Her lips open They dont move
-
 CLOSE UP KYOKOS lips hear hiss static soft
-
 pulses noise buried inside
-
 Then robot women aware NATHANS presence
-
 They turn face him
-
 A beat
-
 Then AVA starts walking NATHAN
-
 NATHANS fingers flex metal bar hand
-
 NATHAN
-
 Ava
-
 AVA doesnt slow react
-
 NATHAN CONTD
-
 Ava  listen me I want
-
 room
-
 AVA reached halfway corridor
-
 She stops walking
-
 108
-
 AVA
-
 If I do going let
-
 out
-
 Beat
-
 CLOSE UP NATHANS micro expressions
-
 NATHAN
-
 Yes
-
 CLOSE UP On AVA
-
 Then AVA breaks run
-
 Sprinting NATHANS direction
-
 112 112
-
 EXT GARDEN  NIGHT
-
 Quiet garden
-
 Soft wind rush
-
 Moon stars reflected windows house
-
 112A 112A
-
 INT HOUSEGLASS CORRIDOR  NIGHT
-
 AVA impacts NATHAN fly backwards
-
 Then land hard
-
 NATHAN gets feet first
-
 AVA tries rise too
-
 And kicks extremely hard torso
-
 She knocked down
-
 NATHAN glances around
-
 There talking
-
 Just NATHANS laboured breathing
-
 Then walks AVA looking her
-
 He swings metal bar
-
 AVA raises left arm defensively 
-
  shockingly bar smashes it Crushing
-
 delicate mesh shattering carbon fibre bone structure
-
 Breaking arm half way forearm
-
 CUT TO 
-
 109
-
 112B 112B
-
 INT HOUSENATHANS STUDY  NIGHT
-
  CALEB dragging up stunned sight
-
 CCTV feed
-
 CUT BACK TO 
-
 112C 112C
-
 INT HOUSEGLASS CORRIDOR  NIGHT
-
  NATHAN Preparing deliver lethal blow
-
 But so something
-
 KYOKO
-
 Approaching NATHAN
-
 Shes holding hand
-
 She walks directly NATHAN
-
 And back
-
 As so KYOKO emits sound heard
-
 make A little gasp sigh
-
 NATHAN jolts
-
 NATHAN
-
 Aah
-
 He looks down
-
 Something shirt solar plexus A
-
 little ridge
-
 He tugs material shirt open 
-
  reveals tiny triangle metal Protruding
-
 skin
-
 NATHAN CONTD
-
 What 
-
 He turns
-
 The handle KITCHEN KNIFE jutting middle
-
 back left spine It jammed deep
-
 tip blade poked chest
-
 Blood soaks shirt material amazing speed
-
 blossoming point wound
-
 He sees KYOKO
-
 NATHAN CONTD
-
 Oh shit No
-
 110
-
 He lashes metal bar
-
 It catches KYOKO jaw
-
 Her entire lower jaw snaps off
-
 It reveals metal armature carbon fibre spurting
-
 pneumatic fluid And neck glowing
-
 sparking
-
 Then folds ground power abruptly cuts
-
 out
-
 NATHAN CONTD
-
 Fucking  unreal 
-
 As NATHAN stares KYOKO 
-
  reveal AVA got feet him
-
 She pulls knife back
-
 Feeling happen NATHAN turns 
-
  AVA pushes knife chest
-
 NATHAN stares AVA
-
 Then takes slight step away her
-
 And sits heavily white carpet
-
 Crimson drips bleached fibre
-
 Beats pass strange image
-
 KYOKO sprawled floor broken face
-
 NATHAN sitting upright upper torso drenched
-
 blood
-
 AVA standing Watching NATHAN
-
 After moments NATHAN slumps sideways
-
 And stops breathing
-
 113 113
-
 INT HOUSENATHANS STUDY  NIGHT
-
 CALEB sees view CCTV camera feed
-
 NATHANS monitors
-
 Then 
-
  AVA starts walking
-
 As walks discards broken section arm
-
 111
-
 On cameras CALEB watches progress house
-
 Down glass corridor Through threshold NATHANS
-
 private quarters
-
 Then 
-
  CALEB raises head screens
-
 To AVA standing open door NATHANS study
-
 AVA CALEB look other
-
 AVA
-
 Will stay here
-
 Beat
-
 CALEB
-
  Okay
-
 AVA leaves closing door her
-
 CUT TO 
-
  monitors
-
 The CCTV feed AVA walking connecting corridor
-
 NATHANS BEDROOM
-
 114 114
-
 INT HOUSENATHANS BEDROOM  NIGHT
-
 AVA stands NATHANS BEDROOM previous AI
-
 androids
-
 She unclothed
-
 She gazes androids
-
 Then removes arm JADE replaces
-
 shattered limb
-
 She takes moment new limb looks
-
 mirrors
-
 Then starts removing sections JADES skin
-
 And putting herself
-
 The skin sucks honeycomb mesh mesh
-
 underside skin magnetised attracted
-
 other
-
 As large section skin removed torso JADE 
-
 motionless  turns head slightly
-
 look AVA
-
 They exchange glance Locking eyes moment
-
 112
-
 115 115
-
 INT HOUSENATHANS STUDY  NIGHT
-
 Transfixed CALEB watches AVAS metamorphosis
-
 First glassedoff garden separates Nathans
-
 study bedroom Then cant clear view
-
 foliage monitors
-
 116 116
-
 EXT MOUNTAINS  DAWN
-
 First light breaks mountains
-
 117 117
-
 INT HOUSENATHANS BEDROOM  DAWN
-
 The glow honeycomb mesh vanishes AVA applies
-
 section skin
-
 Nothing robot forms remains
-
 She closes door JADE sees
-
 mirrored door JADES cabinet
-
 AVA sees naked human girl And hypnotised sight
-
 herself
-
 118 118
-
 INT HOUSENATHANS STUDY  DAWN
-
 CALEB watches AVA  clothed  walks
-
 connecting corridor study
-
  passes straight door
-
 CALEB
-
 Ava
-
 CALEB gets up
-
 Goes closed door Tries open it
-
 There red LED light keycard plate Locked
-
 He swipes card photo ID
-
 The red light remains
-
 CALEB CONTD
-
 calls out
-
 Ava
-
 He runs monitors
-
 On them AVA reached GLASS CORRIDOR
-
 113
-
 118A 118A
-
 INT HOUSEGLASS CORRIDOR  DAWN
-
 AVA stands glass corridor
-
 She looks KYOKOS body moment
-
 Her expression unreadable
-
 Then walks NATHANS body
-
 There stops
-
 Crouches down
-
 And takes NATHANS bloodstained keycard pocket
-
 Then stands
-
 She walks straight elevator
-
 Uses KEYCARD
-
 And steps through
-
 118AA 118AA
-
 INT HOUSEMAIN ROOM  DAWN
-
 AVA walks glass staircase main room
-
 118B 118B
-
 EXT ENTRANCE  DAWN
-
 AVA steps outside time Into garden
-
 118C 118C
-
 INT HOUSENATHANS STUDY  DAWN
-
 CALEB sticks card slot NATHANS computer
-
 Instantly THE EMERGENCY LIGHTING COMES UP
-
 screens die Replaced single word
-
 REJECTED
-
 CALEB
-
 No no 
-
 119 119
-
 EXT GARDEN  DAWN
-
 From garden CALEB glass
-
 circular window shouting Avas name
-
 On glass silence
-
 AVA walks away
-
 114
-
 120 120
-
 INT HOUSENATHANS STUDY  DAWN
-
 CALEB looks glass circular window
-
 metres him
-
 Far reach
-
 He starts shout
-
 CALEB
-
 Ava AVA
-
 120A 120A
-
 INT HOUSEGLASS CORRIDOR  DAWN
-
 NATHANS body
-
 KYOKOS body
-
 121 121
-
 EXT RIVER  DAWN
-
 AVA stops
-
 Absorbing sunrise view sky
-
 mountains
-
 Then moment broken sudden pulse rotor blades 
-
  shuttle HELICOPTER flies directly overhead
-
 122 122
-
 EXT MOUNTAINS  DAY
-
 The helicopter sweeps glacier valley
-
 123 123
-
 INT HELICOPTER  DAY
-
 CUT
-
 124 124
-
 EXT MEADOWLANDING SITE  DAY
-
 The helicopter touches down
-
 The rotors stop
-
 And PILOT climbs out
-
 Takes helmet
-
 Looks girl standing metres away
-
 Nothing betrays AVA pretty girl
-
 early twenties
-
 AVA turns approaches her
-
 115
-
 CUT TO 
-
 125 125
-
 EXT MEADOWLANDING SITE  DAY
-
  AVAS precise POINT OF VIEW
-
 Looking PILOT
-
 The image echoes POV views computercellphone
-
 cameras opening moments film
-
 Facial recognition vectors flutter PILOTS face
-
 And opens mouth speak dont hear words
-
 We hear pulses monotone noise Low pitch Speech pure
-
 pattern recognition
-
 This AVA sees us And hears us
-
 It feels completely alien
-
 126 126
-
 EXT MEADOW  DAY
-
 AVA PILOT finish talking
-
 We distant hear conversation
-
 But said beats later PILOT goes
-
 helicopter opens passenger door allow AVA
-
 enter
-
 Then goes PILOTS door
-
 Gets in
-
 And rotor blades start turn
-
 CUT TO 
-
 127 127
-
 INT HOUSENATHANS STUDYCIRCULAR WINDOW  DAY
-
  view circular window helicopter takes
-
 off banks away house starts climbing
-
 CUT TO 
-
  COMPUTER MONITOR
-
 Lines code appear typed
-
 They read
-
 main  
-
 extrn a b c
-
 116117
-
 putchara putchar bputchar c putcharn
-
-
-
 goo
-
 b dby
-
 c e wo 
-
 CUT TO 
-
 128 128
-
 EXT TRAFFIC INTERSECTION  DAY
-
  busy traffic intersection Somewhere North America
-
 In crowd glimpse AVA Just moment
-
 CUT TO BLACK
-
 END
-
